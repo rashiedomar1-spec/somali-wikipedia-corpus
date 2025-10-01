@@ -1,0 +1,27 @@
+title:
+Sagaaro
+
+url:
+https://so.wikipedia.org/wiki?curid=4624
+
+text:
+Sagaaro waa nooc ka mid ah xayawaanka duur joogta oo kali ah laga helo dhulka soomaalidu degto ee geeska Afrika. Waa nooc sidoo kale ka mid ah xayawaanka naaslayda ah. [5] IUCN  waxay ku sheegeen xayawaankan mid aan baaritaan ku filan lagu samayn, wax badana aduunyadu kama taqaano.Xayawaankan waxaa lagu qiyaasaa dheerarka jidhkiisa [madax iyo jidh-] 45-50 cm waana midka ugu yar xayawanka ay isku nooca yihiin. Dhogorteeda jilicsan waa mid midabkeedu dameeri dusha ka ah. Madaxeeda waxaa lagu gartaa inuu gobol tin oo kuusan oo midab gaduud xigeen ah leeyahay. Intaas waxaa dheer in sanka dushiisauu guduud xigeen yahay. Caloosha waxaa ku leedahay xargo daliig dhaadheer iyo hareeraha indhaha oo aan muujin giraanta cad ee loo yaqaan. Dhadigedu waxay leedahay laba naas. Sagaarada waxaa laga helaa  Konfur bari Somalia iyo dhulka Somaligalbeed ee bariga Itoobiya. Waxay badanaa ku nooshahay kaymaha duurka fog.
+
+By:NUUR APDULAHI HASSAN
+
+
+# Tables
+
+## Table 1
+| Sagaaro |
+| --- |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Qaybinta: | Chordata |
+| Gacalka: | Mammalia |
+| Dirka: | Artiodactyla |
+| Bahka: | Bovidae |
+| Duulka: | Madoqua |
+| Noocyada: | M. piacentinii |
+| Magaca laba-geesoodka ah |
+| Madoqua piacentinii Drake-Brockman (1911) |

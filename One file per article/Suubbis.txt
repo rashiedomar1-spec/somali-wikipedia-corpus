@@ -1,0 +1,33 @@
+title:
+Suubbis
+
+url:
+https://so.wikipedia.org/wiki?curid=29976
+
+text:
+Suubbis waa diiwaan-haye ku xeel-dheer internet-ka Soomaaliga ah iyo shirkadda martigelinta websaydhada waana mid ka mid ah diiwaan-gashooyinka tirada yar ee ay aqoonsan tahay Xarunta Macluumaadka Qaranka Soomaaliya [1] oo xaruntiisu tahay Muqdisho, Soomaaliya [2]
+
+Notes
+
+
+# Infobox
+
+- **Nooca**: Shirkad gaar ah
+- **La aasaasay**: 2018 ( 2018 )
+- **Xarunta**: Muqdisho , Soomaaliya
+- **Dadka muhiimka ah**: Ibrahim M. Noor
+- **Adeegyada**: Domain Registrar, Web Hosting, Digital Marketing, SSL Certificates, Small Businesses, Web Design.
+- **Website**: Suubbis
+
+
+# Tables
+
+## Suubbis
+|   |
+| --- |
+| Nooca | Shirkad gaar ah |
+| La aasaasay | 2018 ( 2018 ) |
+| Xarunta | Muqdisho , Soomaaliya |
+| Dadka muhiimka ah | Ibrahim M. Noor |
+| Adeegyada | Domain Registrar, Web Hosting, Digital Marketing, SSL Certificates, Small Businesses, Web Design. |
+| Website | Suubbis |

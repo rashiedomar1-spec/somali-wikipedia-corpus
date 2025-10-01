@@ -1,0 +1,8 @@
+title:
+Saabaan
+
+url:
+https://so.wikipedia.org/wiki?curid=5219
+
+text:
+Saabaan waa alaabta guryaha ama &lt;a href="xafiis"&gt;xafiis&lt;/a&gt;yada la dhigto, sida kuraasta, miisaska iyo wixii la mid ah.

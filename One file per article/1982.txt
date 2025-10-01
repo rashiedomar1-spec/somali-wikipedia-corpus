@@ -1,0 +1,8 @@
+title:
+1982
+
+url:
+https://so.wikipedia.org/wiki?curid=2716
+
+text:
+&lt;a href="1981"&gt;1981&lt;/a&gt; - 1982 - &lt;a href="1983"&gt;1983&lt;/a&gt;

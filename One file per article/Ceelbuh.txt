@@ -1,0 +1,44 @@
+title:
+Ceelbuh
+
+url:
+https://so.wikipedia.org/wiki?curid=5582
+
+text:
+Ceelbuh waa magaalo ku taalo Gobolka Sanaag ee bariga Waqoyibari .
+
+
+# Infobox
+
+- **Dalka**: Somalia Waqooyibari
+- **Gobolka**: Sanaag
+- **Degmada**: Badhan
+- **• Duqa**: Axmed Cali Salaad
+- **• Dhammaan**: 7,000
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Elbuh |
+| --- |
+| Tuulo |
+| Ceelbuh |
+| Ceelbuh |
+|  |
+| Elbuh Meesha ay kaga taalo Waqooyibari |
+| Coordinates: 10°13′N 48°17′E ﻿ / ﻿ 10.217°N 48.283°E ﻿ / 10.217; 48.283 |
+| Dalka | Somalia Waqooyibari |
+| Gobolka | Sanaag |
+| Degmada | Badhan |
+| Dowlada |
+| • Duqa | Axmed Cali Salaad |
+| Tirada dadka |
+| • Dhammaan | 7,000 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+10.217; 48.283

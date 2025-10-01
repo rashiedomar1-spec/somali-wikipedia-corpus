@@ -1,0 +1,36 @@
+title:
+Siligo
+
+url:
+https://so.wikipedia.org/wiki?curid=14692
+
+text:
+Siligo waa degmo ka tirsan gobolka Sardiiniya ee dalka Talyaaniga .
+
+
+# Infobox
+
+- **Dalka**: Italy
+- **Gobol**: Sardiiniya
+- **Joogga**: 3 m (10 ft)
+- **• Dhammaan**: 962
+- **Aag saacadeed**: UTC+2
+- **Furaha**: 079
+
+
+# Tables
+
+## Table 1
+| Siligo Siligo |
+| --- |
+| Degmo |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Italia" does not exist. |
+| Dalka | Italy |
+| Gobol | Sardiiniya |
+| Joogga | 3 m (10 ft) |
+| Tirada dadka |
+| • Dhammaan | 962 |
+| Aag saacadeed | UTC+2 |
+| Furaha | 079 |

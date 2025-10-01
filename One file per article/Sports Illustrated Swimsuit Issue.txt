@@ -1,0 +1,37 @@
+title:
+Sports Illustrated Swimsuit Issue
+
+url:
+https://so.wikipedia.org/wiki?curid=34577
+
+text:
+Sports Illustrated Swimsuit Issue waxaa sanad walba daabaca majaladda Sports Illustrated waxayna soo bandhigtaa moodelyasha moodada dumarka, dadka caanka ah iyo cayaartoyda xiran dharka dabaasha ee meelo kala duwan oo aduunka ah. [ 1 ] Markii ugu horreysay ee la daabacay 1964-kii, waxaa lagu tiriyaa inay samaysay bikini -ga, oo la allifay 1946-kii, [ 2 ] dhar sharci ah. [ 3 ]
+
+Tix
+
+
+# Infobox
+
+- **Editor**: M. J. Day
+- **Categories**: Maajala
+- **Frequency**: Sannadkii
+- **First issue**: Janaayo 20, 1964 ( 1964-01-20 )
+- **Company**: Sports Illustrated ( Authentic Brands Group )
+- **Country**: Maraykanka
+- **Language**: Ingiriis
+- **Website**: si.com/swimsuit
+
+
+# Tables
+
+## Sports Illustrated Swimsuit Issue
+|   |
+| --- |
+| Editor | M. J. Day |
+| Categories | Maajala |
+| Frequency | Sannadkii |
+| First issue | Janaayo 20, 1964 ( 1964-01-20 ) |
+| Company | Sports Illustrated ( Authentic Brands Group ) |
+| Country | Maraykanka |
+| Language | Ingiriis |
+| Website | si.com/swimsuit |

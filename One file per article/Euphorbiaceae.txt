@@ -1,0 +1,30 @@
+title:
+Euphorbiaceae
+
+url:
+https://so.wikipedia.org/wiki?curid=36434
+
+text:
+Eeg qoraalka
+
+Euphorbiaceae [ 1 ] , waa qoys dhir ah oo ka tirsan nidaamka Dicotyledons .  Waxay ka kooban tahay 300 genera iyo 7500 nooc .  Inta badan noocyada noocaan ah waa geedo ama geedo geedo leh, qaar ka mid ah waa geedo yaryar, qaarna weligood cagaar ah, caleemo iyo ubaxyo kala duwan leh.  Waxaa ku jira dalagyada saliidda sida jatropha.  Qoyskan magaceedu wuxuu ka helay joogitaanka dareere cad oo caano u eg oo ku jira unugyada noocyada badan ee qoyskan.
+
+Tixraac
+
+
+# Tables
+
+## Table 1
+| Euphorbiaceae |
+| --- |
+|  |
+| Euphorbia baylissii |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| Qaybinta: | Angiospermae |
+| (darajo la'aan): | Eudicots |
+| (darajo la'aan): | Rosidae |
+| Dirka: | Malpighiales |
+| Bahka: | Euphorbiaceae |
+| Genera |
+| Eeg qoraalka |

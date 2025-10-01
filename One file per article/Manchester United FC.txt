@@ -1,0 +1,55 @@
+title:
+Manchester United FC
+
+url:
+https://so.wikipedia.org/wiki?curid=8927
+
+text:
+Manchester United kooxda kubada cagta ee UK oo ka mid ah kooxaha ugu guulaha badan Manchester iyo ingariska  iyo yurub
+
+Tixraac
+
+Eeg waliba
+
+manutd.com
+
+SOCCERWAY
+
+SOFASCORE
+
+FLASHSCORE
+
+Transfermarkt
+
+Globalsportsarchive
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Manchester United Football Club
+- **La aasaasay**: 1878 ; 147 sano ka hor ( 1878 ) , as Newton Heath LYR F.C.
+- **Garoon**: Old Trafford
+- **Garoonka Awoodda**: 75,731
+- **Milkiilaha**: Manchester United plc ( NYSE : MANU )
+- **Co-chairmen**: Joel and Avram Glazer
+- **Horyaalka**: Premier League
+- **Website**: Club home page
+
+
+# Tables
+
+## Manchester United FC
+|   |
+| --- |
+| Magaca oo dhameestiran | Manchester United Football Club |
+| La aasaasay | 1878 ; 147 sano ka hor ( 1878 ) , as Newton Heath LYR F.C. |
+| Garoon | Old Trafford |
+| Garoonka Awoodda | 75,731 |
+| Milkiilaha | Manchester United plc ( NYSE : MANU ) |
+| Co-chairmen | Joel and Avram Glazer |
+| Horyaalka | Premier League |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab Saddexaad middab | Guriga midab | Marti midab | Saddexaad middab |
+| Guriga midab | Marti midab | Saddexaad middab |
+|  |

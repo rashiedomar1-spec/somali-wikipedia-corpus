@@ -1,0 +1,8 @@
+title:
+Derg
+
+url:
+https://so.wikipedia.org/wiki?curid=5173
+
+text:
+Derg waa xisbi shuuci ahaa oo ka jiray Dalka &lt;a href="Itoobiya"&gt;Itoobiya&lt;/a&gt;, Derg ayaa macnahiisu yahay &lt;a href="Guddi"&gt;Guddi&lt;/a&gt; dhinaca luqada &lt;a href="Amxaar"&gt;Amxaar&lt;/a&gt;ka.

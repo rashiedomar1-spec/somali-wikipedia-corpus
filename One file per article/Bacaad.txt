@@ -1,0 +1,41 @@
+title:
+Bacaad
+
+url:
+https://so.wikipedia.org/wiki?curid=28322
+
+text:
+Bacaad ( Af Ingiriis : Ba'aad ; Af Carabi : لاسعانود ‎), waa mid ka mida ah magaalooyinka ugu qadiimisan Soomaaliya gaar ahaan Gobolka Bari , waxaa assaaska magaaladani ku sinayd qarnigii  17-aad ee Taariikhda Miilaadiga. Magaaladanu waxay caan ku tahay Dekedda dabiiciga ama rabaani ga ah ee la yiraahdo Dekettu Raxmaan, halkaa oo Soomaalidu mudo dheer ka dhoofin jireen badeecadaha ay u waaridayaan wadamada shisheeye, si doo kale wixii ay la soo degayaan ayeey kala soo degi jireen. Bacaad waxay caan ku tahay Dekadda dabiiciga ah ee Dekatul Raxmaan . [ 1 ]
+
+Taariikh
+
+Inkastoo uu xadidan yahay horumarka ay samayasay magaaladani mudooyinkii u dameeyay hadana waa magaalo magac dheer, qiimo badana u lahayd bulshooyinkii jiray wixii ka horeeyay 1980- xiligaas oo ku dhowaa waqtigii la furay Dekedda Magaalada Boosaaso .
+Bacaad waxay leedahay dhul aad u weyn oo suurtagal ay tahay in siyaabo badan oo kala duwan looga faa'iidaysto, gaar ahaan hadiiba ay suurowdo in la balaarito Dekadda dabiicig ah ee Magaalada. [ 2 ]
+
+Tixraac
+
+Puntland
+
+
+# Infobox
+
+- **Dalka**: Soomaaliya Puntland
+- **Gobol**: Bari
+- **Magaalo**: Bosaso
+- **La Asaasay**: 1708
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Bacaad Bacad |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Dalka | Soomaaliya Puntland |
+| Gobol | Bari |
+| Magaalo | Bosaso |
+| La Asaasay | 1708 |
+| Aag saacadeed | UTC+3 ( EAT ) |

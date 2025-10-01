@@ -1,0 +1,8 @@
+title:
+VOIP
+
+url:
+https://so.wikipedia.org/wiki?curid=5613
+
+text:
+VOIP, Voice Over The Internet Protocol, waa adeeg Teleefaneed la isticmaalaayo &lt;a href="Internet"&gt;Internet&lt;/a&gt; Protocol

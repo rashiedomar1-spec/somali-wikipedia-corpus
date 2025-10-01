@@ -1,0 +1,11 @@
+title:
+Kochi
+
+url:
+https://so.wikipedia.org/wiki?curid=33519
+
+text:
+Kochi
+Magaalo ku taal koonfurta Hindiya oo ku taal biyaha xeebta, kochi oo leh luuqadaha tamil ee koonfurta &lt;a href="Hindiya"&gt;Hindiya&lt;/a&gt;
+Sido Kale fiiri.
+&lt;a href="India"&gt;India&lt;/a&gt;

@@ -1,0 +1,9 @@
+title:
+Texas
+
+url:
+https://so.wikipedia.org/wiki?curid=5648
+
+text:
+&lt;a href="Tegsas"&gt;Tegsas&lt;/a&gt;, Texas waa gobol ka mid ah 50ka gobol ee dalka &lt;a href="Mareykanka"&gt;Mareykanka&lt;/a&gt;.
+Gobolkaan waa gobolka ugu weyn dalka mareykanka. magaca Texas (Teksas) micnaheedu waa "saaxiib".

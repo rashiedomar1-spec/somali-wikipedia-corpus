@@ -1,0 +1,36 @@
+title:
+Linux
+
+url:
+https://so.wikipedia.org/wiki?curid=3444
+
+text:
+Linuks (&lt;a href="http%3A//en.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt;) Waa barnaamijyo isku-duub ah oo loogu talo galay in lagu maamulo kombuyuutarada. Linuks wuxuu ka soo farcamay &lt;a href="http%3A//en.wikipedia.org/wiki/Unix"&gt;Unix&lt;/a&gt; waxaana aasaasay &lt;a href="http%3A//en.wikipedia.org/wiki/Linus_Torvalds"&gt;Linus Torvalds&lt;/a&gt; sannadku markuu ahaa 1991. Linuks waxaa u sal ah &lt;a href="http%3A//en.wikipedia.org/wiki/Linux_kernel"&gt;Linux Kernel&lt;/a&gt; oo ay isku duba ridaan guddi uu ka mid yahay Linus Torvalds oo loo yaqaano &lt;a href="http%3A//en.wikipedia.org/wiki/Linux_Foundation"&gt;The Linux Foundation&lt;/a&gt; linux waxa lagu isticmaali karaa waxa alaala waxaad u baahato isda haakiin garaynta websaytyada, iimaylada iyo wixii la mid ah linux waa uu ka faa'iido badan yahay waxa kale oo dhan oo faa'iidooyinkiisa waxa ka mid ah in aanuu koombuyuutarka fayras kaa galin sidoo kale waxa muhiimadiisa ka mid ah in aad ku isticmaalil kartid waxaad doonayso inaad dowloadgaraysato kaas oo fayras leh se aanuu waxba ka qaadayn fayrasku.
+Linuks waa bilaash(lacag la'aan) qofkii rabaa isticmaali kara, wax ka bedeli kara siina fidin kara wuxuuna ku saleysan yahay xeer loo yaqaano &lt;a href="http%3A//en.wikipedia.org/wiki/GNU_General_Public_License"&gt;GNU General Public License&lt;/a&gt;. Waxaa jira barnaamijyo badan oo Linux ah oo ay si wada jir ah isugu soo duba-rideen farsamo-yaqaanno badan waxaana ka mid ah &lt;a href="http%3A//en.wikipedia.org/wiki/Ubuntu_%28operating_system%29"&gt;Ubuntu&lt;/a&gt;, &lt;a href="http%3A//en.wikipedia.org/wiki/Fedora_%28operating_system%29"&gt;Fedora&lt;/a&gt;, &lt;a href="http%3A//en.wikipedia.org/wiki/Redhat"&gt;Redhat&lt;/a&gt;, &lt;a href="http%3A//en.wikipedia.org/wiki/Debian_%28operating_system%29"&gt;Debian&lt;/a&gt;, &lt;a href="http%3A//en.wikipedia.org/wiki/OpenSUSE"&gt;OpenSUSE&lt;/a&gt; iyo qaar kale oo badan.
+Linux waa ka fiican yahyay obaratarada kale oo dhan, waanaa bilaash 
+Kumbuyuutarka miiska (DeskTop Computer).
+koombuyuutarka miisku waxa kale oo loo ya qaanaa Desktop oo isaga lama qaad qaadi karo sidoo kale aad ayuu u weyn waxaanaa loogu talo galay in lagu isticmaalo xafiisyada oo aan la qaad qaadin &lt;a href="http%3A//en.wikipedia.org/wiki/GNU_koombuyuutar_gaarah_"&gt;&lt;/a&gt;&lt;a href="http%3A//en.wikipedia.org/wiki/Linux_Foundation"&gt;Aasaasidii linux&lt;/a&gt;
+Aasaaska kumbuyuutarka.
+Kumbuyuutar waa aalad lagu isticmaalo meelo aad u tiro badan oo ka mid ah nolosha bulashada. Nolosha casriga ah oo aan hada ku jirno waxaa aad u adag in la'helo xirfad lagu shaqeeyo oo aanan la’isticmaalin aaladan kumbuyuutarka ah. 
+Qoraalkan gaaban waxaan rabaa in aan si sahlan ugu sharxo sida uu kumbuyuutarka u shaqeeyo. Waxaana hubaal ah in intiina badan oo qoraalkan akhrisanayso, in ay isticmaaleen aalada lo yaqaano kombuyuutarka.
+Arrin aasaasi ah oo u baahan in uu fahmo qofwalba oo raba in uu waxka fahmo teknolojiyada casriga ah ayaa waxay tahay: In kumbuyuutarku uusan qabankarin wax uu san biniaadanka qabankarin ama ku fekerikarin. 
+Waxaa hubaal ah in uusan aduunka jirin kumbuyuutar uu sameeyay wax aan beniaadam ahayn. Sababaha ugu wacan in ay kumbuyuutarada ku soo bataan goobaha wax soo saarka sida warshadaha, isbitaalada IWM (Iyo Wixii la'Mid ah), waa sida ay u qabankaraan howlaha soo noqnoqda asaga oo aanan daalin uun qaladkiisuna aad u yaryahay haddii loo feeriyo mida uu qofka beniaadamka ah qabto. 
+Arinkakale oo uu kumbuyuutarka kaga duwan yahay dadka ayaa wax ay tahay in uu si dhaqsileh ku qabankaro howlaha xisaabaadka u baahan. Sida aynu ognahay xisaabta laga rabo in uu kobmuyuutarka yaqaano ayaa waxay tahay oo kaliya Iskudar iyo Kalajar. Iskudhufashada iyo Isuqaybinta waxay ka yimaadaan labada aanu horey u soo sheegnay.
+Kumbuyuutarka oo gebigiisaba ku salaysan farsamada elektarooniga ah ayaa waxa uu yaqaanaa oo kaliya tirada 0 iyo 1 kuwaas oo luqada Ingriiska ahi lagu yiraahdo bits. Sababta uusan kombuyuutarka u aqoonin wax aanan ahayn 0 iyo 1 waxaa ugu wacan ku tiirsanaanta uu ku tiirsanyahay korontoda. Si ay qaybaha kala duwan ee kombuyuutarka u wada xiriiraan, ayaa waxa ay isku fahmi karaan oo kaliya koronto waa joogtaa ama koronto ma’joogto. 1 wuxuu u dhigmaa korontaa joogto meesha 0 uu u dhigmo koronto ma’joogto. Sidaasi darteed ayaa xisaabaadka uu xisaabo kumbuyuutarka loogu magacaaba binary-math.
+Samayska kumbuyuutarka.
+kumbuyuutarku waxa uu u qaybsamaa laba qaybood oo kala ah HARDWARE oo ah samayska iyo walxaha uu ka kooban yahay kumbuyuutarku, iyo SOFTWARE oo ah barnaamijyada uu ku shaqeeyo kumbuyuutarku.
+Taariikhda kumbuyuutarka.
+Taariikhda horu marinta kumbuyuutarka iyo horu marintiisu waa wax ilaa hadda socda sidii loo kordhin lahaa xawaarihiisa, ama loo yarayn lahaa qaab dhismeedkooda ama loo kor loogu qaadi lahaa qaadkooda. Intaan la samayn kumbuyuutarka qabanaya hawlaha badana dadku waxay isticmaali jireen inay isticmaalaan hababka caadi ah si ay wax u xisaabiyaan Ilaa uu soo baxay kalkuleetarka waxa lagu xisaabiyo kaas oo fududeeyay xisaabtii. Kalkuleetarkii ayaa la horu marinayay maalinba maalinka ka danbaysa ilaa sannadihii afartaneeyadii kaas oo sees u noqday in lasoo saaro qalab badan oo loo adeegsado isgaadhsiinta iyo waxbarashadaba.
+Guusha laga gaadhay soo saarida kubyuutarka waxay bilaabantay wixii ka danbeeyay soddomeeyadii ilaa afartameeyadii qarnigii labaatanaad, waxaana loogu soo daray astaamaha gaarka ah ee kumbuyuutarka casriga ah sida adeegsiga elektrooniga ah ee ku shaqeeya nidaamka digita" ama nambarada ( waxa badankooda daahfuray kalood shanon sannadkii 1937"'dii) iyo habka barnaamijaynta.
+kombuyuutarkii ugu horreeyay ee qabanayay shaqooyin guud waxa uu ahaa ENIAC oo lagu sameeyay maraykan kuna salaysnaa habka toban tiriska 1946
+Noocyada Kumbuyuutarada.
+Kombuyuutarada waxaa loo kala qeybiyaa: Kumbuyuutarada miiska, kuwa dhabta, kuwa calaancahsa iyo kuwa waaweyn oo loo yaqaano Super Computers (Kumbuyuutarada Heer sare ah ah).
+Kumbuyuutarka miiska (DeskTop Computer).
+Waa kumbuyuutarda ugu badan e la'siticmaalo, waxaan la gu siticmaalaa Xafiisyada, Dukaamada, Isbitaalda iyo Guryahaba. 
+Kumbuyuutarka Dhabta ama Boorsada (Laptop Computer).
+Waa kuwo loogu talagalay dadka aan shakhada ku qabanin meel joogto ah, oo gala safaro ha noqdeen kuwo dhaadheer ama kuwo magalada gudaheeda ah. 
+Kumbuyuutarka Calaancasha (Palm/PDA).
+waxaa loogu talagalay dadka aanan u baahnay awood wayn ay ku qabtan kubuyuutarka lakiin u baahan in ay jadwalkooda shaqada iyo balamahooda wax ka bedelaan iyo in ay rabaa in ay aqristaan waraaqahooda elektrooniga ah (e-mail). 
+fikrada waxa aiska leh Mahdi abdirizak dahir oo ah nin cilmiga komputerada ku ta khukhusay
+Kumbuyuutarka superka (Super Computer).
+waxay qabtaan howlo qaas ah, sida naqshdaynta, maamulida dayaxgacmeedyada IWM.kv

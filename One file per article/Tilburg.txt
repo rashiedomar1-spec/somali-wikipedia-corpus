@@ -1,0 +1,8 @@
+title:
+Tilburg
+
+url:
+https://so.wikipedia.org/wiki?curid=4019
+
+text:
+Tilburg waa magaalo ku taala wadanka &lt;a href="holland"&gt;holland&lt;/a&gt; waxa ay ka mid tahay magaalooyinka ugu waawayn wadanka holland waxa ay ka tirsantahay gobolka &lt;a href="Waqooyiga%20Brabant"&gt;Waqooyiga Brabant&lt;/a&gt;

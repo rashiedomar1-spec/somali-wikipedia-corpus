@@ -1,0 +1,30 @@
+title:
+Rafael Correa
+
+url:
+https://so.wikipedia.org/wiki?curid=8174
+
+text:
+Rafael Correa Rafael Vicente Correa Delgado (de Guayaquil; 28 April 1963) waa Madaxweynaha Ikwadoor , waxoona madaxweyne noqday taariikhda marka ee eheed 15 Janaayo 2007 .
+
+
+# Infobox
+
+- **Xilka kaga horeeyey**: Alfredo Palacio
+- **Xilka kaga dambeeyey**: Lenín Moreno
+- **Ku dhashay**: ( 1963-04-06 ) Abriil 6, 1963 ( 62jir) Guayaquil
+- **Xisbi siyaasadeed**: PAIS
+
+
+# Tables
+
+## Table 1
+| Rafael Correa |
+| --- |
+| Hadda xilka haya |
+| La wareegay Xilka Janaayo 15, 2007 |
+| Xilka kaga horeeyey | Alfredo Palacio |
+| Xilka kaga dambeeyey | Lenín Moreno |
+| Macluumaad gaar ah |  |
+| Ku dhashay | ( 1963-04-06 ) Abriil 6, 1963 ( 62jir) Guayaquil |
+| Xisbi siyaasadeed | PAIS |

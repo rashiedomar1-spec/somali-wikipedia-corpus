@@ -1,0 +1,8 @@
+title:
+Adanyaha
+
+url:
+https://so.wikipedia.org/wiki?curid=29380
+
+text:
+Adanyaha, waa tol &lt;a href="bah%20Ali%20Gheri"&gt;bah Ali Gheri&lt;/a&gt;

@@ -1,0 +1,31 @@
+title:
+Qiime sugan
+
+url:
+https://so.wikipedia.org/wiki?curid=16976
+
+text:
+Qiime sugan (( Af-Ingiriis : Absolute Value)) waa Fansaar xisaabeed waxaana lagu gartaa saddexdaan astaamood:
+
+Qiimaha suga ee tira kasta waa tiro togan waxay doonto tirada markii hore ha ahaatee.
+
+Qiimaha sugan ee xarriiqa tirada
+
+< . . . . . L . . . . . − . . . . . k − 6.....0.....6 {\displaystyle {\frac {.....L.....-.....k}{-6.....0.....6}}\,} >
+Haddaad lix tallaabo ugu socotid unugga 0 xagga midigta waxaad gaareysaa K oo kulankeedu yahay 6, marka waa inaad ogaataa fogaanta L iyo unuggu isu jiraan in ay lamid tahay fogaanta K iyo unuggu isu jiraan. Haddaba qiimaga suga ee -6 iyo +6 waa fogaanta L iyo 0 isu jiraan iyo fogaanta K iyo 0 isu jiraan; waana 6.
+
+Asatada u go'an qiimaha sugan waa laba xarriiqood oo qotama oo labada hareerood laga mariyo tirada qiimaheeda suagan la doonayo.
+
+Marka fogaan L iyo 0 isu jiraan
+
+= | -6 | = 6
+
+Fogaanta K iyo 0 isu jiraa
+
+= | +6 | = 6
+
+Hadii | | u | | {\displaystyle ||u||} ay le'egtahay eber markaa u = 0 {\displaystyle u=0} wuxuu noqnayaa u ≠ 0 {\displaystyle u\neq 0} oo ah | | u | | {\displaystyle ||u||} ka weyn eber
+
+| | λ u | | = | λ | . | | u | | {\displaystyle ||\lambda u||=|\lambda |.||u||}
+
+| | u 1 + u 2 | | ≤ | | u 1 | | + | | u 2 | | {\displaystyle ||u_{1}+u_{2}||\leq ||u_{1}||+||u_{2}||}

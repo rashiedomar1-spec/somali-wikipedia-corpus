@@ -1,0 +1,19 @@
+title:
+Liiska dalalka dad ahaan
+
+url:
+https://so.wikipedia.org/wiki?curid=4239
+
+text:
+Liiska dalalka caalamka dad ahaan liiskani waa liiska wadamada adduunkaan ku yaala sida ay u kala dad badan yihiin waxeyna isugu jiraan wadamo xor ah iyo wadamo ku hoos nool dal kale, iyadoo haatan dadka ku nool adduunka lagu qiyaaso 6,794,600,000.
+
+
+# Tables
+
+## Table 1
+| Boos | Dal | Tirada dadka | % Tirada dadka adduunka |
+| --- | --- | --- | --- |
+| 1 | Shiinaha | 1,335,100,000 | 19.65% |
+| 2 | Hindiya | 1,175,200,000 | 17.3% |
+| 3 | Maraykanka | 308,306,000 | 4.54% |
+| 4 | Indunisiya | 231,369,500 | 3.41% |

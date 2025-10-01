@@ -1,0 +1,8 @@
+title:
+Soyet umbrella
+
+url:
+https://so.wikipedia.org/wiki?curid=33365
+
+text:
+Dallada Horumarinta Dhalinyarada Somaliland

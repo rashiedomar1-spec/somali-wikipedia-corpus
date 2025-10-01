@@ -1,0 +1,39 @@
+title:
+Cismaan Foodcade
+
+url:
+https://so.wikipedia.org/wiki?curid=5676
+
+text:
+[[]]
+
+Xaaji cismaan foodcade حاج عسمان فودعدي wuxuu ahaan jiran ganacsade 1955-1983.kan dibna waxuu u noqday beeraley iyo 
+nabadoonka qabiilka maceeye,dibna iska wareejiyey xilkaas asigoo ku wareejiyey nabadoon cabdi cali muxumed oo hadda haayo nabadoonnimada.
+alaha u naxariistee marxuumka waxuu geeriyooday maalin arbaco ah bisha 20.10.2010.
+
+Taariikkh nololeedkii xaaji cismaan foodcade
+
+
+# Infobox
+
+- **Dhashay:**: 1935
+- **Ku dhashay:**: Tuulada jaciir , Soomaaliya
+- **Dhintay:**: sanadkii 2010
+- **Kudhintay:**: degmada , jalalaqsi -->
+- **Diintiisa:**: Islaam
+- **Dhalasho:**: Soomaali
+
+
+# Tables
+
+## Table 1
+| Xaaji cismaan foodcade حاج عسمان فودعدي [[]] |
+| --- |
+| soomaalidii ganacsiga ugu horeeyey |
+| Xafiiskiisa muqdisho and buulo xaawo |
+| Dhashay: | 1935 |
+| Ku dhashay: | Tuulada jaciir , Soomaaliya |
+| Dhintay: | sanadkii 2010 |
+| Kudhintay: | degmada , jalalaqsi --> |
+| Diintiisa: | Islaam |
+| Dhalasho: | Soomaali |

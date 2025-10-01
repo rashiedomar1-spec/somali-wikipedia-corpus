@@ -1,0 +1,8 @@
+title:
+Jinbilley
+
+url:
+https://so.wikipedia.org/wiki?curid=6730
+
+text:
+Jinbiley waa tuulo ku taalo gobolka &lt;a href="Hiiraan"&gt;Hiiraan&lt;/a&gt;

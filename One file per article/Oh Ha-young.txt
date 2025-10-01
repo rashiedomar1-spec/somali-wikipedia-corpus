@@ -1,0 +1,42 @@
+title:
+Oh Ha-young
+
+url:
+https://so.wikipedia.org/wiki?curid=33890
+
+text:
+Oh Ha-young (dhashay Luuliyo 19, 1996), waxaa si fiican u yaqaan halyeeyga Hayoung , waa heesaa iyo jilaa reer Koonfur Kuuriya ah. Waxay caan ku tahay xubin ka mid ah kooxda gabdhaha Apink .
+
+Heesaa
+
+atariisho
+
+
+# Infobox
+
+- **Ku dhashay**: Oh Ha-young ( 1996-07-19 ) Luuliyo 19, 1996 ( 29jir) Seoul , Koonfur Kuuriya
+- **Waxbarashada**: Dugsiga Farshaxanka Seoul
+- **Shaqada**: Heesaa atariisho
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2011–hada
+- **Calaamadaha**: Play M
+- **Falalka la xiriira**: Apink
+
+
+# Tables
+
+## Table 1
+| Oh Ha-young |
+| --- |
+| Oh ee 2019 |
+| Ku dhashay | Oh Ha-young ( 1996-07-19 ) Luuliyo 19, 1996 ( 29jir) Seoul , Koonfur Kuuriya |
+| Waxbarashada | Dugsiga Farshaxanka Seoul |
+| Shaqada | Heesaa atariisho |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2011–hada |
+| Calaamadaha | Play M |
+| Falalka la xiriira | Apink |
+|  |

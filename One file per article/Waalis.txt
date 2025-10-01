@@ -1,0 +1,8 @@
+title:
+Waalis
+
+url:
+https://so.wikipedia.org/wiki?curid=6882
+
+text:
+Waalis waa gobol ka mid ah &lt;a href="Midowga%20boqortooyada%20Britan"&gt;Midowga boqortooyada Britan&lt;/a&gt;.

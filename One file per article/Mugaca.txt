@@ -1,0 +1,40 @@
+title:
+Mugaca
+
+url:
+https://so.wikipedia.org/wiki?curid=28479
+
+text:
+Mugaca ... waa degmo ama tuulo kaga beeegan dhinaca bari degmada waridaad waxNa ku yaala dhul daaqsimed aad u qurux bdan oo xoolahu daqan tuuladan waxay qani ku tahay cowska iyo dhulka qurxoon waxa dega beelaha looge maxamed , ee reeryoonis
+
+
+# Infobox
+
+- **Dalka**: Somaliland
+- **Gobol**: Togdheer
+- **Degmo**: mugaca
+- **Joogga**: 1,037 m (3,402 ft)
+- **• Dhammaan**: 4,200
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +25263 (Somaliland)
+
+
+# Tables
+
+## Table 1
+| Mugaca mugaca موقعي |
+| --- |
+| Magaalo |
+| [[File:Burao, Template:Aynabo, Somaliland.jpg |266px]] | [[File:Burao, Template:Aynabo, Somaliland.jpg |266px]] | [[File:Burao, Template:Aynabo, Somaliland.jpg |266px]] |
+| [[File:Burao, Template:Aynabo, Somaliland.jpg |266px]] | [[File:Burao, Template:Aynabo, Somaliland.jpg |266px]] |
+| [[File:Burao, Template:Aynabo, Somaliland.jpg |266px]] |
+| Flag Seal |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Dalka | Somaliland |
+| Gobol | Togdheer |
+| Degmo | mugaca |
+| Joogga | 1,037 m (3,402 ft) |
+| Tirada dadka |
+| • Dhammaan | 4,200 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +25263 (Somaliland) |

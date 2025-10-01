@@ -1,0 +1,10 @@
+title:
+Godeey
+
+url:
+https://so.wikipedia.org/wiki?curid=5006
+
+text:
+godeey 
+&lt;a href="Gode"&gt;Gode&lt;/a&gt; waa magaala ka tirsan dhulka &lt;a href="Soomaali%20Galbeed"&gt;Soomaali Galbeed&lt;/a&gt;.
+magaalada waxaa degan somali oo 100kiba/98 ah, magaalada waxee ka mid tahay, dhulka &lt;a href="soomaaliya"&gt;soomaaliya&lt;/a&gt; oo lagu daray wadanka &lt;a href="itoobiya"&gt;itoobiya&lt;/a&gt;magaaladan waxa kadhacay dagaalkiii dhex maray Soomaaliya iyo itoobiya

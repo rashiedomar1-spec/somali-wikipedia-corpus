@@ -1,0 +1,30 @@
+title:
+Kim Go-eun
+
+url:
+https://so.wikipedia.org/wiki?curid=33514
+
+text:
+Kim Go-eun (dhashay Luuliyo 2, 1991) waa atariisho Koonfur Kuuriya ah. Waxay ka soo muuqatay filimka A Muse (2012) halkaas oo ay ku heshay abaalmarino doorkeeda.  Waxa kale oo lagu yaqaanay kaalinteedii taxanaha telefishanka Cheese in the Trap (2016), Guardian: The Lonely and Great God (2016), iyo The King: Eternal Monarch (2020). [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1991-07-02 ) Luuliyo 2, 1991 ( 34jir) Seoul , Koonfur Kuuriya
+- **Sanadaha Shaqada**: 2012–hada
+- **Wakiil**: BH Entertainment
+- **Dhererka**: 167 centimetres (5 ft 6 in)
+
+
+# Tables
+
+## Table 1
+| Kim Go-eun |
+| --- |
+| Kim ee 2020 |
+| Ku dhashay | ( 1991-07-02 ) Luuliyo 2, 1991 ( 34jir) Seoul , Koonfur Kuuriya |
+| Sanadaha Shaqada | 2012–hada |
+| Wakiil | BH Entertainment |
+| Dhererka | 167 centimetres (5 ft 6 in) |

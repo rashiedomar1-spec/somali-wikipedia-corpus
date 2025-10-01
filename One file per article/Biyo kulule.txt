@@ -1,0 +1,37 @@
+title:
+Biyo kulule
+
+url:
+https://so.wikipedia.org/wiki?curid=21361
+
+text:
+Biyo kulule waa deegaan dalxiis iyo beero ku yaal meel u jirta 5 kilomitir Magaalada Boosaaso . Biyo kulule waxaa ku yaalla ceelal leh biyo diirimaad badan oo marka lagu dabaasho jirku ka helo faa’iidooyin caafimaad oo tiro badan. [ 1 ] Deegaan dalxiiseedkaan wuxuu ka mid yahay meelaha ugu caansan Dalka Soomaaliya ee loo dalxiiso. Tiro badan oo dalxiisayaaal ayaa booqda sanad kasta. [ 2 ]
+
+Taariikh
+
+Ceelka iyo beeraha Biyo kulule waxay ka mid yihiin meelaha ugu caansan dalka Soomaaliya ee loo dalxiis tago.
+Ceelka biyo kulule ka hor intuusan noqon goob dalxiis wuxuu ahaa beero iyo deegaan qurux dabiiciya leh. Xilli hore ayaa la bilaaabay in goobtan loo qaabeeyo goob dalxiis kadib markii la ogaaday inay tahay meel dalxiiska iyo caafimaadka ku wanaagsan.
+Biyo kulule waxaa aad ugu soo dalxiis iyo caafimaad doonta Soomali badan oo ka yimaada gudaha iyo dibada dalka. Waxaa ka mid ah ceelasha kuwo hoos loogu dego oo aad ugu tegeyso jewi ka duwan kan caadiga ah, Inta badana ceelashaas waxaa loo isticmaalaa daaweynta cuduro badan oo kala duwan iyo u jimcinta jirka.
+
+Tixraac
+
+
+# Infobox
+
+- **Wadanka**: Somalia
+- **Meesha**: 6.5 Km u jirta Boosaso
+- **Gacanta ku haya**: Dowladda Hoose ee Degmada Boosaaso.
+
+
+# Tables
+
+## Table 1
+| Biyo kulule |
+| --- |
+| Dalxiisayaal lugaynaya biyo kulule |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Meesha ku taalo |
+| Wadanka | Somalia |
+| Meesha | 6.5 Km u jirta Boosaso |
+| Macluumaad kale |
+| Gacanta ku haya | Dowladda Hoose ee Degmada Boosaaso. |

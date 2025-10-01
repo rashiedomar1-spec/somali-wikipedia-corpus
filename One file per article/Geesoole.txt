@@ -1,0 +1,9 @@
+title:
+Geesoole
+
+url:
+https://so.wikipedia.org/wiki?curid=41316
+
+text:
+Geesoole (af-ingiriis: polygon) waa qaab leh duruufo saani ama saloog. Geesoole waxay yeelan kartaa dhinacyo badan, laakiin dhammaan duruufahood waa inay noqdaan saani ama saloog oo isku xiran yihiin. Tusaale ahaan, saddex-gees waa geesoole leh 3 dhinac, iyo afar-gees waa geesoole oo leh 4 duruufo. Geesoolaha waxay noqon karaan weyn ama yar, laakiin haddii ay leeyihiin xuduudo toosan oo ay sameeyaan qaab, waa geesoole.
+Geesoole wuu kaga duwan yahay &lt;a href="shaxan"&gt;shaxan&lt;/a&gt;.

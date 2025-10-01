@@ -1,0 +1,16 @@
+title:
+Lagaqaaday (filin)
+
+url:
+https://so.wikipedia.org/wiki?curid=35946
+
+text:
+Lagaqaaday (sido kale waxa lo yaqaan 96 sacadood iyo afduubkii ) waa filin dagaaldagaal ah oo laso saaray 2008 kuna baxayay af ingiriis iyo af faransiis waxa qooray Luk Biison iyo Roberti Marki Kamiin, waxa iskudubariday Biiri Moril .
+
+
+# Tables
+
+## Table 1
+| Lagaqaaday |
+| --- |
+| File:Lagaqaaday.jpg |

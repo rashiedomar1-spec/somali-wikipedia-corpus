@@ -1,0 +1,8 @@
+title:
+Beer gadiid
+
+url:
+https://so.wikipedia.org/wiki?curid=6735
+
+text:
+Beer Gadiid waa &lt;a href="degmo"&gt;Deegaan Balaaran&lt;/a&gt; ku taalo gobolka &lt;a href="Hiiraan"&gt;Hiiraan&lt;/a&gt;, hormar ku talaabsatay waxaana dago beesha cayr Mohamed Waxaas magaca Beergadiid laga keeney odeygii gacalgadiid ahay maadama Beertisa aheyd. Sidaas loo dhahay Beer iyo Gadiid oo ah Beerti Gacal gadiid

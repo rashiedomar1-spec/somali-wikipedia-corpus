@@ -1,0 +1,9 @@
+title:
+Sino
+
+url:
+https://so.wikipedia.org/wiki?curid=33758
+
+text:
+Sino
+&lt;a href="Sinada"&gt;Sinada&lt;/a&gt; waxaa ka kooban galmada guurka ka baxsan. Dembi.

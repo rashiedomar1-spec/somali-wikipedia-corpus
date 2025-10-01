@@ -1,0 +1,56 @@
+title:
+Kubad
+
+url:
+https://so.wikipedia.org/wiki?curid=8645
+
+text:
+Kubad waa joomateri oo ay xaddido masaaxad ay dhammaan baraheedu u jiraan fogaan isl’eg bar cayiman ah oo loo yaqaan barta dhexe oo aan lahayn wax xagal ah.
+
+Dulxaadis
+
+Kubbad (af-ingiriis: sphere) waa shaxan , geesoole ama qaab jomiteri ah oo si dhaylan u wareegsan oo dhinac walba suur wada mid ah. Waxaa lagu qeexaa sidii ururka dhammaan dhibcaha ku yaal meel bannaan oo masaafada go'an (oo loo yaqaan raadiyaha) ka fogaanaya dhibic go'an, taasoo loo yaqaan xarunta. Si fudud, waa shay qaab kubbad-cagta o kale,  oo dhammaan dhibcaha dusha sare ee kubadda yihiin isla masaafo is-le'eg ka fog xarunta.
+
+Astaamaha ugu muhiimsan ee kubadda:
+
+Tusaalooyinka kubadaha nolosha dhabta ah waxaa ka mid ah kubbadda korontada, kubbadda xeebta, ama xitaa meerayaasha sida Dhulka (inkastoo aan si buuxda ugu wareegsanayn sababo la xiriira ballaca dhexdhexaadka). [ 1 ]
+
+Xisaab
+
+Bedka xaddidan:
+
+A = 4 π r 2 {\displaystyle A=4\pi r^{2}\,}
+
+Mugga :
+
+V = 4 π r 3 3 {\displaystyle V={\frac {4\pi r^{3}}{3}}}
+
+Qaacidada
+
+tixraac
+
+Sido kale eeg
+
+Waxay tahay bilaa duruufo iyo bilaa geesas.
+
+Dhinaca darteed wuxuu yahay wareeg.
+
+Masaaxadeeda sare waa mid siman oo fidsan, dhammaan dhibcaha dusha sare waxay ka fog yihiin xarunta isla masaafada.
+
+Geesoole
+
+Saddex-xagalka violet
+
+
+# Tables
+
+## Table 1
+| Habka Kubadda |
+| --- |
+| Wareeg | U = 2 π r = d A P F d r {\displaystyle U\,=\,2\pi r{\color {OliveGreen}\ ={\frac {\mathrm {d} A_{\mathrm {PF} }}{\mathrm {d} r}}}} |
+| Baaxad | A O = 4 π r 2 = d V d r {\displaystyle A_{O}\,=\,4\pi r^{2}\,{\color {OliveGreen}\ ={\frac {\mathrm {d} V}{\mathrm {d} r}}}} |
+| Mug | V = 4 3 π r 3 = ∫ 0 r A O d r {\displaystyle V\,=\,{\frac {4}{3}}\pi r^{3}=\int _{0}^{r}A_{O}\mathrm {d} r} |
+| Bedka Goobada | A P F = π r 2 = ∫ 0 r U d r {\displaystyle A_{\mathrm {PF} }\,=\,\pi r^{2}=\int _{0}^{r}U\mathrm {d} r} |
+| Mugga Kubadda | V K S = h 2 π 3 ( 3 r − h ) {\displaystyle V_{\mathrm {KS} }\,=\,{\frac {h^{2}\pi }{3}}(3r-h)} |
+| Meelaha ay ka daboolantahay | A K K = 2 r h π = 2 r 2 π ( 1 − cos ⁡ α 2 ) {\displaystyle A_{\mathrm {KK} }\,=\,2rh\pi =2r^{2}\pi \left(1-\cos {\frac {\alpha }{2}}\right)} |
+| Waqtiga ay negaato | J = 2 5 m r 2 {\displaystyle J\,=\,{\frac {2}{5}}mr^{2}} |

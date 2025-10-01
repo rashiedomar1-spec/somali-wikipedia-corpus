@@ -1,0 +1,44 @@
+title:
+SweetS
+
+url:
+https://so.wikipedia.org/wiki?curid=33146
+
+text:
+Sweets (スイーツ, Suītsu , qaabaysan sida SweetS )  wuxuu ahaa koox gabdho Jabaan ah oo uu sameeyay Avex Trax ee 2003. Waxay ka kooban tahay shan xubnood: Aki, Aya, Haruna, Miori , iyo Mai.
+
+Aki
+
+Aya
+
+Haruna
+
+Miori
+
+Mai
+
+
+# Infobox
+
+- **Asal**: Jabaan
+- **Nooca fanka**: J-pop
+- **Sanadaha Shaqada**: 2003–2006
+- **Calaamadaha**: Avex Trax
+- **Falalka la xiriira**: Girl's Box
+- **Website**: www.avexnet.or.jp/sweets
+- **Past members**: Aki Aya Haruna Miori Mai
+
+
+# Tables
+
+## Table 1
+| Sweets |
+| --- |
+| Asal | Jabaan |
+| Nooca fanka | J-pop |
+| Sanadaha Shaqada | 2003–2006 |
+| Calaamadaha | Avex Trax |
+| Falalka la xiriira | Girl's Box |
+| Website | www.avexnet.or.jp/sweets |
+|  |
+| Past members | Aki Aya Haruna Miori Mai |

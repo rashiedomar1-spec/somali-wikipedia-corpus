@@ -1,0 +1,42 @@
+title:
+Zeyd bin saabit
+
+url:
+https://so.wikipedia.org/wiki?curid=37059
+
+text:
+Zeyd bin saabit waa saxaabi ree ansaar ah, wuxuu noqday qoraaga waxyiga, Ka dib markii uu nabi Maxamed scw dhintay 632 waxa la amray in uu quraanka ku ururiyo oo hal musxaf ku kulmiyo,
+
+Zeyd wuxuu dhintay sanadkii 45aad ee hijiriga
+
+
+# Infobox
+
+- **aabihiisa:**: saabit bin daxaak
+- **hooyadii**: Al-nawaar binti maalik
+- **Dhashay:**: 611
+- **Ku dhashay:**: Madiina
+- **Diintiisa:**: Islaam
+- **xaaska**: umu calaa al-ansaariya
+- **ilmahiisa**: khaarija bin zeyd bin saabit
+- **Dhintay:**: 45H /665
+- **Ku dhintay:**: madiina
+
+
+# Tables
+
+## Table 1
+| zeyd bin saabit زيد بن ثابت |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: | saabit bin daxaak |
+| hooyadii | Al-nawaar binti maalik |
+| Dhashay: | 611 |
+| Ku dhashay: | Madiina |
+| Diintiisa: | Islaam |
+| xaaska | umu calaa al-ansaariya |
+| ilmahiisa | khaarija bin zeyd bin saabit |
+|  |  |
+| Dhintay: | 45H /665 |
+| Ku dhintay: | madiina |

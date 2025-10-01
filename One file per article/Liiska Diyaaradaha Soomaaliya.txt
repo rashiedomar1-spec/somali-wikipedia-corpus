@@ -1,0 +1,101 @@
+title:
+Liiska Diyaaradaha Soomaaliya
+
+url:
+https://so.wikipedia.org/wiki?curid=20825
+
+text:
+Halkan waxaa jira liiska diyaaradaha ka howlgala Soomaaliya .
+
+Sidoo kale fiiri
+
+Tixraac
+
+Gego Diyaarad
+
+Socdaalka Soomaaliya
+
+Liiska Diyaaradaha Soomaaliya
+
+Garoonada Soomaaliya
+
+Liiska Gegooyinka Diyaaradaha Soomaaliya
+
+Berbera
+
+Boosaaso
+
+Gaalkacyo
+
+Hargaysa
+
+Muqdisho
+
+Caabudwaaq
+
+Boorama
+
+Burco
+
+Jowhar
+
+Cisaleey
+
+Garoowe
+
+Caluula
+
+Baydhabo
+
+Baardheere
+
+Beledweyne
+
+Ceerigaabo
+
+Eyl
+
+Garbaharey
+
+Guriceel
+
+Kismaayo
+
+Hobiyo
+
+Qandala
+
+Qardho
+
+Taleex
+
+Baladweyne
+
+Cadaado
+
+Buuhoodle
+
+Laascaanood
+
+Dhuusamareeb
+
+Iskushuban
+
+Air Somalia
+
+Diyaarada Daallo
+
+Diyaarada Jubba
+
+Diyaarada Soomaaliya
+
+
+# Tables
+
+## Table 1
+| Diyaarada | Sawir | IATA | ICAO | Magaca u gaarka | Bilowday Howlgalka | Faallo |
+| --- | --- | --- | --- | --- | --- | --- |
+| Air Somalia |  |  | RSM | Air Somalia | 2001 |  |
+| Diyaarada Daallo |  | D3 | DAO | Daallo Airlines | 1991 |  |
+| Diyaarada Jubba [ 1 ] |  | 6J | JBW | Jubba | 1998 |  |
+| Diyaarada Soomaaliya |  | HH | SOM | SOMALAIR | Duulista joojisay 1991 |  |

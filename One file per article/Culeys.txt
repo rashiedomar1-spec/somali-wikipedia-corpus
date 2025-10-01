@@ -1,0 +1,43 @@
+title:
+Culeys
+
+url:
+https://so.wikipedia.org/wiki?curid=8586
+
+text:
+Culeyska Waa awooda cuf-jiidashada ee dhulka, waxaana ogaaday aqoonyahakii Isxaaq Niyuton waxaana lagu cadeeyey Buuga lagumagacaabo Philosophiæ Naturalis Principia Mathematica
+
+F → = m g → {\displaystyle {\vec {F}}=m\,{\vec {g}}}
+
+g Waa Cuf isjiidka
+
+g = F m = G M T R T 2 {\displaystyle g={\frac {F}{m}}={\frac {GM_{T}}{{R_{T}}^{2}}}}
+
+Tusaale ahaan Haddii ay Cufnaanta walaxi tahay 200 Garaam, Cuf isjiidka waxa uu noqonayaa 2 Niyuton oo macnaheedu tahay Culeys ka.
+
+Haddii ay tahay Cufnaanta Walaxi dhulka guudkiis 1000 Garaam oo ah 1kg ,Cuf-jiidka dhulka waxa uu noqonayaa ku dhawaad 10 Niyuton,taa Oo macnaheedu yahay 1kg  waa Ku dhawaad 10 Niyuuton. F = G M T m R T 2 {\displaystyle F={\frac {GM_{T}m}{{R_{T}}^{2}}}}
+
+= 6,674 ⋅ 10 − 11 N m 2 k g − 2 ⋅ 5,974 ⋅ 10 24 k g ⋅ 1 k g ( 6,373 ⋅ 10 6 m ) 2 {\displaystyle =\mathrm {\frac {6{,}674\cdot 10^{-11}\ Nm^{2}kg^{-2}\cdot 5{,}974\cdot 10^{24}\ kg\cdot 1\ kg}{(6{,}373\cdot 10^{6}\ m)^{2}}} }
+
+≃ 9 , 82 N {\displaystyle \mathrm {\simeq 9{,}82\ N} }
+
+Cuf isjiidka meerayaasha hawada sare
+
+Jadwalkaan waxa uu kutusayaa xiriirka kadhaxeeya dhulka iyo Meerayaasha kale.
+
+
+# Tables
+
+## Table 1
+| Meerayaasha | Bar bardhigga dhulka | m/s² |
+| --- | --- | --- |
+| Qoraxda | 27,90 | 274,1 |
+| Meerkuri | 0,3770 | 3,703 |
+| Waxaraxir | 0,9032 | 8,872 |
+| Dhulka | 1 (Si loo Qeexo) | 9,8226 |
+| Bilsha (Dayaxa) | 0,1655 | 1,625 |
+| Farraare (marikh) | 0,3895 | 3,728 |
+| Cirjeex (cirjir) | 2,640 | 25,93 |
+| Raage (Saxal) | 1,139 | 11,19 |
+| Uraano | 0,917 | 9,01 |
+| Nebtuun | 1,148 | 11,28 |

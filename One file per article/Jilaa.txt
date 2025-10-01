@@ -1,0 +1,18 @@
+title:
+Jilaa
+
+url:
+https://so.wikipedia.org/wiki?curid=14120
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;157985&lt;/parentid&gt;
+ &lt;timestamp&gt;2025-05-29T09:39:45Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Girligaanshub&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;275316&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Jilaa (; ) waa qof jilaayo qiso ha ahaato mid dhacday ama mid dhici karto ha isugu jirto run iyo been lkn waa iska dhigid ama matal wax aana hada soconin jilaa waa qof mada daaliyo dad sida heesaay abwaan ama qof shactariiste ah sida sida qoraalada badi eey sheegaan filin la duubo waxa ugu horeysay 1920 lkn sida jilida waxa eey bilaawatay 550 miilaadiga ila 560 miiladiga lkn jilaa aniga ahaanteyda oo hada qormadaan qorayo ma garanaayo ninki ugu horeeye oo abid bilaawo lkn gabadhi ugu horeysay ee bilaawdo dhanka dumarka waxaa la odhan jidhay Margaret Hughes waxeey eheyd gabadh udhalay dalka ingriiska waxaa dhalay gabadhaa bqor xukumi jiray boqortooyada ingiriiska ee la odhan jidhay Prince Rupert of the Rhine gabadha waxa eey dhalatay sanadki 1630 miildaadiga waxa eeyna dhimatay sanadki 1719 miladiga.

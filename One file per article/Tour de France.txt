@@ -1,0 +1,9 @@
+title:
+Tour de France
+
+url:
+https://so.wikipedia.org/wiki?curid=34057
+
+text:
+Tour de France - tartanka baaskiilka ee &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt;.
+Dalxiiska maanta wuxuu sida caadiga ah daboolaa masaafo dhan 3,600 km oo ah marxalado 20 maalmood ah.

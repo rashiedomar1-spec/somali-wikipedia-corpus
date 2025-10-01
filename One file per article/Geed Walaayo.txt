@@ -1,0 +1,8 @@
+title:
+Geed Walaayo
+
+url:
+https://so.wikipedia.org/wiki?curid=6007
+
+text:
+Geed Walaayo waa geed ka baxo koonfurta dalka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt; iyo wadamada &lt;a href="Aduunka"&gt;caalamka&lt;/a&gt;.

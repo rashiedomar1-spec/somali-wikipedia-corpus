@@ -1,0 +1,43 @@
+title:
+Useyd bin xudeer
+
+url:
+https://so.wikipedia.org/wiki?curid=37195
+
+text:
+Useyd bin xudeer bin samaak bin catiik RC waa saxaabi ka mid ahaa odayaasha ansaar wuxuu ahaa dagaalyahaan aragti toosan leh. Aabihiisa xudeer al-kataaib ayuu ka dhaxlay hogaaminta iyo geesinimada, wuxuu ku dhintay madiina xiligii cumar bin khadaab .
+
+Taariikhda
+
+Xigasho
+
+
+# Infobox
+
+- **aabihiisa:**: Xudeer al-kataaib
+- **hooyadii**: Umu useyd binti sakan
+- **Dhashay:**: ka hor hijrada
+- **Ku dhashay:**: Madiina
+- **Diintiisa:**: Islaam
+- **ilmahiisa**: Yaxya bin useed
+- **Dhintay:**: 20H
+- **Ku dhintay:**: Madiina
+
+
+# Tables
+
+## Table 1
+| Useydbinxudeer أسيد بن حضير |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: | Xudeer al-kataaib |
+| hooyadii | Umu useyd binti sakan |
+| Dhashay: | ka hor hijrada |
+| Ku dhashay: | Madiina |
+| Diintiisa: | Islaam |
+| xaaska |  |
+| ilmahiisa | Yaxya bin useed |
+| walaalihiis |  |
+| Dhintay: | 20H |
+| Ku dhintay: | Madiina |

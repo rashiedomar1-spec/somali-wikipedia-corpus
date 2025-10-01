@@ -1,0 +1,33 @@
+title:
+Lee Hye-bin
+
+url:
+https://so.wikipedia.org/wiki?curid=35014
+
+text:
+Lee Hye-bin (이혜빈; Janaayo 12, 1996) waa heesaa reer Koonfur Kuuriya oo sida ugu wanaagsan loogu yaqaan xubin ka mid ah kooxda gabdhaha Momoland .
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Lee Hye-bin
+- **Dhashay**: ( 1996-01-12 ) Janaayo 12, 1996 ( 29jir) Andong , Koonfur Kuuriya
+- **Occupations**: Idol
+- **Sanadaha Shaqada**: 2016–hada
+- **Falalka la xiriira**: Momoland
+
+
+# Tables
+
+## Table 1
+| Hyebin (이혜빈) |
+| --- |
+| Lee ee 2022 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Lee Hye-bin |
+| Dhashay | ( 1996-01-12 ) Janaayo 12, 1996 ( 29jir) Andong , Koonfur Kuuriya |
+| Occupations | Idol |
+| Sanadaha Shaqada | 2016–hada |
+| Falalka la xiriira | Momoland |

@@ -1,0 +1,70 @@
+title:
+Dhaboolaq
+
+url:
+https://so.wikipedia.org/wiki?curid=19818
+
+text:
+Dhaboolaq waa degmo ka tirsan gobolka Woqooyi Galbeed ee soomaaliya hada waxaa ay hoostagtaa maamulka Somaliland oo ka madax banaani sheegtay Somalia .
+
+Xigasho
+
+Waa degmada u wayn maroodi jex marka gabilay laga imaado by fuaad jaakule ]]
+
+Dhaboolaq, Somalia
+
+Hargeysa
+
+Salaxleey
+
+Laasgeel
+
+Faraweyne
+
+Daarasalaam
+
+Cadaadley
+
+Sabawanaag
+
+Balli Mataan
+
+Dacarta
+
+Habariheshay
+
+Allaybaday
+
+Abaarso
+
+Arabsiyo
+
+Baligubadle
+
+Dhaboolaq
+
+[[Dacar Budhuq ama degmada laasgeel
+
+Wajaale
+
+
+# Infobox
+
+- **Dalka**: Somaliland
+- **Gobol**: Woqooyi Galbeed
+- **Degmo**: Hargeysa
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Dhaboolaq |
+| --- |
+| Degmo |
+|  |
+| Dhaboolaq Location in Somaliland |
+| Dalka | Somaliland |
+| Gobol | Woqooyi Galbeed |
+| Degmo | Hargeysa |
+| Aag saacadeed | UTC+3 ( EAT ) |

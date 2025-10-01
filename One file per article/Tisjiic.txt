@@ -1,0 +1,37 @@
+title:
+Tisjiic
+
+url:
+https://so.wikipedia.org/wiki?curid=30869
+
+text:
+Tisjiic ( Af Ingiriis : Tsijic ) ( Af Carabi : لاسعانود ‎), Waa Magaalo ka tirsan gobolka Bari Waxay 90 Kiilomitir u jirtaa Magaalada Boosaaso . Waxa ay ku Caantahay Dhirta Dhaadheer ee Dhif iyo naadirka in laga helo Soomaaliya ee la yiraahdo [Daabaanta] iyo Geedaha Maydiga,Beeyada oo soomaaliya ay caan ku tahay Sidookale Tisjiicwaa laba Qaybood ama laba xaafadood Oo kala ah Tisjiic sare iyo Tisjiic Hoose waxaana u dhexeeya Buur masaafi ahaan waxa ay isu Jiraan 1 Km
+
+Puntland
+
+
+# Infobox
+
+- **Country**: Somalia Puntland
+- **Gobolka**: Bari
+- **Magaalo**: Boosaaso
+- **• Nuuca**: Magaalo
+- **• Duqa Magaalada**: Ahmed Abshir Farah Buhe
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Tisjiic/Tishiic Tisjic |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somalia Puntland |
+| Gobolka | Bari |
+| Magaalo | Boosaaso |
+| Dowlada |
+| • Nuuca | Magaalo |
+| • Duqa Magaalada | Ahmed Abshir Farah Buhe |
+| Aag saacadeed | UTC+3 ( EAT ) |

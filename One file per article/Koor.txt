@@ -1,0 +1,30 @@
+title:
+Koor
+
+url:
+https://so.wikipedia.org/wiki?curid=8635
+
+text:
+Koor waxa ay leedahay afar xagal laba xarriiq oo kamid ah waa Barbaroolayaal oo is dhinac socda.
+
+Bedka Koorta waxaa loo xisaabaa Dhererka xarriiqa salka + xarriiqa barbarada la ah oo lagu dhufto Joogga oo laba loo qaybshay.
+
+B e d = a + b 2 ⋅ h {\displaystyle Bed={\frac {a+b}{2}}\cdot h}
+
+
+# Infobox
+
+- **Dhinacyada iyo Geesaha**: 4
+- **Bed**: a + b 2 h {\displaystyle {\tfrac {a+b}{2}}h}
+- **Astaamaha**: Ma toosna
+
+
+# Tables
+
+## Table 1
+| Koor |
+| --- |
+| Koor |
+| Dhinacyada iyo Geesaha | 4 |
+| Bed | a + b 2 h {\displaystyle {\tfrac {a+b}{2}}h} |
+| Astaamaha | Ma toosna |

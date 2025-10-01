@@ -1,0 +1,11 @@
+title:
+Taageero (Xisaabta)
+
+url:
+https://so.wikipedia.org/wiki?curid=38077
+
+text:
+"Kani waa maqaal ku saabsan xisaabta. adeegsi kale, eeg &lt;a href="Taageero%20%28faah%20faahin%29"&gt;Taageero (faah faahin)&lt;/a&gt;."
+Taageerada (ama hagidda gaar ah) waa noocyada gaaray xisaabta oo si loo baahan yahay si loo badelo noocyada kale ee cuntada. Waxay bixisaa asaasiga aqoonti ah oo ku saabsan suurtogalnimada dhacdooyinka aan la shaqeeyay oo kuwaasoo ka shaqeynaya dhibcaha dhaqaale iyo injineeriyada muhiimka ah. Munaasabad culus ee taageerada waa kuwa &lt;a href="Dirac%20delta"&gt;Dirac delta&lt;/a&gt;, oo loo isticmaalaa siyaabo kala duwan oo ka jira xog ku yaal "daraaxad" ama "ifafaalo". Furuudaha taageerada, oo lagu magacaabo xoroyada Sobolev, waa noocyada asaasiga ah ee gumaysiga iyo cilmi-noolaanshaha, waxayna aqbashay ilmahaas Darajaadkaan loogu talagalay inuu ka kooban yahay sharafta iyo farsamo oo ku saabsan waxyaabaha nabadgelyada iyo dhaqaale ee khatar ah.
+&lt;a href="Dirac%20delta"&gt;Dirac delta&lt;/a&gt; waa cuntada oo ka mid ah midkasta oo sifo uun uun, kaasoo laga bilaabo x = 0; ka badalidnaanta cuntadaas waa mid caadi ah oo la yiraahdo 1. Sharaxaadkan fog waxay midkaas ku noqonaysaa mid sharci darro ah, sababtoo ah ma jiro waxay ahayd awood qeybsiga cuntadaas oo x = 0, waxayna ka kooban yihiin sifo uun uun. Fikradaha madaxda ah ee Dirac waa la sameeyey habka gaar ah ee xisaabta ah oo ku saabsan Cauchy oo la xiriira dhibcaha miiska aad u dhaqan. &lt;a href="Laurent%20Schwartz"&gt;Laurent Schwartz&lt;/a&gt; ayaa ku soo saaray "Théorie des Distributions"-ka ah 1950, oo ay wadaagaan dabeecadda noocyada gaaray oo ku dhex wanaajiyeen waxyaabahaas keliya ee ka horreeyay.
+formula_1

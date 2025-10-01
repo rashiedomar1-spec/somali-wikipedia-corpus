@@ -1,0 +1,60 @@
+title:
+Waddanka Peru Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35079
+
+text:
+Waddanka Peru Kubedka
+
+FIFA
+
+CONMEBOL
+
+1	GK	Pedro Gallese (captain)	23 February 1990 (age 31)	83	0	United States Orlando City
+
+21	GK	José Carvallo	1 March 1986 (age 35)	7	0	Peru Universitario
+
+12	GK	Ángelo Campos	27 April 1993 (age 28)	0	0	Peru Alianza Lima
+
+DF	Christian Ramos	4 November 1988 (age 33)	89	3	Peru Alianza Lima
+
+DF	Aldo Corzo	20 May 1989 (age 32)	41	0	Peru Universitario
+
+DF	Alexander Callens	4 May 1992 (age 29)	25	1	United States New York City
+
+DF	Marcos López	20 November 1999 (age 22)	17	0	United States San Jose Earthquakes
+
+DF	Nilson Loyola	26 October 1994 (age 27)	6	0	Peru Sporting Cristal
+
+DF	Jhilmar Lora	24 October 2000 (age 21)	4	0	Peru Sporting Cristal
+
+DF	Renzo Garcés	12 June 1996 (age 25)	0	0	Peru Universidad César Vallejo
+
+DF	Gianfranco Chávez	10 August 1998 (age 23)	0	0	Peru Sporting Cristal
+
+19	MF	Yoshimar Yotún	7 April 1990 (age 31)	112	5	Unattached
+
+MF	Edison Flores	15 May 1994 (age 27)	57	13	United States D.C. United
+
+MF	Josepmir Ballón	21 March 1988 (age 33)	54	0	Peru Alianza Lima
+
+MF	Christofer Gonzáles	12 October 1992 (age 29)	31	2	Peru Sporting Cristal
+
+7	MF	Sergio Peña	28 September 1995 (age 26)	22	3	Sweden Malmö
+
+MF	Horacio Calcaterra	22 February 1989 (age 32)	6	0	Peru Sporting Cristal
+
+MF	Oslimg Mora	2 June 1999 (age 22)	1	0	Peru Alianza Lima
+
+MF	Jairo Concha	27 May 1999 (age 22)	0	0	Peru Alianza Lima
+
+MF Jesús Castillo 11 June 2001 (age 20)	0	0	Peru Sporting Cristal
+
+10	FW	Jefferson Farfán	26 October 1984 (age 37)	102	27	Peru Alianza Lima
+
+FW	Andy Polo	29 September 1994 (age 27)	35	1	United States Portland Timbers
+
+FW	Luis Iberico	6 February 1998 (age 23)	3	0	Peru Melgar
+
+FW	Alex Valera	16 May 1996 (age 25)	2	0	Peru Universitario

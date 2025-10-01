@@ -1,0 +1,63 @@
+title:
+Casuus (midabka)
+
+url:
+https://so.wikipedia.org/wiki?curid=17619
+
+text:
+Kani waa maqaal ku saabsan midabka Soosaniga. Haku khaldin boga Bun
+
+Kani waa maqaal ku saabsan midabka Soosaniga. Haku khaldin boga Bun
+
+Casuus ( Af Ingiriis : Violet ; Af Carabi : لاسعانود ‎) waa midab oo ubaxda verben u eeg oo giriftan ahaan u aabaabuleyso muddadii iskudarka casuuska iyo buluuga kaasi oo inta badan ah midab jaamud ah. [ 2 ] [ 3 ]
+
+Saddex -xagalka violet
+
+Light and Color
+
+Color
+
+Ileys
+
+Ileyska Ili Qabatayga
+
+Qaanso Roob
+
+Midab ugu muhiimsan
+
+Mugdi
+
+Arag La'aan
+
+
+# Infobox
+
+- **Dherer**: 380–450 nm
+- **Xawaare**: 790–666 THz
+- **Qoraalka midabka**: #8000FF
+- **sRGB B ( cs , cg , bl )**: (128, 0, 255)
+- **CMYK H ( bx , bs , h , m )**: (50, 100, 0, 0)
+- **HSV       ( m , j, c )**: (270°, 100%, 100%)
+- **Source**: Midabada asaasiga ah
+
+
+# Tables
+
+## Table 1
+| Soosani |
+| --- |
+|  |
+| Xidhiidhka Midabada |
+| Dherer | 380–450 nm |
+| Xawaare | 790–666 THz |
+| Midab Xidhiidhiye |
+| Qoraalka midabka | #8000FF |
+| sRGB B ( cs , cg , bl ) | (128, 0, 255) |
+| CMYK H ( bx , bs , h , m ) | (50, 100, 0, 0) |
+| HSV       ( m , j, c ) | (270°, 100%, 100%) |
+| Source | Midabada asaasiga ah |
+| B : Lagu hagaajiyey [0–255] (byte) H : Lagu hagaajiyey [0–100] (boqol) |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Casuus (midabka) |
+| --- | --- |

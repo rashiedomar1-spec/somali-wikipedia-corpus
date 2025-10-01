@@ -1,0 +1,39 @@
+title:
+Yemen falaga
+
+url:
+https://so.wikipedia.org/wiki?curid=19730
+
+text:
+Yemen falaga ka Yemen , Laga soo BC qarnigii 8aad bilow Bixiso Meere la jaalka . Maanta, Yemen falaga ee Geeska Afrika ( Itoobiya , Eritrea , Soomaaliya iyo Jabuuti ), Yemen, Suudaan iyo meelo kale waxaa loo isticmaalaa madadaalada iyo hawlo sharci, iyo sayniska caanka ah.
+
+Yemen falaga Shir tagayso
+
+Qaabka qoraalka maqaalkan ma ahan mid habaysan oo waafaqsan habka wax qorista ee Soomaali Wikipedia .
+
+Qoraalka bogani ma lahan caddaymo iyo tixraac lagu kalsoonaan karo.
+
+Qoraalka waa mid kooban (yar); ama warbixin la fahmi karo ma lahan.
+
+Micnaha guud ee warbixinta bogan waxay u janjeedhaa hal dhinac; qoraalku waa fikrada iyo aragtida hal qof.
+
+Qoraalka bogan waxaa ku jira Af-Qalaad.
+
+
+# Tables
+
+## Table 1
+| Shir tagayso | Taariikhda | Guryaha cunsurka | Meere la jaalka |
+| --- | --- | --- | --- |
+| Aries | March 21-April 19 | Fire | Qorax |
+| Taurus | April 20-May 20 | Earth | Dayaxa |
+| Gemini | May 21-June 21 | Air | Waxaraxir |
+| Cancer | June 22-July 22 | Water | Cirjeex iyo Docey |
+| Leo | July 23-August 22 | Fire | Farraare iyo Bluto |
+| Virgo | August 23-September 22 | Earth | Dusaa |
+| Libra | September 23-October 23 | Air | Raage |
+| Scorpio | October 24-November 22 | Water | Raage iyo Uroono |
+| Sagittarius | November 23-December 21 | Fire | Cirjeex |
+| Capricorn | December 22-January 19 | Earth | Farraare |
+| Aquarius | January 20-February 18 | Air | Dusaa |
+| Pisces | February 19-March 20 | Water | Waxaraxir |

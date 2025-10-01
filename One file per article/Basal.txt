@@ -1,0 +1,10 @@
+title:
+Basal
+
+url:
+https://so.wikipedia.org/wiki?curid=5500
+
+text:
+Basal waa geed ka baxdo dhulka, waxeena ka midtahay qudaarta lagu kariyo cuntada.
+basashu waxa ay kamidtahay &lt;a href="bahda%20toonta"&gt;bahda toonta&lt;/a&gt; ee leh urta aadka u xooga badan basashu caafimaadka aad iyo aad ayay ugu fiicantahy
+waddanamaha Basal Dundia Milyan Tons

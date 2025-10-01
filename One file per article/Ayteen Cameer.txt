@@ -1,0 +1,28 @@
+title:
+Ayteen Cameer
+
+url:
+https://so.wikipedia.org/wiki?curid=34760
+
+text:
+Ayteen Cameer ( Carabi : ايتن عامر) (dhashay Samar Axmed Maxamed Cabdul Ghaffar Caamer ; سمر أحمد محمد عبد الغفار عامر) waa atariisho Masar ah.
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1986-11-22 ) Nofeembar 22, 1986 ( 38jir) Aleskandria , Masar
+- **Sanadaha Shaqada**: 2004–hada
+- **Xaasaska**: Mohammed Ezzelarab ( g. 2015)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Ayteen Cameer |
+| --- |
+|  |
+| Ku dhashay | ( 1986-11-22 ) Nofeembar 22, 1986 ( 38jir) Aleskandria , Masar |
+| Sanadaha Shaqada | 2004–hada |
+| Xaasaska | Mohammed Ezzelarab ( g. 2015) |
+| Ilmaha | 1 |

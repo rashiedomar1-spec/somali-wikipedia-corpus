@@ -1,0 +1,68 @@
+title:
+Waddanka South Sudan Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35502
+
+text:
+Waddanka South Sudan Kubedka
+
+South Sudan
+
+CAF
+
+CECAFA
+
+FIFA
+
+GK	Juma Genaro	28 February 1988 (age 33)	29	0	Sudan Hay Al-Arab
+
+GK	Majak Mawith	18 September 1999 (age 22)	9	0	Australia Port Melbourne
+
+GK	Ramadan Diing	13 March 2000 (age 21)	5	0	South Sudan Malakia
+
+DF	Peter Maker (captain)	1 January 1994 (age 28)	17	0	Zambia ZESCO United
+
+DF	Mutwakil Abdelkarim	4 August 1992 (age 29)	10	0	South Sudan Atlabara
+
+DF	Omot Sebit	9 October 1998 (age 23)	9	0	Sudan Alamal Atbara
+
+DF	John Kuol Chol	9 November 1999 (age 22)	3	0	Kenya Wazito
+
+DF	Rashid Toha	9 October 1997 (age 24)	3	0	Uganda Vipers
+
+DF	Geofrey Akol		1	0	South Sudan Munuki
+
+DF	Samuel Taban		1	0	South Sudan Kator
+
+DF	Abane Along		0	0	Unknown
+
+DF	Vitali Paulina		0	0	Unknown
+
+MF	Peter Chol	23 October 1994 (age 27)	17	1	South Sudan Kator
+
+MF	Jackson Morgan	18 August 1998 (age 23)	10	0	Australia Stirling Macedonia
+
+MF	Saad Musa	6 August 1995 (age 26)	5	0	Kenya Leopards
+
+MF	Ivan Wani	12 December 1998 (age 23)	5	0	Sudan Alamal Atbara
+
+MF	Data Elly		3	0	Uganda Kyetume
+
+MF	William Gama		3	0	South Sudan Malakia
+
+MF	Maker Marial	1 July 1999 (age 22)	3	0	Lithuania Atmosfera
+
+FW	Tito Okello	7 January 1996 (age 26)	8	1	Kenya Gor Mahia
+
+FW	Loki Emmanuel	14 November 2001 (age 20)	2	1	Uganda Bright Stars
+
+FW	William Akio	23 July 1998 (age 23)	1	0	Canada Valour
+
+FW	Machop Chol	14 November 1998 (age 23)	1	0	United States Atlanta United
+
+FW	Khamis Atari		0	0	Unknown
+
+FW	Kur Gai		0	0	Australia Adelaide City
+
+FW	Valentino Yuel	12 October 1994 (age 27)	1	1	Australia Newcastle Jets

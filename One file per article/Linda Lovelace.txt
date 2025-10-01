@@ -1,0 +1,31 @@
+title:
+Linda Lovelace
+
+url:
+https://so.wikipedia.org/wiki?curid=32619
+
+text:
+Linda Lovelace (waxay dhashay Linda Susan Boreman ; Janaayo 10, 1949 - 22 Abriil 2002) waxay ahayd atariisho Mareykan ah oo qaawan oo ku caan baxday waxqabadkeedii filimkii Deep Throat ee 1972-kii. In kasta oo filimku guuleystay, haddana Boreman wuxuu goor dambe sheegay in ninkeeda xadgudubka badan, Chuck Traynor, uu ugu hanjabay kuna qasbay inay filimka samayso.  Buugeeda Ordeal , waxay ku sharaxday wixii ka dambeeyay daaha gadaashiisa. Markii dambe waxay noqotay Masiixi .
+
+Chuck Traynor ( g. 1971; fur 1974)
+
+Larry Marchiano ( g. 1974; fur 1996)
+
+
+# Infobox
+
+- **Ku dhashay**: Linda Susan Boreman ( 1949-01-10 ) Janaayo 10, 1949 The Bronx, New York , Mareykan
+- **Dhimasho**: Abriil 22, 2002 ( 2002-04-22 ) (da'da 53jir) Denver, Colorado, Mareykan
+- **Xaasaska**: Chuck Traynor ( g. 1971; fur 1974) Larry Marchiano ( g. 1974; fur 1996)
+
+
+# Tables
+
+## Table 1
+| Linda Lovelace |
+| --- |
+| An undated photo of Lovelace |
+| Ku dhashay | Linda Susan Boreman ( 1949-01-10 ) Janaayo 10, 1949 The Bronx, New York , Mareykan |
+| Dhimasho | Abriil 22, 2002 ( 2002-04-22 ) (da'da 53jir) Denver, Colorado, Mareykan |
+| Xaasaska | Chuck Traynor ( g. 1971; fur 1974) Larry Marchiano ( g. 1974; fur 1996) |
+| Saxiixa |  |

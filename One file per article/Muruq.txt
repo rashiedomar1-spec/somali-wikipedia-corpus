@@ -1,0 +1,8 @@
+title:
+Muruq
+
+url:
+https://so.wikipedia.org/wiki?curid=4372
+
+text:
+Muruq wa qeybo ku yaal jidhka dadka iyo &lt;a href="xayawaan"&gt;xayawaan&lt;/a&gt;aha. &lt;a href="Xoog"&gt;Xoog&lt;/a&gt; bey siisa iyo lafaha ayu dhaqaajiya.

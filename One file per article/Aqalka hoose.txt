@@ -1,0 +1,9 @@
+title:
+Aqalka hoose
+
+url:
+https://so.wikipedia.org/wiki?curid=19192
+
+text:
+Aqalka Hoose ama golaha guud waa mid ka mi ah &lt;a href="Baarlamaan"&gt;labada gole&lt;/a&gt; wuxuuna la shaqeeyaa &lt;a href="Aqalka%20Sare"&gt;aqalka sare&lt;/a&gt; ee awooda sharci dajinta.
+Aqalka hoose wuxuu matalaa shacabka ee baarlamaan ka kooban laba gole.

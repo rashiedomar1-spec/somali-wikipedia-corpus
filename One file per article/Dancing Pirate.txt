@@ -1,0 +1,48 @@
+title:
+Dancing Pirate
+
+url:
+https://so.wikipedia.org/wiki?curid=31593
+
+text:
+Dancing Pirate waa filim 1936 Mareykan ah [ 1 ] [ 2 ] [ 3 ] .
+
+Tixraacyo
+
+
+# Infobox
+
+- **Directed by**: Lloyd Corrigan
+- **Written by**: Ray Harris Francis Edward Faragoh Jack Wagner Boris Ingster Emma-Lindsay Squier
+- **Produced by**: Merian C. Cooper John Speaks
+- **Starring**: Rita Hayworth
+- **Cinematography**: William V. Skall
+- **Edited by**: Archie Marshek
+- **Music by**: Alfred Newman Richard Rodgers & Lorenz Hart
+- **Production company**: Pioneer Pictures
+- **Distributed by**: RKO Pictures
+- **Release date**: May 22, 1936
+- **Running time**: 83 daqiiqado
+- **Country**: Mareykanka
+- **Language**: Ingiriis
+
+
+# Tables
+
+## Table 1
+| Dancing Pirate |
+| --- |
+|  |
+| Directed by | Lloyd Corrigan |
+| Written by | Ray Harris Francis Edward Faragoh Jack Wagner Boris Ingster Emma-Lindsay Squier |
+| Produced by | Merian C. Cooper John Speaks |
+| Starring | Rita Hayworth |
+| Cinematography | William V. Skall |
+| Edited by | Archie Marshek |
+| Music by | Alfred Newman Richard Rodgers & Lorenz Hart |
+| Production company | Pioneer Pictures |
+| Distributed by | RKO Pictures |
+| Release date | May 22, 1936 |
+| Running time | 83 daqiiqado |
+| Country | Mareykanka |
+| Language | Ingiriis |

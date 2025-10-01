@@ -1,0 +1,16 @@
+title:
+Degree (angle)
+
+url:
+https://so.wikipedia.org/wiki?curid=12544
+
+text:
+Degree
+Degree (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: Degree) waa &lt;a href="halbeeg"&gt;halbeeg&lt;/a&gt; leh astaanta (&lt;a href="%C2%B0"&gt;°&lt;/a&gt;) oo lagu cabiro qiyaaso ka mid ah &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta, &lt;a href="juquraafi"&gt;juquraafi&lt;/a&gt;ga, &lt;a href="heerkul"&gt;heerkul&lt;/a&gt;ka iyo &lt;a href="saynis"&gt;saynis&lt;/a&gt;ka. 
+Marka &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta lagu isticmaalayo degreegu (°) waa qiyaasta &lt;a href="xagal"&gt;xagal toosan&lt;/a&gt; (plane angle) oo wuxuu u dhigmaa 1/360 goobo dhamaystiran. 
+Tusaale ahaan &lt;a href="xagal"&gt;xagasha&lt;/a&gt; 90° waa rubuc goobo dhamaystiran. 
+Maadaama wareega goobo dhamaystiran la mid yahay 2π gacmood (radius), hal degree wuxuu la mid yahay π/180 gacan. 
+Dhinaca kale, &lt;a href="juquraafi"&gt;juquraafi&lt;/a&gt;ga dhexdiisa degreega waxaa loo isticmaalaa in lagu calaamadeeyo &lt;a href="lool"&gt;lool&lt;/a&gt;asha, &lt;a href="dhig"&gt;dhig&lt;/a&gt;aha iyo &lt;a href="saacad"&gt;saacad&lt;/a&gt;a. 
+Tusaale ahaan, dhigta 34° &lt;a href="galbeed"&gt;galbeed&lt;/a&gt; 86° &lt;a href="koonfur"&gt;koonfur&lt;/a&gt;. 
+Sidoo kale, marka laga hadlayo &lt;a href="heerkul"&gt;heerkul&lt;/a&gt;ka waxaa la isticmaalaa &lt;a href="salsiyas"&gt;degree salsiyas&lt;/a&gt; (&lt;a href="%C2%B0C"&gt;°C&lt;/a&gt;) iyo &lt;a href="kelfin"&gt;degree kelfin&lt;/a&gt; (&lt;a href="%C2%B0K"&gt;°K&lt;/a&gt;). 
+= Halbeega Degreega =

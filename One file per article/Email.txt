@@ -1,0 +1,14 @@
+title:
+Email
+
+url:
+https://so.wikipedia.org/wiki?curid=17187
+
+text:
+"Maqaalkani wuxuu ku saabsan yahay email-ka. Qoraalo kale "email nooc kale ah". Ciwaanada ugu caansan halkan ka fiiri: &lt;a href="Gmail"&gt;Gmail&lt;/a&gt;, &lt;a href="Hotmail"&gt;Hotmail&lt;/a&gt;, &lt;a href="yahoo"&gt;Yahoo! Mail&lt;/a&gt;."
+Email (loogu dhawaaqo "iimeyl") waa nidaam casri ah oo waraaqaha lagu diro ama helo ayadoo la isticmaalayo aalada &lt;a href="internet"&gt;internet&lt;/a&gt;ka. Email waxaa laga soo gaabiyey xarfaha "electronic mail" (electronic mail) kaasi oo caan noqdey dhamaadkii sanadkii 1993kii. Wakhtiyadii ugu horeeyay ee emailka la isticmaalo waa ilaa 1970kii goortaasi ooy isticmaali jireen hay'adaha sirdoonka dawlada &lt;a href="Maraykanka"&gt;Maraykanka&lt;/a&gt;. Warqada emailku waxay ka kooban tahay sadex waaxood oo kala ah: "bakhshada warqada", "ciwaanka" iyo "fariinta". 
+Si aad email u dirto ama hesho waa in aad lahaataa ciwaan ka kooban magac iyo martigeliye (host) midkaasi oo shaqenaya ama ku xidhan khadka &lt;a href="internet"&gt;internet&lt;/a&gt;ka.
+Emailada ugu caansan maanta dunida waxaa ka mid ah:
+sido kale fiiri.
+=Qoraalo La Mid ah=
+=Tixraac=

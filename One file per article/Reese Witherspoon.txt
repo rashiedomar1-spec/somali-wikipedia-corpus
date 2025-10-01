@@ -1,0 +1,36 @@
+title:
+Reese Witherspoon
+
+url:
+https://so.wikipedia.org/wiki?curid=35186
+
+text:
+Laura Jeanne Reese Witherspoon (Maarso 22, 1976) waa atariisho Mareykan ah, soo saare, iyo ganacsade. Qofka helay abaal-marinno kala duwan, oo ay ku jiraan Abaalmarinta Akadeemiyada , laba Abaalmarinta Golden Globe , Abaalmarinta Filimka Akademiyadda Ingiriiska , Abaalmarinta Jilayaasha Shaashada , iyo Abaalmarinta Primetime Emmy , waa mid ka mid ah jilayaasha ugu mushaarka badan adduunka illaa 2019.
+
+Tix
+
+Ryan Phillippe ( g. 1999; fur 2007)
+
+Jim Toth ( g. 2011)
+
+
+# Infobox
+
+- **Ku dhashay**: Laura Jeanne Reese Witherspoon ( 1976-03-22 ) Maarso 22, 1976 ( 49jir) New Orleans , Louisiana
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 1991–hada
+- **Xaasaska**: Ryan Phillippe ( g. 1999; fur 2007) Jim Toth ( g. 2011)
+- **Ilmaha**: 3
+
+
+# Tables
+
+## Table 1
+| Reese Witherspoon |
+| --- |
+|  |
+| Ku dhashay | Laura Jeanne Reese Witherspoon ( 1976-03-22 ) Maarso 22, 1976 ( 49jir) New Orleans , Louisiana |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 1991–hada |
+| Xaasaska | Ryan Phillippe ( g. 1999; fur 2007) Jim Toth ( g. 2011) |
+| Ilmaha | 3 |

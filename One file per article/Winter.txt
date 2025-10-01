@@ -1,0 +1,37 @@
+title:
+Winter
+
+url:
+https://so.wikipedia.org/wiki?curid=35264
+
+text:
+Kim Min-jeong ( Hangul : 김민정; Janaayo 1, 2001) oo loo yaqaan Winter , waa heesaa Koonfur Kuuriya iyo xubin ka tirsan Aespa . [ 1 ]
+
+Tix
+
+Aespa
+
+Got the Beat
+
+
+# Infobox
+
+- **Magaca dhalashada**: Kim Min-jeong
+- **Dhashay**: ( 2001-01-01 ) Janaayo 1, 2001 ( 24jir) Busan , Koonfur Kuuriya
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2020–hada
+- **Calaamadaha**: SM Entertainment
+- **Falalka la xiriira**: Aespa Got the Beat
+
+
+# Tables
+
+## Table 1
+| Winter |
+| --- |
+| Magaca dhalashada | Kim Min-jeong |
+| Dhashay | ( 2001-01-01 ) Janaayo 1, 2001 ( 24jir) Busan , Koonfur Kuuriya |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2020–hada |
+| Calaamadaha | SM Entertainment |
+| Falalka la xiriira | Aespa Got the Beat |

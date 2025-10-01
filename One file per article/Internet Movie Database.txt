@@ -1,0 +1,45 @@
+title:
+Internet Movie Database
+
+url:
+https://so.wikipedia.org/wiki?curid=15138
+
+text:
+Internet Movie Database ( Af Soomaali : Xog-ururinta Filimaanta Internetka ; Af Carabi : لاسعانود ‎; loo soo gaabiyo IMDb ) waa xog-ururin internet ah oo ku saabsan macluumaadka la xidhiidha filimada , barnaamijyada telefishanka, iyo kulan video, qaadanaya jilayaasha, koox-soo-saarka, characters khayaalka, taariikh nololeed, nuqulo kooban goob, iyo tirifiyaha. Hawlwadeenada iyo koox post karo ay hantiileyaasha u gaar ah iyo upload photos isu of for lacag sannadle ah. Users Maraykanka ayaa sidoo kale arki kartaa in ka badan 6,000 oo movies iyo telefishinka ka soo CBS, Sony, iyo kala duwan oo dejiya filim madax-banaan.
+
+Sida lagu sheegay warbixin, badhtamihii 2016ka IMDb waxay heeysaa xog dhan 3.7 milyan [ 2 ] oo filim, atoore , barnaamijyo iyo madadaalo kale iyo isticmaalayaal diwaan gashan oo dhan 67 milyan.
+
+Guud ahaan, IMDb waa websiteka 53aad ee ugu siyaarashada, isticmaalayaasha iyo awooda badan ee caalamka. [ 3 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: imdb.com
+- **Ganacsi?**: Haa
+- **Nooca site**: Website xog-ururin telefishanka, iyo kulan video
+- **Diiwaan-gelin**: Diiwaangelinta waa ikhtiyaari ah xubnaha in ay ka qeyb qaataan wada, comments, ratings, iyo codbixinta.
+- **Diyaar ku ah**: Ingiriis
+- **Mulkiilaha**: Amazon.com
+- **Farsamada**: Col Needham (Madaxa sare)
+- **La bilaabay isticmaalka**: Oktoobar 17, 1990 ; 34 sanadood ka hor ( 1990-10-17 )
+- **Alexa garaado**: 48 (Julay 2014 [update] ) [ 1 ]
+- **Hada**: Firfircoon
+
+
+# Tables
+
+## Internet Movie Database (IMDb)
+|   |
+| --- |
+| Cinwaanka | imdb.com |
+| Ganacsi? | Haa |
+| Nooca site | Website xog-ururin telefishanka, iyo kulan video |
+| Diiwaan-gelin | Diiwaangelinta waa ikhtiyaari ah xubnaha in ay ka qeyb qaataan wada, comments, ratings, iyo codbixinta. |
+| Diyaar ku ah | Ingiriis |
+| Mulkiilaha | Amazon.com |
+| Farsamada | Col Needham (Madaxa sare) |
+| La bilaabay isticmaalka | Oktoobar 17, 1990 ; 34 sanadood ka hor ( 1990-10-17 ) |
+| Alexa garaado | 48 (Julay 2014 [update] ) [ 1 ] |
+| Hada | Firfircoon |

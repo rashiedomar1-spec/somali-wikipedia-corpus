@@ -1,0 +1,40 @@
+title:
+Narendra Modi
+
+url:
+https://so.wikipedia.org/wiki?curid=31654
+
+text:
+Narendra Damodardas Modi (wuxuu dhashay 17-kii Sebtember 1950) waa siyaasi Hindi ah oo haya 14-kii iyo hadda Raiisel Wasaaraha India tan iyo 2014.
+
+WorldCat Identities
+
+VIAF : 95532763
+
+LCCN : no2002016337
+
+ISNI : 0000 0000 7887 7372
+
+GND : 138922926
+
+SUDOC : 144692430
+
+BNF : cb17856964q (data)
+
+BIBSYS : 1523345889619
+
+MusicBrainz : c70fe252-9f6a-4082-b447-22c66e52b571
+
+NLA : 61392339
+
+NDL : 001268203
+
+NCL : 004550789
+
+NKC : jo20191049682
+
+RLS : 000149304
+
+CiNii : DA17504268
+
+KulturNav : id

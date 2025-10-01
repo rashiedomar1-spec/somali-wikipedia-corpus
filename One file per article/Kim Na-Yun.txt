@@ -1,0 +1,35 @@
+title:
+Kim Na-Yun
+
+url:
+https://so.wikipedia.org/wiki?curid=35708
+
+text:
+Kim Na-yun ( Kuuriyaan : 김나윤 ; Sebteembar 27, 1999) oo si fiican loogu yaqaanay Nayun , waa heesaa Koonfur Kuuriya, oo loo yaqaan xubin ka mid ah kooxda gabdhaha Momoland . [ 1 ]
+
+Tixraac
+
+
+# Infobox
+
+- **Magaca dhalashada**: Kim Na-yun (김나윤)
+- **Dhashay**: ( 1998-08-31 ) Agoosto 31, 1998 ( 27jir) Seoul , Koonfur Kuuriya
+- **Occupations**: Idol
+- **Sanadaha Shaqada**: 2016–hada
+- **Calaamadaha**: MLD Entertainment
+- **Falalka la xiriira**: Momoland
+
+
+# Tables
+
+## Table 1
+| Nayun |
+| --- |
+| Kim ee Jaanayo 2022 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Kim Na-yun (김나윤) |
+| Dhashay | ( 1998-08-31 ) Agoosto 31, 1998 ( 27jir) Seoul , Koonfur Kuuriya |
+| Occupations | Idol |
+| Sanadaha Shaqada | 2016–hada |
+| Calaamadaha | MLD Entertainment |
+| Falalka la xiriira | Momoland |

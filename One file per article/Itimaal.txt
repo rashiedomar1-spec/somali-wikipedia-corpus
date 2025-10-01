@@ -1,0 +1,56 @@
+title:
+Itimaal
+
+url:
+https://so.wikipedia.org/wiki?curid=15991
+
+text:
+Ku-tiirsaneyaasha ururka {a.b.c} waxaad u ratibi kartaa lix siyaabood oo kala duwan:
+
+Rattibaad kasta waxay kaga duwantahay tan kale horsiimada ku-tiirsanayaasha.
+
+Raabaqaad waa rattibaad kasta oo ku-tiirsaneyaasha urur la siinayo horsiimo huban.
+
+Abnaqanka n oo loo qoro n! waa taranka tirsiimada laga bilaabo 1 ilaa n taasoo ah:
+
+n! = 1.2.3.4.... (n----3) (n----2) (n----1) n.
+
+Matalan 5! = 1.2.3.4.5. = 120
+
+Ogoow 0! = 1, sidoo kale 1! = 1
+
+Sumadda n P r {\displaystyle n{P}r} waxay u taagantahay raabaqaad n shey oo markiiba la qaato r shey sida, 8 P 3 {\displaystyle 8{P}3} waa tirada raabaqaad 8 shey oo markiiba la qaat qaatay 3 shey.
+
+Tirada raabaqaad n shey oo kala duwan oo markiiba r shey la israacsho waxay la mid tahay
+
+n P r {\displaystyle n{P}r} n (n -- 1) (n -- 2) . . . (n-- r + 1)
+
+= : n ( n − r ) ! {\displaystyle {\frac {n}{(n-r)}}_{!}\,}
+
+Haddii r = n
+
+n P r {\displaystyle n{P}r} = n P n {\displaystyle n{P}n} = (n -- 2) (n -- 2) .... 3.2.1 = n!
+
+Tusaale
+
+b) : 5 P 1 , {\displaystyle 5{P}1,} = 5; : 5 P 2 , {\displaystyle 5{P}2,} = 5.4 = 20; : 5 P 3 , {\displaystyle 5{P}3,} = 5.4.3 = 60
+
+5 P 4 , {\displaystyle 5{P}4,} = 5.4.3.2 = 120
+
+5 P 5 , {\displaystyle 5{P}5,} = 5.4.3.2.1 = 120
+
+t) Tirada siyaalaha afar qof ay ugu fariisan karaan 6 kursi waa
+
+6 P 4 , {\displaystyle 6{P}4,} = 6.5.4.3 = 360
+
+j) Imisa siyaabood ayaa loo safi karaa shan buug oo kala duwan? taasi waxay ka dhigantahay tirada raabaqaadka shan buug oo la qaato markiiba 5, ama : 5 P 5 , {\displaystyle 5{P}5,} waa imisa?
+
+5 P 5 , {\displaystyle 5{P}5,} = 5! = 5.4.3.2.1 = 120
+
+
+# Tables
+
+## Table 1
+| abc | bac | cab |
+| --- | --- | --- |
+| acb | bca | cba |

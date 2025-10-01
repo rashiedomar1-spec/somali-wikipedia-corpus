@@ -1,0 +1,37 @@
+title:
+Cooli Carlito
+
+url:
+https://so.wikipedia.org/wiki?curid=32585
+
+text:
+Charlie Omotunde , oo sifiican loogu yaqaan magiciisa masraxa Cooli Carlito , waa heesaa wax soo saare kana soo jeeda Waqooyiga Galbeedka London. [ 1 ] [ 2 ]
+
+Heesaha Cooli Carlito
+
+2021: Wave God
+
+
+# Infobox
+
+- **Magaca dhalashada**: Charlie Omotunde
+- **Asal**: London , Ingiriiska
+- **Nooca fanka**: Hip hop
+- **shaqada**: Rapper
+- **Sanadaha Shaqada**: 2014–present
+- **Falalka la xiriira**: Flirta D, Rinsa Malone, Temi Dee
+
+
+# Tables
+
+## Table 1
+| Cooli Carlito |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Magaca dhalashada | Charlie Omotunde |
+| Asal | London , Ingiriiska |
+| Nooca fanka | Hip hop |
+| shaqada | Rapper |
+| Sanadaha Shaqada | 2014–present |
+| Falalka la xiriira | Flirta D, Rinsa Malone, Temi Dee |

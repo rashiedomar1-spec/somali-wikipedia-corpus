@@ -1,0 +1,18 @@
+title:
+Boosto
+
+url:
+https://so.wikipedia.org/wiki?curid=23445
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;207254&lt;/parentid&gt;
+ &lt;timestamp&gt;2020-12-03T22:00:51Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Maax&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;207256&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Boosto waa nidaam adeeg caalamka oo dhan ah oo lagu diro laguna qaato waraaqaha ama alaabta.

@@ -1,0 +1,35 @@
+title:
+Dayax Dalnuurshe
+
+url:
+https://so.wikipedia.org/wiki?curid=34343
+
+text:
+Dahir Mohamed Muse ,
+
+Nolosha shaqsiyeed
+
+Dalnuurshe waxa uu ku nool yahay magaalada Muqdisho ee dalka Soomaaliya, xaaskiisa waa haweeney ganacsato ah oo lagu magacaabo Farxia "The Boss Lady" . [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Daahir Maxamed Muuse
+- **Dhashay**: Mogadisho Soomaaliya
+- **Occupations**: Fanaan
+- **Qalabka**: Cod
+- **Falalka la xiriira**: Farxia "The Boss Lady"
+
+
+# Tables
+
+## Table 1
+| Dayax Dalnuurshe |
+| --- |
+| Magaca dhalashada | Daahir Maxamed Muuse |
+| Dhashay | Mogadisho Soomaaliya |
+| Occupations | Fanaan |
+| Qalabka | Cod |
+| Falalka la xiriira | Farxia "The Boss Lady" |

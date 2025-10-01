@@ -1,0 +1,17 @@
+title:
+Kambriyan
+
+url:
+https://so.wikipedia.org/wiki?curid=36439
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;236651&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-06-15T01:10:16Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;EnsiklopediaXylon&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;236653&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

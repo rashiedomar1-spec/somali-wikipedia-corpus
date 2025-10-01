@@ -1,0 +1,30 @@
+title:
+Dream Concert
+
+url:
+https://so.wikipedia.org/wiki?curid=35445
+
+text:
+Dream Concert (드림콘서트)  waa mid ka mid ah xaflada muusiga K-pop wadajirka ah ee Koonfur Kuuriya, kaas oo ay sanad walba martigeliso Ururka Soosaarayaasha Madadaalada Kuuriya (KEPA) ilaa 1995. [ 1 ] Sannad kasta, tiro ka mid ah fanaaniinta K-pop-ka ugu caansan sanadka ayaa ku soo biira xaflada bandhigyadooda. [ 2 ]
+
+Sido kale firi
+
+Tixraacyo
+
+KCON
+
+
+# Infobox
+
+- **Duration**: 1995–hada
+- **Website**: http://www.dreamconcert.kr/
+
+
+# Tables
+
+## Dream Concert
+| Joint concert by various K-pop artists |
+| --- |
+| Dream Concert 2015 |
+| Duration | 1995–hada |
+| Website | http://www.dreamconcert.kr/ |

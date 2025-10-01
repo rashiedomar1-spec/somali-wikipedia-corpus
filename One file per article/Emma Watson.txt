@@ -1,0 +1,35 @@
+title:
+Emma Watson
+
+url:
+https://so.wikipedia.org/wiki?curid=35517
+
+text:
+Emma Charlotte Duerre Watson (15 Abriil 1990) waa atariisho Ingiriis ah, moodel, iyo dhaqdhaqaaqe.  Waxa ay caan ku tahay doorkeeda aflaamta guulaysta iyo kuwa madax banaanba, iyo waliba shaqadeeda xuquuqda dumarka . Watson waxaa lagu qiimeeyay atariishooyinka ugu mushaarka badan adduunka ee Forbes iyo Vanity Fair . [ 1 ] [ 2 ] [ 3 ]
+
+Tixraac
+
+Atariisho
+
+moodel
+
+
+# Infobox
+
+- **Ku dhashay**: Emma Charlotte Duerre Watson ( 1990-04-15 ) 15 Abriil 1990 ( 35jir) Paris
+- **Dhalsho**: Ingriiska
+- **Shaqada**: Atariisho moodel
+- **Sanadaha Shaqada**: 1999–hada
+
+
+# Tables
+
+## Table 1
+| Emma Watson |
+| --- |
+| Watson ee 2017 |
+| Ku dhashay | Emma Charlotte Duerre Watson ( 1990-04-15 ) 15 Abriil 1990 ( 35jir) Paris |
+| Dhalsho | Ingriiska |
+| Shaqada | Atariisho moodel |
+| Sanadaha Shaqada | 1999–hada |
+| Saxiixa |  |

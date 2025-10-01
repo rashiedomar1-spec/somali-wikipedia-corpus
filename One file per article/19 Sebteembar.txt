@@ -1,0 +1,9 @@
+title:
+19 Sebteembar
+
+url:
+https://so.wikipedia.org/wiki?curid=15260
+
+text:
+aniga oo ah midka mid ah dhalin yarada somalia waxa ugu baaqi lahay dhaman shacabka cawanta somaliyeed in ay hurdada ka kacaan waayo wadanka waala kala ibsaday inaan fikiraan marwalba waxa lasoo doora xaado qaate oo kaafir ah inay maal galiyaan mujaahidinta meel walba ay joogan wayo markii aad aragtid gaal oo u kala hiilinaayo muslimiinta dhaxdoota waxa mesha ku jira munaafiqiin kan laga soo horjeeda ayaa saxsan degniin ogow qofwalbow malin bad dhiihi doonta maalintii kuwii ayaa saxnaa teda kale malin walba gabdhaha somaliyeed waxa loo gesta waxyaalo oo allaah caro galinaayo marka dadyahoow dib ugu noqda kitaabka iyo sunaada nabigeena scw oo kii saxan waad arki doontiin insha allaah wixi qalaad ah waxey ahaatay sheydaan wixi sax ah allaah hana waa fajiyo
+' Bold text'

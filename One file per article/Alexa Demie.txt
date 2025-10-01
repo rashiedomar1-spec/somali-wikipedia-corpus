@@ -1,0 +1,39 @@
+title:
+Alexa Demie
+
+url:
+https://so.wikipedia.org/wiki?curid=35530
+
+text:
+Alexa Demie waa atariisho Mareykan ah iyo heesaa.  Waxay caan ku tahay doorkeeda Maddy Perez ee taxanaha HBO Euphoria .
+
+Nolo
+
+Demie waxay ku dhalatay Los Angeles, California ilaa Rose Mendez, farshaxan-qurxin ka timid Meksiko . [ 1 ] Waxay ku kortay Tuulada Atwater, waxaana inta badan hooyadeed ku soo korisay da'da siddeedaad, inkastoo ay sheegtay inay xiriir wanaagsan la leedahay aabaheed. [ 2 ]
+
+Xiriirinta dibadda
+
+Tixraac
+
+Atariisho
+
+faanan
+
+Alexa Demie at IMDb
+
+
+# Infobox
+
+- **Ku dhashay**: Los Angeles, California
+- **Shaqada**: Atariisho faanan
+- **Sanadaha Shaqada**: 2014–hada
+
+
+# Tables
+
+## Table 1
+| Alexa Demie |
+| --- |
+| Ku dhashay | Los Angeles, California |
+| Shaqada | Atariisho faanan |
+| Sanadaha Shaqada | 2014–hada |

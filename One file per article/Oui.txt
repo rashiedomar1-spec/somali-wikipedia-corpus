@@ -1,0 +1,26 @@
+title:
+Oui
+
+url:
+https://so.wikipedia.org/wiki?curid=32650
+
+text:
+Oui wuxuu ahaa majaladda nin qaangaarka ah ee lagu daabaco Mareykanka isla markaana lagu soo bandhigo sawirro qaawan oo haween caan ah, iyo sidoo kale wareysiyo iyo maqaallo kale.
+
+
+# Infobox
+
+- **Type**: Majaladda dadka waaweyn
+- **Founded**: 1972–2007
+- **Language**: Ingiriis
+- **Country**: Mareykanka
+
+
+# Tables
+
+## Oui
+| Type | Majaladda dadka waaweyn |
+| --- | --- |
+| Founded | 1972–2007 |
+| Language | Ingiriis |
+| Country | Mareykanka |

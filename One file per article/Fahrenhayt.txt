@@ -1,0 +1,16 @@
+title:
+Fahrenhayt
+
+url:
+https://so.wikipedia.org/wiki?curid=12512
+
+text:
+Fahrenhayt (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: Fahrenheit) waa halbeeg lagu &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;iyo &lt;a href="heerkul"&gt;heerkul&lt;/a&gt;ka. 
+Ereyga "Fahrenhayt" waxaa loogu magac daray &lt;a href="Saynis"&gt;Saynis&lt;/a&gt;yahan Daniel Gabriel Fahrenheit (1686–1736) kaas oo sameeyay "Halbeeg" cabir dhamaystiran. 
+Halbeegan calaamadiisu waa °F (degree Fahrenhayt). 
+Qiyaasta halbeegan jabjab ahaan waa x 9/5 + 32. Cabirkan oo inta badan lagu qiyaaso &lt;a href="Kul"&gt;kuleylka iyo qaboowga&lt;/a&gt; ayaa wuxuu ka mid yahay Halbeegyada Caalamiga ah ee &lt;a href="duni"&gt;duni&lt;/a&gt;da. 
+Marka halbeega Fahrenhayt loo bedelaayo &lt;a href="Salsiyas"&gt;Salsiyas&lt;/a&gt; waa x 9/5 + 32.
+Tusaale ahaan haddii heerkulka maanta yahay 30 °C markaad Fahrenhayt u bedelayso waa 30 x 9/5 + 32 taas oo u dhiganta 86 °F.
+= Taariikhda Fahrenhayt =
+=Isbarbardhiga Halbeegyada=
+= Halbeegyo Kale =

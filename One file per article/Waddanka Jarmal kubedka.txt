@@ -1,0 +1,64 @@
+title:
+Waddanka Jarmal kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=41983
+
+text:
+Waddanka Jarmal kubedka
+
+dharka jarmalka
+
+Germany addidas
+
+FIFA
+
+UEFA
+
+1	GK	Marc-André ter Stegen	30 April 1992 (age 33)	44	0	Spain Barcelona
+
+12	GK	Oliver Baumann	2 June 1990 (age 35)	4	0	Germany TSG Hoffenheim
+
+24	GK	Alexander Nübel	30 September 1996 (age 28)	2	0	Germany VfB Stuttgart
+
+2	DF	Waldemar Anton	20 July 1996 (age 29)	8	0	Germany Borussia Dortmund
+
+3	DF	Robin Koch	17 July 1996 (age 29)	14	0	Germany Eintracht Frankfurt
+
+4	DF	Jonathan Tah	11 February 1996 (age 29)	37	0	Germany Bayern Munich
+
+6	DF	Joshua Kimmich (captain)	8 February 1995 (age 30)	101	8	Germany Bayern Munich
+
+15	DF	Thilo Kehrer	21 September 1996 (age 28)	28	0	France Monaco
+
+18	DF	Maximilian Mittelstädt	18 March 1997 (age 28)	14	1	Germany VfB Stuttgart
+
+22	DF	David Raum	22 April 1998 (age 27)	28	0	Germany RB Leipzig
+
+23	DF	Robert Andrich	22 September 1994 (age 30)	18	0	Germany Bayer Leverkusen
+
+5	MF	Pascal Groß	15 June 1991 (age 34)	15	1	Germany Borussia Dortmund
+
+7	MF	Felix Nmecha	10 October 2000 (age 24)	4	1	Germany Borussia Dortmund
+
+8	MF	Leon Goretzka	6 February 1995 (age 30)	61	15	Germany Bayern Munich
+
+14	MF	Karim Adeyemi	18 January 2002 (age 23)	8	1	Germany Borussia Dortmund
+
+17	MF	Florian Wirtz	3 May 2003 (age 22)	31	7	England Liverpool
+
+19	MF	Leroy Sané	11 January 1996 (age 29)	70	14	Turkey Galatasaray
+
+20	MF	Serge Gnabry	14 July 1995 (age 30)	51	22	Germany Bayern Munich
+
+21	MF	Robin Gosens	5 July 1994 (age 31)	24	2	Italy Fiorentina
+
+25	MF	Aleksandar Pavlović	3 May 2004 (age 21)	5	1	Germany Bayern Munich
+
+26	MF	Tom Bischof	28 June 2005 (age 20)	1	0	Germany Bayern Munich
+
+9	FW	Niclas Füllkrug	9 February 1993 (age 32)	24	14	England West Ham United
+
+11	FW	Nick Woltemade	14 February 2002 (age 23)	2	0	Germany VfB Stuttgart
+
+13	FW	Deniz Undav	19 July 1996 (age 29)	6	3	Germany VfB Stuttgart

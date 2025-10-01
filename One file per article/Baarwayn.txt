@@ -1,0 +1,8 @@
+title:
+Baarwayn
+
+url:
+https://so.wikipedia.org/wiki?curid=6526
+
+text:
+Baarwayn waa degmo ku taalo &lt;a href="Nugaal"&gt;Nugaal&lt;/a&gt;.

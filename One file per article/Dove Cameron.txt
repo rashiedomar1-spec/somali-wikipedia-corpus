@@ -1,0 +1,27 @@
+title:
+Dove Cameron
+
+url:
+https://so.wikipedia.org/wiki?curid=34979
+
+text:
+Dove Olivia Cameron [ 1 ] [ 2 ] (dhashay Chloe Celeste Hosterman ; Janaayo 15, 1996 [ 3 ] ) waa atariisho Mareykan ah iyo heesaa.
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Chloe Celeste Hosterman ( 1996-01-15 ) Janaayo 15, 1996 ( 29jir)
+- **Sanadaha Shaqada**: 2007–hada
+
+
+# Tables
+
+## Table 1
+| Dove Cameron |
+| --- |
+| Ku dhashay | Chloe Celeste Hosterman ( 1996-01-15 ) Janaayo 15, 1996 ( 29jir) |
+| Sanadaha Shaqada | 2007–hada |
+| Website |
+| dovecameron.com |

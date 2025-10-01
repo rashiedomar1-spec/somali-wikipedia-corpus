@@ -1,0 +1,9 @@
+title:
+Qafqaas
+
+url:
+https://so.wikipedia.org/wiki?curid=6475
+
+text:
+Qafqaas' afka ruushka ( Кавка́з, ) waa mandaqad siyaasadeed oo ay wadaagaan wadamo aad u badani
+waxa ay ku taalaa xuduuda u dhaxaysa &lt;a href="yurub"&gt;yurub&lt;/a&gt; iyo &lt;a href="Aasiya"&gt;Aasiya&lt;/a&gt; waxana kuyaala buuraha caanka ah ee quuqaas badanaa waxaa loo qaybiyaa laba dhinac &lt;a href="bari"&gt;bari&lt;/a&gt; iyo &lt;a href="galbeed"&gt;galbeed&lt;/a&gt;

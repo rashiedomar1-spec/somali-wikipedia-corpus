@@ -1,0 +1,44 @@
+title:
+Betty Grable
+
+url:
+https://so.wikipedia.org/wiki?curid=35045
+
+text:
+Elizabeth Ruth Grable (Diseembar 18, 1916 – Luuliyo 2, 1973) waxay ahayd atariisho Mareykan ah, gabar pin-up ah, qoob-ka-cayaar, moodel, iyo heesaa. 42-filim ee ay samaysay 1930-meeyadii iyo 1940-meeyadii waxay soo xareeyeen in ka badan $100 milyan; 10 sano oo xiriir ah (1942-1951). Waaxda Maaliyadda ee Mareykanka 1946 iyo 1947 waxay ku dartay inay tahay haweeneyda ugu mushaarka badan Mareykanka; waxay kasbatay in ka badan $3 milyan intii ay ku jirtay shaqadeeda ($22 milyan doolar 2021). [ 1 ]
+
+Dhaxalka
+
+Intii ay ku jirtay shaqadeeda, Grable waxay ahayd calaamad galmo .  Boodhadhkeeda suunka maydhashada ayaa ka dhigay inantii lambarka-1aad gabar pin-up ee dagaalkii labaad ee aduunka , oo dhaaftay Rita Hayworth . Waxaa markii dambe lagu daray mashruuca Life "100 sawir oo bedelay adduunka".
+
+Tix
+
+Jackie Coogan ( g. 1937; divorced 1939)
+
+Harry James ( g. 1943; divorced 1965)
+
+
+# Infobox
+
+- **Ku dhashay**: Elizabeth Ruth Grable ( 1916-12-18 ) Diseembar 18, 1916 St. Louis , Missouri
+- **Dhimasho**: Luuliyo 2, 1973 ( 1973-07-02 ) (da'da 56jir) Santa Monica , Kalifornia
+- **Naanees**: Frances Dean
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 1929–1973
+- **Xaasaska**: Jackie Coogan ( g. 1937; divorced 1939) Harry James ( g. 1943; divorced 1965)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Betty Grable |
+| --- |
+|  |
+| Ku dhashay | Elizabeth Ruth Grable ( 1916-12-18 ) Diseembar 18, 1916 St. Louis , Missouri |
+| Dhimasho | Luuliyo 2, 1973 ( 1973-07-02 ) (da'da 56jir) Santa Monica , Kalifornia |
+| Naanees | Frances Dean |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 1929–1973 |
+| Xaasaska | Jackie Coogan ( g. 1937; divorced 1939) Harry James ( g. 1943; divorced 1965) |
+| Ilmaha | 2 |

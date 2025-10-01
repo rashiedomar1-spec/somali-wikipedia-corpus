@@ -1,0 +1,10 @@
+title:
+Bidix
+
+url:
+https://so.wikipedia.org/wiki?curid=12793
+
+text:
+Bidix
+Bidix (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: Left) waa ka soo horjeedka &lt;a href="midig"&gt;midig&lt;/a&gt;ta. 
+&lt;a href="Dad"&gt;Dad&lt;/a&gt;ku waxay leeyihiin midig iyo bidix. &lt;a href="Gacan"&gt;Gacan&lt;/a&gt; midig iyo mid bidix.

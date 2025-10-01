@@ -1,0 +1,11 @@
+title:
+Software
+
+url:
+https://so.wikipedia.org/wiki?curid=2461
+
+text:
+Software (; ) waa barnaamijyo dhowr ah oo si wada jir ah u maamula sidoo kale haga aalada &lt;a href="Kumbuyuutar"&gt;Kumbuyuutar&lt;/a&gt;ka si uu u qabto shaqo cayiman (kooban) ama mid badan oo isku dhafan asaga oo iskiis isku maamulaya ama qof (dad) u soo werinaya. Softwareka oo luuqada &lt;a href="Af%20Soomaali"&gt;Af Soomaali&lt;/a&gt;ga lagu yidhaahdo Barnaamij wuxuu ka kooban yahay qorsheyaal (programs), &lt;a href="bot"&gt;bot&lt;/a&gt;s, madbacado wax lagu keeydiyo iyo dhamaan qorshayaasha la xidhiidha ee howsha fududeeya.
+Guud ahaan, softwareku waa barnaamijyo awood uh an siiya &lt;a href="kumbuyuutar"&gt;kumbuyuutar&lt;/a&gt;ka inuu qabto how loo cayimey. Software waa erey ingiriis ah, hase ahaatee dalal badan oo aduunka ka mid ah ay isticmaalan. Software:ku wuxuu ka koobmaa labo qeybood ah Application Software iyo Embedded Software.
+=Qoraalo Kale=
+=Tixraac=

@@ -1,0 +1,32 @@
+title:
+Emma Stone
+
+url:
+https://so.wikipedia.org/wiki?curid=35031
+
+text:
+Emily Jean " Emma " Stone (dhashay Nofeembar 6, 1988) waa atariisho Mareykan ah. Waa qofka helay abaal-marinno kala duwan, oo ay ku jiraan Abaalmarinta Akadeemiyada , Abaalmarinta Filimada Akadeemiyada Ingiriiska , Abaalmarinta Jilayaasha Shaashada , iyo Abaalmarinta Golden Globe .  Sannadkii 2017, Stone waa aktarada adduunka ugu mushaarka badan.
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Emily Jean Stone ( 1988-11-06 ) Nofeembar 6, 1988 ( 36jir) Scottsdale, Arizona
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2004–hada
+- **Xaasaska**: Dave McCary ( g. 2020)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Emma Stone |
+| --- |
+| Stone ee 2018 |
+| Ku dhashay | Emily Jean Stone ( 1988-11-06 ) Nofeembar 6, 1988 ( 36jir) Scottsdale, Arizona |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2004–hada |
+| Xaasaska | Dave McCary ( g. 2020) |
+| Ilmaha | 1 |

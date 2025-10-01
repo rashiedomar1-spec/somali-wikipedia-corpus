@@ -1,0 +1,62 @@
+title:
+1004
+
+url:
+https://so.wikipedia.org/wiki?curid=37086
+
+text:
+Sannadka 1004 (MIV) wuxuu ahaa sanad boodbood ah oo ka bilaabmaya Sabtida kalandarka Luuliyaan.
+
+Dhacdooyinka
+
+Dhalashada
+
+Dhimashada
+
+qarniga 10aad
+
+qarniga 11aad
+
+qarniga 12aad
+
+tobaneeyadii  980
+
+tobaneeyadii  990
+
+tobaneeyadii  1000
+
+tobaneeyadii  1010
+
+tobaneeyadii  1020
+
+1001
+
+1002
+
+1003
+
+1004
+
+1005
+
+1006
+
+1007
+
+
+# Infobox
+
+- **Millennium :**: kunka 2aad
+- **Qarniyo :**: qarniga 10aad qarniga 11aad qarniga 12aad
+- **Tobanaan sano :**: tobaneeyadii  980 tobaneeyadii  990 tobaneeyadii  1000 tobaneeyadii  1010 tobaneeyadii  1020
+- **Sanado :**: 1001 1002 1003 1004 1005 1006 1007
+
+
+# Tables
+
+## Table 1
+| Millennium : | kunka 2aad |
+| --- | --- |
+| Qarniyo : | qarniga 10aad qarniga 11aad qarniga 12aad |
+| Tobanaan sano : | tobaneeyadii  980 tobaneeyadii  990 tobaneeyadii  1000 tobaneeyadii  1010 tobaneeyadii  1020 |
+| Sanado : | 1001 1002 1003 1004 1005 1006 1007 |

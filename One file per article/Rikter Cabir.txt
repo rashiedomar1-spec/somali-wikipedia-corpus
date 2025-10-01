@@ -1,0 +1,27 @@
+title:
+Rikter Cabir
+
+url:
+https://so.wikipedia.org/wiki?curid=8400
+
+text:
+Waa Halbeeg lagu qiyaaso Dhulgariirka ee kasareeya 4.5
+
+Liiska
+
+
+# Tables
+
+## Table 1
+| Cabirka Rikter | Qeexid | Saameenta dhulgariirka | Soo laalaabashada | Udhiganta TNT |
+| --- | --- | --- | --- | --- |
+| Ka yar 2.0 | Jilicsan | Dhulgariir yer oo aan la dareemin. | Qiyaastii 8000 Maalintiiba | < 1 Tan (1000kg) |
+| 2.0–2.9 | Aad uyara jilicsan | Dadku madareemayaan, Laakiin cabirka ayaa sheegaya | Qiyaastii 1000 Maalintiiba | Inta udhaxaysa 1 e 31,6 Tan |
+| 3.0–3.9 | Dadku waydareemayaan, Wayna yartahay in uu dhib gaystaa | 49000 Sanadkiiba | Inta udhaxaysa 31,6 ilaa 1000 Tan |
+| 4.0–4.9 | Qafiif | Dadku waydareemayaan laakiin Gariirka iyo waxyaabaha lulmaya wax dhib ahna makeeno. | 6200 Sanadkiiba | Inta udhaxaysa 1000 ilaa 31.600 Tan |
+| 5.0–5.9 | Dhexdhexaad | Dhib ayuu gaysan karaan. Guryaha jilicsan laakiin kuwa adag waxba kadhibi maayo. | 800 Sanadkiiba | Inta udhaxaysa 31.600 ilaa 1 milione ee Tan |
+| 6.0–6.9 | Awoodleh | Dhib wayn ayuu gaysan karaa laga bilaabo bartii uu ka biloowday ilaa 160 Km . | 120 Sanadkiiba | Inta udhaxaysa 1 e 31,6 Malaayiin Tan |
+| 7.0–7.9 | Aad u awood badan | Aad ayuu uqasaara badanyahay waxa uuna gaari karaa meela badan. | 18 Sanadkiiba | Inta udhaxaysa 31,6 Maalaayiin iyo 1 Balaayiin ee Tan |
+| 8.0–8.9 | Lixaadleh | Waxa uu gaysankaraa qasaare lixaadleh asigoo gaaraya Boqolaal Kilomiter | 1 Sanadkiiba | Inta udhaxaysa 1 ilaa 31,6 Balaayiin ee Tan |
+| 9.0–9.9 | Waxa uu gaysankaraa qasaare lixaadleh asigoo gaaraya Kumayaal Kilomiter | 1 Mar 20 kii sanadood | Inta udhaxaysa 31,6 e 1000 Balaayiin ee Tan |
+| 10.0+ | Halaak | Mid lagu halaagsamo Ilaaheey Somalia haka badbaadsho. | Ilaa iyo hadda lama sheegin meel uu ka dhacay | > 1000 Bilyan Tan |

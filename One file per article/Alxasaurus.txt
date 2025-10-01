@@ -1,0 +1,32 @@
+title:
+Alxasaurus
+
+url:
+https://so.wikipedia.org/wiki?curid=36796
+
+text:
+Alxasaurus (macneheedu waa "Alxa lizard ") waxay ahayd daawayn therisinosaur ah oo noolaa intii lagu jiray Nuuradka Hoose , qiyaastii 112 ilaa 100 milyan oo sano ka hor.  Sida qaraabadeeda u dhow, waxay ahayd dhir-dhaqaale.  Waxay ahayd ilaa 13 ft (4 m) dheer waxayna miisaankeedu ahaa 800–900 rodol (350 ilaa 400 kg).  Shan qalfoof oo aan dhamaystirnayn ayaa laga helay Mongolia .
+
+Portal
+
+Bayooloji ( biology )
+
+WikiProject
+
+
+# Tables
+
+## Table 1
+| Alxasaurus |
+| --- |
+|  |
+| Restored skeleton, Royal Tyrrell Museum |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Gacalka: | Sauropsida |
+| Suberdirka: | Dinosauria |
+| Dirka: | Saurischia |
+| Subdirka: | Theropoda |
+| Bahka sare: | Therizinosauroidea |
+| Bahka: | Alxasauridae |
+| Duulka: | Alxasaurus |

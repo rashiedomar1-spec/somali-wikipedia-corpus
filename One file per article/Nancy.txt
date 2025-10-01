@@ -1,0 +1,8 @@
+title:
+Nancy
+
+url:
+https://so.wikipedia.org/wiki?curid=2328
+
+text:
+Nancy waa &lt;a href="magaalo"&gt;magaalo&lt;/a&gt; ku taala dalka &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt;.waxa aykatirsantahay Gobolka &lt;a href="Lorraine"&gt;Lorraine&lt;/a&gt; dadka kunool waxa ay gaadhayaan ilaa 410 kun oo qof Taariikhda magaaladu waa mid aad u fog waxa ay kusimantahy 800 sano kahor Dhalashaddii Nabi &lt;a href="Ciise"&gt;Ciise&lt;/a&gt; C.S

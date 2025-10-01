@@ -1,0 +1,9 @@
+title:
+Tacsi
+
+url:
+https://so.wikipedia.org/wiki?curid=33697
+
+text:
+Tacsi waxaa af &lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt; lagu dhahaa „consolation”, „comfort”.
+Waa inaan u gargaarno kuwa murugaysan. Waa inaan u gargaarno dadka niyadjabku hayo.

@@ -1,0 +1,46 @@
+title:
+Lorna
+
+url:
+https://so.wikipedia.org/wiki?curid=32626
+
+text:
+Lorna waa filim madaxbannaan oo soo baxay sanadkii 1964, waxaana jileysa Lorna Maitland, waxaa soo saare ka ahaa, isla markaana daadihinayay Russ Meyer. Waxaa lagu qoray afar maalmood gudahood James Griffith, oo ku ciyaaray filimka wacdiyaha.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Directed by**: Russ Meyer
+- **Written by**: James Griffith Russ Meyer
+- **Produced by**: Eve Meyer Russ Meyer
+- **Starring**: Lorna Maitland Mark Bradley James Rucker Hal Hopper Doc Scortt Althea Currier F. Rufus Owens Frank Bolger Ken Parker James Griffith
+- **Cinematography**: Russ Meyer
+- **Music by**: Hal Hopper James Griffith
+- **Distributed by**: Eve Productions Inc.
+- **Release date**: Sebteembar 11, 1964
+- **Running time**: 78 daqiiqado
+- **Country**: Mareykanka
+- **Language**: Ingiriis
+- **Budget**: $37,000 [ 1 ]
+
+
+# Tables
+
+## Table 1
+| Lorna |
+| --- |
+| Boodhadhka masraxa ilaa Lorna (1964) |
+| Directed by | Russ Meyer |
+| Written by | James Griffith Russ Meyer |
+| Produced by | Eve Meyer Russ Meyer |
+| Starring | Lorna Maitland Mark Bradley James Rucker Hal Hopper Doc Scortt Althea Currier F. Rufus Owens Frank Bolger Ken Parker James Griffith |
+| Cinematography | Russ Meyer |
+| Music by | Hal Hopper James Griffith |
+| Distributed by | Eve Productions Inc. |
+| Release date | Sebteembar 11, 1964 |
+| Running time | 78 daqiiqado |
+| Country | Mareykanka |
+| Language | Ingiriis |
+| Budget | $37,000 [ 1 ] |

@@ -1,0 +1,40 @@
+title:
+Fashion Model Directory
+
+url:
+https://so.wikipedia.org/wiki?curid=17741
+
+text:
+Fashion Model Directory (FMD) waa internetka ah oo ku saabsan daydo fashion, hay'adaha tusaale, sumadaha fashion, majaladaha fashion, samaynta fashion iyo waxyaabaha la daabaco fashion.
+
+Linkiga Caddaynta
+
+www.fashionmodeldirectory.com
+
+
+# Infobox
+
+- **Cinwaanka**: www.fashionmodeldirectory.com
+- **Ganacsi?**: haa
+- **Nooca site**: Online fashion database
+- **Diiwaan-gelin**: Ikhtiyaar
+- **Diyaar ku ah**: Ingiriis
+- **Mulkiilaha**: Fashion One Group
+- **La bilaabay isticmaalka**: 2000
+- **Alexa garaado**: 27 730 (abriil 2014 [update] ) [ 1 ]
+- **Hada**: Active
+
+
+# Tables
+
+## Fashion Model Directory (FMD)
+| Cinwaanka | www.fashionmodeldirectory.com |
+| --- | --- |
+| Ganacsi? | haa |
+| Nooca site | Online fashion database |
+| Diiwaan-gelin | Ikhtiyaar |
+| Diyaar ku ah | Ingiriis |
+| Mulkiilaha | Fashion One Group |
+| La bilaabay isticmaalka | 2000 |
+| Alexa garaado | 27 730 (abriil 2014 [update] ) [ 1 ] |
+| Hada | Active |

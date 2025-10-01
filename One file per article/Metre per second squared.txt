@@ -1,0 +1,8 @@
+title:
+Metre per second squared
+
+url:
+https://so.wikipedia.org/wiki?curid=13272
+
+text:
+&lt;a href="Mitir"&gt;Metre&lt;/a&gt; per &lt;a href="Ilbiriqsi"&gt;second&lt;/a&gt; squared waa &lt;a href="Mitir"&gt;Mitir&lt;/a&gt; loo qaybiyay &lt;a href="Ilbiriqsi"&gt;Ilbiriqsi&lt;/a&gt; afar laaban taasi oo calaamada loo soo gaabiyo tahay m/s4

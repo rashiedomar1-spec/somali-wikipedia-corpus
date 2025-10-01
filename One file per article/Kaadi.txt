@@ -1,0 +1,8 @@
+title:
+Kaadi
+
+url:
+https://so.wikipedia.org/wiki?curid=22112
+
+text:
+Kaadi waa dareer oo u muuqataa biyo jaalle ah, bixitaanka ka timaada saxaaxda &lt;a href="naasley"&gt;naasley&lt;/a&gt;. Ragga wuxuu ka yimaada &lt;a href="gus"&gt;gus&lt;/a&gt;ka, iyo dumarka wuxuu ka yimaada &lt;a href="siil"&gt;siil&lt;/a&gt;ka.

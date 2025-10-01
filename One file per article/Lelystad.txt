@@ -1,0 +1,8 @@
+title:
+Lelystad
+
+url:
+https://so.wikipedia.org/wiki?curid=8854
+
+text:
+Magaalada Lelystad, waa magaalad oo kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt;. Lelystad wa caasimada gobolka &lt;a href="Flevoland"&gt;Flevoland&lt;/a&gt; oo kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt;.

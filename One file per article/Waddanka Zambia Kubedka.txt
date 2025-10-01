@@ -1,0 +1,60 @@
+title:
+Waddanka Zambia Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35128
+
+text:
+Waddanka Zambia Kubedka
+
+Template:Country data Zambia
+
+CAF
+
+FIFA
+
+1	GK	Cyril Chibwe	17 June 1993 (age 28)	4	0	South Africa Polokwane City
+
+16	GK	Lameck Siame	9 July 1997 (age 24)	1	0	Zambia Zanaco
+
+18	GK	Gregory Sanjase		0	0	Zambia Young Green Eagles
+
+3	DF	Benedict Chepeshi	10 June 1996 (age 25)	14	0	Zambia Red Arrows
+
+4	DF	Prosper Chiluya	2 April 1998 (age 23)	6	0	Zambia Kabwe Warriors
+
+5	DF	Gaboniso Magenge		0	0	Zambia Lusaka Dynamos
+
+6	DF	Tandi Mwape	20 July 1996 (age 25)	11	0	Democratic Republic of the Congo Mazembe
+
+13	DF	Golden Mafwenta	15 January 2001 (age 21)	1	0	Zambia Buildcon
+
+15	DF	Dominic Chanda	26 February 1996 (age 25)	3	0	Zambia Kabwe Warriors
+
+19	DF	Isaac Shamujompa	12 October 1994 (age 27)	17	0	Zambia Buildcon
+
+4	MF	Salulani Phiri	10 April 1994 (age 27)	29	1	South Africa Polokwane City
+
+7	MF	Benson Sakala	12 September 1996 (age 25)	32	0	Zambia Power Dynamos
+
+14	MF	Collins Sikombe	19 June 1997 (age 24)	22	5	Zambia NAPSA Stars
+
+17	MF	Kings Kangwa	6 April 1999 (age 22)	7	1	Russia Arsenal Tula
+
+20	MF	Spencer Sautu	5 October 1994 (age 27)	29	3	Zambia Power Dynamos
+
+21	MF	Paul Katema	19 September 1997 (age 24)	28	1	Tanzania Azam
+
+23	MF	Prince Mumba	24 March 2001 (age 20)	5	1	Zambia Kabwe Warriors
+
+8	FW	Lubambo Musonda	1 March 1995 (age 26)	35	2	Denmark AC Horsens
+
+9	FW	Amity Shamende	4 August 1993 (age 28)	11	1	Zambia Green Eagles
+
+10	FW	Fashion Sakala	14 March 1997 (age 24)	15	2	Scotland Rangers
+
+12	FW	Moses Phiri	3 June 1993 (age 28)	19	2	Zambia Zanaco
+
+20	FW	Patson Daka	9 October 1998 (age 23)	27	7	England Leicester City
+
+22	FW	Brian Mwila	16 June 1994 (age 27)	20	10	Zambia Buildcon

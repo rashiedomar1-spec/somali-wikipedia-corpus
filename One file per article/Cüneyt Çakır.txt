@@ -1,0 +1,25 @@
+title:
+Cüneyt Çakır
+
+url:
+https://so.wikipedia.org/wiki?curid=19538
+
+text:
+Judeyd shakir waa Garsoore-Banooni oo u dhashay wadanka Turkiga wax uuna ka mid yahay garsoorayaasha ugh heerka sareeya UEFA iyo FIFA sida joogtada ahna U dhex-dhexaadiyo ciyaaraha muhiimka ah.waxaa lagu xusuustaa ciyaartii cajiibka aheyd ee ka dhacdey unfield udhexeysay liverpool iyo Barcelona
+
+
+# Infobox
+
+- **Dhashay**: ( 1976-11-23 ) 23 Nofeembar 1976 ( 48jir)
+- **Ku dhashay**: Izmir, Turkiga
+
+
+# Tables
+
+## Cüneyt Çakır
+| Çakır in 2015 |
+| --- |
+| Macluumaad Xirfadeed |
+| Dhashay | ( 1976-11-23 ) 23 Nofeembar 1976 ( 48jir) |
+| Ku dhashay | Izmir, Turkiga |
+| † Appearances (Goals). |

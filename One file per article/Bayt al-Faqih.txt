@@ -1,0 +1,39 @@
+title:
+Bayt al-Faqih
+
+url:
+https://so.wikipedia.org/wiki?curid=14680
+
+text:
+Coordinates : 14°30′58″N 43°19′28″E ﻿ / ﻿ 14.51611°N 43.32444°E ﻿ / 14.51611; 43.32444
+
+Bayt al-Faqih ( Af Carabi : لاسعانود ‎) waa magaalo ku Yemen .
+
+
+# Infobox
+
+- **Dalka**: Yemen
+- **Gobol**: Al Hudaydah
+- **• Dhammaan**: 41.652
+- **Aag saacadeed**: UTC+3 (Yemen Standard Time)
+
+
+# Tables
+
+## Table 1
+| Bayt al-Faqīh بيت الفقيه |
+| --- |
+| Magaalo |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Yemen" does not exist. |
+| Dalka | Yemen |
+| Gobol | Al Hudaydah |
+| Tirada dadka ( 2005 ) |
+| • Dhammaan | 41.652 |
+| Aag saacadeed | UTC+3 (Yemen Standard Time) |
+
+
+
+# Coordinates
+14.51611; 43.32444

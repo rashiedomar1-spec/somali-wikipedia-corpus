@@ -1,0 +1,28 @@
+title:
+Okapi
+
+url:
+https://so.wikipedia.org/wiki?curid=40983
+
+text:
+Okapi (Okapia johnstoni), oo sidoo kale loo yaqaano geriga kaynta, geriga Congo iyo geriga zebra, waa naasley laga helo waqooyi-bari ee Jamhuuriyadda Dimuqraadiga ah ee Congo ee bartamaha Afrika. Si kastaba ha ahaatee, aqoonsiga hidde-sidaha ee aan duullaan ahayn ayaa soo jeediyay in dadku ay ka dhaceen koonfur-galbeed ee wabiga Congo sidoo kale. Waa nooca kaliya ee Okapia. Inkasta oo okapi ay leedahay calaamado xariijisan oo u eg zebras, waxay si dhow ula xiriirtaa geriga. Okapi iyo gerigu waa xubnaha kaliya ee nool ee qoyska Giraffidae.
+
+
+# Tables
+
+## Table 1
+| Okapi |
+| --- |
+|  |
+| Xaalad xanaaneed |
+| Halis ugu jira dabargo' ( MCID 3.1 ) |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Xayawaan |
+| Faylam: | Chordata |
+| Gacalka: | Mammalia |
+| Dirka: | Artiodactyla |
+| Bahka: | Giraffidae |
+| Duulka: | Okapia |
+| Noocyada: | O. johnstoni |
+| Magaca laba-geesoodka ah |
+| Okapia johnstoni ( P.L. Sclater , 1901) |

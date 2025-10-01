@@ -1,0 +1,9 @@
+title:
+Dolo
+
+url:
+https://so.wikipedia.org/wiki?curid=5578
+
+text:
+Dolo waa magaalo ku taalo &lt;a href="Koonfur"&gt;Koonfur&lt;/a&gt; &lt;a href="Bari"&gt;Bari&lt;/a&gt; ee dalka &lt;a href="Itoobiya"&gt;Itoobiya&lt;/a&gt;.
+magaalada waxee ka midtahay Dawlad Deegaanka Soomaalida, waxeena xuduud la leedahay wadanka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt;. Dolo waxaa degan dad gaaraayo ilaa 30,970 qof, dadka degan waa wada somali.

@@ -1,0 +1,15 @@
+title:
+Venice
+
+url:
+https://so.wikipedia.org/wiki?curid=33922
+
+text:
+Venice waa magaalo ku taal Talyaaniga .
+
+
+# Tables
+
+## Table 1
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Venice |
+| --- | --- |

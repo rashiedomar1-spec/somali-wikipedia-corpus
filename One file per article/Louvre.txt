@@ -1,0 +1,8 @@
+title:
+Louvre
+
+url:
+https://so.wikipedia.org/wiki?curid=3242
+
+text:
+Louvre (&lt;a href="faransiiska"&gt;faransiiska&lt;/a&gt; Musée du Louvre)) waa guri dhaqameed kuyaala magaalda &lt;a href="Paris"&gt;Paris&lt;/a&gt; waana guri dhaqameedka caalmka ugu muhiimsan waxa uu ku yaalaa daanta waqooyi ee wabiga &lt;a href="siin"&gt;siin&lt;/a&gt; waxa uu leeyahay barxada ugu wayn ee caalamka farshaxan lagusoo bandhigo. waxa yaala waxyaabo badan oo kusaabsan faraacintii oo laga xaday wadanka &lt;a href="masar"&gt;masar&lt;/a&gt; waxa la aasaasay sanadii 1190 waxa gunta u taagay ninka la odhan jiray &lt;a href="filib%20ogost"&gt;filib ogost&lt;/a&gt; goobtan waxa daganaa dhamaan boqoradii farnsiiska soo maamulay xiliyadii boqortooyada boqorkii ugudanbeeyay ee sirasmiya udagayna waxa uu ahaa &lt;a href="Louis%20XIV"&gt;Louis XIV&lt;/a&gt; waxa uu ka guuray sandii 1672

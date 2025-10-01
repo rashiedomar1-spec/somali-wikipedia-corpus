@@ -1,0 +1,13 @@
+title:
+Java (luuqada borograaminta)
+
+url:
+https://so.wikipedia.org/wiki?curid=18767
+
+text:
+Java () waa luqada lagu borgaraamiyo barnaamijyada uu ku shaqeeyo &lt;a href="Kumbuyuutar"&gt;Kumbuyuutar&lt;/a&gt;.
+Barnaamijka Java waxaa loogu talo-galay in farsamayaqaanku diyaariyo laguna isticmaalo meelo badan oo kala duwan, taasi oo u shaqeeynaysa si heer sare ah. 
+Borograamka java waxaa markii ugu horeeysay sanadkii 2005ta qoray nin farsamoyaqaan IT oo lagu magacaabo James Gosling, waxaana isla markiiba kala wareegtay barnaamijkaasi shirkada borograaminta kombuyuuterka ee Sun Microsystems.
+Maanta 2016, Java waxay ka mid tahay borograamyada ugu casrisan ee loogu isticmaalka badan yahay dunida, waxaana la sheegay in qiyaastii barnaamijyada java ku jiraan ilaa 62% dhamaan aaladaha casriga ah ee guriga iyo xafiiska lagu isticmaalo. particularly for client-server web applications, with a reported 9 million developers. 
+=La Xidhiidha=
+=Tixraac=

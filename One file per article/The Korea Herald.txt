@@ -1,0 +1,34 @@
+title:
+The Korea Herald
+
+url:
+https://so.wikipedia.org/wiki?curid=32697
+
+text:
+The Korea Herald waa wargeys maalinle ah oo ku baxa luuqada Ingiriiska oo la aas aasay sanadkii 1953 waxaana lagu daabacay magaalada Seoul ee Koonfurta Kuuriya. Shaqaalaha tifaftirka waxay ka kooban yihiin qorayaal Kuuriya iyo kuwa caalami ah iyo tifaftireyaal, iyadoo warar dheeri ah laga soo xigtay wakaaladaha wararka caalamiga sida Associated Press.
+
+Xiriirinta dibedda
+
+Official website
+
+
+# Infobox
+
+- **Publisher**: Kwon Chung-won
+- **Editor**: Shin Yong-bae
+- **Staff writers**: 50
+- **Founded**: 1953
+- **Language**: Ingiriis
+- **Website**: koreaherald.com
+
+
+# Tables
+
+## The Korea Herald
+| Publisher | Kwon Chung-won |
+| --- | --- |
+| Editor | Shin Yong-bae |
+| Staff writers | 50 |
+| Founded | 1953 |
+| Language | Ingiriis |
+| Website | koreaherald.com |

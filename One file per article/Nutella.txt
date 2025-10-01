@@ -1,0 +1,9 @@
+title:
+Nutella
+
+url:
+https://so.wikipedia.org/wiki?curid=36811
+
+text:
+Nutella waa magaca Talyaani macaan "hazelnut" faafintiisa. Waxaa soo saaray shirkadda Ferrero ee &lt;a href="Talyaaniga"&gt;Talyaaniga&lt;/a&gt;, waxaa lagu soo bandhigay suuqa 1964. Nutella waxay leedahay 200 oo kaloori.
+=Tix=

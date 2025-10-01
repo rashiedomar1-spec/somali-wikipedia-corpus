@@ -1,0 +1,38 @@
+title:
+Astronomical unit
+
+url:
+https://so.wikipedia.org/wiki?curid=13276
+
+text:
+AU oo loo soo gaabiyay Astronomical Unit waa halbeega meereyaasha , xidigaha iyo dhamaan walxaha ku dhex jira koonka .
+
+Halbeega AU wuxuu u dhigmaa 149 597 870 700 mitir (qiyaastii 93 milyan mile) taasi oo ah dhererka masaafada dhulku u jiro qoraxda .
+
+
+# Infobox
+
+- **Hab halbeeg**: Halbeega Xidigaha (La isla gartey in loo isticmaalo SI)
+- **Halbeegga ah**: dherer
+- **Astaan**: au
+- **Halbeega SI**: 7011149600000000000♠ 1.4960 × 10 11 m
+- **halbeega Maraykanka**: 7007929560000000000♠ 9.2956 × 10 7 mi
+- **other astronomical**: 6994484809999999999♠ 4.8481 × 10 −6 parsec
+- **units**: 6995158130000000000♠ 1.5813 × 10 −5 ly
+
+
+# Tables
+
+## Table 1
+| Astronomical Unit |
+| --- |
+| Hab halbeeg | Halbeega Xidigaha (La isla gartey in loo isticmaalo SI) |
+| Halbeegga ah | dherer |
+| Astaan | au |
+| Unit conversions |
+| 1 au in ... | ... is equal to ... |
+|  |
+| Halbeega SI | 7011149600000000000♠ 1.4960 × 10 11 m |
+| halbeega Maraykanka | 7007929560000000000♠ 9.2956 × 10 7 mi |
+| other astronomical | 6994484809999999999♠ 4.8481 × 10 −6 parsec |
+| units | 6995158130000000000♠ 1.5813 × 10 −5 ly |

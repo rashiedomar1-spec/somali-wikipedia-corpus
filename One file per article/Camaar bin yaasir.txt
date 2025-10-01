@@ -1,0 +1,39 @@
+title:
+Camaar bin yaasir
+
+url:
+https://so.wikipedia.org/wiki?curid=37029
+
+text:
+Abuu yaqdaan camaar bin yaasir waa saxaabi ka mid ahaa kuwii ugu horeeyay islaamida, waxa uu ku juray kuwa liita ee makka lagu cadaabi jiray see diinta uga tagaan, hooyadiis iyo aabihiis ayaa ku dhintay cadaabka.
+
+
+# Infobox
+
+- **aabihiisa:**: yaasir bin caamir
+- **hooyadii**: sumaya binti khayaad
+- **Dhashay:**: 566
+- **Ku dhashay:**: Makka
+- **Diintiisa:**: Islaam
+- **walaalihiis**: Cabdulaahi bin yaasir
+- **Dhintay:**: 37H
+- **Ku dhintay:**: Dagaakii sfiin,
+
+
+# Tables
+
+## Table 1
+| camaar bin yaasir عمار بن ياسر |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: | yaasir bin caamir |
+| hooyadii | sumaya binti khayaad |
+| Dhashay: | 566 |
+| Ku dhashay: | Makka |
+| Diintiisa: | Islaam |
+| xaaska |  |
+| ilmahiisa |  |
+| walaalihiis | Cabdulaahi bin yaasir |
+| Dhintay: | 37H |
+| Ku dhintay: | Dagaakii sfiin, |

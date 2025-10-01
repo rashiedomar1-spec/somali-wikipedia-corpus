@@ -1,0 +1,10 @@
+title:
+Isniin
+
+url:
+https://so.wikipedia.org/wiki?curid=2056
+
+text:
+Isniin waa maalin usbuuceed, waxeyna u dhaxaysaa &lt;a href="Axad"&gt;Axad&lt;/a&gt;da iyo &lt;a href="talaado"&gt;Talaadada&lt;/a&gt;.
+Isniin waa maalinta sadexaad ee isbuuca &lt;a href="Islaam"&gt;Islaam&lt;/a&gt; ahaan , waana maalinta koowaad ee isbuuca marka laga fiiro istandharka ISO 8601, waxay badanaa tahay maalinta wadama gaalada shaqada laga bilaabo.
+luqada Ingiriiska waxaa lagu yiraahdaa Monday, mida Finnishakana Maanantai, Nederlanka/Holandees Maandag.

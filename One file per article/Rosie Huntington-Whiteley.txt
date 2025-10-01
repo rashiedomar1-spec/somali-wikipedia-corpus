@@ -1,0 +1,39 @@
+title:
+Rosie Huntington-Whiteley
+
+url:
+https://so.wikipedia.org/wiki?curid=33383
+
+text:
+Rosie Alise Huntington-Whiteley [ 1 ] (dhashay 18 Abrill 1987) waa moodel iyo atariisho Ingiriis ah.
+
+Tixraacyada
+
+Moodel
+
+atariisho
+
+naqshadeeye moodada
+
+naag ganacsato
+
+
+# Infobox
+
+- **Ku dhashay**: Rosie Alise Huntington-Whiteley ( 1987-04-18 ) Abriil 18, 1987 ( 38jir) Plymouth , England
+- **Dhalsho**: Ingiriis
+- **Shaqada**: Moodel atariisho naqshadeeye moodada naag ganacsato
+- **Partner(s)**: Jason Statham (2010–hada; ku hawlan)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Rosie Huntington-Whiteley |
+| --- |
+| Ku dhashay | Rosie Alise Huntington-Whiteley ( 1987-04-18 ) Abriil 18, 1987 ( 38jir) Plymouth , England |
+| Dhalsho | Ingiriis |
+| Shaqada | Moodel atariisho naqshadeeye moodada naag ganacsato |
+| Partner(s) | Jason Statham (2010–hada; ku hawlan) |
+| Ilmaha | 1 |

@@ -1,0 +1,49 @@
+title:
+Jaamacadda Eelo
+
+url:
+https://so.wikipedia.org/wiki?curid=20595
+
+text:
+Jaamacada Eelo ( Af Ingiriis : Eelo University ), loo soo gaabiyo EU , waa machad, iyo jaamacad si khaas ah loo leeyahay taasi oo xarunteeda ugu weyn ku taalo farasmagaalka magaalada Boorama , gobolka Awdal ee waqooyigalbeed wadanka Somaliland . [ 1 ]
+
+Faallo
+
+Jaamacada Eelo waxaa si rasmi ah u sharciyeysay Wasaarada Waxbarashada Somaliland badhtamihii 2007da. [ 2 ] Jaamacadda Eelo waxay dhacdaa waqooyiga maamulgoboleedka Somaliland ; barta Isuduwaha Caalamiga 08°00′ – 11°30′ taasi oo ku beegan 42°30′ – 49°00′. [ 3 ]
+
+Sidoo kale fiiri
+
+Tixraac
+
+Template:Jaamacaddaha Somaliland
+
+Liiska Jaamacaddaha Somaliland
+
+Waxbarashada Somaliland
+
+
+# Infobox
+
+- **Halku dhegga**: "Aqoon la'aan waa iftiin la'aan"
+- **La aas aasay**: 2007
+- **Nuuca**: si gaar ah loo leeyahay
+- **Madaxwenaha Jaamacadda**: Dr. Maxamuud Xaaji Cige
+- **Ardayda**: 2,000 (2014/2015)
+- **Waxay ku taal**: Boorama , Awdal
+- **Dhismaha jaamacadda**: Xarunta ugu weyn ku taala badhtamaha Boorama .
+- **Website**: Eelo University
+
+
+# Tables
+
+## Table 1
+| Jaamacadda Eelo Eelo University |
+| --- |
+| Halku dhegga | "Aqoon la'aan waa iftiin la'aan" |
+| La aas aasay | 2007 |
+| Nuuca | si gaar ah loo leeyahay |
+| Madaxwenaha Jaamacadda | Dr. Maxamuud Xaaji Cige |
+| Ardayda | 2,000 (2014/2015) |
+| Waxay ku taal | Boorama , Awdal |
+| Dhismaha jaamacadda | Xarunta ugu weyn ku taala badhtamaha Boorama . |
+| Website | Eelo University |

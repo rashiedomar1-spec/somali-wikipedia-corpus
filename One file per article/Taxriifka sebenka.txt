@@ -1,0 +1,17 @@
+title:
+Taxriifka sebenka
+
+url:
+https://so.wikipedia.org/wiki?curid=41873
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2025-07-28T00:25:23Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Girligaanshub&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Girligaanshub moved page &lt;a href="Taxriifka%20sebenka"&gt;Taxriifka sebenka&lt;/a&gt; to &lt;a href="Facaysnayn"&gt;Facaysnayn&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;277650&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

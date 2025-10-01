@@ -1,0 +1,43 @@
+title:
+Dhululubo
+
+url:
+https://so.wikipedia.org/wiki?curid=8644
+
+text:
+Dhululubo Waa joomateri ay masaaxad saleedyadiisu yihiin goobo, taa oo masaaxada isku xirta salalku tahay laydi golxo leh
+Bedka xaddidan
+
+A = 2 π r 2 {\displaystyle A=2\pi r^{2}\,} + 2 π r h {\displaystyle 2\pi rh\,}
+
+Habka loo cabiro
+
+(r) waa dhexroorka salka
+
+(h) waa jooga dhululubada
+
+(A) Waa bedka salka A = π r 2 {\displaystyle A=\pi r^{2}\,}
+
+(P) Wareega Salka waxaana loo cabiri karaa sidaan P = 2 π r {\displaystyle P=2\pi r\,}
+
+Bedka
+
+Mugga
+
+Mugga waxaa lagu helaa:
+
+(V) = π r 2 h {\displaystyle \pi r^{2}h\,} Iyadoo la isku dhufto Bedka salka iyo jooga = A × h {\displaystyle A\times h}
+
+Iyadoo la isku dhufto Bedka salka iyo jooga = A × h {\displaystyle A\times h}
+
+Sidoo kale Habkaan Adigoo sidaan u cabira = π × ∫ 0 h [ d ( x ) ] 2 d x {\displaystyle \pi \times \int _{0}^{h}[d(x)]^{2}dx}
+
+Adigoo sidaan u cabira = π × ∫ 0 h [ d ( x ) ] 2 d x {\displaystyle \pi \times \int _{0}^{h}[d(x)]^{2}dx}
+
+Bed Ka dhinaca = Wareega Salka × Jooga = P × h {\displaystyle P\times h}
+
+Bedka Salka Sare = π r 2 {\displaystyle \pi r^{2}\,}
+
+Bedka Salka Hoose = π r 2 {\displaystyle \pi r^{2}\,}
+
+Bedka Guud = ( 2 × π r 2 ) + ( P × h ) {\displaystyle (2\times \pi r^{2})+(P\times h)}

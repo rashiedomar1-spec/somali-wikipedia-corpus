@@ -1,0 +1,19 @@
+title:
+Barmiyaan
+
+url:
+https://so.wikipedia.org/wiki?curid=36454
+
+text:
+Barmiyaan ( Af-Ingiriisi : Permian), lixaad ee lixdii xilli ee Baleyosoyig Era iyo xilli koror, ayaa laga kordhiyay 298.9 ± 0.15 ilaa 251.902 ± 0.024 milyan sano ka hor, muddo ku saabsan 46.998 milyan sano.  Waxaa ka horreeya kaarboon, oo ay ku xigaan seddexda.
+
+
+# Tables
+
+## Table 1
+| Barmiyaan 298.9 – 272.3 milyan sano ka hor pЄ Є O S C P T J K Pg N |
+| --- |
+| Celceliska nuxurka O 2 cirka waqti ka waqti | c. 23 vol % (115 % laga bilaabo heerka casriga ah) |
+| Celceliska nuxurka CO 2 cirka oo muddo ah | c. 900 ppm (3 jeer heerarka warshadaha ka hor) |
+| Celceliska heerkulka dusha sare ee wakhtiga | c. 16 °C (2 °C ka sarreeya heerarka casriga ah) |
+| Heerka badda (hadda ka sarreeya) | Si joogto ah u socda 60 m (200 ft) bilowga wakhtiga; hoos u dhacay inta lagu jiro da'da dhexe si −20 m (−66 ft) joogto ah dhamaadka wakhtiga. [ 1 ] |

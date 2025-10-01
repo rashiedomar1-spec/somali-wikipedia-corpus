@@ -1,0 +1,12 @@
+title:
+NEMA
+
+url:
+https://so.wikipedia.org/wiki?curid=23791
+
+text:
+NEMA
+&lt;a href="w%3Afr%3ANational%20Electrical%20Manufacturers%20Association"&gt;w:fr:National Electrical Manufacturers Association&lt;/a&gt;
+Xidhiidhiyayaasha NEMA waxaa loo isticmaalaa Ururka Aasiyaayaasha Isticmaalayaasha Korontada ee &lt;a href="Mareykanka"&gt;Mareykanka&lt;/a&gt; . Qalabka kabaha NEMA ayaa lagu sameeyaa qiyaasta hadda laga bilaabo 15 ilaa 60 amma (A), oo leh qiyaaso xoogan oo ah 125 ilaa 600 volts (V). Iskujira kala duwan ee xirmooyinka kala duwan, muuqaalada, jihada, iyo cabbirada waxay abuuraan xiriiriyeyaasha aan isbeddelayn, qalabka, awooda qaadista korontada, iyo nidaamka aasaaska.
+NEMA 1-15P (laba-laab, dhulka aan lahayn) iyo NEMA 5-15P (laba-gees oo leh caarada dhulka) ayaa sida caadiga ah loo adeegsadaa qalabka korontada guryaha, NEMA 5-15R waa heerarka 15 Boorsada korantada ee Maraykanka, iyo heerarka qaranka ee ku habboon, &lt;a href="Kanada"&gt;Kanada&lt;/a&gt; (CSA C22.2 No. 42 [1]) iyo &lt;a href="Mexico"&gt;Mexico&lt;/a&gt; (NMX-J-163-ANCE). Noocyada kale ee fiilada iyo xirmooyinka ayaa ah ujeedooyin gaar ah ama codsiyada culus.
+Heerka cabbirka ee qalabka korontada waa ANSI / NEMA WD-6 waxaana laga helaa bogga NEMA. [2]

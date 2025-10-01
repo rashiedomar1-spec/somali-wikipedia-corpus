@@ -1,0 +1,32 @@
+title:
+Bisola Aiyeola
+
+url:
+https://so.wikipedia.org/wiki?curid=34443
+
+text:
+Bisola Aiyeola (dhashay Janaayo 21, 1986) waa atariisho iyo heesaa reer Nayjeeriya ah. [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Abisola Aiyeola ( 1986-01-21 ) Janaayo 21, 1986 ( 39jir)
+- **Dhalsho**: Nayjeeriya
+- **Waxbarashada**: Jaamacadda Furan ee Qaranka ee Nayjeeriya
+- **Shaqada**: Atariisho
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Bisola Aiyeola |
+| --- |
+| Bisola ee 2020 AMVCA |
+| Ku dhashay | Abisola Aiyeola ( 1986-01-21 ) Janaayo 21, 1986 ( 39jir) |
+| Dhalsho | Nayjeeriya |
+| Waxbarashada | Jaamacadda Furan ee Qaranka ee Nayjeeriya |
+| Shaqada | Atariisho |
+| Ilmaha | 1 |

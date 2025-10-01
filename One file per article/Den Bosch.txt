@@ -1,0 +1,8 @@
+title:
+Den Bosch
+
+url:
+https://so.wikipedia.org/wiki?curid=8831
+
+text:
+Den Bosch waa magaalad oh kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt; waana caasimada gobolka &lt;a href="Waqooyiga%20Brabant"&gt;Waqooyiga Brabant&lt;/a&gt; ee kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt;

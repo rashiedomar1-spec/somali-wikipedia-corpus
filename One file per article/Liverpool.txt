@@ -1,0 +1,10 @@
+title:
+Liverpool
+
+url:
+https://so.wikipedia.org/wiki?curid=9342
+
+text:
+Liverpool
+&lt;a href="Liverpool"&gt;Liverpool&lt;/a&gt; waa magaalad oo kuyaalo dalka &lt;a href="Ingiriiska"&gt;Ingiriiska&lt;/a&gt;.
+Magaalada weyn ee uk Europe, magaalada ku taal badweynta atlantic ocean u dhow Ireland, liverpool ee gobolka waqooyi ee uk, magaalo weyn oo uk

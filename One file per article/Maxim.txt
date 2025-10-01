@@ -1,0 +1,55 @@
+title:
+Maxim
+
+url:
+https://so.wikipedia.org/wiki?curid=32635
+
+text:
+Maxim waa joornaal caalami ah oo ragga ka mid ah, oo lagu hindisay oo laga bilaabay Ingiriiska 1995, laakiin wuxuu ku saleysan yahay magaalada New York ilaa 1997, wuxuuna caan ku yahay sawirkiisa atariishooyinka, heesaayaasha, iyo moodellada dumarka ah ee caanka ah.
+
+Maxim Hot 100
+
+Teyana Taylor
+
+
+# Infobox
+
+- **Editor**: Sardar Biglari (2014–hada)
+- **Founded**: 1995
+- **Language**: Ingiriisi, kuwo kale oo badan
+- **City**: New York
+
+
+# Tables
+
+## Maxim
+|   |
+| --- |
+| Editor | Sardar Biglari (2014–hada) |
+| Founded | 1995 |
+| Language | Ingiriisi, kuwo kale oo badan |
+| City | New York |
+
+## Table 2
+| Sanadka | Xulasho | Da'da |
+| --- | --- | --- |
+| 2000 | Estella Warren | 21 |
+| 2001 | Jessica Alba | 20 |
+| 2002 | Jennifer Garner | 30 |
+| 2003 | Christina Aguilera | 22 |
+| 2004 | Jessica Simpson | 24 |
+| 2005 | Eva Longoria | 30 |
+| 2006 | Eva Longoria | 31 |
+| 2007 | Lindsay Lohan | 21 |
+| 2008 | Marisa Miller | 29 |
+| 2009 | Olivia Wilde | 25 |
+| 2010 | Katy Perry | 25 |
+| 2011 | Rosie Huntington-Whiteley | 24 |
+| 2013 | Miley Syrus | 20 |
+| 2014 | Kandise Swanepoel | 25 |
+| 2015 | Taylor Swift | 25 |
+| 2016 | Stella Maxwell | 25 |
+| 2017 | Hailey Baldwin | 20 |
+| 2018 | Kate Upton | 25 |
+| 2019 | Olivia Kulpo | 27 |
+| 2021 | Teyana Taylor | 30 |

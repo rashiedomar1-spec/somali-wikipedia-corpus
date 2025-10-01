@@ -1,0 +1,9 @@
+title:
+Metroka Atlanta USA MARTA
+
+url:
+https://so.wikipedia.org/wiki?curid=32535
+
+text:
+Metroka Atlanta USA MARTA
+nidaamka tareenka magaalada usa magaalada &lt;a href="Atlanta"&gt;Atlanta&lt;/a&gt;, tareenada tareenka ee magaalada dhexdeeda, khadad fara badan ayaa laga baxaa, nidaamka metroka.

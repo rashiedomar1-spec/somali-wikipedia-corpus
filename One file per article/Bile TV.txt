@@ -1,0 +1,28 @@
+title:
+Bile TV
+
+url:
+https://so.wikipedia.org/wiki?curid=37953
+
+text:
+Bile TV (oo la odhan jiray Muqdisho Cable TV) waa telefishin Soomaaliyeed oo la aasaasay sanadkii 2012-kii. [ 1 ] [ 2 ]
+
+Tix
+
+
+# Infobox
+
+- **Dalka**: Soomaaliya
+- **Xarunta**: Soomaaliya
+- **Milkiyadda**: Cabdirashiid Maxamed Siraaj
+- **Afka (luqada)**: Af-Soomaali
+
+
+# Tables
+
+## Bile TV
+| Dalka | Soomaaliya |
+| --- | --- |
+| Xarunta | Soomaaliya |
+| Milkiyadda | Cabdirashiid Maxamed Siraaj |
+| Afka (luqada) | Af-Soomaali |

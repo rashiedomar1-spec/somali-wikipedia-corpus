@@ -1,0 +1,8 @@
+title:
+Iskandanefiyan
+
+url:
+https://so.wikipedia.org/wiki?curid=6498
+
+text:
+Skandinafiyen waxaa ladhahaa dhulka ku yaalo woqooyiga qaarada &lt;a href="Yurub"&gt;Yurub&lt;/a&gt;. Waxaana la isku dhahaa wadamada &lt;a href="Denmark"&gt;Denmark&lt;/a&gt;,&lt;a href="Iswiidhan"&gt;Iswiidhan&lt;/a&gt; iyo &lt;a href="Norway"&gt;Norway&lt;/a&gt;.

@@ -1,0 +1,9 @@
+title:
+Hudisa
+
+url:
+https://so.wikipedia.org/wiki?curid=7028
+
+text:
+Hudisa hudusa waa magaalo aad iyo aad u qurux badan waxa ay katirsantahay dagmada &lt;a href="Shiikh"&gt;Shiikh&lt;/a&gt;
+ee &lt;a href="Somaliland"&gt;Somaliland&lt;/a&gt;

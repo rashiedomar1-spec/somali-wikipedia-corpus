@@ -1,0 +1,8 @@
+title:
+Hurdiya
+
+url:
+https://so.wikipedia.org/wiki?curid=7017
+
+text:
+Hurdiya waa degmo ku taalo &lt;a href="Badda%20Hordio"&gt;Badda Hordio&lt;/a&gt; iyo gobolka &lt;a href="Bari%20%28Gobol%29"&gt;Bari&lt;/a&gt;

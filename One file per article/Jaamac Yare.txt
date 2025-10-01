@@ -1,0 +1,31 @@
+title:
+Jaamac Yare
+
+url:
+https://so.wikipedia.org/wiki?curid=35004
+
+text:
+Jaamac Yare waa fanaan Soomaaliyeed, waxa uu ka mid yahay fannaaniinta sida weyn looga yaqaano dalka. Inanta uu dhalay waa Kiin Jaamac , sidoo kale waa fannaanad caan ah.
+
+Album
+
+Shaadiya (1997)
+
+Jaamac Yare Collections (2018)
+
+
+# Infobox
+
+- **Ku dhashay**: Soomaaliya
+- **Shaqada**: Fanaan
+- **Ilmaha**: Kiin Jaamac
+
+
+# Tables
+
+## Table 1
+| Jaamac Yare |
+| --- |
+| Ku dhashay | Soomaaliya |
+| Shaqada | Fanaan |
+| Ilmaha | Kiin Jaamac |

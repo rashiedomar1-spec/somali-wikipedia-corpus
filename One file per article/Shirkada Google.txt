@@ -1,0 +1,126 @@
+title:
+Shirkada Google
+
+url:
+https://so.wikipedia.org/wiki?curid=17182
+
+text:
+Kani waa maqaal ku saabsan shirkada Google. Aalada wax baarista internetka fiiri Raadinta Google .
+
+Kani waa maqaal ku saabsan shirkada Google. Aalada wax baarista internetka fiiri Raadinta Google .
+
+Coordinates : 37°25′19″N 122°05′03″W ﻿ / ﻿ 37.422°N 122.084058°W ﻿ / 37.422; -122.084058
+
+Google LLC ( Carabi : أو قوقل, أو جوجل ama ,أغوغل) loogu dhawaaqo "Guugal" ama "Quuqal" ama "Juujal": waa shirkad Ameerikaan ah, bilyandheer ah oo sameeysa, soo saarta, iibisa aaladaha ku xidhiidha internetka . Sidoo kale shirkadani waxay ka ganacsataa xayaysiiska, iidhehda, kireeynta websiteyada, softwareyada, raadinta akhbaarta iyo waxyaabo kale oo badan. [ 7 ] Google waxaa la sameeyay dhamaadkii sanadkii 1998kii, waxaa sameeyay laba nin oo lakala yiraahdo Larry Page iyo Sergey Brin oo ahaa laba arday oo Yahuud ahaa oo wax ka baran jiray Jaamacadda Stanford ee kutaala dalka Maraykanka . [ 8 ] [ 9 ]
+
+Labadan nin wadajir ahaan waxay leeyihiin 14% dhaqaalaha shirkada, laakiin waxay maamulaan 56%, taasi oo awood buuxda u siinaysa jiheynta iyo gacan ku heynta shirkada. [ 10 ] [ 11 ] Shirkadani google waxay maamushaa 64% raadinta onlineka (online search) ee internetka caalamka, taasi oo ka dhigeysa mida koowaad ee ugu awooda badan waxbaaritaanka internetka ee aduunka. 
+Adeegyada shirkada google waxaa ka mid ah aalada Raadinta Google (google search), warqaadaha Gmail , aalad wax lagu keydsho ee Google Drive , adeegyada xafiiska ee loo yaqaan Google Docs, barta bulshada ee Google+ , sawiraan , fariimo, softwareka Android , aalada Chrome-ka, OS (operating system), turjumaad, iyo adeegyo badan oo kala duwan oo dhamaantood la xidhiidha internetka. [ 12 ] Shirkada google waxay sidoo kale leedahay websiteka sawir-socdaha ee youtube ka iyo barta wax-qoraalka ee blogger-ka loo yaqaano. Intaasi waxaa dheer in google ay ku soo baxdo in ka badan 150 luuqadood kuwaasi oo uu ka mid yahay luuqada Af Soomaaliga .
+Bishan Agoosto 2015ka, shirkada google waxay ku dhawaaqdey ineey sameeysay shirkad waalid u noqoneysa dhamaan shirkadaha iyo wakaaladaha ku abtirsada google, midaasi oo loogu magac daray Alphabet Inc. [ 13 ] [ 14 ]
+
+Mareegta
+
+Raadinta Google
+
+Barta Raadinta Google LLc ( google search ) waa aalad cilmiyeeysan oo loo isticmaalo wax raadinta barta internetka midaasi ooy leedahay Shirkada Google ee xarunteedu tahay gobolka Kalifoorniya ee wadanka Maraykanka .]], [ 18 ] handling more than three billion searches each day. [ 19 ] [ 20 ] Barta Raadinta Google, ciwaankeedu yahay google.com , waa mishiinka waxraadinta ugu horeeya dhamaan aaladaha internetka ee dunida , taasi oo lagu qiyaaso in google leedahay 64% dhamaan wax baadhitaanka caalamka. In ku dhow sadex bilyan oo raadin ayaa barta google qaabishaa maalin kasta.
+Boga wax raadinta ee google wuxuu ku salaysan yahay nidaam loo yaqaano "PageRank" taasi oo u suurtogelisa in ay si fudud iskugu keento hal bog akhbaar aad u badan oo ku keydsan meelo kala duwan oo kala fog iyo wakhtiyo kala duwan.
+
+Internet
+
+software koombuyuterada
+
+Adeega Isgaadhsiinta
+
+Larry Page
+
+Sergey Brin
+
+Larry Page (Maamule sare)
+
+Sergey Brin (Xoghayaha Google X)
+
+Eric Schmid (Agaasimaha Guud)
+
+Ruth Porat (CFO) [ 4 ]
+
+Sundar Pichai (Hogaanka Wax soo saarka)
+
+Google Soomaaliya
+
+Google Caalami ah
+
+Alphabet Inc. Google Pixel Pro. Youtube .
+
+https://www.aljazeera.com/economy/2021/12/24/russian-court-fines-alphabet-google-meta-platform
+
+Google Pixel Pro.
+
+Youtube .
+
+
+# Infobox
+
+- **Nooca**: U Furan Bulshada
+- **ka ganacsaday sida**: ganacsi aad u macaash badan
+- **Shirkada**: Internet software koombuyuterada Adeega Isgaadhsiinta
+- **La aasaasay**: Sebteembar 4, 1998 ; 27 sanadood ka hor ( 1998-09-04 ) Menlo Park, Kaliforniya [ 1 ] [ 2 ]
+- **Aasaasaha**: Larry Page Sergey Brin
+- **Xarunta**: Qasriga Googleplex, Kaliforniya , Mareykanka [ 3 ]
+- **Meelaha loo adeegsaday**: Caalamka oo dhan
+- **Dadka muhiimka ah**: Larry Page (Maamule sare) Sergey Brin (Xoghayaha Google X) Eric Schmid (Agaasimaha Guud) Ruth Porat (CFO) [ 4 ] Sundar Pichai (Hogaanka Wax soo saarka)
+- **Alaabta**: See Tirada Soo Saarka Google
+- **Tirada inta ka shaqeeso**: 57,148 (Q2 2015) [ 5 ]
+- **Iska leh**: Shirkada Alphabet
+- **kaabayaasha**: Tirada xubnaha maamulka
+- **Website**: www.google.com
+- **Cinwaanka**: www.google.com ( Mareykanka )
+- **Nooca site**: Bar Wax Raadin
+- **Diiwaan-gelin**: [7Ikhtiyaar ]]
+- **Diyaar ku ah**: 123 luuqadood
+- **Written in**: Python , C , C++ [ 15 ]
+- **Mulkiilaha**: Google
+- **La bilaabay isticmaalka**: Sebteembar 15, 1997 ( 1997-09-15 ) [ 16 ]
+- **Revenue**: Xayaysiis
+- **Alexa garaado**: 1 (April 2015 [update] ) [ 17 ]
+- **Hada**: Hada shaqeeynaya
+
+
+# Tables
+
+## Shirkada Google LLc.
+|   |
+| --- |
+| The Googleplex, Google's original and largest corporate campus |
+| Nooca | U Furan Bulshada |
+| ka ganacsaday sida | ganacsi aad u macaash badan |
+| Shirkada | Internet software koombuyuterada Adeega Isgaadhsiinta |
+| La aasaasay | Sebteembar 4, 1998 ; 27 sanadood ka hor ( 1998-09-04 ) Menlo Park, Kaliforniya [ 1 ] [ 2 ] |
+| Aasaasaha | Larry Page Sergey Brin |
+| Xarunta | Qasriga Googleplex, Kaliforniya , Mareykanka [ 3 ] |
+| Meelaha loo adeegsaday | Caalamka oo dhan |
+| Dadka muhiimka ah | Larry Page (Maamule sare) Sergey Brin (Xoghayaha Google X) Eric Schmid (Agaasimaha Guud) Ruth Porat (CFO) [ 4 ] Sundar Pichai (Hogaanka Wax soo saarka) |
+| Alaabta | See Tirada Soo Saarka Google |
+| Tirada inta ka shaqeeso | 57,148 (Q2 2015) [ 5 ] |
+| Iska leh | Shirkada Alphabet |
+| kaabayaasha | Tirada xubnaha maamulka |
+| Website | www.google.com |
+| Footnotes / references [ 6 ] |
+
+## Google
+|   |
+| --- |
+| Barta Internetka Barta Raadinta Google |
+| Cinwaanka | www.google.com ( Mareykanka ) |
+| Nooca site | Bar Wax Raadin |
+| Diiwaan-gelin | [7Ikhtiyaar ]] |
+| Diyaar ku ah | 123 luuqadood |
+| Written in | Python , C , C++ [ 15 ] |
+| Mulkiilaha | Google |
+| La bilaabay isticmaalka | Sebteembar 15, 1997 ( 1997-09-15 ) [ 16 ] |
+| Revenue | Xayaysiis |
+| Alexa garaado | 1 (April 2015 [update] ) [ 17 ] |
+| Hada | Hada shaqeeynaya |
+
+
+
+# Coordinates
+37.422; -122.084058

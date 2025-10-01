@@ -1,0 +1,8 @@
+title:
+Sodog
+
+url:
+https://so.wikipedia.org/wiki?curid=14002
+
+text:
+Sodog (&lt;a href="Af-Taliyaani"&gt;taliyaani&lt;/a&gt;: suocero &lt;a href="Ingiriis%20%28luqad%29"&gt;ingriis&lt;/a&gt;: father-in-law) waa &lt;a href="oday"&gt;oday&lt;/a&gt;ga &lt;a href="aaba"&gt;aaba&lt;/a&gt;ha u ah &lt;a href="xaas"&gt;xaas&lt;/a&gt;ka &lt;a href="nin"&gt;nin&lt;/a&gt; qabo iyo &lt;a href="seey"&gt;seey&lt;/a&gt;ga &lt;a href="naag"&gt;naag&lt;/a&gt; leedahay.

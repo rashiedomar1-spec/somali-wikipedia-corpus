@@ -1,0 +1,26 @@
+title:
+Bluetooth
+
+url:
+https://so.wikipedia.org/wiki?curid=2472
+
+text:
+Bluetooth waa hab ay labo shey oo elektoorig ku shaqeeyaa ay kuwada xidhiidhi karaan iyadoon wax xadhig ah leykugu xidhin (English: Wireless).
+
+Meelaha loo siticmaalo
+
+Taariikh
+
+Taariikhda BlueTooth waxey bilaabatey tariqdu markey aheyd 1994 , ay shirkadda Ericsson ayaa ku taqarustay iney hesho hab ay isku wadda xiriiriso telefoonadda gacanta. Ujeedada Ericsson waxey aheyd iney ka kaaftoomaan Fiiloyinka badan oo isku xira computerka iyo telefoonka gacanta, telefoonka dhegaha la surto (headphone), iwm.
+
+Cilmiga
+
+Bluetooth ku wxuu ku shaqeeyaa mowjadaha 2.45GHz. Labada shey oo leyku xidheyna waa iney isku jiraan 1 ilaa 10 mitir.
+
+Isku xirka 2 telefoon : si laysku weydaarsado adareesyada, heeso,sawiro iwm.
+
+Baabuur ka: Sidaad u hadli laheyd adoon gacanta isticmaaleyn (Hand free)
+
+Computer ka: Sidii heeso, telefoonno, adareesyo, iwm iskaga kala gudbin lahey.
+
+Iyo meelo kale oo badan

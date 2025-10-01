@@ -1,0 +1,76 @@
+title:
+150 (tiro)
+
+url:
+https://so.wikipedia.org/wiki?curid=13626
+
+text:
+150 waa lambarka boqol - iyo kontonaad ee tirada xisaabta . 
+Lambarkan waa mid dhaban ah, waxaana ka horeeya lambar 149 lambarka ku xigana waa 151 .
+
+Aasaaska Tiro
+
+Aasaaska Xisaabta
+
+Lambar
+
+Tiro
+
+Iskugeyn
+
+Kalagoyn
+
+Iskudhufasho
+
+Iskuqaybin
+
+Jajab
+
+Dhaban
+
+Kinsi
+
+Xisaab
+
+10ka Lambar ee u horeeya
+
+
+# Infobox
+
+- **Tiro qiime**: kow boqol konton
+- **Ordinal**: 150aad (kow boqol iyo kontonaad)
+- **Isirayn**: 2 × 3 × 5 2
+- **Tiro roman**: CL
+- **Labaale**: 10010110 2
+- **Saddexaale**: 12120 3
+- **Afaraale**: 2112 4
+- **Shanaale**: 1100 5
+- **Senary**: 410 6
+- **Octal**: 226 8
+- **Laba iyo tobanaale**: 106 12
+- **Tobanaale**: 96 16
+- **Vigesimal**: 7A 20
+- **Sal 36**: 46 36
+
+
+# Tables
+
+## Table 1
+| ← 149 150 151 → | ← 149 | 150 | 151 → |
+| --- | --- | --- | --- |
+| ← 149 | 150 | 151 → |
+| ← 150 151 152 153 154 155 156 157 158 159 → Liiska Lambarada — Abyoone ← 0 100 200 300 400 500 600 700 800 900 → |
+| Tiro qiime | kow boqol konton |
+| Ordinal | 150aad (kow boqol iyo kontonaad) |
+| Isirayn | 2 × 3 × 5 2 |
+| Tiro roman | CL |
+| Labaale | 10010110 2 |
+| Saddexaale | 12120 3 |
+| Afaraale | 2112 4 |
+| Shanaale | 1100 5 |
+| Senary | 410 6 |
+| Octal | 226 8 |
+| Laba iyo tobanaale | 106 12 |
+| Tobanaale | 96 16 |
+| Vigesimal | 7A 20 |
+| Sal 36 | 46 36 |

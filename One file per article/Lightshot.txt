@@ -1,0 +1,14 @@
+title:
+Lightshot
+
+url:
+https://so.wikipedia.org/wiki?curid=41969
+
+text:
+Lightshot waa barnaamij sawir qaade ah oo loogu talagalay nidaamyada hawlgalka Windows iyo macOS. Waxay la mid tahay shaqada caadiga ah Qalabka Snipping Tool ee Windows Vista iyo Windows 7, laakiin waxay bixisaa awood tafatir sare leh iyo qalab ku habboon in si degdeg ah loogu daabaco sawirada internetka.
+Barnaamijku wuxuu si toos ah u beddelayaa ficilka caadiga ah ee badhanka PrtScr, isagoo joojinaya cadaadiskiisa si degdeg ah loo bilaabo. Isticmaaluhu wuxuu si fudud u dooran karaa meesha la rabo ee shaashadda hal gujis.
+Lightshot waxay taageertaa furayaasha kiiboodhka kala duwan ee dhammaan hawlaha aasaasiga ah. Isku darka caanka ah Ctrl + C si loo koobiyo iyo Ctrl + S si loo badbaadiyo sawirka ayaa si gaar ah ugu habboon.
+Intaa waxaa dheer, codsigu wuxuu kuu ogolaanayaa inaad Google ka raadiso sawirro la mid ah muuqaalka sawirka la qabtay.
+Lightshot wuxuu diyaar u yahay Windows iyo macOS, iyo sidoo kale plugin loogu talagalay daalacashada Mozilla Firefox, Internet Explorer iyo Google Chrome. PNG, JPEG iyo BMP waxay taageertaa kaydinta faylasha saddex qaab.
+Dhibaatada sirta.
+Helitaanka sawirrada lagu soo geliyo server-ka waxaa lagu bixiyaa xiriiro gaagaaban, kuwaas oo jilayaasha (lambarada eber ilaa sagaal iyo xarfaha alifbeetada Laatiinka) ay u dhigmaan jaantusyada isku xigxiga ee sawirada la soo geliyay. Adigoo si fudud baaskiil ku dhex maraya xiriiriyeyaashan, isticmaale kasta wuxuu heli karaa sawirrada isticmaaleyaasha kale. Waxaa ka mid ah, sawirro ay ku jiraan xogta shakhsiga ah, sawiro gaar ah, iyo macluumaad kale oo, haddii si cad loo soo bandhigo, khatar gelin kara milkiilayaasha sawirka.

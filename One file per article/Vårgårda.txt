@@ -1,0 +1,54 @@
+title:
+Vårgårda
+
+url:
+https://so.wikipedia.org/wiki?curid=23346
+
+text:
+Vårgårda waa tuulo ku taal gobolka Västra Götaland ee wadanka Iswiidhan. Waxay xarun u tahay degmada Vårgårda. Tirada dadka ku nool Vårgårda waa 5,451.
+
+Xigasho
+
+
+# Infobox
+
+- **Wadanka**: Iswidhan
+- **Gobolka**: Västergötland
+- **Degmo**: Västra Götaland County
+- **Dowlad**: Vårgårda Municipality
+- **Area [ 1 ]**: 4.31 km 2 (1.66 sq mi)
+- **• Dhammaan**: 5,340
+- **• Cufnaanta dadka**: 1,192/km 2 (3,090/sq mi)
+- **Aag saacadeed**: UTC+1 ( CET )
+- **• Xagaa ( DST )**: UTC+2 ( CEST )
+
+
+# Tables
+
+## Table 1
+| Vårgårda |
+| --- |
+| {{{type}}} |
+| Vårgårda |
+|  |
+| Vårgårda |
+| Coordinates: 58°02′N 12°48′E ﻿ / ﻿ 58.033°N 12.800°E ﻿ / 58.033; 12.800 Coordinates : 58°02′N 12°48′E ﻿ / ﻿ 58.033°N 12.800°E ﻿ / 58.033; 12.800 |
+| Wadanka | Iswidhan |
+| Gobolka | Västergötland |
+| Degmo | Västra Götaland County |
+| Dowlad | Vårgårda Municipality |
+| Area [ 1 ] | 4.31 km 2 (1.66 sq mi) |
+| Tirada dadka (31 December 2010) [ 2 ] |
+| • Dhammaan | 5,340 |
+| • Cufnaanta dadka | 1,192/km 2 (3,090/sq mi) |
+| Aag saacadeed | UTC+1 ( CET ) |
+| • Xagaa ( DST ) | UTC+2 ( CEST ) |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Vårgårda |
+| --- | --- |
+
+
+
+# Coordinates
+58.033; 12.800

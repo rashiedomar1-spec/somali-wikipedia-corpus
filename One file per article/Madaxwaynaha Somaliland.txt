@@ -1,0 +1,38 @@
+title:
+Madaxwaynaha Somaliland
+
+url:
+https://so.wikipedia.org/wiki?curid=31870
+
+text:
+Madaxaweynaha Somaliland ( Af Ingiriis : President of Somaliland ) waa madaxweynaha iyo madaxa dawladda Somaliland . Ma jiro raiisul wasaare . Madaxweynaha ayaa sidoo kale ah taliyaha guud ee ciidamada qalabka sida ee Somaliland . Madaxweynuhu wuxuu wakiil ka yahay Dawladda Somaliland . Madaxweynihii ugu horreeyay ee Somaliland wuxuu ahaa Cabdiraxmaan Axmed Cali Tuur . Masuulkan hadda xilka hayaa waa madaxweynihii 5-aad ee Muuse Biixi Cabdi, laga soo bilaabo 13-kii Diseembar 2017. Madaxweynaha wuxuu shaqeyn karaa ugu badnaan laba xilli oo shan sano ah. Jamhuuriyadda Somaliland waxay isu tixgelinaysaa inay tahay waddankii beddelay Maxmiyaddii hore ee British Somaliland, oo ahayd dal madax-bannaan maalmo kooban 1960-kii oo ah Dawladdii Somaliland .
+
+
+# Infobox
+
+- **Maamuus**: Mudane Madaxweyne
+- **Xarunta**: Qasriga Madaxtooyada JSL - Presidential Palace
+- **Wakiilka**: Doorashada toos ah
+- **Muddada xilka**: Laba xilli oo isku xiga 5-sano
+- **La aas aasay**: 28 Maajo 1991 ( 1991-05-28 )
+- **Madaxweynihii 1aad**: Cabdiraxmaan Tuur isagoo ahaa Madaxweynihii ugu horreeyay 1991-kii
+- **Ku xigeen**: Madaxweyne ku xigeenka Somaliland
+- **Website**: madaxtooyadajsl.com
+
+
+# Tables
+
+## Table 1
+| Madaxweynaha Jamhuuriyadda Somaliland |
+| --- |
+| Calanka Somaliland |
+| Presidential Seal |
+| Hadda xilka haya Abdirahaamn Abdullahi Laga soo bilaabo 13 Diseembar 2017 ( 2017-12-13 ) |
+| Maamuus | Mudane Madaxweyne |
+| Xarunta | Qasriga Madaxtooyada JSL - Presidential Palace |
+| Wakiilka | Doorashada toos ah |
+| Muddada xilka | Laba xilli oo isku xiga 5-sano |
+| La aas aasay | 28 Maajo 1991 ( 1991-05-28 ) |
+| Madaxweynihii 1aad | Cabdiraxmaan Tuur isagoo ahaa Madaxweynihii ugu horreeyay 1991-kii |
+| Ku xigeen | Madaxweyne ku xigeenka Somaliland |
+| Website | madaxtooyadajsl.com |

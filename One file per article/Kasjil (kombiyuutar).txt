@@ -1,0 +1,32 @@
+title:
+Kasjil (kombiyuutar)
+
+url:
+https://so.wikipedia.org/wiki?curid=1986
+
+text:
+"Haku khaldin "&lt;a href="Kombuyuuterka%20Dhabta"&gt;Kombuyuuterka Dhabta&lt;/a&gt;""
+Kasjil ama kombiyuutar (; ) waa aalad elektaroonig ah u habaysan inuu qaabilo macluumaad iyo samaynta qoraallo ama xog muhiim ah isla markaasna u samysan inuu ku kaydiyo meelo kala gaar ah, badanaa kumbuyuutarku wuxuu xogtaas la wadaagi karaa qalab ama kumbuyuutar meel kale yaala iyadoo loo marayo adeegsiga internetka, kuwa ugu degdega badan ayaa maanta awood u leh bilyano xog ah inay kaydiyaan kana shaqaysiiyaan sikimo aad u yar, kumbuyuutarada ayaa ku shaqeeya barnaamijyo loo yaqaano OS ama (operating system) la'aantiis kumbuyuutarku waa caag ama daasad meel taal, barnaamijkaas ayaa ku cadaynaya qaabka aad u shaqayn lahayd, sidoo kale wuxuu boos siiyaa kuwo barnaamijyo kale ku dhexsamaysta. 
+Hordhac.
+Kumbuyuutarka waxaa laga adeegsadaa meelo aad u tiro badan oo ka mid ah nolosha bulashada. Nolosha casriga ah oo aan hada ku jirno waxaa aad u adag in la'helo xirfad lagu shaqeeyo oo aanan la’isticmaalin aaladan kumbuyuutarka ah. Waxaa hubaal ah in uusan aduunka jirin kumbuyuutar uu sameeyay wax aan beniaadam ahayn. Sababaha ugu wacan in ay kumbuyuutarada ku soo bataan goobaha wax soo saarka sida warshadaha, isbitaalada IWM (Iyo Wixii la'Mid ah), waa sida ay u qabankaraan howlaha soo noqnoqda asaga oo aanan daalin uun qaladkiisuna aad u yaryahay haddii loo fiiriyo mida uu qofka beniaadamka ah qabto.
+Arinka kale oo uu kumbuyuutarka kaga duwan yahay dadka ayaa wax ay tahay in uu si dhaqsileh ku qaban karo howlaha xisaabaadka u baahan. Sida aynu ognahay xisaabta laga rabo in uu kumbuyuutarka yaqaano ayaa waxay tahay oo kaliya Iskudar iyo Kalajar. Iskudhufashada iyo Isu qaybinta waxay ka yimaadaan labada aanu horey u soo sheegnay.
+Kumbuyuutarka oo gebigiisaba ku salaysan farsamada elektarooniga ah ayaa waxa uu yaqaanaa oo kaliya tirada 0 iyo 1 kuwaas oo luqada Ingriiska ahi lagu yiraahdo bits. Sababta uusan kombuyuutarka u aqoonin wax aanan ahayn 0 iyo 1 waxaa ugu wacan ku tiirsanaanta uu ku tiirsanyahay korontoda. Si ay qaybaha kala duwan ee kombuyuutarka u wada xiriiraan, ayaa waxa ay isku fahmi karaan oo kaliya koronto waa joogtaa ama koronto ma’joogto. 1 wuxuu u dhigmaa korontaa joogto meesha 0 uu u dhigmo koronto ma’joogto. Sidaasi darteed ayaa xisaabaadka uu xisaabo kumbuyuutarka loogu magacaaba binary-math.
+Samayska kumbuyuutarka.
+kumbuyuutarku waxa uu u qaybsamaa laba qaybood oo kala ah HARDWARE oo ah samayska iyo walxaha uu ka kooban yahay kumbuyuutarku, iyo SOFTWARE oo ah barnaamijyada uu ku shaqeeyo kumbuyuutarku.
+Taariikhda kumbuyuutarka.
+Taariikhda horu marinta kumbuyuutarka iyo horu marintiisu waa wax ilaa hadda socda sidii loo kordhin lahaa xawaarihiisa, ama loo yarayn lahaa qaab dhismeedkooda ama loo kor loogu qaadi lahaa qaadkooda. Intaan la samayn kumbuyuutarka qabanaya hawlaha badana dadku waxay isticmaali jireen inay isticmaalaan hababka caadi ah si ay wax u xisaabiyaan Ilaa uu soo baxay kalkuleetarka waxa lagu xisaabiyo kaas oo fududeeyay xisaabtii. Kalkuleetarkii ayaa la horu marinayay maalinba maalinka ka danbaysa ilaa sannadihii afartaneeyadii kaas oo sees u noqday in lasoo saaro qalab badan oo loo adeegsado isgaadhsiinta iyo waxbarashadaba.
+Guusha laga gaadhay soo saarida kubyuutarka waxay bilaabantay wixii ka danbeeyay soddomeeyadii ilaa afartameeyadii qarnigii labaatanaad, waxaana loogu soo daray astaamaha gaarka ah ee kumbuyuutarka casriga ah sida adeegsiga elektrooniga ah ee ku shaqeeya nidaamka digita" ama nambarada ( waxa badankooda daahfuray kalood shanon sannadkii 1937"'dii) iyo habka barnaamijaynta.
+kombuyuutarkii ugu horreeyay ee qabanayay shaqooyin guud waxa uu ahaa ENIAC oo lagu sameeyay maraykan kuna salaysnaa habka toban tiriska 1946
+Noocyada Kumbuyuutarada.
+Kombuyuutarada waxaa loo kala qeybiyaa: Kumbuyuutarada miiska, kuwa dhabta, kuwa calaancahsa iyo kuwa waaweyn oo loo yaqaano Super Computers (Kumbuyuutarada Superka ah).
+Kumbuyuutarka miiska (DeskTop Computer).
+Waa kumbuyuutarda ugu badan e la'siticmaalo, waxaan la gu siticmaalaa Xafiisyada, Dukaamada, Isbitaalda iyo Guryahaba. 
+Kumbuyuutarka Dhabta ama Boorsada (Laptop Computer).
+Waa kuwo loogu talagalay dadka aan shakhada ku qabanin meel joogto ah, oo gala safaro ha noqdeen kuwo dhaadheer ama kuwo magalada gudaheeda ah. 
+Kumbuyuutarka Calaancasha (Palm/PDA).
+waxaa loogu talagalay dadka aanan u baahnay awood wayn ay ku qabtan kubuyuutarka lakiin u baahan in ay jadwalkooda shaqada iyo balamahooda wax ka bedelaan iyo in ay rabaa in ay aqristaan waraaqahooda elektrooniga ah (e-mail). 
+fikrada waxa aiska leh Mahdi abdirizak dahir oo ah nin cilmiga komputerada ku ta khukhusay
+Kumbuyuutarka superka (Super Computer).
+waxay qabtaan howlo qaas ah, sida naqshdaynta, maamulida dayaxgacmeedyada IWM. 
+=Qoraalo Kale=
+=Tixraac=

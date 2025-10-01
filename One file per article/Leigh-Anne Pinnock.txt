@@ -1,0 +1,30 @@
+title:
+Leigh-Anne Pinnock
+
+url:
+https://so.wikipedia.org/wiki?curid=30246
+
+text:
+' Leigh-Anne Pinnock (waxay dhalatay Oktoobar 4, 1991 ) waa fannanad Britan, Waxaa lagu yaqaanay kooxda yar ee loo yaqaan ' Little Mix' , oo ku guuleysatay daabacaadda ' The X Factor ee Ingiriiska sanadkii 2011.
+
+
+# Infobox
+
+- **Ku dhashay**: Leigh-Anne Pinnock (Oktoobar 4, 1991) (waa 28 jir) UK
+- **Dhalsho**: UK
+- **Shaqada**: fanaan
+- **Sanadaha Shaqada**: 2011–xaadir
+- **Loo yaqaano**: Little mix
+
+
+# Tables
+
+## Table 1
+| Leigh-Anne Pinnock |
+| --- |
+| Pinnock sanadkii 2015 |
+| Ku dhashay | Leigh-Anne Pinnock (Oktoobar 4, 1991) (waa 28 jir) UK |
+| Dhalsho | UK |
+| Shaqada | fanaan |
+| Sanadaha Shaqada | 2011–xaadir |
+| Loo yaqaano | Little mix |

@@ -1,0 +1,22 @@
+title:
+Hamoud Boualem
+
+url:
+https://so.wikipedia.org/wiki?curid=31311
+
+text:
+Algeria Hamoud Boualem waa Shirkad Algerian oo soo saarta cabitaanka fudud. Shirkada waxaa la aasaasay 1879ki.
+
+
+# Infobox
+
+- **Wadanka asalka**: Algeria
+- **La soo bandhigay**: 1920 ; 105 sano ka hor ( 1920 )
+
+
+# Tables
+
+## Hamoud Boualem
+| Wadanka asalka | Algeria |
+| --- | --- |
+| La soo bandhigay | 1920 ; 105 sano ka hor ( 1920 ) |

@@ -1,0 +1,10 @@
+title:
+Maqal
+
+url:
+https://so.wikipedia.org/wiki?curid=12600
+
+text:
+"Maqaalkani maaha mid ku saabsan &lt;a href="Maqaal"&gt;Maqaal&lt;/a&gt;."
+Maqal ( ) waa awooda qabashada iyo bedelka mowjado gariir &lt;a href="cod"&gt;cod&lt;/a&gt; ama shanqadh oo &lt;a href="hawo"&gt;hawada&lt;/a&gt; ama &lt;a href="biyo"&gt;biyaha&lt;/a&gt; dhex socda. Maqalka waxaa suurto geliya xubnaha maqalka ee &lt;a href="dheg"&gt;dheg&lt;/a&gt;tu ugu horeeyso. 
+Maqalku wuxuu ka mid yahay shanta &lt;a href="laxaad"&gt;laxaad&lt;/a&gt; ee dareenka &lt;a href="noole"&gt;noolaha&lt;/a&gt;. &lt;a href="Qof"&gt;Qof&lt;/a&gt;ka iyo &lt;a href="xayawaan"&gt;xayawaan&lt;/a&gt;ka aan wax maqli karin waxaa loo yaqaanaa &lt;a href="dhagool"&gt;dhagool&lt;/a&gt;.

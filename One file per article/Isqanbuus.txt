@@ -1,0 +1,47 @@
+title:
+Isqanbuus
+
+url:
+https://so.wikipedia.org/wiki?curid=32590
+
+text:
+Isqanbuus waa tuulo ka tirsan gobalka mudug waxay u dhowdahay Galdogob
+
+Dadka degan
+
+Isqanbuus waxa aas aasay oo dega beesha ismaciil ibrahim,  qabiilo kale oo la dagana wey jiraan
+
+tixraac
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Region**: Mudug
+- **District**: Galdogob District
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| isqanbuus |
+| --- |
+| village |
+| Isqanbuus village |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somalia |
+| Region | Mudug |
+| District | Galdogob District |
+| Aag saacadeed | UTC+3 ( EAT ) |

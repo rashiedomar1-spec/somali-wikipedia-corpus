@@ -1,0 +1,38 @@
+title:
+Ceeldhaab
+
+url:
+https://so.wikipedia.org/wiki?curid=28441
+
+text:
+Ceeldhaab waa degmo ka tirsan gobolkii sool hadana loo yaqano saraar degmada waxa dega beesha reeryoonis gaar ahan baalayal  waxay ku taala woqoyiga magalada caynaba waxay oog u jirtaa 15km [ 1 ] degmadu waxay ku taala  dhul aad u quruxbadan ooku haboon dhinac kasta sid abeeraha xoolaha iyo wixi lamid ahba waxay u dhexesa magaladu degmoyinka caynaba iyo oog waanagoob istaratiji ah marka loo eego deganka ay ku taalo. [ 2 ]
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Region**: Saraar
+- **Area**: 14 km 2 (5 sq mi)
+- **• Land**: 1 km 2 (0.4 sq mi)
+- **• Dhammaan**: 12,000
+- **• Cufnaanta dadka**: 860/km 2 (2,200/sq mi)
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Ceeldhaab |
+| --- |
+| Town |
+|  |
+| Ceeldhaab Location in Somalia |
+| Country | Somaliland |
+| Region | Saraar |
+| Area | 14 km 2 (5 sq mi) |
+| • Land | 1 km 2 (0.4 sq mi) |
+| Tirada dadka |
+| • Dhammaan | 12,000 |
+| • Cufnaanta dadka | 860/km 2 (2,200/sq mi) |
+|  | 4000 |
+| Aag saacadeed | UTC+3 ( EAT ) |

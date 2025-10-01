@@ -1,0 +1,11 @@
+title:
+H2O
+
+url:
+https://so.wikipedia.org/wiki?curid=12383
+
+text:
+H2O waa astaanta ama calaamada &lt;a href="Isku%20dhis"&gt;Isku dhis&lt;/a&gt;ka &lt;a href="biyo"&gt;biyo&lt;/a&gt;ha. 
+H2O waa habka &lt;a href="Kimisteri"&gt;Kimisteri&lt;/a&gt; ee loo qoro maxsuulka &lt;a href="falgal"&gt;falgal&lt;/a&gt;ka &lt;a href="Haydarojiin"&gt;Haydarojiin&lt;/a&gt; iyo &lt;a href="Ogsajiin"&gt;Ogsajiin&lt;/a&gt;. 
+H2O waa qaaciddada kiimikada ee biyaha, taasoo macnaheedu yahay in mid kasta oo ka mid ah maaddooyinkiisa uu ka kooban yahay hal oksijiin iyo laba atam oo haydarojiin ah.
+H2O ama H2O sidoo kale waxaa laga yaabaa inay tixraacaan

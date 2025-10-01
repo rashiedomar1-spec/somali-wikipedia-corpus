@@ -1,0 +1,68 @@
+title:
+Medellín
+
+url:
+https://so.wikipedia.org/wiki?curid=28409
+
+text:
+Medellín waa magaalada labaad ee ugu weyn ee Kolombiya , ka dib Bogota , iyo caasimada qaybta Antioquia. Waxay ku taallaa dooxada Aburrá, oo ah gobol dhexe oo ka mid ah buuraha Andes ee Koonfurta Ameerika. Sida laga soo xigtay Waaxda Qaranka ee Tirakoobka, magaaladu waxay leedahay dad lagu qiyaasay 2.5 milyan oo ka mid ah 2017 .
+
+
+# Infobox
+
+- **Country**: Kolombiya
+- **Region**: Aburrá
+- **Founded**: March 2, 1616
+- **• Nuuca**: Mayor-council
+- **• Body**: Alcaldía de Medellín
+- **• Mayor**: Federico Gutiérrez , 2016–2019
+- **Area**: 380.64 km 2 (146.97 sq mi)
+- **• Metro**: 1,152 km 2 (445 sq mi)
+- **Joogga**: 1,495 m (4,905 ft)
+- **• Magaalo**: 2,441,123
+- **• Cufnaanta dadka**: 6,413/km 2 (16,610/sq mi)
+- **• Metro**: 3,731,447
+- **• Metro density**: 6,925/km 2 (17,940/sq mi)
+- **Magac kale**: Medellinense Paisa
+- **Aag saacadeed**: UTC−05:00
+- **Furaha**: +57 4
+- **Climate**: Af
+
+
+# Tables
+
+## Table 1
+| Medellín |
+| --- |
+|  |
+| Municipio de Medellín |
+|  |  |  |  |  |
+|  |  |  |  |
+|  |
+|  |
+|  |
+| Flag Seal |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Kolombiya |
+| Region | Aburrá |
+| Founded | March 2, 1616 |
+| Dowlada |
+| • Nuuca | Mayor-council |
+| • Body | Alcaldía de Medellín |
+| • Mayor | Federico Gutiérrez , 2016–2019 |
+| Area | 380.64 km 2 (146.97 sq mi) |
+| • Metro | 1,152 km 2 (445 sq mi) |
+| Joogga | 1,495 m (4,905 ft) |
+| Tirada dadka (2013) |
+| • Magaalo | 2,441,123 |
+| • Cufnaanta dadka | 6,413/km 2 (16,610/sq mi) |
+| • Metro | 3,731,447 |
+| • Metro density | 6,925/km 2 (17,940/sq mi) |
+| Magac kale | Medellinense Paisa |
+| Aag saacadeed | UTC−05:00 |
+| Furaha | +57 4 |
+| Climate | Af |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Medellín |
+| --- | --- |

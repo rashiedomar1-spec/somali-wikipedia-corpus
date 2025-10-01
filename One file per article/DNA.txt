@@ -1,0 +1,8 @@
+title:
+DNA
+
+url:
+https://so.wikipedia.org/wiki?curid=4011
+
+text:
+DNA ("deoxyribonucleic acid") waa molekuul ka kooban xeerka hidde-sideyaasha noolaha. Tan waxaa ku jira &lt;a href="xayawaan"&gt;xayawaan&lt;/a&gt;, &lt;a href="dhir"&gt;dhir&lt;/a&gt;, &lt;a href="brotista"&gt;brotista&lt;/a&gt;, &lt;a href="archaea"&gt;archaea&lt;/a&gt; iyo &lt;a href="bakteeriya"&gt;bakteeriya&lt;/a&gt;. Waxay ka kooban tahay laba silsiladood oo "polynucleotide" ah oo ku jira heliigs labanlaab ah.

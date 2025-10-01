@@ -1,0 +1,20 @@
+title:
+Dhudhun
+
+url:
+https://so.wikipedia.org/wiki?curid=12515
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;142795&lt;/parentid&gt;
+ &lt;timestamp&gt;2015-12-14T01:49:55Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Ismail4all&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;150705&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Dhudhun waa &lt;a href="halbeeg"&gt;halbeeg&lt;/a&gt; cabir oo &lt;a href="Soomaali"&gt;Soomaali&lt;/a&gt;dii hore isticmaali jirtey. 
+Dhudhun waxaa loo isticmaalaa cabirka &lt;a href="dherer"&gt;dherer&lt;/a&gt;ka. 
+Dhudhun waxay u dhiganta 0.050 &lt;a href="mitir"&gt;mitir&lt;/a&gt;.

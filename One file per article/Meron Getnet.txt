@@ -1,0 +1,30 @@
+title:
+Meron Getnet
+
+url:
+https://so.wikipedia.org/wiki?curid=35092
+
+text:
+Meron Getnet waa atariisho Itoobiyaan ah, u dhaqdhaqaaqe siyaasadeed, wariye iyo abwaan.  Waxa ay caan ku ahayd dhaleecaynteeda ku wajahan mawqifka dawladnimo ee xilligii xukuumaddii Meles Zenawi . Atariisho filim aad looga ixtiraamo iyo xidigta TV-ga Itoobiya, waxay caan ku tahay doorkeeda Meaza Ashenafi ee filimka sida weyn loo amaanay Difret . [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Dhashay**: Addis Ababa , Itoobiya
+- **Ciyaalka**: 2
+- **Shaqo**: Atariisho, dhaq-dhaqaaq siyaasadeed, wariye, abwaan
+
+
+# Tables
+
+## Table 1
+| Meron Getnet |
+| --- |
+| ሜሮን ጌትነት |
+| File:Caption= |
+| Faahfaahin shaqsiyadeed |
+| Dhashay | Addis Ababa , Itoobiya |
+| Ciyaalka | 2 |
+| Shaqo | Atariisho, dhaq-dhaqaaq siyaasadeed, wariye, abwaan |

@@ -1,0 +1,38 @@
+title:
+Mandiraja, Banjarnegara
+
+url:
+https://so.wikipedia.org/wiki?curid=31416
+
+text:
+Mandiraja waa degmo ku taal Banjarnegara Regency , Bartamaha Java , Indonesia . Degmadu waxay lee dahay dhul ah 52,61 km² waxaana degen 63,779 oo qof tirakoobkii dadweynaha Indonesia sanadkii 2010. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Country**: Indunisiya
+- **Province**: Jawa Tengah
+- **Regency**: Banjarnegara
+- **Area**: 52,61 km 2 (2,031 sq mi)
+- **• Dhammaan**: 65.515
+- **Website**: https://mandiraja.banjarnegarakab.go.id
+
+
+# Tables
+
+## Table 1
+| Kecamatan Mandiraja Mandiraja sub-district |
+| --- |
+| {{{type}}} |
+| Seal |
+| Motto(s): Nyawiji bedane |
+| Kecamatan Mandiraja Mandiraja sub-district |
+| Country | Indunisiya |
+| Province | Jawa Tengah |
+| Regency | Banjarnegara |
+| Area | 52,61 km 2 (2,031 sq mi) |
+| Tirada dadka (2019) |
+| • Dhammaan | 65.515 |
+| Website | https://mandiraja.banjarnegarakab.go.id |

@@ -1,0 +1,8 @@
+title:
+Friesland
+
+url:
+https://so.wikipedia.org/wiki?curid=8844
+
+text:
+Friesland waa gobol ka mid ah 12 gobol ee dalka &lt;a href="Holland"&gt;Nederland/Holland&lt;/a&gt;.Afka oo lagagahadlo Friesland wa &lt;a href="af%20Hollandeeska"&gt;afka Hollandeeska&lt;/a&gt; iyo afka &lt;a href="Frieska"&gt;Frieska&lt;/a&gt;.

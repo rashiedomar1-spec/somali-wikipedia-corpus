@@ -1,0 +1,33 @@
+title:
+Vivid Entertainment
+
+url:
+https://so.wikipedia.org/wiki?curid=32668
+
+text:
+Vivid Entertainment Group waa shirkad Mareykan ah oo soo saarta filimmada qaawan, [ 1 ] [ 2 ] oo ka kooban waxyaabaha ku jira internetka.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Nooca**: Gaar ah
+- **Shirkada**: Filimada dadka waaweyn
+- **La aasaasay**: 1984 ; 41 sano ka hor ( 1984 )
+- **Aasaasaha**: Steven Hirsch David James
+- **Xarunta**: Los Angeles , Kalifornia
+- **Website**: https://www.vivid.com/
+
+
+# Tables
+
+## Vivid Entertainment
+|   |
+| --- |
+| Nooca | Gaar ah |
+| Shirkada | Filimada dadka waaweyn |
+| La aasaasay | 1984 ; 41 sano ka hor ( 1984 ) |
+| Aasaasaha | Steven Hirsch David James |
+| Xarunta | Los Angeles , Kalifornia |
+| Website | https://www.vivid.com/ |

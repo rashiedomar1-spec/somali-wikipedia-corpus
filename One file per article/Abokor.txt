@@ -1,0 +1,8 @@
+title:
+Abokor
+
+url:
+https://so.wikipedia.org/wiki?curid=19215
+
+text:
+Abokor waa jilib ka mida &lt;a href="Abgaal"&gt;Harti Abgaal Cismaan&lt;/a&gt; ee ka mida Beel weynta &lt;a href="Hawiye"&gt;Hawiye&lt;/a&gt;., waxay degaan &lt;a href="muqdisho"&gt;muqdisho&lt;/a&gt;, &lt;a href="Shabeellaha%20Dhexe"&gt;shabeelaha dhexe&lt;/a&gt; iyo &lt;a href="Shabeellaha%20Hoose"&gt;shabeelaha hoose&lt;/a&gt;.

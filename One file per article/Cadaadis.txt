@@ -1,0 +1,11 @@
+title:
+Cadaadis
+
+url:
+https://so.wikipedia.org/wiki?curid=12280
+
+text:
+= Cadaadis =
+Cadaadis (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: Pressure)
+cadaadis waxa lagucabiraa (PASCAKL)
+qaacida cadaadis waaa P=F/A

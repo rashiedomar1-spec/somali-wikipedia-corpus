@@ -1,0 +1,50 @@
+title:
+Johannesburg
+
+url:
+https://so.wikipedia.org/wiki?curid=20935
+
+text:
+Johannesburg ( / h æ n ɨ s b ɜr ɡ / ; Af-Carabi: [joˈɦɐnəsbœrχ] ; also known as Jozi , Joburg , eGoli , and abbreviated as JHB )
+
+
+# Infobox
+
+- **• Mayor**: Herman Mashaba (DA)
+- **• Metro**: 1,644.96 km 2 (635.12 sq mi)
+- **Joogga**: 1,753 m (5,751 ft)
+- **• Metro [ 2 ]**: 4,434,827
+- **• Metro density**: 2,696/km 2 (6,980/sq mi)
+- **Magac kale**: Johannesburger Joburger
+- **Furaha**: 011
+- **HDI**: 0.75 High (2012) [ 3 ]
+- **GDP**: US$ 83.9 billion [ 4 ]
+- **GDP per capita**: US$ 18,918
+- **Website**: www.joburg.org.za
+
+
+# Tables
+
+## Table 1
+| Johannesburg |
+| --- |
+| {{{type}}} |
+| Caasimada Johannesburg |
+| Muuqaalka: Johannesburg Art Gallery, dhismaha Hillbrow, Nelson Mandela Square, Johannesburg CBD M1 Freeway. |
+| Flag Coat of arms |
+| Nickname(s): Jo'burg; Jozi; mudi mulila ngoma (venda version) ,joni (Tsonga version); Egoli ( Place of Gold ); Gauteng ( Place of Gold ); Maboneng ( City of Light ) |
+| Motto(s): "Unity in development" [ 1 ] |
+| Johannesburg |
+| Dowlada |
+| • Mayor | Herman Mashaba (DA) |
+| • Metro | 1,644.96 km 2 (635.12 sq mi) |
+| Joogga | 1,753 m (5,751 ft) |
+| Tirada dadka |
+| • Metro [ 2 ] | 4,434,827 |
+| • Metro density | 2,696/km 2 (6,980/sq mi) |
+| Magac kale | Johannesburger Joburger |
+| Furaha | 011 |
+| HDI | 0.75 High (2012) [ 3 ] |
+| GDP | US$ 83.9 billion [ 4 ] |
+| GDP per capita | US$ 18,918 |
+| Website | www.joburg.org.za |

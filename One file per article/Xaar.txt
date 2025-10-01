@@ -1,0 +1,8 @@
+title:
+Xaar
+
+url:
+https://so.wikipedia.org/wiki?curid=22113
+
+text:
+Xaarka ama saxaradu waa beerdaraynka iyo &lt;a href="qashin"&gt;qashin&lt;/a&gt;ka jidhka oo dheeraad iyo xad-dhaaf ah oo nafaqada u baahnayn. Bilowgiisa waa cunto, iyo dhamaadka wuxuu ka baxa &lt;a href="futo"&gt;futada&lt;/a&gt;.

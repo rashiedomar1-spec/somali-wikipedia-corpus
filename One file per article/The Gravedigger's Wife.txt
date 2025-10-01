@@ -1,0 +1,25 @@
+title:
+The Gravedigger's Wife
+
+url:
+https://so.wikipedia.org/wiki?curid=33852
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;228971&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-09-27T03:56:53Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;InternetArchiveBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2&lt;/comment&gt;
+ &lt;origin&gt;242039&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+The Gravedigger's Wife waa filim 2021 ah, oo uu agaasime ka yahay Khadar Ayderus Axmed. Filimka ayaa ah mid ay iska kaashadeen shirkado ka kala socda Faransiiska, Soomaaliya, Jarmalka iyo Finland.
+Shirqool.
+Guuleed (Cumar Cabdi), oo ah qabuuraha xabaalaha Jabuuti, ayaa la daalaa dhacaya sidii uu u heli lahaa lacag uu ku bixiyo qaliinka marka xaaskiisa Nasra (&lt;a href="Yasmiin%20Warsame"&gt;Yasmiin Warsame&lt;/a&gt;) uu aad ugu bukoodo cudurka kalyaha.
+Bixinta iyo soo dhaweynta.
+Axmed filimkiisii ​​ugu horreeyay, filimku wuxuu dhiirrigeliyay geerida qoyskiisa ku dhawaad ​​toban sano ka hor. Waxaa la toogtay 2019, in kasta oo sii deynta dib loo dhigay illaa 2021 sababta oo ah &lt;a href="Korona%20fayras"&gt;masiibada KOVID-19&lt;/a&gt; iyo carqaladeyntii qeybinta filimka 2020.
+Filimku wuxuu ka soo muuqday barnaamijka Toddobaadka Dhaleeceeyayaasha Caalamiga ah ee &lt;a href="2021%20Filimka%20Dabaaldag%20Cannes"&gt;Filimka Dabaaldag Cannes&lt;/a&gt; ee 2021. Waxaa markii dambe la baaray &lt;a href="Filimka%20Caalamiga%20ee%20Toronto%20Dabaaldag"&gt;Filimka Caalamiga ee Toronto Dabaaldag&lt;/a&gt; ee 2021, halkaas oo uu ka mid ahaa guuleystayaasha Abaalmarinta Codadka Amplify. Waxaa loo xushay inay tahay soo gelitaanka Soomaaliga ee &lt;a href="Abaalmarinta%20Akadeemiyada%20ee%20Filimka%20Muuqaalka%20Caalamiga%20ugu%20Fiican"&gt;Filimka Muuqaalka Caalamiga&lt;/a&gt; ee &lt;a href="Abaalmarinta%20Akadeemiyada%2094aad"&gt;Abaalmarinta Akadeemiyada 94aad&lt;/a&gt;, markii ugu horreysay oo Soomaaliya ay soo gudbiso filim.
+"The Gravedigger's Wife" ayaa 10kii Nofeembar lagu daawaday magaalada Muqdisho ee &lt;a href="Masraxa%20Qaranka%20Soomaaliya"&gt;masraxa qaranka&lt;/a&gt;

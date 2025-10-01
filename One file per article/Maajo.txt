@@ -1,0 +1,8 @@
+title:
+Maajo
+
+url:
+https://so.wikipedia.org/wiki?curid=2210
+
+text:
+Sanadka miilaadiga &lt;a href="bil"&gt;bishiisa&lt;/a&gt; shanaad, waxayna u dhaxaysaa bilaha &lt;a href="Abriil"&gt;Abriil&lt;/a&gt; iyo &lt;a href="Juun"&gt;Juun&lt;/a&gt;. Bisha &lt;a href="Maajo"&gt;May&lt;/a&gt; waxay ka koobantahay 31 &lt;a href="maalin"&gt;maalmood&lt;/a&gt;.

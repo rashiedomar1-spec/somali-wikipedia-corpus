@@ -1,0 +1,32 @@
+title:
+Kinda Calloush
+
+url:
+https://so.wikipedia.org/wiki?curid=34761
+
+text:
+Kinda Mazen Calloush (كندة مازن علوش; dhashay 27 Maarso 1982 ee Xama ) waa atariisho Suuriyaan ah, waxay caan ku tahay doorkeeda shaleemada Suuriya iyo Masar. Calloush waa degane Qaahira , Masar ilaa 2011. [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Kinda Mazen Calloush ( 1982-03-27 ) Maarso 27, 1982 ( 43jir) Xama , Suuriya
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2004–hada
+- **Xaasaska**: Fares Al-Thahabi ( g. 2008; la furay 2016) Amr Youssef ( g. 2016)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Kinda Calloush ( Carabi : كندة علوش) |
+| --- |
+| Kinda Calloush |
+| Ku dhashay | Kinda Mazen Calloush ( 1982-03-27 ) Maarso 27, 1982 ( 43jir) Xama , Suuriya |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2004–hada |
+| Xaasaska | Fares Al-Thahabi ( g. 2008; la furay 2016) Amr Youssef ( g. 2016) |
+| Ilmaha | 1 |

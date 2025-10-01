@@ -1,0 +1,35 @@
+title:
+Dira Dawa Kenema
+
+url:
+https://so.wikipedia.org/wiki?curid=32583
+
+text:
+Dira Dawa Kenema Kubed Ethiopia
+
+18-000
+
+koox ka tirsan horyaalka itoobiya ee afrika, kooxdu waxay ka dhisan tahay bariga itoobiya, waxay ka ciyaaraan qaybta sare ee horyaalka sare ee itoobiya kooxdii ay samaysay 1982 iyo garoonkii ay ku noolaayeen 18,000 oo qof.
+
+sido kale fiiri
+
+Ethiopia
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Dira dawa kenema
+- **La aasaasay**: 1982
+- **Ground capacity**: 18000
+- **Horyaalka**: EPL
+
+
+# Tables
+
+## Dira dawa kenema
+| Magaca oo dhameestiran | Dira dawa kenema |
+| --- | --- |
+| La aasaasay | 1982 |
+| Ground capacity | 18000 |
+| Gudoomiyaha |  |
+| Horyaalka | EPL |

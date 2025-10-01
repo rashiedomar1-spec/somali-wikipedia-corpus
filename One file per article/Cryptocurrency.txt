@@ -1,0 +1,30 @@
+title:
+Cryptocurrency
+
+url:
+https://so.wikipedia.org/wiki?curid=41802
+
+text:
+Cryptocurrency waa lacago dadan (Crypto) kuwaasoo ku shaqeeya tignoolajiyad la yidhaahdo "Blockchain". Waa lacago aan lahayn maamul dhexe, oo laga maamulo, haday noqon lahayd bangi. hay'ad, urur dhaqaale iwm. Sidoo kale waa lacago aan dhexdhexaadiye lahayn, kaliya diraha iyo loo-diraha. [ 1 ]
+
+Blockchain waa salka ay ku fadhiyaan lacagaha dadan, waana hanaan cusub oo lagu diiwaan galiyo xogta, oo daah-furan, oo daafaha dunida ku baahsan, oo aan lahayn wax saldhig ah. [ 2 ]
+
+Si kale hadii aynu u dhigno, Blockchain waa diiwaan baahsan, oo daah-furan, oo ay cid kaste arki karto, markhaatina ka noqon karto xogta ku jirta, kaasoo leh nuqulo ( Copy – نسخة ) badan, cid kastana ay awoodo inay hesho nuqul iyada u gaar ah, oo ka mid ah diiwaankaas.
+
+Si aynu u fahanno, ugu horrayn aynu xusno sida ay ururada caadiga ah u diiwaan galiyaan xogtooda gaarka ah.
+
+TS, hadii aad adeegsato adeegyada maaliyadeed ee ka shaqeeya dalkii, sida e-Dahab, Zaad, EVC, iwm, xogtaada shakhsiyeed, waa kuwo iyaga uun ku gaar ah, mana ahan xog daah-furan, oo ay cid kaste arki karto, sida hadhaagaaga, dhaq-dhaqaaqaaga, lacag diristaadii ugu danbaysay, iwm.
+
+Sidoo kale, xogtaada shakhsiyeed waa mid saldhig leh, ama xaruuun dhexe leh, oo laga maamulo.
+
+Sidaa si ka duwan, Blockchain xog kasta oo ku diiwaan gashan, waa xog furan, oo ay cid waliba arki karto, hasa yeeshee inta xasaasiga ah ay dadan tahay, waxaana la arki karaa hadhaaga qofka, dhaq-dhaqaaqyadiisii bilaw ilaa dhamaad, sida cidda uu wax u diray, iyo cidda u soo dirtayba.
+
+Waxa kaliya ee aan la ogaan karin, ama aan la aqoonsan karin, waa loo diraha, iyo diraha, cidda sida dhabta ah ay yihiin, waana halka ay ka magac baxday Crypto currency, lacago dadan ( Crypto = Dadnaan ).
+
+Blockchain waa buug-yare baahsan, oo diiwaangeliya dhammaan wax is-dhaafsiyada dhacaya, oo aan lahayn xaruun maamul dhexe.
+
+Mar hadii xog la diiwaan galiyo, iyadoo la adeegsanayo “ BLOCKCHAIN ” way adag tahay in dib loo faragaliyo xogtii, waxnana laga bedelo.
+
+Maxaa yeelay diiwaanka xogtu waa mid baahsan, oo nuqulo badan leh, hadii la damcana in wax laga bedelo, waxaa lagu khasbanaanayaa in nuqul kasta oo ka mid ah diiwaanka la bedelo, taasoo u muuqata mid aan sinnaba ku suuroobayn, gaar ahaan hadii ay shabakadu tahay shabakad aad u weyn oo baahsan, sida shabakadda Bitcoin.
+
+Xogtan badankeed waxaan ka soo xigtay website-kan isha furan (Open Source) ee CryptoYahan.

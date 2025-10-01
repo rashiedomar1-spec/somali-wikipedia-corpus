@@ -1,0 +1,8 @@
+title:
+Salaad
+
+url:
+https://so.wikipedia.org/wiki?curid=4175
+
+text:
+Salaada: Waa tiirka labaad ee shanta &lt;a href="Tiirarka%20Islaamka"&gt;Tiirarka Islaamka&lt;/a&gt; waana laf dhabarka diinta. Waxaa la tukadaa &lt;a href="Salaada%20Subax"&gt;Salaada Subax&lt;/a&gt;, &lt;a href="Salaada%20Duhur"&gt;Salaada Duhur&lt;/a&gt;, &lt;a href="Salaada%20Casir"&gt;Salaada Casir&lt;/a&gt;, &lt;a href="Salaada%20Magrib"&gt;Salaada Magrib&lt;/a&gt; iyo &lt;a href="Salaada%20Cishe"&gt;Salaada Cishe&lt;/a&gt;.

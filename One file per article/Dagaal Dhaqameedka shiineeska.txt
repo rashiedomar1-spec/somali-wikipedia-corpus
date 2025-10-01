@@ -1,0 +1,8 @@
+title:
+Dagaal Dhaqameedka shiineeska
+
+url:
+https://so.wikipedia.org/wiki?curid=5213
+
+text:
+Dagaal Dhaqameedka shiineeska waa dagaal dhaqameed oo laga ciyaaro dalka &lt;a href="Shiinaha"&gt;Shiinaha&lt;/a&gt;, Dagaalka ugu caansan ee shiineeska waa &lt;a href="Kung%20fu"&gt;Kung fu&lt;/a&gt;.

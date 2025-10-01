@@ -1,0 +1,42 @@
+title:
+Macao
+
+url:
+https://so.wikipedia.org/wiki?curid=32764
+
+text:
+Macao ( Makao ) waa filim madow iyo caddaan ah oo soo baxay sanadkii 1952-dii waxaana hogaaminayay Josef von Sternberg iyo Nicholas Ray.  Waxaa jilaya Robert Mitchum, Jane Russell , William Bendix, iyo Gloria Grahame
+
+
+# Infobox
+
+- **Directed by**: Josef von Sternberg Nicholas Ray
+- **Screenplay by**: Stanley Rubin Bernard C. Schoenfeld Robert Mitchum
+- **Story by**: Robert Creighton Williams
+- **Produced by**: Howard Hughes Samuel Bischoff Alex Gottlieb
+- **Starring**: Robert Mitchum Jane Russell William Bendix Gloria Grahame
+- **Cinematography**: Harry J. Wild
+- **Edited by**: Samuel E. Beetley Robert Golden
+- **Music by**: Anthony Collins Jule Styne
+- **Distributed by**: RKO Pictures
+- **Release date**: Abriil 30, 1952 ( 1952-04-30 )
+- **Country**: Mareykanka
+
+
+# Tables
+
+## Table 1
+| Macao |
+| --- |
+|  |
+| Directed by | Josef von Sternberg Nicholas Ray |
+| Screenplay by | Stanley Rubin Bernard C. Schoenfeld Robert Mitchum |
+| Story by | Robert Creighton Williams |
+| Produced by | Howard Hughes Samuel Bischoff Alex Gottlieb |
+| Starring | Robert Mitchum Jane Russell William Bendix Gloria Grahame |
+| Cinematography | Harry J. Wild |
+| Edited by | Samuel E. Beetley Robert Golden |
+| Music by | Anthony Collins Jule Styne |
+| Distributed by | RKO Pictures |
+| Release date | Abriil 30, 1952 ( 1952-04-30 ) |
+| Country | Mareykanka |

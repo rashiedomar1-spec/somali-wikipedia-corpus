@@ -1,0 +1,17 @@
+title:
+Ciidanka Booliska Soomaaliya
+
+url:
+https://so.wikipedia.org/wiki?curid=22103
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2017-05-06T10:20:43Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Ismail4all&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Ismail4all moved page &lt;a href="Ciidanka%20Booliska%20Soomaaliya"&gt;Ciidanka Booliska Soomaaliya&lt;/a&gt; to &lt;a href="Ciidanka%20Nabadsugida%20Soomaaliya"&gt;Ciidanka Nabadsugida Soomaaliya&lt;/a&gt;: u qoray sida saxda ah&lt;/comment&gt;
+ &lt;origin&gt;168283&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

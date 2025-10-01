@@ -1,0 +1,31 @@
+title:
+Sida loo saxo
+
+url:
+https://so.wikipedia.org/wiki?curid=36860
+
+text:
+Maqaalkani waxa uu bixiyaa tababbarka tafatirka.
+=Tafatirka qoraalka=
+Natiijo: Qoraal
+Natiijo: "Qoraal"
+Natiijo: &lt;a href="Qoraal"&gt;Qoraal&lt;/a&gt;
+=Ku darida tixraac=
+Isticmaal koodka:&lt;/br&gt;
+codice_4&lt;/br&gt;
+Natiijo: 
+=Abuur liiska tixraaca=
+Isticmaal koodka:&lt;/br&gt;
+codice_4&lt;/br&gt;
+ama&lt;/br&gt;
+codice_4&lt;/br&gt;
+Natiijo:
+=Geli sawirka=
+codice_4&lt;/br&gt;
+Tusaale ahaan, geli codice_8&lt;/br&gt;
+Waxay ka dhigan tahay codice_4&lt;/br&gt;
+Natiijo:&lt;/br&gt;
+Tusaale ahaan, geli codice_8&lt;/br&gt;
+Waxay ka dhigan tahay codice_4
+Natiijo:&lt;/br&gt;
+=Ku dar qaybo=

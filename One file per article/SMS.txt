@@ -1,0 +1,9 @@
+title:
+SMS
+
+url:
+https://so.wikipedia.org/wiki?curid=5192
+
+text:
+SMS (afingiriis: SMS, afcarabi: الرسالة القصيرة) waa adeega farriimaha gaagaban ee laysu diro ama lays waydaarsado waxana lagasoo gaabiyaya kalmadaha (Short message service) waxana laga qoraa badhamada &lt;a href="talfoonka%20laqaato"&gt;talfoonka laqaato&lt;/a&gt;, kuma koobna kaliya in taleefan gacmeedka laga diro ee sidoo kale waayadaan waxaa adeegsada shirkadaha doonaya in ogaysiino u sameeyaan macaamiishooda, taasoo ay u marinayaan internetka iyagoo iska bixinaya qarash aad u yar, waxay u diri karan hal ilaa boqolaal qof markiiba,
+Fariinta gaaban waxay noqotay xayasiin ay ka faaidaystaan shirkadaha isgarsiinta iyagoo u diraya macaamiishooda hadba adeega iyo beec jabinta cusubee ay sameeyeen, ama qalabka shaqada ay ku soo kordhiyeen.

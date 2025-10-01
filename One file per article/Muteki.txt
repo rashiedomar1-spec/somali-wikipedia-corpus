@@ -1,0 +1,31 @@
+title:
+Muteki
+
+url:
+https://so.wikipedia.org/wiki?curid=35142
+
+text:
+Muteki waa shirkad fiidiyoow oo dadka waaweyn oo Jabbaan ah oo ku takhasustay la shaqaynta madadaalada, gurabia aidoru ama atariishooyinka caadiga ah [ 1 ] .
+
+Tix
+
+
+# Infobox
+
+- **Shirkada**: Filimada galmada
+- **La aasaasay**: 2008
+- **Xarunta**: Jabaan
+- **Iska leh**: Hokuto Corporation
+- **Website**: http://www.mutekimuteki.com/top.html
+
+
+# Tables
+
+## Muteki
+|   |
+| --- |
+| Shirkada | Filimada galmada |
+| La aasaasay | 2008 |
+| Xarunta | Jabaan |
+| Iska leh | Hokuto Corporation |
+| Website | http://www.mutekimuteki.com/top.html |

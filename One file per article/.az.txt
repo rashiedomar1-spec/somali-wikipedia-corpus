@@ -1,0 +1,8 @@
+title:
+.az
+
+url:
+https://so.wikipedia.org/wiki?curid=30329
+
+text:
+.az waa furaha &lt;a href="Internet"&gt;Internet&lt;/a&gt;ka ee dalka ee &lt;a href="Aserbiijaan"&gt;Aserbiijaan&lt;/a&gt;.

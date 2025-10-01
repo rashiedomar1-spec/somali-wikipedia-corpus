@@ -1,0 +1,35 @@
+title:
+Aasiyada Dhexe
+
+url:
+https://so.wikipedia.org/wiki?curid=19983
+
+text:
+aasiyada dhexe waa dhul juquraafi ahaan dhaca badhtamaha  aasiya waxa uu ka bilaabmaa badda caspianka ee galbeedka ka xigta illaa china oo bariga ka xiga laga bilaabo afganistan oo koonfurta ah ilaa russia oo waqooyiga kaga taala waxay ka koobantahay shan wadan oo kala ah kazakhstan uzabakstan turkumanestan krygestan iyo tajakestan waxaa loo yaqaanaa stans maadaama ay ku dhamaadan suffixka stans .
+islaamka ka hor waxa ka talinjiray intabadan wadamadan boqortooyadii persia ee iiraan islaamku markii uu furtay dhulkan waxay noqdeen meelaha ugu horumarsan dowladihii islaamka soo maray xagga ilbaxnimada iyo aqoonta diiniga iyo maadigaba  waxa ka soo baxay culimo farabadan ilaa laga soo gaadhay wakhtigii tataarka oo ay qabsadeen dhulkan laga bilaabo badhtamihii qarnigii 19aad ilaa qarnigii 20aad waxay ka tirsanaayeen boqortooyadii ruushka markii danbana midowgii soofiyeetka Cite error: <ref> tags exist for a group named "lower-alpha", but no corresponding <references group="lower-alpha"/> tag was found
+
+
+# Infobox
+
+- **Area**: 4,003,451 km 2 (1,545,741 sq mi) [ lower-alpha 1 ]
+- **Population**: 67,986,864
+- **Density**: 16.6/km 2 (43/sq mi)
+- **Countries**: Kazakhstan Kyrgyzstan Tajikistan Turkmenistan Uzbekistan
+- **Regional Center**: Kazakhstan
+- **Nominal GDP (2012)**: $295.331 billion
+- **GDP per capita (2012)**: $6,044
+
+
+# Tables
+
+## Table 1
+| Aasiyada Dhexe |
+| --- |
+|  |
+| Area | 4,003,451 km 2 (1,545,741 sq mi) [ lower-alpha 1 ] |
+| Population | 67,986,864 |
+| Density | 16.6/km 2 (43/sq mi) |
+| Countries | Kazakhstan Kyrgyzstan Tajikistan Turkmenistan Uzbekistan |
+| Regional Center | Kazakhstan |
+| Nominal GDP (2012) | $295.331 billion |
+| GDP per capita (2012) | $6,044 |

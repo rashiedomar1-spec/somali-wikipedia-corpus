@@ -1,0 +1,9 @@
+title:
+Milme
+
+url:
+https://so.wikipedia.org/wiki?curid=12956
+
+text:
+Milme
+Milme (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: Solute) waa sheyga sameeya &lt;a href="millan"&gt;millan&lt;/a&gt; marka lage dhex daro &lt;a href="Mille"&gt;Mille&lt;/a&gt;. Tusaale ahaan, marka &lt;a href="sonkor"&gt;sonkor&lt;/a&gt; (milme) lagu dhex daro &lt;a href="biyo"&gt;biyo&lt;/a&gt; (mille) waxaa soo baxa biyo macaan (millan).

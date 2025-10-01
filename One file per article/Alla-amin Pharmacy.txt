@@ -1,0 +1,313 @@
+title:
+Alla-amin Pharmacy
+
+url:
+https://so.wikipedia.org/wiki?curid=31473
+
+text:
+&lt;a href="https%3A//allaaminpharma.com/home/about"&gt;Waa Bog lahubiyey&lt;/a&gt; 
+Alla-Aamin pharmacy or Alla-aamin pharmaceutical is the Largest pharmaceutical or Pharmacy chain in &lt;a href="Bariga%20Afrika"&gt;East Africa&lt;/a&gt;. 
+Alla-Amin Pharmacy waa Shirkada Ugu Balaadhan ee Dawooyinka Keenta ee &lt;a href="Bariga%20Afrika"&gt;Bariga Afrika&lt;/a&gt;
+Ku saabsan.
+Alla-Amin Pharmacy was first established in 1991  By Suleiman Hassan to provide a variety of pharmaceutical services. Since then they have become one of the most trusted names in inpatient pharmacy care and have great loyalty to our pharmacies. It is proud of its ownership of the pharmaceutical company Alla-Amin along with its unwavering commitment to professionalism and patient care. We are proud to present ourselves as one of the fastest-growing companies in Africa. We have reaffirmed our leadership role in the region as an importer, distributor and retailer by opening 50 major branches in Hargeisa, Burao, Borama, Wajale, Galkayo, Djibouti, Jigjiga, Addis Ababa, Garowe and Mogadishu.
+Farmashiyaha Alla-Amiin waxaa markii ugu horreysay la aasaasay 1991 Waxaa qoray Suleymaan Xasan inuu bixiyo adeegyo kala duwan oo dhanka dawooyinka ah. Tan iyo markaas waxay noqdeen mid ka mid ah magacyada ugu kalsoonida badan ee daryeelka farmashiyaha bukaan jiifka waxayna leeyihiin daacadnimo weyn farmasiyadayada. Waxay ku faaneysaa lahaanshaha shirkadda dawada ee Alla-Amin oo ay weheliso ballanqaadkeeda aan kala go’a lahayn ee ku aaddan xirfadda iyo daryeelka bukaanka. Waxaan ku faraxsanahay inaan isu soo bandhigno inaan nahay mid ka mid ah shirkadaha ugu koritaanka badan Afrika. Waxaan dib u xaqiijinay doorka hogaamineed ee aan ka leenahay gobolka sidii wax soo dejin, qeybiyaha iyo tafaariiqle iyadoo laga furay 50 laamood oo waaweyn magaalooyinka Hargeysa, Burco, Boorama, Wajaale, Gaalkacayo, Jabuuti, Jigjiga, Addis Ababa, Garoowe iyo Muqdisho.
+Dhulka uu Kufidsanyahay.
+&lt;mapframe latitude="8.711359" longitude="43.857422" zoom="4" lang="en" width="616" height="218" align="center"&gt;{
+ "type": "FeatureCollection",
+ "features": [
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.06341552734376,
+ 9.543874794137539
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.55480957031251,
+ 9.5411662169896
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 43.33282470703126,
+ 9.603458034423026
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 43.154296875,
+ 9.922860428632177
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 43.08837890625001,
+ 11.574216080310618
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 48.47991943359375,
+ 8.409885221474008
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 47.40875244140625,
+ 6.776443641161725
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.318603515625,
+ 2.04302395742204
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 38.78173828125001,
+ 8.971897294083014
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 42.82470703125,
+ 9.373192635083441
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 43.05541992187501,
+ 11.555380322321783
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 42.98950195312501,
+ 11.555380322321783
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 43.08837890625001,
+ 11.523087506868514
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.05981063842774,
+ 9.559956527372117
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.046077728271484,
+ 9.56232640276901
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.08658981323242,
+ 9.560125804733719
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.0493392944336,
+ 9.546075497218904
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.03217315673829,
+ 9.563680609867784
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.08041000366212,
+ 9.54912260109446
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.026508331298835,
+ 9.552169677709353
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.07646179199219,
+ 9.565711910404367
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.08041000366212,
+ 9.539473345342625
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.06015396118165,
+ 9.534902549913934
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.043502807617195,
+ 9.536426155196954
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.07405853271485,
+ 9.528469474815118
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.06204223632813,
+ 9.523390645670284
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.09534454345704,
+ 9.531855318932754
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 44.09929275512695,
+ 9.547768336070341
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.53403854370118,
+ 9.524914302345891
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.53747177124024,
+ 9.537441888271012
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.52030563354492,
+ 9.539981207719386
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.5215072631836,
+ 9.531008861052571
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.296630859375,
+ 2.046111895105009
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.34641265869141,
+ 2.0728737716719245
+ {
+ "type": "Feature",
+ "properties": {},
+ "geometry": {
+ "type": "Point",
+ "coordinates": [
+ 45.3457260131836,
+ 2.0536601621700012
+ ]
+}&lt;/mapframe&gt;
+Ku Saabsan Asasaha.
+&lt;a href="Suleiman%20Hassan%20Obsiye"&gt;Mudane Seleban Hassan Obsiiye&lt;/a&gt; is a Pharmacist Somalian  Business man and the founder Alla Aamin Group of Companies. The Alla Aamin Group of companies has a golden wing throughout Africa which was established on May 31, 1991. 
+&lt;a href="Suleiman%20Hassan%20Obsiye"&gt;Mudane Suleiman Hassan Obsiye&lt;/a&gt; waa nin Farmashiiste Somalian Business man ah ahna aasaasihii Shirkada Alla Aamin Group. Shirkadaha Alla Aamin Group waxay leeyihiin baal dahabi ah guud ahaan Afrika oo la aas aasay 31-kii May 1991-kii.
+Howlgalka.
+is providing quality products at competitive rates and ensuring timely delivery of materials. We aim to achieve our target milestones through continuous improvement in our process by utilizing the latest technologies and employing the best talent, to deliver high products to the whole region.
+waxay siineysaa alaab tayo leh heerar tartan ah iyo hubinta keenista qalabka waqtigiisa. Waxaan higsaneynaa inaan ku guuleysano himilooyinka aan higsaneyno iyada oo loo marayo horumarin joogto ah oo ku saabsan geeddi-socodkeenna iyadoo la adeegsanayo tikniyoolajiyadaha ugu dambeeya lana shaqaalaysiinayo kartida ugu wanaagsan, si aan u gaarsiino alaabada sare gobolka oo dhan.
+Himilada.
+is to contribute to the building of a better society for all, through improved health status of individuals and the community. Ensuring customers satisfaction by meeting the customer’s needs with utmost priority. To become leading distributor and brand pharmacy chain in our.
+waa inuu gacan ka geysto dhismaha bulsho wanaagsan oo loo wada dhan yahay, iyadoo loo marayo hagaajinta xaaladda caafimaad ee shakhsiyaadka iyo bulshada. Hubinta qanacsanaanta macaamiisha iyadoo la daboolayo baahida macaamiisha iyada oo la siinayo mudnaanta ugu sareysa. Si aad u noqotid shirkad qaybiyaha iyo silsiladda farmasiga ee noo taal.
+Qiimaha.
+We will treat people with care, compassion, honor, respect, and make them feel valued, as well-being is the biggest concern I have. We will provide more quality services, working with integrity, in accordance with ethical principles and standards of performance. We do the right thing for our customers, our people, our environment and our community. With more than thirty years of family experience in medicine, and the expansion of several geographical businesses, Alla-Amin Pharmaceuticals is one of the fastest-growing pharmaceutical companies in East Africa.
+Waxaan dadka ula dhaqmi doonnaa daryeel, naxariis, sharaf, xushmad, waxaanan dareensiin doonaa inay qiimo leeyihiin, maadaama wanaaggu yahay welwelka ugu weyn ee aan qabo. Waxaan bixin doonaa adeegyo tayo sare leh, oo ku shaqeynaya daacadnimo, iyadoo la raacayo mabaadi'da anshaxa iyo heerarka waxqabadka. Waxaan u qabanaa waxa saxda ah macaamiisheenna, dadkeenna, deegaankeenna iyo bulshadeenna. In ka badan soddon sano oo waayo-aragnimo qoys ah oo xagga caafimaadka ah, iyo ballaadhinta dhowr meheradood oo juquraafi ah, Daawooyinka Alla-Amin waa mid ka mid ah shirkadaha dawooyinka ee sida dhakhsaha badan ugu soo kordha Bariga Afrika.
+Reference.
+https://allaaminpharma.com/home/about 
+Shirkadan waa shirkada u shaqaysaa bulshada kala duwan oo aad iyo aad u fiicaanahan waxqabadka bulshad run ahaantii waxaan odhan karnaa waxay buuxisay baahiyaha bulshada ayey u qabaan dadka kala duwan .hore u socdaa al aamin company 09:10, 12 Agoosto 2023 (UTC)

@@ -1,0 +1,53 @@
+title:
+Viki
+
+url:
+https://so.wikipedia.org/wiki?curid=33486
+
+text:
+Rakuten Viki waa mareegaha fiidiyaha Mareykanka oo xaruntiisu tahay San Mateo, Kalifornia . [ 1 ] Shirkaddu waxay kaloo xafiisyo ku leedahay Singapore, Tokyo , Jabaan , iyo Seoul , Koonfur Kuuriya. [ 2 ]
+
+Tixraacyada
+
+Razmig Hovaghimian
+
+Changseong Ho
+
+Jiwon Moon
+
+Warbaahinta socda
+
+Fiidiyowga dalabka
+
+
+# Infobox
+
+- **Nooca**: Hoosaad
+- **Waxaa la asaasay**: 2007 ; 18 sano ka hor ( 2007 )
+- **Headquarters**: San Mateo, Kalifornia
+- **Aasaasayaasha**: Razmig Hovaghimian Changseong Ho Jiwon Moon
+- **Products**: Warbaahinta socda Fiidiyowga dalabka
+- **Waalidka**: Rakuten
+- **Website**: www.viki.com
+- **Nooca site**: adeegga warbaahinta
+- **Advertising**: Taageeray
+- **Diiwaan-qoritaan**: Ikhtiyaari
+- **Available in**: Ingiriis
+
+
+# Tables
+
+## Rakuten Viki
+|   |
+| --- |
+| Nooca | Hoosaad |
+| Waxaa la asaasay | 2007 ; 18 sano ka hor ( 2007 ) |
+| Headquarters | San Mateo, Kalifornia |
+| Aasaasayaasha | Razmig Hovaghimian Changseong Ho Jiwon Moon |
+| Products | Warbaahinta socda Fiidiyowga dalabka |
+| Waalidka | Rakuten |
+| Website | www.viki.com |
+| Nooca site | adeegga warbaahinta |
+| Advertising | Taageeray |
+| Diiwaan-qoritaan | Ikhtiyaari |
+| Available in | Ingiriis |

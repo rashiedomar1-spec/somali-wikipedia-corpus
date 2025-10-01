@@ -1,0 +1,28 @@
+title:
+Essence
+
+url:
+https://so.wikipedia.org/wiki?curid=32934
+
+text:
+Essence waa joornaal haween ah oo bille ah oo tiriya moodada, quruxda, madadaalada, iyo dhaqanka.  Markii ugu horreysay ee la daabacay 1970 , majaladda waxaa loo qoray haweenka Afrikaanka-Ameerikaanka ah.
+
+
+# Infobox
+
+- **Launched**: Maajo 1970 ; 55 sano ka hor ( 1970-05 )
+- **Language**: Ingiriis
+- **Country**: Mareykanka
+- **ISSN**: 0014-0880
+- **Website**: essence.com
+
+
+# Tables
+
+## Essence
+| Launched | Maajo 1970 ; 55 sano ka hor ( 1970-05 ) |
+| --- | --- |
+| Language | Ingiriis |
+| Country | Mareykanka |
+| ISSN | 0014-0880 |
+| Website | essence.com |

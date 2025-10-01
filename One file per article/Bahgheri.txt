@@ -1,0 +1,8 @@
+title:
+Bahgheri
+
+url:
+https://so.wikipedia.org/wiki?curid=29368
+
+text:
+Bahgheri waa tol &lt;a href="Bah%20Ali%20Gheri"&gt;Bah Ali Gheri&lt;/a&gt;.

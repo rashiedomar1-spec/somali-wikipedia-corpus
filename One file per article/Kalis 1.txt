@@ -1,0 +1,9 @@
+title:
+Kalis 1
+
+url:
+https://so.wikipedia.org/wiki?curid=36052
+
+text:
+Kalis 1
+Salidka ka mid &lt;a href="SL13%20Beeraha%20Salidka"&gt;SL13 Beeraha Salidka&lt;/a&gt;,&lt;a href="SL10%20Beeraha%20Salidka"&gt;SL10 Beeraha Salidka&lt;/a&gt;, &lt;a href="Nogal%201%20Salidka"&gt;Nogal 1 Salidka&lt;/a&gt;, iyo&lt;a href="Dhagah%20Shabel%20Salidka"&gt;Dhagah Shabel Salidka&lt;/a&gt;, somaliland salidka dulka hoose ku chireh.

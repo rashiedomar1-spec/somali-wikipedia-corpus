@@ -1,0 +1,29 @@
+title:
+Sonia Ben Cammaar
+
+url:
+https://so.wikipedia.org/wiki?curid=33393
+
+text:
+Sonia Ben Cammaar (dhashay 19 Febraayo 1999 ee Paris ) [ 1 ] waa moodel- Tuuniisiyaan - Faransiis ah iyo heesaa. [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1999-02-19 ) 19 Febraayo 1999 ( 26jir) Paris , Faransiiska
+- **Dhalsho**: Faransiiska, Tunisiya
+- **Shaqada**: Moodel, heesaa
+- **Waalidka**: Tariq Ben Cammaar Beata Sonczuk
+
+
+# Tables
+
+## Table 1
+| Sonia Ben Cammaar |
+| --- |
+| Ku dhashay | ( 1999-02-19 ) 19 Febraayo 1999 ( 26jir) Paris , Faransiiska |
+| Dhalsho | Faransiiska, Tunisiya |
+| Shaqada | Moodel, heesaa |
+| Waalidka | Tariq Ben Cammaar Beata Sonczuk |

@@ -1,0 +1,26 @@
+title:
+Warqad
+
+url:
+https://so.wikipedia.org/wiki?curid=12418
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;219895&lt;/parentid&gt;
+ &lt;timestamp&gt;2021-10-16T14:07:08Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Per excellence&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;219896&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+"Haku khaldin &lt;a href="warqad%20%28fariin%29"&gt;warqad (fariin)&lt;/a&gt;"
+Warqad (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: Paper) (sidoo kale loo yaqaano "&lt;a href="Xaansho"&gt;Xaansho&lt;/a&gt;") waa shey ama walax khafiif ah oo fidsan lagana sameeyo alwaax, cows iyo qeeybo kale oo &lt;a href="dhir"&gt;dhir&lt;/a&gt;ta ah. Waraaqdu waa sheey fidsan khafiifna ah oo loogu talo galay in wax lagu qoro. 
+Isticmaalka ugu badan ee Warqaduhu waa wax qoris, sidoo kale waxaa jira qaabab kale oo loo isticmaalo sida in wax lagu rito. 
+Warqada iyo &lt;a href="xamag"&gt;xamag&lt;/a&gt;ta waxaa la sheegaa in &lt;a href="qarni"&gt;qarni&lt;/a&gt;gii labaad - qiyaas ahaan 115 (Nebi Ciise dabadii) - laga soo gaadhay boqortooyadii "Han" ee wadanka &lt;a href="Shiinaha"&gt;Shiinaha&lt;/a&gt;.
+= Taariikhda Warqada =
+= Isticmaalka Warqada =
+= Noocyada Warqada =
+Xaashi ama warqad, waa shay balaaran oo wax lagu qorto.
+sida &lt;a href="Joornaal"&gt;Joornaal&lt;/a&gt;ka ama Xaanshida musqusha. waxaana laga sameeyaa, safiito ama alwaax.

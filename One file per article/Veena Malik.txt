@@ -1,0 +1,29 @@
+title:
+Veena Malik
+
+url:
+https://so.wikipedia.org/wiki?curid=33125
+
+text:
+Zahida Malik (waxay dhalatay 26 Febraayo), oo loo yaqaan Veena Malik , waa atariisho Bakistaan ah oo ka soo muuqatay filimada Bakistaan iyo Bollywood.
+
+
+# Infobox
+
+- **Ku dhashay**: Zahida Malik 26 Febraayo Rawalpindi, Punjab, Bakistaan
+- **Dhalsho**: Bakistaan
+- **Sanadaha Shaqada**: 2000–hada
+- **Xaasaska**: Asad Bashir Khan Khattak ( g. 2013; furriin 2018)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Veena Malik |
+| --- |
+| Ku dhashay | Zahida Malik 26 Febraayo Rawalpindi, Punjab, Bakistaan |
+| Dhalsho | Bakistaan |
+| Sanadaha Shaqada | 2000–hada |
+| Xaasaska | Asad Bashir Khan Khattak ( g. 2013; furriin 2018) |
+| Ilmaha | 2 |

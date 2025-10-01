@@ -1,0 +1,69 @@
+title:
++252
+
+url:
+https://so.wikipedia.org/wiki?curid=18884
+
+text:
+Qaabka wicidda
+
+Si aad u wacdo Soomaaliya , qaabkaan soo socda ayaa la adeegsadaa:
+
+Liiska iyo meelaha wicidda telefonada
+
+Xogta
+
+yxx xxxx , yy xxx xxx ama yyy xxx xxx - adigoo wcaya Soomaaliya
+
++252 yxx xxxx , +252 yy xxx xxx ama +252 yyy xxx xxx - maraka aad dibadda ka soo wacayso Soomaaliya
+
+t/oth/02/02/T02020000C00001PDFE.pdf "Somalia (country code +252)"] Archived Nofeembar 12, 2012 // Wayback Machine - ITU. Retrieved 10 June 2013.Qposter.com - accessed 17th January 2015
+
+
+# Infobox
+
+- **Dalka**: Somalia
+- **Qaaradda**: Africa
+- **Dalalka furaha wicidda**: +252 905 958 305
+- **Furaha wicidda dibadda**: 00
+
+
+# Tables
+
+## Somalia lambarada telefoonada
+| Location |
+| --- |
+| Dalka | Somalia |
+| Qaaradda | Africa |
+| Access codes |
+| Dalalka furaha wicidda | +252 905 958 305 |
+| Furaha wicidda dibadda | 00 |
+| Liiska Somalia furaha wicidda |
+
+## Table 2
+| Liiska furayaasha iyo meelaha |
+| --- |
+| Furaha | Meesha/Magaalo |
+| 1 | Hargeisa |
+| 2 | Berbera |
+| 090 | Garowe |
+| 21 |  |
+| 22 |  |
+| 24 |  |
+| 5 | new number range |
+| 51 | Mangauno |
+| 61 | Mogadishu |
+| 7731 | Burao |
+| 8723 | Borama |
+
+## Table 3
+| LIST OF NEW ALLOCATIONS SINCE 2013 |
+| --- |
+| Service | Numbering range |
+| Mobile GSM | 90 XXX XXX |
+| 91 XXX XXX |
+| 93 XXX XXX to 99 XXX XXX |
+| 707 XXX XXX |
+| Fixed | 5 5XX XXX |
+| 5 7XX XXX |
+| 5 8XX XXX |

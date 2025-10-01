@@ -1,0 +1,8 @@
+title:
+Carabaha
+
+url:
+https://so.wikipedia.org/wiki?curid=27438
+
+text:
+Carabaha waa qaarada oo ka koobsan &lt;a href="Baxsinta%20Carabta"&gt;Baxsinta Carabta&lt;/a&gt; iyo &lt;a href="Mashreq"&gt;Mashreq&lt;/a&gt; oo hal qayb loo arko.

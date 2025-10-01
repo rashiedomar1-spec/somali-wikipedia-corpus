@@ -1,0 +1,27 @@
+title:
+Heello
+
+url:
+https://so.wikipedia.org/wiki?curid=34788
+
+text:
+Heello waa barnaamij faneed Soomaaliyeed oo ay soo diyaarisay Astaan ​​TV .
+
+
+# Infobox
+
+- **Producer**: Astaan TV
+- **Production location**: Muqdisho
+- **First shown in**: 2019–hada
+
+
+# Tables
+
+## Table 1
+| Heello |
+| --- |
+| Production |
+| Producer | Astaan TV |
+| Production location | Muqdisho |
+| Release |
+| First shown in | 2019–hada |

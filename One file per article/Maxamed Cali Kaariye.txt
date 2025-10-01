@@ -1,0 +1,34 @@
+title:
+Maxamed Cali Kaariye
+
+url:
+https://so.wikipedia.org/wiki?curid=37543
+
+text:
+Mohamed ali kaariye ( Af Soomaali : maxamed ali karie , Af Carabi : لاسعانود ‎}(1941) محمد علي كاريه
+
+
+# Infobox
+
+- **Ku xigay**: Mohamed Nur
+- **Dhashay**: ( 1941-08-01 ) Agoosto 1, 1941 ( 84jir) Garbo , Nogob , Somalia State
+- **Dhintay**: 29. Juun 1977 ( 1977-06-29 ) (da'da 74jir) muqdisho , [
+- **Other political affiliations**: United Somali Congress
+- **Shaqo**: Poetry man Activist
+
+
+# Tables
+
+## Table 1
+| Maxamed Cali Kaariye محمد علي كاريه |
+| --- |
+|  |
+| Somali Faction |
+| Ambassador to Welcome |
+| Ku xigay | Mohamed Nur |
+|  |
+| Faahfaahin shaqsiyadeed |
+| Dhashay | ( 1941-08-01 ) Agoosto 1, 1941 ( 84jir) Garbo , Nogob , Somalia State |
+| Dhintay | 29. Juun 1977 ( 1977-06-29 ) (da'da 74jir) muqdisho , [ |
+| Other political affiliations | United Somali Congress |
+| Shaqo | Poetry man Activist |

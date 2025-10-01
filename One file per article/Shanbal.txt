@@ -1,0 +1,8 @@
+title:
+Shanbal
+
+url:
+https://so.wikipedia.org/wiki?curid=5502
+
+text:
+Shanbal waa laba birood oo wareegsan oo leysku garaaco, waxa ayna ka tirsan tahay qalabka &lt;a href="muusig"&gt;muusig&lt;/a&gt;ga.

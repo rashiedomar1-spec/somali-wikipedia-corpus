@@ -1,0 +1,8 @@
+title:
+ALF
+
+url:
+https://so.wikipedia.org/wiki?curid=29862
+
+text:
+ALF waa naanaysta dhaqdhaqaaqii &lt;a href="Afar%20Liberation%20Front"&gt;Afar Liberation Front&lt;/a&gt;.

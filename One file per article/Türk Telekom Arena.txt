@@ -1,0 +1,32 @@
+title:
+Türk Telekom Arena
+
+url:
+https://so.wikipedia.org/wiki?curid=19739
+
+text:
+Coordinates : 41°6′10.33″N 28°59′25.51″E ﻿ / ﻿ 41.1028694°N 28.9904194°E ﻿ / 41.1028694; 28.9904194
+
+Türk Telekom Arena Waa garoonka kubadda cagta kooxda Galatasaray ee ka dhisan magaalada Istanbul . waxaa la dhisay sanadku markuu ahaa 2011kii, Waxa uuna Qaadaa 52,652 oo qof. Türk Telekom Arena waa mid ka mid ah garoomada Kubadda-Cagta ugu casrisan uguna waaweyn dalka Turkiga .
+
+
+# Infobox
+
+- **Website**: www.turktelekomarena.com.tr
+
+
+# Tables
+
+## Table 1
+| Türk Telekom Arena |
+| --- |
+| {{{type}}} |
+|  |
+|  |
+| Coordinates: 41°6′10.33″N 28°59′25.51″E ﻿ / ﻿ 41.1028694°N 28.9904194°E ﻿ / 41.1028694; 28.9904194 Coordinates : 41°6′10.33″N 28°59′25.51″E ﻿ / ﻿ 41.1028694°N 28.9904194°E ﻿ / 41.1028694; 28.9904194 {{#coordinates:}}: cannot have more than one primary tag per page |
+| Website | www.turktelekomarena.com.tr |
+
+
+
+# Coordinates
+41.1028694; 28.9904194

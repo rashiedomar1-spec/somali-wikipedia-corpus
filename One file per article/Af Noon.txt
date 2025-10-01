@@ -1,0 +1,46 @@
+title:
+Af Noon
+
+url:
+https://so.wikipedia.org/wiki?curid=41159
+
+text:
+Af Noon waa luqad laga hadlo Senegaal .
+
+Atlaantik–Kongo Senegambian Cangin Lehar–Noon Af Noon
+
+Senegambian Cangin Lehar–Noon Af Noon
+
+Cangin Lehar–Noon Af Noon
+
+Lehar–Noon Af Noon
+
+Af Noon
+
+
+# Infobox
+
+- **Dhalad u ah**: Senegaal
+- **Gobolka**: Thiès
+- **Qoomiyada**: Serer-Noon
+- **U ah afka hooyo**: 33,000  (2007)
+- **Qoyska luqada**: Niger–Congo Atlaantik–Kongo Senegambian Cangin Lehar–Noon Af Noon
+- **Ka ah Luqad rasmi**: Senegaal
+- **ISO 639-3**: snf
+
+
+# Tables
+
+## Table 1
+| Af Noon |
+| --- |
+| Noon Serer-Noon |
+| Dhalad u ah | Senegaal |
+| Gobolka | Thiès |
+| Qoomiyada | Serer-Noon |
+| U ah afka hooyo | 33,000  (2007) |
+| Qoyska luqada | Niger–Congo Atlaantik–Kongo Senegambian Cangin Lehar–Noon Af Noon |
+| Xaalada Rasmiga |
+| Ka ah Luqad rasmi | Senegaal |
+| Koodka luqada |
+| ISO 639-3 | snf |

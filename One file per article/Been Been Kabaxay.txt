@@ -1,0 +1,29 @@
+title:
+Been Been Kabaxay
+
+url:
+https://so.wikipedia.org/wiki?curid=34764
+
+text:
+" Been Been Kabaxay " waa hees 2017 ah oo ay duubtay fanaanada caanka ah Kiin Jaamac . [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **La sii daayay**: 2017
+- **Dhererka**: 6 : 28
+
+
+# Tables
+
+## Table 1
+| "Been Been Kabaxay" |
+| --- |
+| by Kiin Jaamac |
+| La sii daayay | 2017 |
+| Dhererka | 6 : 28 |
+| singles chronology |
+| " Been Been Kabaxay " (2017) " Garo Jaceylka " (2017) |  | " Been Been Kabaxay " (2017) | " Garo Jaceylka " (2017) |
+|  | " Been Been Kabaxay " (2017) | " Garo Jaceylka " (2017) |

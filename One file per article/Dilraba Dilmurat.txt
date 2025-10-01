@@ -1,0 +1,31 @@
+title:
+Dilraba Dilmurat
+
+url:
+https://so.wikipedia.org/wiki?curid=34805
+
+text:
+Dilraba Dilmurat (دىلرەبا دىلمۇرات, Dilreba Dilmurat); (Dílìrèbā Dílìmùlātí); [ 1 ] dhashay Juun 3, 1992), Shiineeska waxaa loo yaqaan Dilireba waa atariisho Shiinees ah, martigeliyay, qoob-ka-ciyaara, iyo moodel qowmiyadda Uyghur .
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1992-06-03 ) Juun 3, 1992 ( 33jir) Ürümqi , Xinjiang , Shiinaha
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2013–hada
+- **Wakiil**: Jay Walk Studio Dilireba Studio
+
+
+# Tables
+
+## Table 1
+| Dilraba دىلرەبا دىلمۇرات |
+| --- |
+| Dilraba ee 2020 |
+| Ku dhashay | ( 1992-06-03 ) Juun 3, 1992 ( 33jir) Ürümqi , Xinjiang , Shiinaha |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2013–hada |
+| Wakiil | Jay Walk Studio Dilireba Studio |
+| Template:Infobox chinese |

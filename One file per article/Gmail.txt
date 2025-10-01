@@ -1,0 +1,14 @@
+title:
+Gmail
+
+url:
+https://so.wikipedia.org/wiki?curid=17185
+
+text:
+"Kani waa maqaal ku saabsan aalada waraaqo dirista elektroonika ee &lt;a href="Shirkada%20Google"&gt;Shirkada Google&lt;/a&gt;. Isticmaalo kale fiiri &lt;a href="Google"&gt;Gmail isticmaal kale&lt;/a&gt;. Haku khaldin &lt;a href="email"&gt;email&lt;/a&gt;ada &lt;a href="Yahoo"&gt;Yahoo! Mail&lt;/a&gt;, &lt;a href="Hotmail"&gt;Hotmail&lt;/a&gt;, &lt;a href="Outlook"&gt;Outlook&lt;/a&gt;."
+Gmail (loogu dhawaaqo "Jiimayl") waa adeeg email bilaash ah oo ka macaasha xayaysiiska iyo iidhehda, taasi ooy leedahay shirkada Google. 
+=Muuqaalka Gmail=
+=Adeega Gmail=
+=Shirkada Google=
+=Maqaalo la Mid ah=
+=Tixraac=

@@ -1,0 +1,35 @@
+title:
+If Only
+
+url:
+https://so.wikipedia.org/wiki?curid=33009
+
+text:
+" If Only " waa hees dib-u-habeyn ah oo uu duubay heesaha Koonfur Kuuriya ahna xubin ka tirsan Red Velvet Joy oo ay weheliyaan Paul Kim. Markii hore waxaa duubay oo soo saaray fannaanka Sung Si-kyung sanadkii 2002, heesta ayaa dib loo duubay waxaana la sii daayay Maajo 31, 2021 oo ay soo saartay shirkadda SM Entertainment oo qayb ka ahayd albumkii gaarka ahaa ee ay ku jirtay Joy ee Hello .
+
+SM
+
+Dreamus
+
+
+# Infobox
+
+- **La sii daayay**: Maajo 31, 2021 ( 2021-05-31 )
+- **Dhererka**: 3 : 48
+- **Summada**: SM Dreamus
+- **Laxanka**: Yoon Young-joon
+- **Erayada**: Yoon Young-joon
+
+
+# Tables
+
+## Table 1
+| "If Only" |
+| --- |
+| by Joy iyo Paul Kim |
+| from the album Hello |
+| La sii daayay | Maajo 31, 2021 ( 2021-05-31 ) |
+| Dhererka | 3 : 48 |
+| Summada | SM Dreamus |
+| Laxanka | Yoon Young-joon |
+| Erayada | Yoon Young-joon |

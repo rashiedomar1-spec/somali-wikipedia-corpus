@@ -1,0 +1,12 @@
+title:
+GSM
+
+url:
+https://so.wikipedia.org/wiki?curid=2191
+
+text:
+Habka Isgaarsiinta Caalamiga ee teleefonada gacanta (&lt;a href="Af-Ingiriis"&gt;Af-Ingiriis&lt;/a&gt; Global System for Mobile Communication markii la soo gaabiyo GSM (Soo gaabintiisa asalka ah: Groupe Spécial Mobile) waa farsamo iyo shuruuc la dejiyay taasoo sababtay in telefoonada gacanta ee caalamka ee isu soo dhawaadaan oo ay sahlaan in horumarintooda lagawada qaybqaato.
+Magaca GSM waa magac loo bixiyey koox la dhisay sanadka markii uu ahaa 1982 looguna talagalay in ay sameyo shuruuc (standard) midaysan, oo noqda mid wada mideeysa dhamaan isgaarsiinta teleefonada gacanta ee qaarada &lt;a href="yurub"&gt;yurub&lt;/a&gt; lana siiyo fursad ay wadamada kale kaga faa'ideystaan. Sistamkaasna waxaa loo qorsheeyay in uu ku shakheeyo hirarka 900 MHz.
+Isticmaalka teleefonada gacanta waa teknoolojiyada isgaarsiinta uu horemarkeeda aad u socdo dadka dunida ku nool waxaa ka isticmaala inku dhow 30% (&lt;a href="Diseembar"&gt;Diseembar&lt;/a&gt; 2006) taasoo u dhiganta labo miliyardi oo qof waxaana lagu isticmaalaa 212 dowladood iyo dhullal dowlad raacsan ..
+GSM:ka wuxuu kaga duwanyahay teleefonadii gacanta ee ka horeeyay dhinaca siinyaaleyta (signaling) iyo kanaalada codka oo ah kuwo dhigitaal ah, taasoo keentay in loo aqoonsado jiilkii labaan (2G, Second Generation) ee sigaarsiinta teleefonada gacanta.
+Helitaanka teleefonada gacanta ku salaysan GSM:ka laga helikaro meelo aad u badan ayaa waxay abuurtay awooda ay shirikadaha teleefonada gacanta (GSM) ay u martigelinkaraan macaamiisha shirikadahakale ee ka jira meelaha ama wadamada aysan shirkadooda ka shaqeynin. Iyadoo la'isticmaalayo farsamada loo yaqaano roaming oo ka timid ereyga ingiriiska ee roam oo uu macnahiisu yahay socsocod aanan la qorsheysanin.

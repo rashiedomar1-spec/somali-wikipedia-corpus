@@ -1,0 +1,38 @@
+title:
+Gedaanrivier
+
+url:
+https://so.wikipedia.org/wiki?curid=37143
+
+text:
+Gedaanrivier waa webi ku yaal Koonfur Afrika . [ 1 ] Waxay ku taalaa gobolka Limpopo, ee dhanka waqooyi bari ee dalka, 300 km waqooyi bari ka xigta magaalada Pretoria ee caasimada dalka.  Gedaanrivier waa qayb ka mid ah daadadka wabiga Limpopo .
+
+Tixraac
+
+
+# Infobox
+
+- **Dalka**: Koonfur Afrika
+- **Gobolka**: Limpopo
+- **Elevation**: 478 m (1,568 ft)
+- **Coordinates**: 23°46′43″S 30°26′19″E ﻿ / ﻿ 23.7785°S 30.43856°E ﻿ / -23.7785; 30.43856
+
+
+# Tables
+
+## Table 1
+| Gedaanrivier |
+| --- |
+| Webiga soo socda |
+| Dalka | Koonfur Afrika |
+| Gobolka | Limpopo |
+|  |
+| Elevation | 478 m (1,568 ft) |
+| Coordinates | 23°46′43″S 30°26′19″E ﻿ / ﻿ 23.7785°S 30.43856°E ﻿ / -23.7785; 30.43856 |
+|  |
+|  |
+
+
+
+# Coordinates
+-23.7785; 30.43856

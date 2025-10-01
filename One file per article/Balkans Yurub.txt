@@ -1,0 +1,27 @@
+title:
+Balkans Yurub
+
+url:
+https://so.wikipedia.org/wiki?curid=33667
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;243610&lt;/parentid&gt;
+ &lt;timestamp&gt;2023-07-13T14:57:39Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;CommonsDelinker&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Removing , it has been deleted from Commons by because: per [[:c:Commons:Deletion requests/Files in Category:Greece–Bosnia and Herzegovina Friends&lt;/comment&gt;
+ &lt;origin&gt;255708&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Balkans Yurub
+[[Yurub]]
+[[File:Karte_Suedosteuropa_03_01.png|thumb|right|350px|Balkan Yurub]]
+[[File:Autobahn-Alb.jpg|thumb|right|350px|Albania]]
+[[File:Zagreb_(29255640143).jpg|thumb|right|350px|Zagreb]]
+[[File:Main_Railway_Station_Predrag_Vuckovic.jpg|thumb|right|350px|Belgrade, Serbia]]
+[[File:View on the city of Kragujevac.jpg|thumb|right|350px|Kragujevac, Serbia]]
+[[File:Rimac_C_Two_20180929_DSC_8820.jpg|thumb|350px|Rimac Croatia]]
+[[File:Kosova_Government_Building_(1).jpg|thumb|right|350px|Kosovo]]

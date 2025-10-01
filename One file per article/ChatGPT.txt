@@ -1,0 +1,41 @@
+title:
+ChatGPT
+
+url:
+https://so.wikipedia.org/wiki?curid=38007
+
+text:
+ChatGPT (oo loo soo gaabiyo Chat G enerative P re-trained T ransformer ) waa sheeko bot . Waxaa furay OpenAI bishii Noofambar 2022. [ 1 ] Barnaamijka waxaa lagu dhisay dusha sare ee qoyska OpenAI ee GPT-3.5 ee noocyada luqadaha waaweyn. Barnaamijka waxaa lagu dhisay dusha sare ee qoyska OpenAI ee GPT-3.5 ee noocyada luqadaha waaweyn. Waxaa si fiican loo habeeyey iyadoo la kormeerayo iyo farsamooyinka barashada xoojinta labadaba.
+
+ChatGPT waxaa la bilaabay Noofembar 2022 waxayna gaartay in ka badan 100 milyan isticmaale Janaayo 2023, laakiin saxnaanteeda aan sinnayn waxay ahayd cillad weyn. [ 2 ] [ 3 ] [ 4 ] [ 5 ]
+
+Astaamaha
+
+ChatGPT wuxuu leeyahay tirooyin badan oo kala duwan oo uu si wanaagsan u adeegsado waxyaabaha qoraalka ee la xiriira dabeecad natiijada ah, sida fahamka luqadda, dhaqdhaqaaqa tifaftirka ah, qorshe cilmiyeed, taageero luqadda kala duwan, fahamka xiriirka xalaynta ah, kala saaridda shaqeeynta, falanqaynta hadal, kor u kacaya macluumaadka, iyo waxyaabaha kale. Waxaa la baran doonaa kuwaas oo dhamaystiran macluumaadka hal-abuurka ah, iyo qalabka uu leeyahay inuu fahamo maana iyo xiriirka ereyada iyo sentensiyada. [ 6 ]
+
+Tixraac
+
+Mareeg kale
+
+Earn Money form Chat GPT Archived Maarso 15, 2023 // Wayback Machine
+
+
+# Infobox
+
+- **Soo-saareyaal**: OpenAI
+- **Siideynta ugu horreysa**: Noofembar 30, 2022; 3 bilood ka hor
+- **Nooca**: AI, chatbot
+- **Mareegta**: Shatiga
+- **Websedyada**: chat.openai.com
+
+
+# Tables
+
+## ChatGPT
+|   |
+| --- |
+| Soo-saareyaal | OpenAI |
+| Siideynta ugu horreysa | Noofembar 30, 2022; 3 bilood ka hor |
+| Nooca | AI, chatbot |
+| Mareegta | Shatiga |
+| Websedyada | chat.openai.com |

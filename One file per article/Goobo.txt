@@ -1,0 +1,52 @@
+title:
+Goobo
+
+url:
+https://so.wikipedia.org/wiki?curid=6716
+
+text:
+Wareegga goobada waxaa loo yaqaanaa Meeris
+
+Waxaa jira macnayaal kale ee la xiriira goobada oo loo baahan yahay inaan fahamno.
+
+Barta-xuddunta
+Waa barta ku dhacda bartamaha goobada.
+
+Gacan
+Waa xarriiq ka bilaabma barta- xuddunta kuna dhamaata bar ka mid ah wareega goobada.
+
+Waxaana loo soo gaabiyaa r isla markaana waxa uu la eg yahay dhexroorka barkiis.
+
+B e d = W a r e e g G o o b o × G a c a n k a 2 = π r 2 {\displaystyle \mathrm {Bed} ={\frac {\mathrm {WareegGoobo} \times \mathrm {Gacanka} }{2}}=\pi r^{2}}
+
+Koorda
+Waa xarriiq u dhexeysa laba barood oo wareegga goobada ku taala.
+
+Muhiim ama qasab ma aha in xarriiqdaasi ay marto barta-xuddunta.
+
+Dhexroor
+Waa xarriiq u dhexeysa laba barood ee goobada martana barta-xuddunta.
+
+Waxaana loo soo gaabiyaa d.
+
+Qaanso
+Waa xarriiq is wadata oo dul saaran qeyb ka mid ah goobada.
+
+Gabal goobeed
+Waxay soo koobtaa inta u dhexeeysa xarriiqa qaansada ee goobada iyo koordaha. Waxaa kaloo la dhihi karaa labada cirif ay ku dhamaadaan xarriiqda qaansada.
+
+Qurub goobeed 
+Waa inta u dhexeysa xarriiqda qaansada iyo laba xarriiq ee gacanka kuwaasoo ku xirmaaya labada cirif ee xarriiqa goobada.
+
+Wareega iyo bedka goobada
+
+Wareega = π {\displaystyle {\pi }} . r 2 {\displaystyle r^{2}\,} = π {\displaystyle {\pi }} . d {\displaystyle d}
+
+
+# Tables
+
+## Table 1
+|   | Bedka | Gacanka | Dhexroorka | Wareeg goobo |
+| --- | --- | --- | --- | --- |
+| Bed | - | π r 2 {\displaystyle \pi r^{2}} | π 4 d 2 {\displaystyle {\frac {\pi }{4}}d^{2}} | P 2 4 π {\displaystyle {\frac {P^{2}}{4\pi }}} |
+| Gacan | A π {\displaystyle {\sqrt {\frac {A}{\pi }}}} | - | d 2 {\displaystyle {\frac {d}{2}}} | P 2 π {\displaystyle {\frac {P}{2\pi }}} |

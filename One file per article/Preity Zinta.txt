@@ -1,0 +1,33 @@
+title:
+Preity Zinta
+
+url:
+https://so.wikipedia.org/wiki?curid=34957
+
+text:
+Preity G Zinta [ 1 ] (lagu dhawaaqay [ˈpriːt̪i ˈzɪɳʈa] ; 31 Janaayo 1975) waa atirisho Hindi ah iyo hal-abuur ganacsi inta badan caan ku ah shaqadeeda filimada Hindiga. Ka dib markii ay ka qalin jabisay shahaado sharaf Ingiriisi iyo cilmu-nafsiga dambiyada, Zinta waxay jiliddeedii ugu horreysay ka dhigtay Dil Se.. ee 1998, waxaana ku xigtay door Soldier isla sanadkaas, waxay ku muteysteen Abaalmarinta Filmfare oo Ugu Horeynta Ugu Fiican Dumarka , waxaana markii dambe lagu aqoonsaday doorkeedii hooyo kelidood ah Kya Kehna (2000). Kadib waxay aas aastay xirfada jilaa hormuudka shaleemada Hindi oo leh noocyo kala duwan oo jilaa ah. Doorarkeeda, oo inta badan loo arko inay dhaqan ahaan liidato, oo ay weheliso shakhsiyaddeeda shaashada ee aan caadiga ahayn ayaa lagu tiriyaa inay gacan ka geysatay beddelka fikradda halyeynada aflaanta Hindiya, waxayna ku guulaysatay abaal-marinno dhawr ah.
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1975-01-31 ) 31 Janaayo 1975 ( 50jir) Shimla , Himachal Pradesh
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 1998–hada
+- **Xaasaska**: Gene Goodenough ( g. 2016)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Preity Zinta |
+| --- |
+| Zinta ee 2017 |
+| Ku dhashay | ( 1975-01-31 ) 31 Janaayo 1975 ( 50jir) Shimla , Himachal Pradesh |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 1998–hada |
+| Xaasaska | Gene Goodenough ( g. 2016) |
+| Ilmaha | 2 |
+| Saxiixa |  |

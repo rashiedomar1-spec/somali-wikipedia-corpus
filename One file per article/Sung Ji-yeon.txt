@@ -1,0 +1,29 @@
+title:
+Sung Ji-yeon
+
+url:
+https://so.wikipedia.org/wiki?curid=34955
+
+text:
+Sung Ji-yeon (성지연; Diseembar 20, 1997) oo si fiican loogu yaqaanay sida Jane , waa heesaa Koonfur Kuuriya ah iyo xubin ka tirsan kooxda gabdhaha Momoland .
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Sung Ji-yeon
+- **Dhashay**: ( 1997-12-20 ) Diseembar 20, 1997 ( 27jir) Changwon , Koonfur Kuuriya
+- **Sanadaha Shaqada**: 2016–hada
+- **Falalka la xiriira**: Momoland
+
+
+# Tables
+
+## Table 1
+| Jane |
+| --- |
+| Magaca dhalashada | Sung Ji-yeon |
+| Dhashay | ( 1997-12-20 ) Diseembar 20, 1997 ( 27jir) Changwon , Koonfur Kuuriya |
+| Sanadaha Shaqada | 2016–hada |
+| Falalka la xiriira | Momoland |

@@ -1,0 +1,10 @@
+title:
+Apache Dadka
+
+url:
+https://so.wikipedia.org/wiki?curid=32256
+
+text:
+Dadyowga amerikanka, qabiilka dadka maqaarka guduudan ee americanka, qabiilooyin badan ayaa uga baxa america mexico iyo aagagga koonfurta.
+sido Kale fiiri.
+&lt;a href="USA"&gt;USA&lt;/a&gt;

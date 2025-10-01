@@ -1,0 +1,44 @@
+title:
+Mudhoney
+
+url:
+https://so.wikipedia.org/wiki?curid=32628
+
+text:
+Mudhoney waa filimkii 1965 ee uu qoray Russ Meyer kuna saleysnaa sheeko-dariiqyada Streets Paved With Gold ee Raymond Friday Locke. Filimku waa riwaayad muddo la dejiyey xilligii Murugada Weyn.
+
+
+# Infobox
+
+- **Directed by**: Russ Meyer
+- **Written by**: W.E. Sprague Raymond Friday Locke
+- **Based on**: novel Streets Paved with Gold by Raymond Friday Locke
+- **Produced by**: George Costello Eve Meyer Russ Meyer
+- **Starring**: Hal Hopper Antoinette Christiani John Furlong Rena Horten Princess Livingston Lorna Maitland Sam Hanna Stuart Lancaster
+- **Cinematography**: Walter Schenk
+- **Edited by**: Russ Meyer Charles G. Schelling
+- **Music by**: André Brummer
+- **Distributed by**: Eve Productions Inc.
+- **Running time**: 92 daqiiqado
+- **Country**: Mareykanka
+- **Language**: Ingiriis
+
+
+# Tables
+
+## Table 1
+| Mudhoney |
+| --- |
+| Boodhadhka masraxa ilaa Mudhoney (1965) |
+| Directed by | Russ Meyer |
+| Written by | W.E. Sprague Raymond Friday Locke |
+| Based on | novel Streets Paved with Gold by Raymond Friday Locke |
+| Produced by | George Costello Eve Meyer Russ Meyer |
+| Starring | Hal Hopper Antoinette Christiani John Furlong Rena Horten Princess Livingston Lorna Maitland Sam Hanna Stuart Lancaster |
+| Cinematography | Walter Schenk |
+| Edited by | Russ Meyer Charles G. Schelling |
+| Music by | André Brummer |
+| Distributed by | Eve Productions Inc. |
+| Running time | 92 daqiiqado |
+| Country | Mareykanka |
+| Language | Ingiriis |

@@ -1,0 +1,35 @@
+title:
+Kamila Kabello
+
+url:
+https://so.wikipedia.org/wiki?curid=33425
+
+text:
+Karla Kamila Kabello Estrabao (waxay dhalatay Maarso 3, 1997) waa fannan Kuuba - Mareykan -ka.
+
+
+# Infobox
+
+- **Magaca dhalashada**: Karla Kamila Kabello Estrabao
+- **Dhashay**: ( 1997-03-03 ) Maarso 3, 1997 ( 28jir) Kuuba
+- **Asal**: Miami, Florida ,
+- **shaqada**: Fanaan
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2012–hada
+- **Falalka la xiriira**: Fifth Harmony
+- **Website**: camilacabello.com
+
+
+# Tables
+
+## Table 1
+| Kamila Kabello |
+| --- |
+| Magaca dhalashada | Karla Kamila Kabello Estrabao |
+| Dhashay | ( 1997-03-03 ) Maarso 3, 1997 ( 28jir) Kuuba |
+| Asal | Miami, Florida , |
+| shaqada | Fanaan |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2012–hada |
+| Falalka la xiriira | Fifth Harmony |
+| Website | camilacabello.com |

@@ -1,0 +1,60 @@
+title:
+Money
+
+url:
+https://so.wikipedia.org/wiki?curid=33903
+
+text:
+" Money " waa hees uu qaaday fanaanada Tayland iyo rapper, iyo xubin ka tirsan Blackpink Lisa oo ka timid albumkeedii ugu horreeyay ee Lalisa (2021). Waxaa sii daayay YG Entertainment iyo Interscope Records 10-kii Sebteembar, 2021. Erayada heesta waxaa qoray Bekuh Boom iyo Vince, muusikada ay iyaga ka garab sameeyeen 24 and R. Tee .
+
+YG
+
+Interscope
+
+24
+
+Boom
+
+R. Tee
+
+Vince
+
+Boom
+
+Vince
+
+
+# Infobox
+
+- **Luuqad**: Ingiriis
+- **La sii daayay**: Sebteembar 10, 2021 ( 2021-09-10 )
+- **La duubay**: 2021
+- **Istuudiyaha**: The Black Label (Seoul)
+- **Nooca**: Hip hop
+- **Dhererka**: 2 : 48
+- **Summada**: YG Interscope
+- **Laxanka**: 24 Boom R. Tee Vince
+- **Erayada**: Boom Vince
+
+
+# Tables
+
+## Table 1
+| "Money" |
+| --- |
+|  |
+| by Lisa |
+| from the album Lalisa |
+| Luuqad | Ingiriis |
+| La sii daayay | Sebteembar 10, 2021 ( 2021-09-10 ) |
+| La duubay | 2021 |
+| Istuudiyaha | The Black Label (Seoul) |
+| Nooca | Hip hop |
+| Dhererka | 2 : 48 |
+| Summada | YG Interscope |
+| Laxanka | 24 Boom R. Tee Vince |
+| Erayada | Boom Vince |
+|  |
+| Performance video |
+| "Money" on YouTube |
+|  |

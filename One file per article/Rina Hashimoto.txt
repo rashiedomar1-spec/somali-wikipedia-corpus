@@ -1,0 +1,26 @@
+title:
+Rina Hashimoto
+
+url:
+https://so.wikipedia.org/wiki?curid=33350
+
+text:
+Rina Hashimoto (dhashay September 13, 1993) waa moodel soo jiidasho oo reer Jabaan ah oo xubin ka ah kooxda sanamyada sherbet . [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1993-09-13 ) Sebteembar 13, 1993 ( 31jir) Hirakata City, Osaka Prefecture, Jabaan
+- **Dhererka**: 158 cm
+
+
+# Tables
+
+## Table 1
+| Rina Hashimoto |
+| --- |
+| Rina ee 2019 |
+| Ku dhashay | ( 1993-09-13 ) Sebteembar 13, 1993 ( 31jir) Hirakata City, Osaka Prefecture, Jabaan |
+| Dhererka | 158 cm |

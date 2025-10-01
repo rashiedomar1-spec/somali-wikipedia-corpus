@@ -1,0 +1,39 @@
+title:
+Google Maps
+
+url:
+https://so.wikipedia.org/wiki?curid=30196
+
+text:
+Google Maps waa adeeg khariidad shabakadeed oo ay soo saartay shirkada Google . Waxay bixisaa sawiro dayax gacmeed ah , sawir gacmeed , khariirado jidadka ah, muuqaal  360 °  oo iskuwareeg ah oo wadooyinka  , xaaladaha taraafikada waqtiga-dhabta ah, iyo qorsheynta safarka lugta ah, baabuurta, baaskiilada iyo hawada iyo gaadiidka dadweynaha. Sanadkii 2020, Khariidadaha Google waxaa isticmaaley in ka badan 1 bilyan oo qof bil kasta [ 1 ] .
+
+Taariikh
+
+Tixraac
+
+
+# Infobox
+
+- **Cinwaanka**: google.com/maps
+- **Ganacsi?**: Yes
+- **Nooca site**: Khariidaynta bogga
+- **Diiwaan-gelin**: Ikhtiyaar , oo lagu daray Akoonka Google
+- **Diyaar ku ah**: Luuqado badan
+- **Mulkiilaha**: Google LLC
+- **La bilaabay isticmaalka**: Febraayo 8, 2005 ; 20 sanadood ka hor ( 2005-02-08 )
+- **Hada**: Active
+
+
+# Tables
+
+## Google Maps
+|   |
+| --- |
+| Cinwaanka | google.com/maps |
+| Ganacsi? | Yes |
+| Nooca site | Khariidaynta bogga |
+| Diiwaan-gelin | Ikhtiyaar , oo lagu daray Akoonka Google |
+| Diyaar ku ah | Luuqado badan |
+| Mulkiilaha | Google LLC |
+| La bilaabay isticmaalka | Febraayo 8, 2005 ; 20 sanadood ka hor ( 2005-02-08 ) |
+| Hada | Active |

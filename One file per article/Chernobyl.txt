@@ -1,0 +1,37 @@
+title:
+Chernobyl
+
+url:
+https://so.wikipedia.org/wiki?curid=10927
+
+text:
+magaalo ku taal europa oo looyaqaanay shilkii nukliyeerka 1980s iyada oo lagu tijaabinayo cadaadiska falcelinta ayaa sababtay qarax weyn, oo sababay carqalad iyo dabaylo agagaarka aagga bariga yurub .
+
+
+# Infobox
+
+- **Taariikh**: 26 Abriil 1986 ( 1986-04-26 )
+- **Amin**: 01:23 (Saacadda Moosko UTC+3)
+- **Barta**: Ukrain , Pripyat , (former Ukrainian SSR , Soviet Union )
+- **Isuduwe Habka Juqraafiga**: 18°57′10″N 72°50′42″E ﻿ / ﻿ 18.9527772°N 72.8449774°E ﻿ / 18.9527772; 72.8449774 Coordinates : 18°57′10″N 72°50′42″E ﻿ / ﻿ 18.9527772°N 72.8449774°E ﻿ / 18.9527772; 72.8449774
+- **Sababta**: Qarax
+
+
+# Tables
+
+## Qarax ka dhashay xarunta nukleerka ee Chernobyl
+| Dhibaatadii ugu ba-need abid ee xagga nukleerka ah |
+| --- |
+| Taariikh | 26 Abriil 1986 ( 1986-04-26 ) |
+| Amin | 01:23 (Saacadda Moosko UTC+3) |
+| Barta | Ukrain , Pripyat , (former Ukrainian SSR , Soviet Union ) |
+| Isuduwe Habka Juqraafiga | 18°57′10″N 72°50′42″E ﻿ / ﻿ 18.9527772°N 72.8449774°E ﻿ / 18.9527772; 72.8449774 Coordinates : 18°57′10″N 72°50′42″E ﻿ / ﻿ 18.9527772°N 72.8449774°E ﻿ / 18.9527772; 72.8449774 |
+| Sababta | Qarax |
+| Khasaaraha |
+| 36+ Dhimasho |
+| 2,000 Dhaawac |
+
+
+
+# Coordinates
+18.9527772; 72.8449774

@@ -1,0 +1,53 @@
+title:
+Beled Xaawo
+
+url:
+https://so.wikipedia.org/wiki?curid=15559
+
+text:
+Beled Xaawo waa magaalo dhacda Waqooyiga Gobolka Gedo ee wadanka Soomaaliya . Magaalada waxaa laf dhabar u ganacsiga Koonfurta & Bartamaha Soomaaliya waan Goob kulmiso Ganacsato kakala Timid Soomaaliya Kenya & Ethopia Taas oo kor Uqaaday Hormarka ganacsi ee Magaalada kana yeeshay Goob loo soo beec geeyo Badeecooyin kala duwan Xadaarad Ahaan
+waa magaalo kulmisatay Dhaqamo Luuqada & Xadaarada Kala Duwan taas oo ilbaxnimadeeda
+Ka dhigtay Mid Cirka isku Shareertay ayna Dheertahay Magaalooyin Badan oo Taariikh
+ahaan kafac weynaa.
+
+Sidoo kale fiiri
+
+Xigasho
+
+Tixraac
+
+Liiska magaalooyinka Soomaaliya dadka ku nool
+
+Liiska magaalooyinka Soomaaliya
+
+Cagaaran
+
+
+# Infobox
+
+- **Wadan**: Somalia
+- **Gobol**: Gedo
+- **Degmo**: Beled Xaawo
+- **• Duqa magaalada**: Ahmed Mohamed Yusuf
+- **• Mayor ku xigeen**: Ahmed Aden Iriri
+- **• Dhammaan**: 73,000 est.
+- **Aag saacadeed**: UTC+3 ( East Africa Time )
+
+
+# Tables
+
+## Table 1
+| Beled Xaawo Buulo Xaawo |
+| --- |
+| Magaalo |
+|  |
+| Beled Xaawo Meesha ka dhacdo Soomaaliya |
+| Wadan | Somalia |
+| Gobol | Gedo |
+| Degmo | Beled Xaawo |
+| Dowlada |
+| • Duqa magaalada | Ahmed Mohamed Yusuf |
+| • Mayor ku xigeen | Ahmed Aden Iriri |
+| Tirada dadka |
+| • Dhammaan | 73,000 est. |
+| Aag saacadeed | UTC+3 ( East Africa Time ) |

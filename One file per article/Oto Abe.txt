@@ -1,0 +1,24 @@
+title:
+Oto Abe
+
+url:
+https://so.wikipedia.org/wiki?curid=33343
+
+text:
+Oto Abe (wuxuu dhashay Janaayo 18, 2000) waa atariisho reer Jabaan ah, moodel soo jiidasho .  Waxay ka timid gobolka Osaka .
+
+
+# Infobox
+
+- **Ku dhashay**: ( 2000-01-18 ) Janaayo 18, 2000 ( 25jir)
+- **Sanadaha Shaqada**: 2017–hada
+
+
+# Tables
+
+## Table 1
+| Oto Abe |
+| --- |
+| Oto ee 2021 |
+| Ku dhashay | ( 2000-01-18 ) Janaayo 18, 2000 ( 25jir) |
+| Sanadaha Shaqada | 2017–hada |

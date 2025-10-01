@@ -1,0 +1,8 @@
+title:
+Tuvalu
+
+url:
+https://so.wikipedia.org/wiki?curid=5263
+
+text:
+Tuvalu waa wadan oo jasiirado ka sameesan, waxoona ku yaalaa, &lt;a href="Badweynta%20Baasifik"&gt;Badweynta Baasifik&lt;/a&gt;.

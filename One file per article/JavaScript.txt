@@ -1,0 +1,9 @@
+title:
+JavaScript
+
+url:
+https://so.wikipedia.org/wiki?curid=36598
+
+text:
+&lt;a href="JavaScript"&gt;JavaScript&lt;/a&gt; waa luuqad barnaamijeed heer sare ah oo raacaya heerka &lt;a href="ECMAScript"&gt;ECMAScript&lt;/a&gt;. Markii hore waxaa loo qaabeeyey sidii luqad &lt;a href="qoraal"&gt;qoraal&lt;/a&gt; ah oo loogu talagalay mareegaha laakiin waxa ay noqotay mid si weyn loo qaatay luqadda barnaamijka ujeedo guud, oo hadda waa luqadda barnaamijyada ugu caansan ee la &lt;a href="isticmaal"&gt;isticmaal&lt;/a&gt;o. JavaScript inta badan waxaa laga helaa isagoo ku dhex ordaya biraawsarkaaga si ka kooban is dhexgal ama si toos ah, oo u dhexeeya fariimaha soo baxay iyo saacadaha nool ilaa codsiyada shabakada waaweyn. JavaScript sidoo kale waxaa badanaa loo adeegsadaa barnaamijyada dhinaca server-ka iyada oo loo marayo aaladaha sida &lt;a href="Node.js"&gt;Node.js&lt;/a&gt;, ama "ku-xidhan" codsiyada aan JavaScript ahayn halkaas oo luqadda barnaamijka salku ka maqan tahay shaqeynta heerka sare ah ee JavaScript ay bixiso.
+=Tixraacyada=

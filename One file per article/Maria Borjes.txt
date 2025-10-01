@@ -1,0 +1,28 @@
+title:
+Maria Borjes
+
+url:
+https://so.wikipedia.org/wiki?curid=33395
+
+text:
+Maria Borjes (dhashay 28 Oktoonbar 1992) waa moodel Angola . [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1992-10-28 ) 28 Oktoobar 1992 ( 32jir) Luanda , Angola
+- **Shaqada**: Moodel
+- **Sanadaha Shaqada**: 2010–hada
+
+
+# Tables
+
+## Table 1
+| Maria Borjes |
+| --- |
+| Borges ee 2018 |
+| Ku dhashay | ( 1992-10-28 ) 28 Oktoobar 1992 ( 32jir) Luanda , Angola |
+| Shaqada | Moodel |
+| Sanadaha Shaqada | 2010–hada |

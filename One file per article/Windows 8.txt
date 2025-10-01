@@ -1,0 +1,10 @@
+title:
+Windows 8
+
+url:
+https://so.wikipedia.org/wiki?curid=9302
+
+text:
+Windows 8 waxaa haatan shirkada Microsoft ay soo saartay 1 Agoosta 2012, Barnaamij Cusub oo la yiraahdo Windows 8, iyadoo suuqyadana lagu sii daayay 26 Oktoobar 2012, waxana uu ka fiican yahay &lt;a href="Windows%207"&gt;Windows 7&lt;/a&gt; oo ka dhakhso badan yahay.
+=Tixraacyada=
+&lt;a href="Windows%207"&gt;Windows 7&lt;/a&gt; – &lt;a href="Windows%208"&gt;Windows 8&lt;/a&gt; – &lt;a href="Windows%208.1"&gt;Windows 8.1&lt;/a&gt;

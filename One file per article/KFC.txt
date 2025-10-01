@@ -1,0 +1,63 @@
+title:
+KFC
+
+url:
+https://so.wikipedia.org/wiki?curid=35043
+
+text:
+KFC (oo u taagan Kentucky digaag Shiilan) waa silsilad shirkadeed cunto degdeg ah oo weyn oo ka timid gobolka Kentucky ee Maraykanka . Gaar ahaan Afrika , waa silsiladda cuntada degdega ah ee ugu weyn Koonfur Afrika , taasoo ka dhigan suuqa laba iyo tobnaad ee ugu weyn KFC adduunka. [ 2 ]
+
+Kfc bari Africa
+
+Sido kale firir
+
+Bulleted list item
+
+Yum! Brands worldwide outside of China
+
+Yum China within China
+
+Ethiopia 1+
+
+Djibouti 0+
+
+Uganda 17+
+
+Somaliland 0
+
+Kenya 34+
+
+Tanzania 1
+
+Burger King
+
+Pizza Hut
+
+
+# Infobox
+
+- **Nooca**: Makhaayad Cunto
+- **Shirkada**: Maqaaxi
+- **La aasaasay**: Louisville Kentucky USA
+- **Aasaasaha**: H.Sanders USA
+- **Xarunta**: [ 1 ] Bulleted list item
+- **Tirada xarumaha**: 13,728 meelo kala duwan (as of 2015 [update] )
+- **Alaabta**: Italian-American chiken fried · Baasto · Hilib digaag
+- **Iska leh**: Yum! Brands worldwide outside of China Yum China within China
+- **Website**: kfc.com
+
+
+# Tables
+
+## Kentucky Fried Chicken
+|   |
+| --- |
+| Nooca | Makhaayad Cunto |
+| Shirkada | Maqaaxi |
+| La aasaasay | Louisville Kentucky USA |
+| Aasaasaha | H.Sanders USA |
+| Xarunta | [ 1 ] Bulleted list item |
+| Tirada xarumaha | 13,728 meelo kala duwan (as of 2015 [update] ) |
+| Alaabta | Italian-American chiken fried · Baasto · Hilib digaag |
+| Iska leh | Yum! Brands worldwide outside of China Yum China within China |
+| Website | kfc.com |

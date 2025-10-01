@@ -1,0 +1,27 @@
+title:
+Ciise
+
+url:
+https://so.wikipedia.org/wiki?curid=2629
+
+text:
+Nebi Ciise waa nebi loo diray reer banii Israaiil, sidoo kalena lagu xusay Magac ahaan Kitaabka Qur'aanka kariimka , wuxuuna la mid yahay 25ka nebi uu Allah ku sheegay Qur'aanka magacooda, Hooyadiis waxaa la dhihi jiray Maryama Bintu Cimraan , Suurada 19aad ee Qur'aanka Kariimka waxaa lagu magacaabaa Suuratu Maryama , Maryama bint cimraan qoyskooda waxaa lagu magacaaba Aala Cimraan oo asal ahaantooda ah Reer Banii Israaiil oo ku Abtirsada Nebi Yacquub oo Alle ugu yeeri jiray magaca Israaiil.
+
+Nabiyada iyo Rususha Quraanka Lagu Sheegay.
+
+Nebiyada Allah S.W.T ku sheegay kitaabka Quraanka kariimka ah ee lagu soo dejiayay Nebi Muxamed waa 25 Nabi oo kala ah:
+
+
+# Tables
+
+## Nabiyada iyo Rususha Ku Xusan Quraanka (الأنبیاء والرسل في القرآن)
+| Nebi Aadam | Nebi Al-yasac | Nebi Ayuub |
+| --- | --- | --- |
+| Nebi Ciise | Nebi Dulkifli | Nebi Daa'uud |
+| Nebi Haaruun | Nebi Huud | Nebi Ibraahiim |
+| Nebi Idriis | Nebi Ilyaas | Nebi Ismaaciil |
+| Nebi Isxaaq | Nebi Luud | Nebi Muuse |
+| Nebi Muxamed ﷺ | Nebi Nuux | Nebi Saalax |
+| Nabi Shuceyb | Nebi Sulaymaan | Nebi Yaxye |
+| Nebi Yacquub | Nabi Yuusuf | Nebi Yuunus |
+| Nebi Ciise | Nebi Zakariye |

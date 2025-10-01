@@ -1,0 +1,8 @@
+title:
+Bula xaar
+
+url:
+https://so.wikipedia.org/wiki?curid=6607
+
+text:
+bula xaar waa tuulo katirsan gobolka &lt;a href="Awdal"&gt;Awdal&lt;/a&gt; ee jamhuuriyada &lt;a href="somaliland"&gt;somaliland&lt;/a&gt;

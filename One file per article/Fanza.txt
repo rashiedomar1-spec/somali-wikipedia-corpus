@@ -1,0 +1,32 @@
+title:
+Fanza
+
+url:
+https://so.wikipedia.org/wiki?curid=34391
+
+text:
+Fanza (ファンザ) waa goob ganacsi Jabaan ah iyo shirkad ay maamusho Digital Commerce Co., Ltd. [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Nooca**: Dadweynaha
+- **La aasaasay**: Diseembar 26, 2017 ( 2017-12-26 )
+- **Xarunta**: Jabaan
+- **Dadka muhiimka ah**: Hiroyuki Shimazaki (milkiilaha)
+- **Website**: http://digitalcommerce.co.jp/
+
+
+# Tables
+
+## Fanza
+|   |
+| --- |
+|  |
+| Nooca | Dadweynaha |
+| La aasaasay | Diseembar 26, 2017 ( 2017-12-26 ) |
+| Xarunta | Jabaan |
+| Dadka muhiimka ah | Hiroyuki Shimazaki (milkiilaha) |
+| Website | http://digitalcommerce.co.jp/ |

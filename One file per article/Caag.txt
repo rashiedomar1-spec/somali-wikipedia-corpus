@@ -1,0 +1,9 @@
+title:
+Caag
+
+url:
+https://so.wikipedia.org/wiki?curid=30191
+
+text:
+Caag sidoo kale looyaqaani balaastikada waa shay kala duwan oo laga sameeyay &lt;a href="Batrool"&gt;Gaaska dabiiciga&lt;/a&gt;.
+balaastikadii ugu horeesay aduunka waxee eheed &lt;a href="Bakelite"&gt;Bakelite&lt;/a&gt;, waxaana soo alifay &lt;a href="Leo%20Baekeland"&gt;Leo Baekeland&lt;/a&gt;.

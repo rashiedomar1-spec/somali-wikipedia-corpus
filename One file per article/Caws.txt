@@ -1,0 +1,21 @@
+title:
+Caws
+
+url:
+https://so.wikipedia.org/wiki?curid=5080
+
+text:
+Caws waa dhirta dhulka ka baxada oo xooluhu daaqaan, waxaa kale oo jiro wax ladhoho bal oo lo'da daaqdo waxa lagu magacaabaa wax kasta oo kamida geedaha ama dhira qaar kamida gaar ahaana kuwa gaagaaban ee aan dhaadheerayn amaba aan lahay ee aan samaynayn jirid iyo caleemo. Waxa uu cawsku ka koobanyahay qaybo aad iyo aad ubadan waxa kale oo uu leeyahay magacyo fara badan waxa cuna xoolaha waxa kale oo reer baadiyuhu u isticmaalaan in ay ka samaystaan waxyaabaha lagu dhisto guryaha.
+
+
+# Tables
+
+## Table 1
+| Caws |
+| --- |
+|  |
+| Caws leh qoyaanka subaxdii |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| Dirka: | Poales |
+| Bahka: | Poaceae |

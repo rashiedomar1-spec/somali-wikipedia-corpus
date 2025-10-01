@@ -1,0 +1,19 @@
+title:
+Dheri
+
+url:
+https://so.wikipedia.org/wiki?curid=32924
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2021-07-11T13:08:30Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;82.132.215.22&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog cusub: Dheri Dheri cuunto dheriga wax lagu kariyo ee loogu talagalay cuntada loo isticmaalo dabeecadaha sarreeya iyo samaynta cuntada. ==Sido Kale fiiri== * &lt;a href="Cunto"&gt;Cunto&lt;/a&gt; * &lt;a href="Beeraha%20Dunida"&gt;Beeraha Dunida&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;213516&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Dheri
+Dheri cuunto dheriga wax lagu kariyo ee loogu talagalay cuntada loo isticmaalo dabeecadaha sarreeya iyo samaynta cuntada.

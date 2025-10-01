@@ -1,0 +1,8 @@
+title:
+Laf
+
+url:
+https://so.wikipedia.org/wiki?curid=4879
+
+text:
+Lafaha wa qeybo ku yaal &lt;a href="insaan"&gt;insaan&lt;/a&gt;ka iyo &lt;a href="xayawaan"&gt;xayawaan&lt;/a&gt;aha.

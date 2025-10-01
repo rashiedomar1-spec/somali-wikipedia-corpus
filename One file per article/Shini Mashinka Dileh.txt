@@ -1,0 +1,10 @@
+title:
+Shini Mashinka Dileh
+
+url:
+https://so.wikipedia.org/wiki?curid=33062
+
+text:
+Shini Mashinka Dileh
+Sido Kale fiiri.
+&lt;a href="Shini"&gt;Shini&lt;/a&gt;

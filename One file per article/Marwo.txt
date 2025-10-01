@@ -1,0 +1,31 @@
+title:
+Marwo
+
+url:
+https://so.wikipedia.org/wiki?curid=34787
+
+text:
+Marwo waa barnaamij Soomaaliyeed oo ay soo diyaarisay Astaan ​​TV .
+
+Fikradda
+
+Marwo waa barnaamij loogu talagalay haweenka Soomaaliyeed guud ahaan. Qayb walba waxa marti ku ah haween ka shaqeeya dhinacyo kala duwan, ha noqoto caafimaadka iyo ganacsiyada kale ee caanka ah, waxaana lagu falanqeynayaa doorka haweenku ku leeyihiin horumarka dalka iyo kaalinta ay kaga jiraan bulshada. Waa barnaamijkii ugu horreeyay ee Soomaali ah oo gebi ahaanba loo qoondeeyay haweenka.
+
+
+# Infobox
+
+- **Producer**: Astaan TV
+- **Production location**: Muqdisho
+- **Original network**: Astaan TV
+
+
+# Tables
+
+## Table 1
+| Marwo |
+| --- |
+| Production |
+| Producer | Astaan TV |
+| Production location | Muqdisho |
+| Release |
+| Original network | Astaan TV |

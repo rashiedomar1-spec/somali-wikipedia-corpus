@@ -1,0 +1,8 @@
+title:
+Wikivoyage
+
+url:
+https://so.wikipedia.org/wiki?curid=36922
+
+text:
+Wikivoyage waa hage safar iyo dalxiis bilaash ah oo shabkada ah. Waxaa qoray qorayaal iskaa wax u qabso ah oo isticmaalaya wiki. Qof kastaa wuu tafatiri karaa maqaallada Magaca "Wikivoyage" waa isku darka erayada "wiki" iyo "voyage", ereyga &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt; ee safarka.

@@ -1,0 +1,8 @@
+title:
+Af-Zulu
+
+url:
+https://so.wikipedia.org/wiki?curid=9007
+
+text:
+Af-Zulu ama isiZulu, waa luqad oo lagagahadlo &lt;a href="Koonfur%20Afrika"&gt;Koonfur-Afrika&lt;/a&gt;. Dadka kuhadlaan luqada waa qiyaas 10,4 milyan oo qof (2007).

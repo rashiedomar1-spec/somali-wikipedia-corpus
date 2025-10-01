@@ -1,0 +1,50 @@
+title:
+Hot Issue
+
+url:
+https://so.wikipedia.org/wiki?curid=36059
+
+text:
+Hot Issue ( Kuuriya : 핫이슈 ) waa koox gabdho Koonfur Kuuriya ah oo ay samaysay S2 Entertainment 2021. Kooxdu waxay ka kooban tahay todoba xubnood: Mayna, Nahyun, Hyeongshin, Dana, Yewon, Yebin, iyo Dain. [ 1 ]
+
+Tixraac
+
+Mayna
+
+Nahyun
+
+Hyeongshin
+
+Dana
+
+Yewon
+
+Yebin
+
+Dain
+
+
+# Infobox
+
+- **Asal**: Seoul , Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Sanadaha Shaqada**: 2021–hada
+- **Calaamadaha**: S2 Entertainment
+- **Website**: hotissue.com
+- **Xubnaha**: Mayna Nahyun Hyeongshin Dana Yewon Yebin Dain
+
+
+# Tables
+
+## Table 1
+| Hot Issue |
+| --- |
+| Hot Issue ee 2021 |
+| Macluumaadka asalka |
+| Asal | Seoul , Koonfur Kuuriya |
+| Nooca fanka | K-pop |
+| Sanadaha Shaqada | 2021–hada |
+| Calaamadaha | S2 Entertainment |
+| Website | hotissue.com |
+|  |
+| Xubnaha | Mayna Nahyun Hyeongshin Dana Yewon Yebin Dain |

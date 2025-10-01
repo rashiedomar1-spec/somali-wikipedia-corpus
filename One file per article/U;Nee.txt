@@ -1,0 +1,23 @@
+title:
+U;Nee
+
+url:
+https://so.wikipedia.org/wiki?curid=32717
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;235364&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-12-09T01:42:03Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;InternetArchiveBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0.9.2&lt;/comment&gt;
+ &lt;origin&gt;244913&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+U;Nee (Kuuriyaan: 유니; 1982–Janaayo 21, 2007), wuxuu waxay ahayd iyo atariisho Koonfur Kuuriya ah.
+Nolosha.
+U;Nee wuxuu ku dhashay Lee Hye-ryeon (이혜련) Koonfurta Kuuriya.  Waxay lahayd dhibaato caruurnimo oo ay ku dhalatay hooyo aan guursan.  Aabaheed wuxuu dhintay iyada oo yar, waxaana ku soo korisay ayeeyadeed natiijadaas.
+Dhimasho.
+U;Nee waxay ku dhimatay ismiidaaminta Janaayo 21, 2007 gurigeeda oo ku yaal Seo-gu, Incheon, Koonfur Kuuriya, Ayeeyada 71-jirka ah ee U-Nee, oo magaceeda lagu soo koobay Lee, ayaa sheegtay inay guriga kaga soo laabatay kaniisadda si ay u hesho U;Nee oo dhimatay. Baadhitaan ay booliisku sameeyeen kadib, waxaa la ogaaday inay &lt;a href="Niyadjabka"&gt;niyad jab&lt;/a&gt; qabto. Ma jirin qoraal isdilid ah oo laga helay, laakiin waxay qortay inay dareentay cidlo websaydh iyadoo leh, "Waxaan dareemayaa wax walba inay madhan yihiin. Waxaan mar kale ku socdaa waddo si aan u gaaro meel aanan aqoon."

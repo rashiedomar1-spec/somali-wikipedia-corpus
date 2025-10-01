@@ -1,0 +1,8 @@
+title:
+Garfield
+
+url:
+https://so.wikipedia.org/wiki?curid=17312
+
+text:
+Garfield waxaa markii 19 juun 1978 hadlaan waa dad nool &lt;a href="Odie"&gt;Odie&lt;/a&gt;.

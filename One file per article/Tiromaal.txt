@@ -1,0 +1,125 @@
+title:
+Tiromaal
+
+url:
+https://so.wikipedia.org/wiki?curid=2862
+
+text:
+Tiromaal ama Xisaab ( Af Ingiriis : mathematics ;) waa saynis iyo cilmi ee lagu barto tirada, ku adeegidda xisaabta, qaabka, iyo hannaanka iyo fallanqaynta waxyaabaha iyo hababka cillanaad ama caadyaal. Tiomaalka ee cillad ah waa cilmigeeda ee la taaban karin iyo guud ee xalinta dhibaatada iyo horumarinta habka. Haddii kale, waxaad u xil karaa sida sayniska ah xiriirka taranta iyo qaab-dhismeedka aan ollogga ah ee dunida dhabta ah. Aan la taaban karin, sababtoo ah waxaa laftiisa laga xoreeyey dhibaatooyin asal gaarka ah iyo guud ahaan in ay tahay dabaqi karo meelo badan. Tusaalooyinka fikradaha xisaabeed waa cod, xogta, qaab-dhismeedka, tirada, meesha iyo xidhiidhkooda. Ama fikradaha sida aan la taaban karin (xisaabta saafi ah) ama codsiyada in nidaamo sayniska sida physics iyo technology (xisaabta codsatay).
+
+Iyada oo hay'adaha waxbarasho sayniska ee meel iyo waqti, ma cadda in kaasaa run ah, waayo waxyaabaha ka bartay in xisaabta. Intaas waxaa sii dheer, habab kala duwan oo ka mid ah imtixaanka, waayo, sayniska u muuqdaan in ay u isticmaalaan hababka induction iyo hababka xisaabta ee jaro. Waayo, tan iyo sababo kale oo ku xusan kicisaa xisaabta ontological iyo arrimaha epistemological ka aragti cilmiyeed furay. Arimahaa oo dhan ayaa waxaa ka hadlay in falsafadda ah xisaabta.
+
+Tusmada
+
+1. Asalkeeda 2. Taariikhda 2.1 xisaabyahannada 3. Qaabka iyo Eray bixinta 3.1 Tirada 3.2 Hadalka 3.2.1 Dhismaha tirada dabiiciga ah 3.2.2 Qeexidda abyoonayaasha 3.2.3 Dhismaha oo ka mid ah tirooyinka buuxa 3.2.4 Dhismaha tirada dhabta ah 3.3 Rooms 3.4 Sal Xisaabeed 4. Dhigan karo 4.1 Itimaalka iyo Satastigtis 4.2 Xisaabta 4.3 Joometri 4.4 Algebra 4.5 falanqaynta Xisaabeed 4.6 netavisen Xisaabta 5. Calaamadaha iyo habka 5.1 oggolaanshaheeda caddayn 5.2 sharraxaadda 6. Xisaabta Philosophy 7. Applied Xisaabta 7.1 Physics 7.2 Falanqaynta nambarada 8. Tababarka 9. Sidoo kale eeg 10 Ilaha 10.1 qormo 10.2 ilo lagu daabacay 10.3 Quote Original
+
+Xisaab waa cilmiga wax xisaabinta. Waxaa jira afar xisaab-fal oo kala ah:
+
+Laba tiro marka laysku daro wixii ka soo baxa waxaa la yiraahdaa wadar . sida
+
+Laba tiro marka la kala jaro wixii ka soo baxa waxaa la yiraahdaa farqi . sida
+
+Laba tiro marka laysku dhufto wixii ka soo baxa waxaa la yiraahdaa taran . sida
+
+sidoo kale afartaa waxaa dheer iyagoo jajaba marka lagu shaqaynayo
+
+Isticmaalka ama dabbakhida xisaabta dhiraandhirinta (Derivative)
+Xisaabtan looyaaqaano dhiraandhirinta ama afka qalaad loogu yeedho “derivative” waa qaybta asalka u ah labada qaybood ee ay ‘Caculus’tu u qeybsanto, taas oo leh faaiidooyin ama isticmaal farobadan oo xal u ah weydiimooyin xisaabeed oo faro badan. Hadaba si ay u fududaato isticmaalka dhiraandhirintu aynu soo qaadano tusaalooyin faro badan oo ku saabsan xisaabtan aadka muhiimka u ah.
+
+Tusaale 1:- Warshada kaaluunka samaysa ee laasqorey ayaa doonaysa inay sameyso kartoono(baakado) lagu keydiyo kaluunka ay qasacadeyso. waxayna warshadu go’aan ku gaadhey in kartoon kasta oo ka mida kartoomadaa uu yeesho sal labo jibaaran islamarkaana wadarta bed-duleedka kartoon kasta uu noqdo 192 mitir oo labojibaaran, sida ka muuqata jaantuska hoose. Muxuu noqonayaa kartooka dhalinaya mugga ugu weyn dhinacyadiisu(dimensions)
+
+Xalin :-
+Sababtoo ah kartoonka oo leh sal labo-jibaaran, muggiisa waxaa lagu helaa
+
+Sidoo kale wadarta bed-duleed (Surface area,)(S) waxaa lagu heli karaa bedka salka + bed-deleedka ama
+
+Imika isticamaal dhiraandhirinta (derivative) si aad u heshid dhinacyada kartoonka ee dhalinaya mugga ugu weyn.
+Horaadka (D) muuqda (feasible domain) ee ay X noqon karto , ee waliba macnaha sameenaya weydiintan
+
+Sidaa daraadeed dhinacyada kartoonku waa in ay noqdaan
+
+Fiiro gaara:-
+
+Waxaa jira kartoono sal labo jibaaran leh oo aan tiro (xad) lahayn oo leh wadar bed-duleed(surface area) lamid ah 192 (ie: (42 + 4 x 4 x 11), ama (52 + 5 x 2 x 16.7), iwm) balse dhamaan dhinacyada kartomadaasi ma dhalinayaan muga ugu weyn. Kan aynu xisaabiney dhinacaydiisa ayaa ah ka kaliya ee samaynaya muga ugu weyn. Halakaas waxaad ka ogaan kartaa faaiidada ay leedahay dabakhida ama isticmaalka dhiraandhirinta(derivative).
+
+Tusaale 2 Engineer guryaha dhisa ayaa doonaya inuu nashqadeeyo cabirka daaqadaha guri ku yaala magaalada kismaayo.waxa uuna Engineerku doonayaa in daaqadkasta qeybteeda sare u ekaato nus-goobo (goobo barkeed), qeybta hoosana ahaato leydi sida daaqadaha caadiga ah, sida ka muuqata jaantuska hoose. Muxuu noqoneyaa cabirka hareeraha(dhinacyada) daaqadkasta ee uu Engineerku nashaqadeynayo, dhinacyadaasoo samaynaya bedka ugu weyn ee dariishadaha, haddii wareega guud ee daaqadkasta uu yahay 8m?
+
+Xal Siin
+
+Weydiin
+
+Isticmaal imika habka dhiraandhirinta saad u heshid dhinacyada dariishadkasta kaas oo dhalinaya bedka ugu weyn
+
+dhiraandhirinta labaad (second derivative) ee bedku waa
+
+Sidaa daraadeed marka dhinacyada dariishad kasta ay kala yihiin:
+
+layli
+
+Taranta labo tiro oo tirsiima ayaa ah 180 isla markaana wadarta labada tiro ayaa ah ta ugu yar, Raadi labad tiro?
+si uu u dhiso cali wado weyn oo u dhexeysa labo magaalo ayaa ay khasab tahay inuu buuxiyo tog u dhexeeya labada magaalo kaasoo dhinacyada janjeedhkiisu kala yihiin 5% iyo 6%. haddii labada dacal ee sare ee togu isu jiraan masaafo dhan 100m Raadi cabirka meesha ugu hooseysa ee toga?
+
+&&& ____________________________________ &&&
+
+Isle’egyada
+Isle’egyada waxaa lagu xalin karaa dhowr qaab oo kala duwan . Waxaana ka mid ah qaababkaa: qaabka daboolida, qaabka wareejinta iww.
+
+Tusaale 1 qaabka daboolida(cover up method)
+
+Xali isle’egta hoos ku qoran gacantaada saar tirada door soomaha wadata, waxaa halkan kaaga cad in tirada aad gacantaada saartay ay lamid tahay 4 taaso marka loo qeybiyo hooseeyaha (4) maxsuulka soo baxaya uu yahay 1. Sidaa daraadeed
+
+X =
+
+Tusaale 2
+
+4x + 5 = 7
+
++ 5 = 7
+
+4x = 2
+
+Xusuus:-
+
+Qaabka daboolida marka la isticmaalayo waxaa la daboolayaa (qarinayaa) tirada doorsoomaha wadata mar walba kadibna waxaa la
+
+le’ekeysiinayaa tiradan doosoomaha wadata ee
+
+la qariyey tirada run kadhigaysa isle’egta lagu
+
+siiyay
+
+Tirada
+
+set A waa a ururinta isku qodob in la kulmo Zermelo-Fraenkels dhigay aragti. Tusaale ahaan, a ururinta of tiro {1, 2, 3} waa go'an uguna, {1, 2, 3, ...} si kastaba ha ahaatee waa xad la'aan ah dhibcood taasoo ka dhigan tiriyey sii. kala duwan A la'aan content waxaa la odhan jiray set maran. tiro A ka koobnaan karaa dhawr subsets kale. Daraasiin ayaa lagu bartay in aragtida tirada.
+
+Functions ka aag, domain ka qaado qiyamka, iyo u yeelaan qiimaha aag oo kala duwan, cadadka qiimaha.
+
+Hadalka
+
+Xisaabta nidaamka tiro ka kooban tahay iyo kuwo kale ee tirooyinka caadiga ah, abyoonayaasha, tirooyinka buuxa, tirada dhabta ah iyo lambarada adag. Waxaan qaybtan ku siin doonaa soo jeedinta ku saabsan dhismaha tirada dabiiciga ah iyadoo la isticmaalayo axioms Peano. Iyada oo ku saleysan qaab-dhismeedka this, waxaan ku siin doonaa qeexidda ah Silverman abyooneyaasha ah; waxaan isticmaali cadayn ereyga loola jeedaa fikradaha aasaasiga ah oo aan naftooda ku kalsoonaadaan natiijada macquul dheefay. Iyada oo ku saleysan qeexidda abyoonayaasha aan dhiso kartaa tirooyinka buuxa iyada oo la samaynaayo isticmaalka lammaanaha tirooyinka. Dhismaha A ee tirada dhabta ah laga helay shaqo Richard Dedekind oo ay ku jiraan
+
+Dhismaha tirada dabiiciga ah [edit | edit source]
+
+Iyada oo tirada N dabiiciga ah, waxaan ula jeednaa qadarka abyoonaha non-negative (0, 1, 2, iwm). Durba annagu waxaannu ku dhisi qarniyo by bilaabo element gaar ah 0. Haddaba, waxaan la wadaajin tirada soo socota ee N 0 + 1, iyo (0 + 1) + 1, iyo wixii la mid ah. Noocan ah fahamka tirada dabiiciga ah waa dareen leh, la moodayay mid aan toos aheyn sababtoo ah + ma aha hawlgal si wanaagsan u qeexan. Ma, in view this, ka arki kartaa in N waa tiro aan la koobi karayn, maxaa yeelay, wax xuja ah in N waa la koobi karayn yihiin kuwa soo socda: ({\ bandhigay qaab \ Alfa} \ Alfa) Ka soo qaad jiro aad N markaas element weyn n + 1 oo ka mid ah n iyo n + 1 waa ka weyn yahay n, n sidaas ma noqon karo tirada ugu badan ee n iyo iyada oo absurdum ad reductio kuma jiraan tiro n ugu weyn. Fiiro gaar ah bayaanka in n + 1 waa ka weyn yahay n, waxaa run ma aha maxaa yeelay, waxaannu aan weli helin wax dareen xisaabeed ah ama "ka yar" "ka weyn". axioms Peano xaliyaan dhibaatooyinka doodan:
+
+Nidaamka {\ mathbb bandhigay qaab \ {N}} {\ mathbb {N}}, kuwaas oo xubno aan ugu yeedhaan tirooyinka caadiga ah, waa noocyo kala duwan oo la element gaar ah 0 iyo p function ka N si N sida in soo socda saddex xaaladaha la buuxiyo:
+
+{\ Style Display (i) \ qquad s (n) \ neq 0 {\ text {xubno dhan}} n \ in mathbb \ {N}} (n) \ neq 0 {\ text (i) \ qquad s {for dhamaan qaybaha}} n \ ee {\ mathbb {n}}
+
+{\ Style Display (ii) \ qquad s (m) = s (n) \ Xaqa Arrow m = n {\ text {ee dhammaan canaasiirta}} m, n \ in mathbb \ {N}} (ii) \ qquad s (m ) = s (n) \ m = n {\ text {dhan}} xubno m Xaqa Arrow, n \ ee {\ mathbb {n}}
+
+{\ Display style (iii) qquad \ {\ text {} haddii}} A \ subseteq \ mathbb {N {\ text {iyo}} s (n) \ ee A {\ text {dhan}} n \ in \ mathbb {N} {\ text {waxaa heysta in}} A = \ mathbb {N}} (iii) qquad \ {\ text {haddii}} A \ subseteq {\ mathbb {N}} {\ text {iyo}} s (n) \ ee A {\ text {dhan}} n \ ee {\ mathbb {n}} {\ text {waxaa heysta in}} {A = \ mathbb {n}}
+
+comments Qaar ka mid ah, waayo, tiro kasta oo dabiici ah n, waxaannu nidhaahnaa, s (n) waa bedelka iyo waxaan u qeexaan s eego "la taaban karo" by teeb {\ style bandhigay, s (n) = n + 1} s (n) = N + 1. Sababtoo ah waxaan rabnaa in aan hadalka oo dhan N waa non-xun, ma aha adag tahay in la arko in (i) waa shuruud macquul ah. Ku saabsan (ii): Ka soo qaad in looga baahan yahay in aan la kulmay. ka dibna waxaan jeclaan lahaa s (n) = s (m) {\ style bandhigay, s (n) = s (m) \ Xaqa + 1 = m + 1 Arrow n} \ Xaqa Arrow n + 1 = m + 1aad Inta aan hadda ay ogaadaan in aan kala jaro (qaliin ma qeexay on N, waayo, haddii goynta lagu qeexi lahaa noqon lahaa N qadar non-xiran, sida in ay jiraan xubno ku N sida in howlgal binary codsatay iyaga, taasoo keentay in element ah n ma innheåller tusaale:. 0-1 = -1 ma aha n) iyo n = m, si haddii m waa ka n kala duwan, waxaan leenahay natiijo xisaabeed oo aan waafaqsan / dhaqameed / xisaabta guud heerarka dareen. Sidaas awgeed waa macquul in (ii) khusaysaa. (Iii) aynu u qayshanno induction xisaabta. A ka koobnaan kartaa noocyo kala duwan oo guryaha P (n) sabab u ah hadalka dabiiciga ah aad N. Haddii hantida, mararka qaarkood loo yaqaan bayaanka, P (n) in P (n + 1) N oo dhammow, waxaannu nidhaahnaa, P (n) haya ee dhammaan n iyo qori kartaa {\ style bandhigay A = \ {n \ in mathbb \ {} n | P (n) \} = \ mathbb {n}} A = \ {n \ ee {\ mathbb { n}} | P (n) \} = {\ mathbb {n}} (set A la akhriyey: set ee tirooyinka caadiga ah n kaas oo P (n) khuseysaa). induction The keenaysaa in dhibaatooyin falsafada badan waxaa ka mid ah si fiican u yaqaan by David Hume.
+
+Iyadoo sal ka axioms Peano, aan qeexo waxaa dheer iyo isku dhufashada.
+
+Isku geynta: m element The, n in N, waxaan leenahay in m + n waxaa laga codsadaa n jeer s in s (m). Si kooban: {\ style bandhigay m + n = p ^ {n} (m)} m + n = p ^ {n} (m). Sida aan u fuliyaan hab this, nidhaahno n ku dar in m. Nidaamka waxaa loo yaqaan intaa dheer. Sidaas darteed, + howlgal si wanaagsan u qeexan binary.
+
+Isku dhufashada: m * n helay dhismaha g shaqo oo khuseysaa jeer SL ah, ka dibna codsan jeer GN at 0. kooban: {\ style bandhigay cdot m \ n = (s ^ m {}) ^ {N} (0)} m cdot \ n = (s ^ m {}) ^ {n} (0). Marka aan u oofiyo
+
+Aragti itimaalka doonaya in lagu qeexo oo barato daydo xisaabeed ee ifafaale random laga eego teori. Statistics waa aagga doonaya in ay abuuraan hababka, mabaadiida, shuruudaha, iwm si uu ugala hadlo xogta ka ifafaale random ama xogta laga tijaabo iyo u fiirsiga xaqiiqada ka. Aqoonta iyo aragtiyaha aragti itimaalka waxaa loo isticmaali karaa si loo qorsheeyo hababka sida, mabaadii'da iyo shuruudaha, taas oo muujinaysa in aragtida ixtimaalka iyo tirakoobka aragtida ah kuwa aad ula xiriira.
+
+Daydo loo isticmaalo in cilmiga badan tacliinta, kuwaas oo inta badan deterministic. Taas macnaheedu waa in la siiyo tiro ka mid ah qiimaha bilowga yaqaan, waxaan saadaalin karaa dhacdo mustaqbalka. Isaac Newton muujisay in qaynuunnadiisa of mooshin waa deterministic maxaa yeelay, way saadaalin karaa waqtiga ay qaadato in Earth uu u sameeyo mid ka mid ah kacaankii agagaarka qorraxda. In itimaalka aragti bartay ifafaale random, taas oo natiijada mustaqbalka aan si sax ah loo saadaalin karo, sidaas darteed, ma wada hadleen daydo deterministic aan loogu yeero daydo probabilistic. Tusaale ahaan, lacagta qadaadiicda gana ugub ah random, inkasta oo aan aqoon buuxda oo ku saabsan design qadaadiic ah sida waa symmetric, annagu kala ma saadaalin karo, taas oo ay dhacdo in ay noqon doonto madaxdii ama dabo. Halkii model ah deterministic u baahan probabilistic ah.
+
+Farqiga u khuseeya dhexeeya aragtida ixtimaalka iyo tirakoobka aragti waa in aragtida ixtimaalka ayaa (a) la siiyo model random iyo isku day ka this saadaaliyo natiijada tijaabo random, halka aragti tirakoobka yahay mid kasoo horjeeda, oo waannu (b) natiijada tijaabo ah random oo aad rabto inaad kala tilmaamaan model dahsoon random.  biochemist A isticmaali kartaa hababka tirakoobka si ay u horumariyaan daawo in yareeyaa madax xanuun. daawo la eego dadka kala duwan ee kala duwanaan doonaa inta u dhaxaysa dadka ka dhigan tahay in ay la kulmaan isbedel aad u kala duwan in madax ay. Falanqaynta A tirakoobka ee xogta laga sida tijaabo ah jawaabi kartaa inta gargaarka laga fili karo celcelis ahaan.

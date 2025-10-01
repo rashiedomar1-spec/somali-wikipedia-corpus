@@ -1,0 +1,28 @@
+title:
+Beer (xubin)
+
+url:
+https://so.wikipedia.org/wiki?curid=4896
+
+text:
+Beerka waa xobin muhiim ah ku dhinac taal caloosha qaybteeta midig sare, ama saableeyda feeraha dhanka midig ee hoose midabkiisu waa maariin gaduud ama casaan xigeen ah, miisaankiisuma waa 1.5 kg waxa uu ukala qaybsamaa 4 qaybood.
+
+Your Liver Speaks Up
+
+
+# Infobox
+
+- **System**: Dheefshiid
+- **NeuroNames**: {{{BrainInfoType}}}-{{{BrainInfoNumber}}}
+
+
+# Tables
+
+## Table 1
+| Goobta Beerka aadanaha kaga jiro |
+| --- |
+| Details |
+| System | Dheefshiid |
+| Identifiers |
+| NeuroNames | {{{BrainInfoType}}}-{{{BrainInfoNumber}}} |
+| Anatomical terminology [ edit on Wikidata ] |

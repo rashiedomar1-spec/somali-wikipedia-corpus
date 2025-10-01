@@ -1,0 +1,36 @@
+title:
+Sonakshi Sinha
+
+url:
+https://so.wikipedia.org/wiki?curid=35649
+
+text:
+Sonakshi Sinha ( loogu dhawaaqo [soːnaːkʂi sɪnɦa] ; 2 Juun 1987) waa atariisho iyo heesaa Hindi ah oo ka shaqeysa filimada Hindiga. [ 2 ] Ka dib markii ay ka shaqeysay dharka nashqadeeya filimada madaxa banaan , waxay soo bandhigtay filimkeedii ugu horreeyay iyadoo ku muujisay Rajjo Pandey filimkii Dabangg sanadkii 2010. [ 3 ] Waxay u soo kacday inay caan ku noqoto ciyaarista xiisaha jacaylka jilayaasha ragga ee filimada Rowdy Rathore (2012), Son of Sardaar (2012), Holiday: A Soldier Is Never Off Duty (2014), iyo ka muuqashada item songs .
+
+Tixraacyo
+
+Atariisho
+
+heesaa
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1987-06-02 ) 2 Juun 1987 ( 38jir) [ 1 ] Patna , Bihar , Hindiya
+- **Shaqada**: Atariisho heesaa
+- **Sanadaha Shaqada**: 2010–hada
+- **Waalidka**: Poonam Sinha Shatrughan Sinha
+- **Qaraabada**: Luv Sinha
+
+
+# Tables
+
+## Table 1
+| Sonakshi Sinha |
+| --- |
+| Sinha ee 2019 |
+| Ku dhashay | ( 1987-06-02 ) 2 Juun 1987 ( 38jir) [ 1 ] Patna , Bihar , Hindiya |
+| Shaqada | Atariisho heesaa |
+| Sanadaha Shaqada | 2010–hada |
+| Waalidka | Poonam Sinha Shatrughan Sinha |
+| Qaraabada | Luv Sinha |

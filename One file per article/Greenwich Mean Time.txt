@@ -1,0 +1,14 @@
+title:
+Greenwich Mean Time
+
+url:
+https://so.wikipedia.org/wiki?curid=23851
+
+text:
+Greenwich Time Time (GMT)
+
+Greenwich Time Time (GMT) waa waqtiga ugu saraysa ee qoraxda Royal Observatory ee Greenwich, London. GMT waxaa horay loo isticmaalay heerka caalamiga ah ee madaniga ah, hadda wuxuu ka shaqeeyaa shaqadan by Isku-xiran Universal Time (UTC). Maanta GMT waxaa loo tixgeliyaa UT ee ujeedooyinka madaniga ah ee UK (laakiin tani ma aha mid rasmi ah) oo loogu talagalay gawaarida waxaa loo tixgeliyaa u dhigma UT1 (qaabka casriga ah ee celceliska qorraxda 0 ° dhererka); labadan macnohood waxay kala duwanaan karaan ilaa 0.9 s. Sidaa awgeed, wakhtiga GMT waa inaan loo isticmaalin ujeedooyin qeexan. [1]
+Sababtoo ah xawaaraha qotada dheer ee aduunka ee ku yaala xudduuda yaryar iyo istiraatiijiga ah, duhurka (12:00:00) GMT waa marar dhif ah xilliga saxda ah ee qorraxdu ka soo wareegto Meridian Meridian waxayna gaadho meesha ugu sarreysa ee cirka. Dhacdadani waxay dhici kartaa illaa 16 daqiiqo ka hor ama ka dib saacadda GMT, kala duwanaansho lagu xisaabiyo waqtiga isla'egta. Noon GMT waa celceliska sannadlaha ah ("macneheed") munaasabaddan, taas oo ku taal erayga "macnaha" ee "Greenwich Average Time".
+Asal ahaan, astronomers waxay tixgeliyeen maalintii GMT si ay u bilawdaan duhurkii iyada oo dadka intiisa badani ay bilaabantay saqda dhexe. Si looga fogaado jahawareerka, magaca Universal Time waxaa loo soo bandhigay si ay u muujiso GMT sida laga soo xigtay badhkii. Astronomers ayaa doorbiday shirweynihii hore si loo fududeeyo xogta muuqaalka, sidaas darteed habeen kasta waa la diiwaan geliyay taariikhda kalendarka. Maanta Universal Time waxay inta badani tilmaamaysaa UTC ama UT1. [3]
+Ereyga "GMT" waxaa si gaar ah loogu adeegsadaa miisaaniyado ku xiran Boqortooyada Ingiriiska, sida BBC World Service, Ciidanka Ciidanka, Xafiiska Metela iyo kuwa kale gaar ahaan dalalka Carabta, sida Xarunta Warbaahinta ee Bariga Dhexe iyo OSN. Waa erey caadi ah oo loo isticmaalo Boqortooyada Ingiriiska iyo wadamada Commonwealth, oo ay ku jiraan Australia, New Zealand, South Africa, India, Pakistan, Bangladesh iyo Malaysia; iyo wadamo kale oo badan oo ka tirsan bariga dhexe. Dalalka qaar (Boqortooyada Ingiriiska tusaale ahaan) Greenwich Time Time waa waqtiga sharciga ah ee xilliga qaboobaha, dadkuna waxay isticmaalaan ereyga. U fiirso GMT si sharci ah, hoosta, sharaxaad dheeraad ah.
+Tusmo

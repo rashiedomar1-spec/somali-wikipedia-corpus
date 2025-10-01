@@ -1,0 +1,37 @@
+title:
+Hwasa
+
+url:
+https://so.wikipedia.org/wiki?curid=33083
+
+text:
+Ahn Hye-jin (dhashay Luuliyo 23, 1995), [ 1 ] xirfad ahaan loogu yaqaan magaceeda masraxa Hwasa waa heesaa Koonfur Kuuriya. Waxay xubin ka tahay kooxda gabdhaha ee Mamamoo .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: Ahn Hye-jin ( 1995-07-23 ) Luuliyo 23, 1995 ( 30jir) Jeonju, Waqooyiga Jeolla, Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2014–hada
+- **Calaamadaha**: RBW
+- **Falalka la xiriira**: Mamamoo Refund Sisters
+
+
+# Tables
+
+## Table 1
+| Hwasa |
+| --- |
+|  |
+| Ku dhashay | Ahn Hye-jin ( 1995-07-23 ) Luuliyo 23, 1995 ( 30jir) Jeonju, Waqooyiga Jeolla, Koonfur Kuuriya |
+| Saxiixa |  |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2014–hada |
+| Calaamadaha | RBW |
+| Falalka la xiriira | Mamamoo Refund Sisters |
+|  |

@@ -1,0 +1,19 @@
+title:
+Faaranhaayt
+
+url:
+https://so.wikipedia.org/wiki?curid=4835
+
+text:
+Faaranheyd waa halbeeg lagu cabiro ama lagu qiyaaso heerkulka sida Celsius, waxaana loo sumadeyaa xarafka  (F) waxaana loogu magac daray caalimkii alifay ee reer Jarmal Daniel Gabriel Fahrenheit. Faaranhaayt : Daniel Gabriel Fahrenheit, 1724 .
+
+
+# Tables
+
+## Heerkulka iyo isbedelkiisa kabiloow/ilaa kelvin
+| ka | Loo bedalay | Habka |
+| --- | --- | --- |
+| kelvin | Celsius | T(°C) = T(K) - 273,15 |
+| kalsius | kelvin | T(K) = T(°C) + 273,15 |
+| kelvin | Faaranhaayt | T(°F) = (T(K) × 1,8) - 459,67 |
+| Faaranhaayt | kelvin | T(K) = (T(°F) + 459,67) / 1,8 |

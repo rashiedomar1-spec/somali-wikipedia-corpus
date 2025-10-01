@@ -1,0 +1,34 @@
+title:
+Sakura Ando
+
+url:
+https://so.wikipedia.org/wiki?curid=33152
+
+text:
+Sakura Ando (安藤 サクラ, Andō Sakura , dhashay Febraayo 18, 1986) atariisho Jabaan ah.
+
+Tasuku Emoto ( g. 2012)
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1986-02-18 ) Febraayo 18, 1986 ( 39jir) Tokyo , Jabaan
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2005–hada
+- **Xaasaska**: Tasuku Emoto ( g. 2012)
+- **Ilmaha**: 1
+- **Waalidka**: Eiji Okuda Kazu Ando
+
+
+# Tables
+
+## Table 1
+| Sakura Ando |
+| --- |
+|  |
+| Ku dhashay | ( 1986-02-18 ) Febraayo 18, 1986 ( 39jir) Tokyo , Jabaan |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2005–hada |
+| Xaasaska | Tasuku Emoto ( g. 2012) |
+| Ilmaha | 1 |
+| Waalidka | Eiji Okuda Kazu Ando |

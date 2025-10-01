@@ -1,0 +1,36 @@
+title:
+Nako Miyase
+
+url:
+https://so.wikipedia.org/wiki?curid=33756
+
+text:
+Nako Miyase (dhashay Maarso 11, 1997) waa idol iyo tarento Jabaan ah. [ 1 ]
+
+Tix
+
+Idol
+
+J-pop
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1997-03-11 ) Maarso 11, 1997 ( 28jir)
+- **Shaqada**: Idol
+- **Nooca fanka**: J-pop
+- **Falalka la xiriira**: Honey Popcorn
+
+
+# Tables
+
+## Table 1
+| Miko Matsuda |
+| --- |
+|  |
+| Ku dhashay | ( 1997-03-11 ) Maarso 11, 1997 ( 28jir) |
+| Shaqada | Idol |
+| Xirfad muusik |
+| Nooca fanka | J-pop |
+| Falalka la xiriira | Honey Popcorn |
+|  |

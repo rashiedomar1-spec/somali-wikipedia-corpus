@@ -1,0 +1,36 @@
+title:
+Puntland TV iyo Radio
+
+url:
+https://so.wikipedia.org/wiki?curid=17602
+
+text:
+Puntland TV iyo Radio waa shabakadda warbaahin dadweyne oo ka mid ah gobolka Puntland ee Soomaaliya .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Nuuca**: Radio-adeegga bulshada iyo kuwa Idaacadda telefishinka
+- **Dalka**: Somalia
+- **Ugaar ah**: Worldwide
+- **Xarunta**: Garowe
+- **Milkiyadda**: Dowladda Puntland
+- **Cidda hagta**: Ali Abdi ALi, Director [ 1 ]
+- **Waqtiga hawada**: Abriil 2013
+- **Website rasmiga ah**: www.puntlandtvradio.com
+
+
+# Tables
+
+## Puntland TV and Radio
+| Nuuca | Radio-adeegga bulshada iyo kuwa Idaacadda telefishinka |
+| --- | --- |
+| Dalka | Somalia |
+| Ugaar ah | Worldwide |
+| Xarunta | Garowe |
+| Milkiyadda | Dowladda Puntland |
+| Cidda hagta | Ali Abdi ALi, Director [ 1 ] |
+| Waqtiga hawada | Abriil 2013 |
+| Website rasmiga ah | www.puntlandtvradio.com |

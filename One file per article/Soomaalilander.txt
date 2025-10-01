@@ -1,0 +1,8 @@
+title:
+Soomaalilander
+
+url:
+https://so.wikipedia.org/wiki?curid=2484
+
+text:
+Soomaalilander waa dadka ku nool dalka &lt;a href="Xeebta%20Soomaaliyeed"&gt;Xeebta Soomaaliyeed&lt;/a&gt;. Waxay isticmaasha erayga Jarmalka ee "lander" la mid ah "&lt;a href="Jubalander"&gt;Jubalander&lt;/a&gt;" iyo "&lt;a href="Puntlander"&gt;Puntlander&lt;/a&gt;".

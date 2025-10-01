@@ -1,0 +1,51 @@
+title:
+Carta
+
+url:
+https://so.wikipedia.org/wiki?curid=5495
+
+text:
+Carta waa magaalo ku taalo koonfurta bari ee dalka Jabuuti .
+waxaa degan dad gaaraayo ilaa 11,043 oo qof.
+
+Taariikhda
+
+Sanadkii 1963, wakiillo ka kala socday labada jinsiyadood ee Jabuuti, Cafar iyo Ciise , waxay sameeyeen "Baaqa Carta", oo ay ku cadeeyeen wadashaqeyn ka dhan ah ilaalinta Faransiiska. Waxay ka doodeen saameynta wadamada deriska ah ee madaxbannaan ee Itoobiya iyo Soomaaliya iyo ka hor imaanaya mid ka mid ah wadamadaas. Carta waa magaalada lagu qabto shirarka nabada Soomaaliya .
+
+Cimilada Carta
+
+
+# Infobox
+
+- **Gobol**: Gobolka Carta
+- **• Land**: 2 km 2 (0.8 sq mi)
+- **Joogga**: 755 m (2,477 ft)
+- **• Dhammaan**: 11,043
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **• Xagaa ( DST )**: 3+
+
+
+# Tables
+
+## Table 1
+| Carta-- Djibouti |
+| --- |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Djibouti" does not exist. |
+| Gobol | Gobolka Carta |
+| • Land | 2 km 2 (0.8 sq mi) |
+| Joogga | 755 m (2,477 ft) |
+| Tirada dadka (2015) |
+| • Dhammaan | 11,043 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| • Xagaa ( DST ) | 3+ |
+
+## Table 2
+| Faahfaahin Cimilada Carta |
+| --- |
+| Bilaha | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Sanad |
+| Kuleel aan darnayn °C (°F) | 25.9 (78.7) | 26.2 (79.2) | 26.9 (80.4) | 28.1 (82.6) | 29.3 (84.8) | 33.4 (92.2) | 36.2 (97.1) | 35.7 (96.2) | 31.7 (89.0) | 27.6 (81.6) | 26.7 (80.0) | 26.3 (79.4) | 29.50 (85.10) |
+| Hoos udhaca kuleelka °C (°F) | 15.1 (59.2) | 16.9 (62.5) | 18.2 (64.8) | 19.8 (67.7) | 21.4 (70.6) | 23.7 (74.7) | 25.6 (78.0) | 25.1 (77.1) | 23.3 (74.0) | 20.1 (68.1) | 17.6 (63.6) | 15.3 (59.6) | 20.18 (68.33) |
+| Roobka mm (Faraha) | 30 (1.18) | 27 (1.06) | 26 (1.02) | 30 (1.18) | 16 (0.63) | 1 (0.04) | 9 (0.35) | 20 (0.79) | 10 (0.39) | 12 (0.47) | 43 (1.69) | 12 (0.47) | 236 (9.29) |
+| Source: Climate-Data.org , altitude: 755m [ 1 ] |

@@ -1,0 +1,8 @@
+title:
+Samarqanda
+
+url:
+https://so.wikipedia.org/wiki?curid=4826
+
+text:
+Samarqanda, &lt;a href="Usbekistan"&gt;Usbekistan&lt;/a&gt;.

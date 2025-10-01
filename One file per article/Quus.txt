@@ -1,0 +1,42 @@
+title:
+Quus
+
+url:
+https://so.wikipedia.org/wiki?curid=39482
+
+text:
+Coordinates : 26°N 30°E ﻿ / ﻿ 26°N 30°E ﻿ / 26; 30
+
+Quus  ( Luuqada Carabiga :قوص)  waa magaalo oo ku taal Gobolka Qena ee Jamhuuriyadda Carabta ee Masar, waxayna ku taallaa webiga Niil, Koonfurta Caasimadda Dalka ee Qaahira, waxayn Caasimadda u jirtaa 645 km. [ 1 ]
+
+Tixraac
+
+
+# Infobox
+
+- **Luuqada(ha) Looga hadlo**: Af-Carabi
+- **Lacagta**: Egyptian pound
+- **Wakhtiga**: Samar (DST)
+
+
+# Tables
+
+## Table 1
+| Qus قوص |
+| --- |
+| Location of |
+| Caasimada | Qaahiro |
+| Luuqada(ha) Looga hadlo | Af-Carabi |
+| Cadadka Dadka |
+| - | 2021 est* qiyaas | 87000 2 |
+| Lacagta | Egyptian pound |
+| Wakhtiga | Samar (DST) |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Quus |
+| --- | --- |
+
+
+
+# Coordinates
+26; 30

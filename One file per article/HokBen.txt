@@ -1,0 +1,11 @@
+title:
+HokBen
+
+url:
+https://so.wikipedia.org/wiki?curid=23884
+
+text:
+Hoka Hoka Bento
+Hoka Hoka Bento (mararka qaarkood waa la soo gaabiyey, laakiin hadda waxa lagu soo daray Hokben) waa jasiirado dukaamaysan oo Japan ah oo ku yaala Jakarta, Indonesia. Maqaaradaha maqaayada maanta waxay ku baahsan yihiin Java iyo Bali. Magaca Hoka Hoka Bento waxaa laga soo qaatay luqadda Japanese taas oo macneheedu yahay "uumiga bento" (cuntada Japan ee baakadka).
+Sidi kale fiiri.
+&lt;a href="Indonesia"&gt;Indonesia&lt;/a&gt;

@@ -1,0 +1,28 @@
+title:
+Hana El Zahed
+
+url:
+https://so.wikipedia.org/wiki?curid=34759
+
+text:
+Hana El Zahed (waxay dhalatay 5 Janaayo 1994) waa atariisho Masar ah.
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1994-01-05 ) 5 Janaayo 1994 ( 31jir) Qaahiro , Masar
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2003–hada
+- **Xaasaska**: Axmed Fahmi (g. 2019)
+
+
+# Tables
+
+## Table 1
+| Hana El Zahed |
+| --- |
+|  |
+| Ku dhashay | ( 1994-01-05 ) 5 Janaayo 1994 ( 31jir) Qaahiro , Masar |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2003–hada |
+| Xaasaska | Axmed Fahmi (g. 2019) |

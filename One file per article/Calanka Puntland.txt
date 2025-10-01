@@ -1,0 +1,41 @@
+title:
+Calanka Puntland
+
+url:
+https://so.wikipedia.org/wiki?curid=38544
+
+text:
+|-
+| colspan=2 style="text-align: center" | 
+|-
+
+|-
+! Use | Civil and state flag |-
+! Nooc
+| 2:3
+|-
+! Bilaabay isticmaalka
+| 22 December 2009 ; 15 sanadood ka hor ( 22 December 2009 ) |-
+! Naqshad
+| A horizontal tricolor of blue, white and green with a white star at the top.
+|-
+
+Puntland waa gobol iskood isu maamula oo madaxbannaani hoose leh (autonomous state) oo ku yaalla bariga waqooyi-bari ee Soomaaliya, oo aan raadin madax-bannaani buuxda, balse qayb ka ah nidaamka federaalka Soomaaliya
+
+
+# Tables
+
+## Dawlad Goboleedka Somalia
+| | colspan=2 style="text-align: center" | |-
+| colspan=2 style="text-align: center" | 
+|- |-
+! Use | Civil and state flag |-
+! Nooc
+| 2:3
+|-
+! Bilaabay isticmaalka
+| 22 December 2009 ; 15 sanadood ka hor ( 22 December 2009 ) |-
+! Naqshad
+| A horizontal tricolor of blue, white and green with a white star at the top.
+|- |- |
+| --- |

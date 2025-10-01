@@ -1,0 +1,12 @@
+title:
+Soo saarista DNA
+
+url:
+https://so.wikipedia.org/wiki?curid=40228
+
+text:
+Go'doominta ugu horreysa ee &lt;a href="DNA"&gt;deoxyribonucleic acid&lt;/a&gt; (DNA) waxaa sameeyay 1869-kii Friedrich Miescher . Soo saarista DNA waa habka ka soocida DNA-da unugyada noolaha ee ka go'doonsan muunada, sida caadiga ah muunada noolaha sida dhiiga, candhuufta, ama nudaha. Waxay ku lug leedahay jebinta unugyada, ka saarida borotiinnada iyo wasakhowga kale, iyo nadiifinta DNA-da si ay uga xoroobaan qaybaha kale ee gacanta. DNA-da la safeeyey ayaa markaa loo isticmaali karaa codsiyada hoose sida PCR, isku xigxiga, ama cloning . Waqtigan xaadirka ah, waa nidaam caadi ah oo ku jira bayoolaji molecular ama falanqaynta dambiilaha .
+Nidaamkan waxaa loo samayn karaa siyaabo dhowr ah, iyadoo ku xiran nooca muunadda iyo codsiga hoose, hababka ugu caansan waa: farsamooyinka, kiimikada iyo enzymatic lysis, roobab, nadiifin, iyo diiradda. Habka gaarka ah ee loo isticmaalo in lagu soo saaro DNA-da, sida soo saarista phenol-chloroform, roobka khamriga, ama nadiifinta silica ku salaysan. 
+Habka kiimikaad, qalabyo badan oo kala duwan ayaa loo isticmaalaa soo saarista, iyo xulashada saxda ah waxay badbaadin doontaa wakhti ku saabsan hagaajinta qalabka iyo hababka soo saarista. Ogaanshaha dareenka PCR waxaa loo arkaa inay muujiso kala duwanaanshaha xirmooyinka ganacsiga. 
+Waxaa jira habab badan oo kala duwan oo lagu soo saaro DNA, laakiin qaar ka mid ah tillaabooyinka caadiga ah waxaa ka mid ah:
+Waxaa xusid mudan in qaar ka mid ah kala duwanaanshiyaha tillaabooyinkan la isticmaali karo iyadoo ku xiran nidaamka soo saarista DNA-ga gaarka ah. Intaa waxaa dheer, xirmooyinka qaar ayaa ganacsi ahaan loo heli karaa oo ay ku jiraan reagents iyo borotokool si gaar ah loogu habeeyey nooc muunad gaar ah.

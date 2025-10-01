@@ -1,0 +1,32 @@
+title:
+Ibb
+
+url:
+https://so.wikipedia.org/wiki?curid=14678
+
+text:
+Ibb ( Af Carabi : لاسعانود ‎) waa magaalo ku Yemen .
+
+
+# Infobox
+
+- **Dalka**: Yemen
+- **Gobol**: Ibb
+- **• Dhammaan**: 225.611
+- **Aag saacadeed**: UTC+3 (Yemen Standard Time)
+
+
+# Tables
+
+## Table 1
+| Ibb |
+| --- |
+| Magaalo |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Yemen" does not exist. |
+| Dalka | Yemen |
+| Gobol | Ibb |
+| Tirada dadka ( 2005 ) |
+| • Dhammaan | 225.611 |
+| Aag saacadeed | UTC+3 (Yemen Standard Time) |

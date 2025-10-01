@@ -1,0 +1,8 @@
+title:
+Gumurta Cagaare
+
+url:
+https://so.wikipedia.org/wiki?curid=29756
+
+text:
+Gumurta Cagaare waa tuulo oo &lt;a href="Baharsame"&gt;Baharsame&lt;/a&gt; ah, oo ku yaala degmada &lt;a href="Bookh"&gt;Bookh&lt;/a&gt;.

@@ -1,0 +1,53 @@
+title:
+Liska GDP waddanka Aasiya 2018
+
+url:
+https://so.wikipedia.org/wiki?curid=24632
+
+text:
+Liska GDP waddanka Aasiya 2018
+
+
+# Tables
+
+## Table 1
+| Rank | Country | GDP (millions of USD) |
+| --- | --- | --- |
+| 1 | China | 14,092,514 |
+| 2 | Japan | 4,867,051 |
+| 3 | India | 3,048,231 |
+| 4 | South Korea | 1,693,246 |
+| 5 | Australia | 1,500,256 |
+| 6 | Indonesia | 1,074,966 |
+| 7 | Taiwan | 613,295 |
+| 8 | Thailand | 514,700 |
+| 9 | Malaysia | 340,419 |
+| 10 | Template:Country data Hong Kong (China) | 364,782 |
+| 11 | Template:Country data Singapore | 349,659 |
+| 12 | Template:Country data Philippines | 332,449 |
+| 13 | Bangladesh | 285,817 |
+| 14 | Vietnam | 240,779 |
+| 15 | New Zealand | 220,888 |
+| 16 | Template:Country data Sri Lanka | 93,454 |
+| 17 | Template:Country data Myanmar | 70,715 |
+| 18 | Template:Country data Macau (China) | 53,754 |
+| 19 | Nepal | 27,278 |
+| 20 | Papua New Guinea | 26,312 |
+| 21 | Template:Country data Cambodia | 24,360 |
+| 22 | Template:Country data Laos | 18,337 |
+| 23 | Brunei | 14,438 |
+| 24 | Template:Country data Mongolia | 12,511 |
+| 25 | Template:Country data Fiji | 5,440 |
+| 26 | Maldives | 4,825 |
+| 27 | Template:Country data Timor Leste | 2,740 |
+| 28 | Template:Country data Bhutan | 2,547 |
+| 29 | Template:Country data Solomon Islands | 1,377 |
+| 30 | Template:Country data Vanuatu | 957 |
+| 31 | Template:Country data Samoa | 881 |
+| 32 | Template:Country data Tonga | 433 |
+| 33 | Template:Country data Micronesia | 335 |
+| 34 | Palau | 321 |
+| 35 | Template:Country data Kiribati | 211 |
+| 36 | Marshall Islands | 205 |
+| 37 | Template:Country data Nauru | 114 |
+| 38 | Template:Country data Tuvalu | 43 |

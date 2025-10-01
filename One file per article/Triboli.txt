@@ -1,0 +1,170 @@
+title:
+Triboli
+
+url:
+https://so.wikipedia.org/wiki?curid=6443
+
+text:
+Tripoli waa caasimada dalka Libiya .waana caasimada 17aad ee ugu weyn aduunka
+
+Abuja , Nayjeeriya
+
+Accra , Gaana
+
+Addis Ababa , Itoobiya
+
+Algiers , Algeeriya
+
+Antananarifo , Madagaskar
+
+Asmara , Eritrea
+
+Bamako , Mali
+
+Bangui , Jamhuuriyadda Bartamaha Afrika
+
+Banjul , Gambia
+
+Bissau , Guinea
+
+Brassafille , Jamhuuriyadda Kongo
+
+Qaahiro , Masar
+
+konakry , Guinea
+
+Dakar , Senegal
+
+Jabuuti , Jabuuti
+
+Dodoma , Tansaniya
+
+El Aaiun (sheegatay)/ Tifariti (saxda ah), Jamhuuriyadda Dimoqraadiga Carabta ee Saxraawi 1
+
+Freetown , Sierra Leone
+
+Funjal , Madeira 4
+
+Gaborone , Botswana
+
+Gitega , Burundi
+
+Harare , Simbaabwi
+
+Jamestown , Saint Helena, Ascension iyo Tristan da Cunha 2
+
+Juba , Koonfur Suudaan
+
+Kampala , Uganda
+
+Khartoum , Suudaan
+
+Kigali , Ruwanda
+
+Kinshasa , Jamhuuriyadda dimuqraadiga kongo
+
+Libreville , Gabon
+
+Lilongwe , Malaawi
+
+Lomé , Togo
+
+Luanda , Angola
+
+Lusaka , sambiya
+
+Malabo , Equatorial Guinea
+
+Mamoudso , Mayotte 3
+
+Mabuto , Musambig
+
+Maseru , Lesotho
+
+Mbabane ( executive ) Lobamba ( sharci dejinta ), Eswatini
+
+Mogadishu , Soomaaliya
+
+Monrofia , Liberia
+
+Moroni , Komoros
+
+Nairobi , Kenya
+
+N'Djamena , Jad
+
+Niamey , Niger
+
+Nouakjott , Mauritania
+
+Ouagadougou , Burkina Faso
+
+Bort Louis , Mauritius
+
+Borto-Nofo , Benin
+
+Braia , Kabe Ferde
+
+Pretoria ( fulinta ) Kape Town ( legislative ) Bloemfontein ( garsoorka ), Koonfur Afrika
+
+Rabat , Morokko
+
+Saint-Denis , Réunion 3
+
+Santa Cruz de Tenerife iyo Las Palmas , Canary Islands 5
+
+São Tomé , Sao Tome iyo Príncipe
+
+Triboli , Libiya
+
+Tunis , Tunisiya
+
+Fiktoria , Seyshelles
+
+Windhoek , Namibia
+
+Yamoussoukro (siyaasad) Abidjan (economic), Ifory Kost
+
+Yaoundé , Kaamiruun
+
+Mbabane ( executive )
+
+Lobamba ( sharci dejinta ), Eswatini
+
+Pretoria ( fulinta )
+
+Kape Town ( legislative )
+
+Bloemfontein ( garsoorka ), Koonfur Afrika
+
+Yamoussoukro (siyaasad)
+
+Abidjan (economic), Ifory Kost
+
+1 Carriga ingiriiska ee dibada
+
+2 Gobol dibada ee Fransiiska
+
+3 Gobol madaxbanaan ee Bortuqaal
+
+4 Urur madaxbanaan ee Isbaaniya
+
+
+# Tables
+
+## Table 1
+| Faahfaahin Cimilada Tripoli (1961–1990, extremes 1944–1993) |
+| --- |
+| Bilaha | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Sanad |
+| Kuleel daran °C (°F) | 32.2 (90.0) | 35.3 (95.5) | 40.0 (104.0) | 42.2 (108.0) | 45.6 (114.1) | 47.8 (118.0) | 48.3 (118.9) | 48.3 (118.9) | 47.2 (117.0) | 42.2 (108.0) | 37.2 (99.0) | 31.1 (88.0) | 48.3 (118.9) |
+| Kuleel aan darnayn °C (°F) | 17.9 (64.2) | 19.1 (66.4) | 20.7 (69.3) | 23.7 (74.7) | 27.1 (80.8) | 30.4 (86.7) | 31.7 (89.1) | 32.6 (90.7) | 31.0 (87.8) | 27.7 (81.9) | 23.3 (73.9) | 19.3 (66.7) | 25.4 (77.7) |
+| Maalinle °C (°F) | 13.4 (56.1) | 14.3 (57.7) | 16.0 (60.8) | 18.7 (65.7) | 21.9 (71.4) | 25.3 (77.5) | 26.7 (80.1) | 27.7 (81.9) | 26.2 (79.2) | 22.9 (73.2) | 18.4 (65.1) | 14.6 (58.3) | 20.5 (68.9) |
+| Hoos udhaca kuleelka °C (°F) | 8.9 (48.0) | 9.5 (49.1) | 11.2 (52.2) | 13.7 (56.7) | 16.7 (62.1) | 20.1 (68.2) | 21.7 (71.1) | 22.7 (72.9) | 21.4 (70.5) | 18.0 (64.4) | 13.4 (56.1) | 9.9 (49.8) | 15.6 (60.1) |
+| Hoos udhac qiyaas leh °C (°F) | −0.6 (30.9) | −0.6 (30.9) | 0.6 (33.1) | 2.8 (37.0) | 5.0 (41.0) | 10.0 (50.0) | 12.2 (54.0) | 13.9 (57.0) | 11.8 (53.2) | 6.6 (43.9) | 1.1 (34.0) | −1.3 (29.7) | −1.3 (29.7) |
+| Roobka mm (Faraha) | 62.1 (2.445) | 32.2 (1.268) | 29.6 (1.165) | 14.3 (0.563) | 4.6 (0.181) | 1.3 (0.051) | 0.7 (0.028) | 0.1 (0.004) | 16.7 (0.657) | 46.6 (1.835) | 58.2 (2.291) | 67.5 (2.657) | 333.9 (13.146) |
+| % Dhado | 66 | 61 | 58 | 55 | 53 | 49 | 49 | 51 | 57 | 60 | 61 | 65 | 57 |
+| Dhexdhexaad. Xilli roobaadka (≥ 0.1 mm) | 9.4 | 6.4 | 5.8 | 3.3 | 1.5 | 0.6 | 0.2 | 0.0 | 2.3 | 6.8 | 6.9 | 9.1 | 57.4 |
+| Saacadaha Bilaha qorraxda | 170.5 | 189.3 | 226.3 | 255.0 | 306.9 | 297.0 | 356.5 | 337.9 | 258.0 | 226.3 | 186.0 | 164.3 | 2,974 |
+| Mean daily sunshine hours | 5.5 | 6.7 | 7.3 | 8.5 | 9.9 | 9.9 | 11.5 | 10.9 | 8.6 | 7.3 | 6.2 | 5.3 | 8.1 |
+| Source #1: World Meteorological Organization [ 1 ] |
+| Source #2: Deutscher Wetterdienst (extremes and humidity), [ 2 ] Arab Meteorology Book (sun only) [ 3 ] |

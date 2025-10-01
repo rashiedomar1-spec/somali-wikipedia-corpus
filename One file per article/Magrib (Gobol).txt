@@ -1,0 +1,47 @@
+title:
+Magrib (Gobol)
+
+url:
+https://so.wikipedia.org/wiki?curid=19590
+
+text:
+Maqrib ( Af Carabi : لاسعانود ‎)  ama Galbeed waxaa loo yaqaan gobol ku yaalla galbeedka afrika oo kulmiya shan wadan oo kala ah moritaaniya, aljeeriya marooko, tuniisiya iyo liibiya. baaxada dhulkaas ayaa dhan 5.782.140 oo kilo mitir iskuweer.
+
+Wax soo saarka Wadamada Maqrib loo yaqaan GDP (PPP)
+
+Sawirro
+
+
+# Tables
+
+## Table 1
+| Darajada | Wadanka | Wax soo saarka (PPP) $M |
+| --- | --- | --- |
+| 44 | Aljeeriya | 285,541 |
+| 58 | Marooko | 179,240 |
+| 70 | Tunisiya | 108,430 |
+| 81 | Liibiya | 70,386 |
+| 148 | Mauritania | 8,241 |
+
+## Table 2
+| Darajada | Wadanka | Wax soo saarka (PPP) $M |
+| --- | --- | --- |
+| 34 | Aljeeriya | 421,626 |
+| 55 | Marooko | 241,757 |
+| 70 | Liibiya | 132,695 |
+| 75 | Tunisiya | 120,755 |
+| 143 | Mauritania | 11,835 |
+
+## Table 3
+| Darajada | Wadanka | Wax soo saarka (PPP) $M |
+| --- | --- | --- |
+| 45 | Aljeeriya | 284,700 |
+| 58 | Marooko | 180,000 |
+| 68 | Tunisiya | 108,400 |
+| 81 | Liibiya | 73,600 |
+| 151 | Mauritania | 8,204 |
+
+## Table 4
+| Algiers , Algeria | Bengazi, la vila vièlha | Casablanca, Morocco |
+| --- | --- | --- |
+| Katiinad Madax gashi (Morooko) | Masjidka weyn ee Al Qiirawaan Tunisia . |

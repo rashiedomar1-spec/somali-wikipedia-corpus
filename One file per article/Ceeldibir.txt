@@ -1,0 +1,42 @@
+title:
+Ceeldibir
+
+url:
+https://so.wikipedia.org/wiki?curid=28506
+
+text:
+Ceeldibir waa degmo ku taala gobolka Sanaag ee dalka Somaliland , dhinicisa waqooyi galbeed. Waxa dega beelaha Axmed Faarax waana dhul ku hodana xabkaha falenka iyo beeyada.
+
+
+# Infobox
+
+- **Dalka**: Somaliland
+- **Gobolka**: Sanaag
+- **Deegaanka**: Ceerigaabo
+- **• Duqa-magaalada**: Xasan Jaamac Caynab
+- **Joogga**: 370 m (1,210 ft)
+- **• Dhammaan**: 4,390
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| Ceeldibir Eldibir عيل ذبر |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Dalka | Somaliland |
+| Gobolka | Sanaag |
+| Deegaanka | Ceerigaabo |
+| Dowlada |
+| • Duqa-magaalada | Xasan Jaamac Caynab |
+| Joogga | 370 m (1,210 ft) |
+| Tirada dadka |
+| • Dhammaan | 4,390 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

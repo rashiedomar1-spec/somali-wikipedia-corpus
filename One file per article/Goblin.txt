@@ -1,0 +1,38 @@
+title:
+Goblin
+
+url:
+https://so.wikipedia.org/wiki?curid=35851
+
+text:
+" Goblin " (고블린) waa albamkii ugu horeeyay ee dhijitaalka ah oo uu sameeyay Sulli . Waxaa la sii daayay Juun 29, 2019. Waa albamkii ugu dambeeyay iyo mashruucii Sulli kahor dhimashadeeda Oktoobar 2019. [ 1 ]
+
+Liiska heeso
+
+Tixraac
+
+"Goblin (고블린)" - 3:13
+
+"On The Moon (온더문)" - 4:15
+
+"Dorothy (도로시)" - 4:00
+
+
+# Infobox
+
+- **La sii daayay**: Juun 29, 2019
+- **Dhererka**: 11 : 28
+- **Summada**: SM Entertainment Dreamus
+- **Heesta qoraa**: Sulli Jibin
+
+
+# Tables
+
+## Table 1
+| "Goblin" |
+| --- |
+| by Sulli |
+| La sii daayay | Juun 29, 2019 |
+| Dhererka | 11 : 28 |
+| Summada | SM Entertainment Dreamus |
+| Heesta qoraa | Sulli Jibin |

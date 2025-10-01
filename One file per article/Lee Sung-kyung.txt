@@ -1,0 +1,36 @@
+title:
+Lee Sung-kyung
+
+url:
+https://so.wikipedia.org/wiki?curid=33307
+
+text:
+Lee Sung-kyung [ 1 ] waa fanaan iyo atariisho Koonfur Kuuriya.
+
+Tixraacyada
+
+Lee Sung-kyoung
+
+Biblee
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1990-08-10 ) Agoosto 10, 1990 ( 35jir)
+- **Naanees**: Lee Sung-kyoung Biblee
+- **Heerka Aqoonta**: Jaamacadda Haweenka Dongduk
+- **Sanadaha Shaqada**: 2008–hada
+- **Wakiil**: YG
+
+
+# Tables
+
+## Table 1
+| Lee Sung-kyung |
+| --- |
+| Lee ee 2019 |
+| Ku dhashay | ( 1990-08-10 ) Agoosto 10, 1990 ( 35jir) |
+| Naanees | Lee Sung-kyoung Biblee |
+| Heerka Aqoonta | Jaamacadda Haweenka Dongduk |
+| Sanadaha Shaqada | 2008–hada |
+| Wakiil | YG |

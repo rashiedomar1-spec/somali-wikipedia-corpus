@@ -1,0 +1,32 @@
+title:
+Hikaru Aoyama
+
+url:
+https://so.wikipedia.org/wiki?curid=33344
+
+text:
+Hikaru Aoyama (青山 ひかる; Aoyama Hikaru, dhashay Juun 13, 1993) [ 1 ] waa moodal soo jiidasho oo Jabaan ah.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Magaca Saxda**: 青山 ひかる
+- **Ku dhashay**: ( 1993-06-13 ) 13 Juun 1993 ( 32jir) Sasebo, Nagasaki
+- **Naanees**: Aomin (あおみん), Wild Kitty Girl (野生児猫娘)
+- **Sanadaha Shaqada**: 2013–hada
+- **Wakiil**: 01familia
+
+
+# Tables
+
+## Table 1
+| Hikaru Aoyama |
+| --- |
+| Hikaru Aoyama ee 2019. |
+| Magaca Saxda | 青山 ひかる |
+| Ku dhashay | ( 1993-06-13 ) 13 Juun 1993 ( 32jir) Sasebo, Nagasaki |
+| Naanees | Aomin (あおみん), Wild Kitty Girl (野生児猫娘) |
+| Sanadaha Shaqada | 2013–hada |
+| Wakiil | 01familia |

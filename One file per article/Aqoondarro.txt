@@ -1,0 +1,8 @@
+title:
+Aqoondarro
+
+url:
+https://so.wikipedia.org/wiki?curid=18891
+
+text:
+Aqoondarro ama caamo waa la'aanshada khibrad, casri iyo fahamka meelaha bulshada. Waxay ku sawaxantahay dadka ah caruur iyo &lt;a href="naafada"&gt;naafada&lt;/a&gt;.

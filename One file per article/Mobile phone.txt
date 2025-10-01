@@ -1,0 +1,17 @@
+title:
+Mobile phone
+
+url:
+https://so.wikipedia.org/wiki?curid=30039
+
+text:
+Adeegyada mobileda waxa ay u kala baxaan qaybo badan waxa ka mid ah samaynta mobileda ciladaha ku yimid ama kharaabay.
+Sidoo kale waxa hada casrigan loo isticmaalaa muqaalada ku jira &lt;a href="Youtube"&gt;Youtube&lt;/a&gt; ama &lt;a href="Wejibuug"&gt;Facebook&lt;/a&gt; kuwaas oo ka hadlaya waxyaabo ku saaabsan.
+Tusaale :
+Sida loo sameeyo Youtube.
+Sida loo sameeyo Facbook. 
+Sida loo sameeyo Whatsapp.
+Sida loo sameeyo Signal.
+Iyo waxyaabo kale oo badan oo ku saabsan mobileka.
+Marka uu qofku muqaaladaas samaynayo waxa uu adeegsadaa app layiraahdo "screen record" kasoo qofka ka saacidaya in uu sameeyo muqaal mobilekiisa ah.
+&lt;a href="https%3A//www.youtube.com/channel/UCdIydN7tnW-p_bJeZ0F5D8g"&gt;Halkaan riix waxbadan siaad u ogaatid&lt;/a&gt;

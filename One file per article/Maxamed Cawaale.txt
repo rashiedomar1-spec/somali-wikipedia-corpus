@@ -1,0 +1,36 @@
+title:
+Maxamed Cawaale
+
+url:
+https://so.wikipedia.org/wiki?curid=4718
+
+text:
+Maxamed cawaale Waxa uu ku dhashay  galkacyo xiligii gumaystaha 
+wuxuu ahaa ninkii alifey Calanka Jamhuuriyadda Soomaaliya Marxuumka Maxamed Cawaale Waxa uu kamid ahaa ragii usoo halgamay soomaaliya, waxa uuna ku jiray ururka shaqada iyo shaqaalaha waa markii Gumeestuhu nagu yirri maanta ka bilaawata keensada calan niigula aqoonsado, oo Caalamka niigu gartaan. Marxuumka alaha unaxariiste wax fikrad ah qof kalama Uu tashan. Malintii dambe markii shirka leeskugu yimid ayuu ku dhawaaqay aniga calankaan Bluuga ah oo xidigta cad dhexda uuga dhagan tahay ayaan LA imid. Maxamed Cawaale Waxa Uu raaciyay Micnaha uukala jeedo xidigta iyo sida Uu uga fikiray qaabkan quruxda badan. Isla markiiba waxa go'an lagu gaaray inla taago calanka.
+Waxyna ahay xiliguu calanka sameeyay sanadka 1954
+Maxamad cawaale waxa uu ku dhintay magaalada Toronto ee dalka kanada sanadka 2001
+
+xigasho
+
+
+# Infobox
+
+- **Magaca Saxda**: Maxamed cawaale liibaan
+- **Ku dhashay**: 1919 Gaalkacyo , Somaliya
+- **Dhimasho**: 2001 toronto , kanada
+- **Dhalsho**: Somali
+- **Shaqada**: Sameyaha calanka somaliya
+- **Ilmaha**: Suleyman, Naciima
+
+
+# Tables
+
+## Table 1
+| Mohammed Awale Liban |
+| --- |
+| Magaca Saxda | Maxamed cawaale liibaan |
+| Ku dhashay | 1919 Gaalkacyo , Somaliya |
+| Dhimasho | 2001 toronto , kanada |
+| Dhalsho | Somali |
+| Shaqada | Sameyaha calanka somaliya |
+| Ilmaha | Suleyman, Naciima |

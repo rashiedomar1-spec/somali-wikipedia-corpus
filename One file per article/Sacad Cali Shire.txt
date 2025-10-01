@@ -1,0 +1,56 @@
+title:
+Sacad Cali Shire
+
+url:
+https://so.wikipedia.org/wiki?curid=30141
+
+text:
+Dr. Sacad Cali Shire Naleye waa siyaasi iyo dhaqaaleyahan soomaali ah, kaasoo hadda ah Wasiirka Maaliyadda ee Somaliland. Sacad ayaa hore u soo noqday Wasiirka Arimaha Dibada ee Somaliland . Waxa kale oo isna loo magacaabay Wasiirka Qorshaynta iyo Horumarinta Qaranka ee Somaliland.
+
+Nolosha shaqsiyeed
+
+Waxa uu ka soo jeedaa Issa Musse. Kahor intaanu galin siyaasada wuxuu ahaa maamulaha waaxda UK ee Dahabshiil .
+
+Sidoo kale eeg
+
+Wasaaradda Arimaha Dibadda (Somaliland)
+
+Wasaaradda Maaliyadda (Somaliland)
+
+Wasaaradda Qorshaynta (Somaliland)
+
+Liiska Soomaalida
+
+
+# Infobox
+
+- **Madaxweyne**: Muse Bihi Abdi
+- **Xisbi siyaasadeed**: Peace, Unity, and Development Party
+- **Caruur**: 3
+- **Degganaasho**: Hargeisa , Somaliland
+- **Waxbarasho jaamacadeed**: Pennsylvania State University University of Havana Somali National University
+
+
+# Tables
+
+## Table 1
+| Dr. Saad Ali Shire د. سعد علي شيره |
+| --- |
+| Wasiirka Maaliyadda |
+| Madaxweyne | Muse Bihi Abdi |
+| Wasiirka Arrimaha Dibadda |
+| Madaxweyne | Muse Bihi Abdi -- Ahmed Mohamed Mohamoud |
+| Wasiirka Qorshaynta |
+| Madaxweyne | Ahmed Mohamed Mohamoud |
+| Macluumaad gaar ah |  |
+| Xisbi siyaasadeed | Peace, Unity, and Development Party |
+| Caruur | 3 |
+| Degganaasho | Hargeisa , Somaliland |
+| Waxbarasho jaamacadeed | Pennsylvania State University University of Havana Somali National University |
+
+## Table 2
+| Hoggaanka Dalka |
+| --- |
+| xilka kaga horeeyey Ali Ibrahim Mohamed | {{{title}}} | Xilka  kala wareegay Ali Hussein Ismail |
+| xilka kaga horeeyey Mohamed Bihi Yonis | {{{title}}} | Xilka  kala wareegay Yasin Haji Mohamoud |
+| xilka kaga horeeyey Yusuf Mohamed Abdi | {{{title}}} | Talada Haya |

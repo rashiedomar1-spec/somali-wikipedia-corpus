@@ -1,0 +1,27 @@
+title:
+Miyu Uehara
+
+url:
+https://so.wikipedia.org/wiki?curid=33342
+
+text:
+Mutsumi Fujisaki [ 1 ] (藤崎 睦美; [ 2 ] Fujisaki Mutsumi , 2 Maajo 1987 [ 3 ] – 12 Maajo 2011 [ 4 ] ), oo loo yaqaan Miyu Uehara (上原 美優, Uehara Miyu ),  wuxuu ahaa moodel soo jiidasho oo reer Jabaan ah iyo shakhsiyadda telefishanka oo caan ku noqday " sanam saboolnimo". [ 1 ] Waxay dhigatay dugsiga sare ee Kagoshima muddo kooban ka hor inta aysan ka bixin. Waxay u guurtay Tokyo markay ahayd 17 jir, waxayna biloowday shaqadeeda, waxaa loo yaqaanay "sabool sanam" sababta oo ah asalkeeda oo liita waxaana lagu soo bandhigay daboolka majaladda Weekly Playboy . Uehara waxay ku dhimatay gurigeedii Meguro, Tokyo horaantii 12 May 2011 markay ahayd 24 sano jir, ka dib markii sida muuqata uu isku dilay daldalaad, Booliisku waxay sheegeen in aan la helin qoraal ismiidaamin ah laakiin waxaa jiray farriimo aan la fahmi karin oo ay qortay.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: Mutsumi Fujisaki ( 1987-05-02 ) 2 Maajo 1987 Tanegashima , Degmadda Kagoshima , Jabaan
+- **Dhimasho**: 12. Maajo 2011 ( 2011-05-12 ) (da'da 24jir) Meguro, Tokyo , Jabaan
+- **Sanadaha Shaqada**: 2009–2011
+
+
+# Tables
+
+## Table 1
+| Miyu Uehara |
+| --- |
+| Ku dhashay | Mutsumi Fujisaki ( 1987-05-02 ) 2 Maajo 1987 Tanegashima , Degmadda Kagoshima , Jabaan |
+| Dhimasho | 12. Maajo 2011 ( 2011-05-12 ) (da'da 24jir) Meguro, Tokyo , Jabaan |
+| Sanadaha Shaqada | 2009–2011 |

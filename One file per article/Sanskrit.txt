@@ -1,0 +1,40 @@
+title:
+Sanskrit
+
+url:
+https://so.wikipedia.org/wiki?curid=24613
+
+text:
+India Sanskrit (sænskrɪt /; IAST: Saṃskṛtam [səskr̩t̪əm] [note 1], Sanskrit: संस्कृतम्) waa luqad taariikhiyan ah Hindida oo taariikh ahaan la diiwaangeliyey ilaa 3,500 sano. [6] [8] Waa luqadda ugu horreysa ee Hinduuga ah; luuqada ugu badan ee shaqooyinka ugu badan ee falsafada Hinduka iyo sidoo kale qaar ka mid ah qoraallada aasaasiga ah ee Buddhism iyo Jainism. Sanskrit, oo ah noocyo kala duwan iyo lahjado, wuxuu ahaa lingua franca oo ah Hindida hore iyo dhexe ee Hindiya. [9] [10] [11] Bilihii 1-aad ee billowgii hore, oo ay wehliyaan Budhiism iyo Hinduuga, Sanskrit waxay u guureen Koonfurta Aasiya, [12] qaybo ka mid ah Bariga Aasiya [13] iyo Bartamaha Aasiya, [14] soo baxaya sidii luqad sare oo dhaqan ee gobolladan. [15] [16]
+Sanskrit waa luqad Old Indo-Aryan ah. [6] Sida mid ka mid ah qoysaska ugu da'da weyn ee ku qoran luqadaha Indo-Yurub ee luqadaha, [17] [note 2] [note 3] Sanskrit waxay leedahay jagada caanka ah ee daraasadaha Indo-Yurub [20] Waxay ku xiran tahay Giriiga iyo Laatiin, [6] iyo sidoo kale Hittite, Luwian, Old Avestan iyo luuqado kale oo badan oo ku hadla luqadaha yurub, Galbeed Aasiya iyo Bartamaha Aasiya. Wuxuu raadiyaa afkiisa hooyo afafka Proto-Indo-Aryan, Proto-Indo-Iran iyo luqadaha Proto-Indo-Yurub. Sanskrit waxaa la ogaan karaa Bilihii 2aad ee BCE ee loo yaqaan 'Vedic Sanskrit', iyadoo Rigveda uu yahay qoraalka ugu horreeya ee badbaadada. Foom badan oo la isku qurxiyo iyo qaab naxwe ahaan loo yaqaan 'Classical Sanskrit' waxay soo baxday bartamihii 1-aad ee BCE Bari ee Aargṭādhyāyī ee Pāṇini [6] Sanskrit waa luqadda aasaasiga ah ee luqadaha Prakrit iyo gabdho badan oo casri ah sida luqadaha Hindiya, Nepali, Bengali, Punjabi iyo Marathi. [23] [23]
+
+Indo-Iranian Indo-Aryan Sanskrit
+
+Indo-Aryan Sanskrit
+
+Sanskrit
+
+Sanskrit
+
+
+# Tables
+
+## **Table 1**
+| Sanskrit |
+| --- |
+| संस्कृतम् Template:IAST |
+| Saṃskṛtam in various Brahmic scripts |
+| Dhawaaq | Template:IPA-sa pronunciation |
+| Gobolka | South Asia parts of Southeast Asia |
+| Era | c. 2nd millennium BCE – 600 BCE (Vedic Sanskrit [ 1 ] ), after which it gave rise to the Middle Indo-Aryan languages . Continues as a liturgical language (Classical Sanskrit). |
+| Qoyska luqada | Indo-European Indo-Iranian Indo-Aryan Sanskrit |
+| Early forms: | Vedic Sanskrit Sanskrit |
+| Hab qoraalka | Devanagari Also written in various Brahmic scripts . [ 2 ] |
+| Koodka luqada |
+| ISO 639-1 | sa |
+| ISO 639-2 | san |
+| ISO 639-3 | san |
+| Template:Infobox language/Indic |  |
+|  |
+| {{{1}}} |  |
+|  |

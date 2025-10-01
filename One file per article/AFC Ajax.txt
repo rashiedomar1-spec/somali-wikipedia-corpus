@@ -1,0 +1,53 @@
+title:
+AFC Ajax
+
+url:
+https://so.wikipedia.org/wiki?curid=8931
+
+text:
+Coordinates : 52°18′51″N 4°56′31″E ﻿ / ﻿ 52.31417°N 4.94194°E ﻿ / 52.31417; 4.94194
+
+Amsterdamsche Football Club "Ajax", ama Ajax waa koox-banooni oo kuyaalo magaaladda Amistardam ee dalka Holland .
+
+Tixraac
+
+Eeg waliba
+
+AFC AJAX
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Amsterdamsche Football Club Ajax
+- **La aasaasay**: 18 Maarso 1900 ; 125 sanadood ka hor ( 1900-03-18 )
+- **Garoon**: Johan Cruyff Arena
+- **Garoonka Awoodda**: 55,865
+- **Milkiilaha**: AFC Ajax N.V.
+- **CEO**: Edwin van der Sar
+- **Horyaalka**: Eredivisie
+- **2022–23**: Eredivisie , 3rd of 18
+- **Website**: Club home page
+
+
+# Tables
+
+## Ajax
+| Magaca oo dhameestiran | Amsterdamsche Football Club Ajax |
+| --- | --- |
+| La aasaasay | 18 Maarso 1900 ; 125 sanadood ka hor ( 1900-03-18 ) |
+| Garoon | Johan Cruyff Arena |
+| Garoonka Awoodda | 55,865 |
+| Milkiilaha | AFC Ajax N.V. |
+| CEO | Edwin van der Sar |
+| Horyaalka | Eredivisie |
+| 2022–23 | Eredivisie , 3rd of 18 |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab Saddexaad middab | Guriga midab | Marti midab | Saddexaad middab |
+| Guriga midab | Marti midab | Saddexaad middab |
+|  |
+
+
+
+# Coordinates
+52.31417; 4.94194

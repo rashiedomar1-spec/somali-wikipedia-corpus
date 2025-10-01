@@ -1,0 +1,69 @@
+title:
+Tonga
+
+url:
+https://so.wikipedia.org/wiki?curid=37065
+
+text:
+Boggan waxa uu ku jiraa horumar.
+
+Boggan waxa uu ku jiraa horumar.
+
+Tonga waa waddan ku yaal Badweynta Baasifiga. Waxay leedahay 169 jasiiradood. Kaliya 36 jasiiradood ayaa degan.  Jasiiradda ugu muhiimsan waa Tongatapu.
+
+-
+
+Juqraafiga
+
+Tonga waxay ku taal Ooshiyaaniya .  Waa jasiirad ku taal Badweynta Baasifiga ee Koonfurta. Waxay leedahay 177 jasiiradood. Soddon iyo lix ka mid ah ayaa deggan.  Jasiiraduhu waxay u qaybsan yihiin saddex kooxood oo waaweyn — Vava'u, Ha'apai, iyo Tongatapu.  Jasiiradda ugu weyn waa Tongatapuon.  Magaalada caasimadda ah ee Nukuʻalofa waxay ku taal Tongatapuon.
+
+Siyaasadda
+
+Tonga waa boqortooyo dastuuri ah , iyadoo boqorka hadda ee Tonga uu yahay Tupou VI oo loo magacaabay boqor tan iyo 2015, inkasta oo xukunkiisu uu bilaabmay Maarso 2012, wuxuuna ka soo farcamay boqorkii ugu horreeyay, George Tupou I oo xukumayay qarnigii 19aad. Tonga waa boqortooyada kaliya ee ka jirta Ooshiyaaniya. Dhanka kale, Ra'iisul Wasaaraha ayaa awood u leh inuu noqdo madaxa xukuumadda qaranka.
+
+Cimilada
+
+Waa wadan aad u kulul.
+
+Tixraac
+
+Xiriirinta dibadda
+
+CIA Buuga Xaqiiqda Adduunka Archived May 11, 2019 // Wayback Machine
+
+
+# Tables
+
+## Puleʻanga Fakatuʻi ʻo Tonga Boqortooyada Tonga
+| Calanka Astaanta |   |   | Calanka | Astaanta |
+| --- | --- | --- | --- | --- |
+|  |  |
+| Calanka | Astaanta |
+| Hal ku dhig qaran: Ko e ʻOtua mo Tonga ko hoku tofiʻa |
+| Heesta calanka : Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga |
+|  |
+| Caasimadda | Nukuʻalofa |
+| Magaalada ugu weyn dalka | Nukuʻalofa |
+| Afka rasmiga ah | Af-Tonga Af-Ingiriisi |
+| Dowladda Boqortooyo Ra'iisul Wasaare Guddoomiyaha Golaha | Boqortooyo dastuuri ah oo midaysan Tupou VI Siaosi Sovaleni Fatafehi Fakafanua |
+| Madax-bannaanida Boqortooyada Ingiriiska ee 4.6.1970 |  |
+| Goobta - Wadarta - Biyo (%) | 748 km² (?) ? |
+| Tirada dadka - ? qiyaas - ? sensa - Cidhiidhi | ? [ 1 ] (?) 100,209 139/km² (?) |
+| Lacag | Pa'anga ( TOP ) |
+| Waqtiga maxaliga ah - Xagaaga ( DST ) | +13:00 ( UTC ) |
+| Internet TLD | .to |
+| Canshuurta telefoonka | + 676 - |
+
+## Table 2
+| Faahfaahin Cimilada Nukuʻalofa |
+| --- |
+| Bilaha | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Sanad |
+| Kuleel daran °C (°F) | 32 (90) | 32 (90) | 31 (88) | 30 (86) | 30 (86) | 28 (82) | 28 (82) | 28 (82) | 28 (82) | 29 (84) | 30 (86) | 31 (88) | 32 (90) |
+| Kuleel aan darnayn °C (°F) | 28 (82) | 29 (84) | 28 (82) | 27 (81) | 26 (79) | 25 (77) | 25 (77) | 24 (75) | 25 (77) | 25 (77) | 27 (81) | 27 (81) | 26 (79) |
+| Maalinle °C (°F) | 25 (77) | 25 (77) | 25 (77) | 24 (75) | 23 (73) | 21 (70) | 21 (70) | 21 (70) | 21 (70) | 22 (72) | 23 (73) | 23 (73) | 23 (73) |
+| Hoos udhaca kuleelka °C (°F) | 22 (72) | 22 (72) | 22 (72) | 21 (70) | 20 (68) | 18 (64) | 17 (63) | 18 (64) | 17 (63) | 19 (66) | 20 (68) | 20 (68) | 20 (68) |
+| Hoos udhac qiyaas leh °C (°F) | 16 (61) | 17 (63) | 15 (59) | 15 (59) | 13 (55) | 11 (52) | 10 (50) | 11 (52) | 11 (52) | 12 (54) | 13 (55) | 16 (61) | 10 (50) |
+| Roobka mm (Faraha) | 130 (5.12) | 190 (7.48) | 210 (8.27) | 120 (4.72) | 130 (5.12) | 100 (3.94) | 100 (3.94) | 130 (5.12) | 110 (4.33) | 90 (3.54) | 100 (3.94) | 120 (4.72) | 1,530 (60.24) |
+| % Dhado | 77 | 78 | 79 | 76 | 78 | 77 | 75 | 75 | 74 | 74 | 73 | 75 | 75.9 |
+| Dhexdhexaad. Xilli roobaadka | 11 | 13 | 14 | 12 | 12 | 10 | 10 | 12 | 10 | 10 | 10 | 10 | 134 |
+| Source: Weatherbase [ 2 ] |

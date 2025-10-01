@@ -1,0 +1,28 @@
+title:
+Women's Health
+
+url:
+https://so.wikipedia.org/wiki?curid=32929
+
+text:
+Women's Health ( WH ) ( Caafimaadka Haweenka ) waa joornaal qaab nololeed oo udub dhexaad u ah caafimaadka, galmada, nafaqada iyo jir dhiska.  Waxaa lagu daabacaa 10 jeer sanadkii Maraykanka gudihiisana waxaa ku daabacan 1.5 milyan oo akhristayaal ah. Joornaalku wuxuu leeyahay 13 daabacadood oo caalami ah oo ka kala socda 25 waddan oo adduunka oo dhan ka gaadhay in ka badan 8 milyan oo akhristayaal.
+
+
+# Infobox
+
+- **Editor**: Liz Plosser
+- **Founded**: 2005
+- **Language**: Ingiriis
+- **City**: Magaalada New York
+- **Country**: Mareykanka
+
+
+# Tables
+
+## Women's Health
+| Editor | Liz Plosser |
+| --- | --- |
+| Founded | 2005 |
+| Language | Ingiriis |
+| City | Magaalada New York |
+| Country | Mareykanka |

@@ -1,0 +1,28 @@
+title:
+AskMen
+
+url:
+https://so.wikipedia.org/wiki?curid=32644
+
+text:
+AskMen waa bog internet oo bilaash ah oo nin, oo leh noocyo caalami ah oo ku yaal Australia , Kanada , Bariga Dhexe , Boqortooyada Ingiriiska iyo Mareykanka . Waxaa iska leh Ziff Davis waxayna ka shaqeysaa qeybta IGN Entertainment.
+
+
+# Infobox
+
+- **Cinwaanka**: www.askmen.com
+- **Ganacsi?**: Haa
+- **Nooca site**: Daabacaadda nin ee internetka
+- **Mulkiilaha**: Ziff Davis Media
+- **La bilaabay isticmaalka**: Janaayo 2000 ; 25 sano ka hor ( 2000-01 )
+
+
+# Tables
+
+## AskMen
+| Cinwaanka | www.askmen.com |
+| --- | --- |
+| Ganacsi? | Haa |
+| Nooca site | Daabacaadda nin ee internetka |
+| Mulkiilaha | Ziff Davis Media |
+| La bilaabay isticmaalka | Janaayo 2000 ; 25 sano ka hor ( 2000-01 ) |

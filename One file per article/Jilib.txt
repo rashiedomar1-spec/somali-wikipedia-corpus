@@ -1,0 +1,46 @@
+title:
+Jilib
+
+url:
+https://so.wikipedia.org/wiki?curid=3499
+
+text:
+Magaalda Jilib waa magaalada ku taal Gobolka Jubbada Dhexe , isla markaana ah magaalo madaxdii hore ee Gobolka Jubbada Dhexe waxaana hoos yimaada tuulooyin badan. Magaaladani waxay caan ku tahay tabcashada beeraha Iyo Xoolaha Nool .
+
+waxaa dega beesha looboge ee sheekhaaled
+
+Jilib waa magaalo dad aad u fara badani ay ku noolyihiin waxaana nawaxigeeda ku yaala warshaddii Mareeyey ee sonkorta iyo mashrucii faanole ee biyo xireenka.
+
+Magaaldaa wa shantaraal waxa isku marta 4 wada oo kabaxdo ama so gasho waxana ku yaala hoteelo farabadan iyo shirkadaha is garsiinta telephone nada sida Hormuud iyo Nation. Hotelada ugu caansan waxa kamida ah hotel Ganane,  hotel Hombooy iyo hotel Guuleed.  waxa kalo jirta diinimadii dabka oo ku taala tuulada malende ee jilib hoos timaada.Magalada Jilib waxa ugu badan oo dega beelaha kor ku xusan . Sidoo kale waxa dega qabaa'il kale oo soomaaliyeed
+
+.
+
+Bu'aale
+
+Dajuumo
+
+Jilib
+
+Saakow
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Ismaamulka**: Jubaland
+- **Magaalo-madax**: Bu'aale
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Jilib Jubbada Dhexe |
+| --- |
+| Deegaan |
+|  |
+| Meesha kaga taalo Soomaaliya. |
+| Country | Somalia |
+| Ismaamulka | Jubaland |
+| Magaalo-madax | Bu'aale |
+| Aag saacadeed | UTC+3 ( EAT ) |

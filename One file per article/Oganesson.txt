@@ -1,0 +1,112 @@
+title:
+Oganesson
+
+url:
+https://so.wikipedia.org/wiki?curid=36761
+
+text:
+Template:Infobox element/isotopes decay2
+
+Oganesson waa curiye kiimikaad sinthetiiga ah oo leh calaamad Og iyo lambarka atomiga 118. Oganesson waxa uu leeyahay lambarka atomiga ugu sarreeya iyo cufka atomiiga ugu sarreeya dhammaan curiyeyaasha la yaqaan.  Atamka radioactive oganesson waa mid aan degganayn, ilaa 2005tii, kaliya shan (malaha lix) atamka isotoobka oganesson-294 ayaa la abuuray.
+
+Kiimikada Oganesson lama heli karo sababta oo ah sida uu u shaqeeyo shucaac iyo sida ay u gaaban tahay noloshiisa badhkeed, taas oo ah 0.69 millise daqiiqado oo keliya.  Si kastaba ha ahaatee, saadaasha waxaa lagu samayn karaa iyadoo lagu salaynayo guryaha ay kooxdu ka siman tahay midba midka kale.  Maadaama uu yahay gaas sharaf leh, waxaa la saadaaliyay in ay noqon doonto molecule diatomiig ah (kaliya waxay la mid tahay lafteeda).
+
+
+# Infobox
+
+- **Magac, summad , tiro**: oganesson, Og, 118
+- **Urur , heerka**: 18 (noble gases) , 7 , p
+- **Culays atam**: {{{atomic mass}}}
+- **Ratibaad elektaroon**: [ Rn ] 5f 14 6d 10 7s 2 7p 6 2, 8, 18, 32, 32, 18, 8
+- **Naming**: after Yuri Oganessian
+- **Prediction**: Niels Bohr (1922)
+- **Helay**: Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory (2002)
+- **Weji**: solid (predicted) [ 1 ]
+- **Hoor Cufnaan bar dhalaal**: 4.9–5.1 g·cm −3
+- **Bar karkar**: 350±30 K, 80±30 °C, 170±50 °F
+- **Bar qirinqiirka**: 439 K, 6.8 MPa
+- **Heat of fusion**: 23.5 kJ·mol −1
+- **Heerka uumiga**: 19.4 kJ·mol −1
+- **Aayonayn tamar**: 1st: {{{1st ionization energy}}} kJ·mol −1
+- **Dabar wadaag gacan**: 157 pm (predicted) [ 2 ]
+- **Dhismo wiriq**: face-centered cubic (extrapolated) [ 3 ]
+- **CAS registry number**: 54144-19-3
+
+
+# Tables
+
+## Table 1
+| Oganesson |
+| --- |
+| 118 Og |
+| Rn ↑ Og ↓ (Usb) tennessine ← oganesson → ununennium | Rn ↑ Og ↓ (Usb) tennessine ← oganesson → ununennium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Rn ↑ Og ↓ (Usb) | tennessine ← oganesson → ununennium |
+| Rn ↑ Og ↓ (Usb) tennessine ← oganesson → ununennium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Rn ↑ Og ↓ (Usb) | tennessine ← oganesson → ununennium |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Rn ↑ Og ↓ (Usb) |
+|  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| tennessine ← oganesson → ununennium |
+| Oganesson qaab liis ah |
+| Astaamaha guud |
+| Magac, summad , tiro | oganesson, Og, 118 |
+| Urur , heerka | 18 (noble gases) , 7 , p |
+| Culays atam | {{{atomic mass}}} |
+| Ratibaad elektaroon | [ Rn ] 5f 14 6d 10 7s 2 7p 6 2, 8, 18, 32, 32, 18, 8 |
+| Taariikh |
+| Naming | after Yuri Oganessian |
+| Prediction | Niels Bohr (1922) |
+| Helay | Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory (2002) |
+| Astaamaha fiisikista |
+| Weji | solid (predicted) [ 1 ] |
+| Hoor Cufnaan bar dhalaal | 4.9–5.1 g·cm −3 |
+| Bar karkar | 350±30 K, 80±30 °C, 170±50 °F |
+| Bar qirinqiirka | 439 K, 6.8 MPa |
+| Heat of fusion | 23.5 kJ·mol −1 |
+| Heerka uumiga | 19.4 kJ·mol −1 |
+| Astaamaha atamka |
+| Aayonayn tamar | 1st: {{{1st ionization energy}}} kJ·mol −1 |
+| 2nd: {{{2nd ionization energy}}} kJ·mol −1 |
+| Dabar wadaag gacan | 157 pm (predicted) [ 2 ] |
+| Miscellanea |
+| Dhismo wiriq | face-centered cubic (extrapolated) [ 3 ] |
+| CAS registry number | 54144-19-3 |
+| Dhamaan aysotoob degan |
+| Maqaalka rasmiga ah: Aysotoob oganesson |
+| iso NA Cumri-badh DM DE ( MeV ) DP Template:Infobox element/isotopes decay2 295 Og [ 4 ] syn 181 ms? α 11.81 291 Lv | iso | NA | Cumri-badh | DM | DE ( MeV ) | DP Template:Infobox element/isotopes decay2 | 295 Og [ 4 ] | syn | 181 ms? | α | 11.81 | 291 Lv |
+| iso | NA | Cumri-badh | DM | DE ( MeV ) | DP Template:Infobox element/isotopes decay2 |
+| 295 Og [ 4 ] | syn | 181 ms? | α | 11.81 | 291 Lv |
+| · ref |
+
+## Table 2
+| Rn ↑ Og ↓ (Usb) tennessine ← oganesson → ununennium |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Rn ↑ Og ↓ (Usb) | tennessine ← oganesson → ununennium |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Rn ↑ Og ↓ (Usb) |
+|  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| tennessine ← oganesson → ununennium |
+
+## Table 3
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Rn ↑ Og ↓ (Usb) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| tennessine ← oganesson → ununennium |
+
+## Table 4
+| iso | NA | Cumri-badh | DM | DE ( MeV ) | DP Template:Infobox element/isotopes decay2 |
+| --- | --- | --- | --- | --- | --- |
+| 295 Og [ 4 ] | syn | 181 ms? | α | 11.81 | 291 Lv |

@@ -1,0 +1,48 @@
+title:
+Taxane
+
+url:
+https://so.wikipedia.org/wiki?curid=11845
+
+text:
+Taxane jamac Taxaneyaal waxay waxtar joogta ah u leedahay furfurista habdhiska isle'egyada toosan. Taxanayaalka siyaale kale oo badan waa loogu shaqaysan karaa:
+
+Taxane waa teed laydi oo ka kooban m dhinactax iyo n joogtax oo tirooyin maangal ah. Taxane waxaa aalaaba lagu muujiyaa tibixda m × n (loo akhriyo "ma, na") m waxay utaagan tahay inta dhinactax ee taxanuhu leeyahay, n waxay utaagantahay inta jogtax ee taxanuhu leeyahay. Haddii m = n, taxanaha waxaa la yiraahdaa taxane labajibbaarane ah . Taxne waxaa lagu dhex xirtaa laba bilood ama laba sakal.
+
+Tusaalooyinka soo socda waa taxanayaal:
+
+b. Taxane 3-dhinactax 1-joogtax ah
+
+t. Taxane 2-dhinactax 2-joogtax.
+
+j. Taxane 1-dhinactax 4-joogtax ah.
+
+x. Taxane 2-dhinactax 4-joogtax ah.
+
+Taxanihii hal dhinactax kaliya leh waxaa la yiraa Taxane dhinactax markuu hal joogtax kaliyana waxaa la yiraa Taxane joogtax . Ku jirayaalka mid ka mid ah waxaa la yiraa kutiirsanayaal . Taxanaha waxaa lagu magacaabaa xaraf weyn, sida B, T, J iwm. Ama sumadda B m×n, taasoo u taagnaan karta taxana kasta oo leh m-dhinactax n-joogtax. Hoos dhigga (muujiyaha) m×n wuxuu u taaganyahay aaddimaha ama ama heerka taxanaha.
+
+Inta kutiirsan ee taxanuhu leeyahay waxaa lagu helaa m oo lagu dhuftay n. Haddaba hadaan u noqonno tusaalaha kor ku xusan, waxaan aragnaa in: taxanaha (b) uu leeyahay addimo ah: 3×1; kan (t) 2×2; kan (j) 1×4; kan (x) uu leeyahay 2×4 sidaas oo kale taxanihii ah heerka m×n wuxuu ka kooban yahay taxanayaal ah m-dhinactax iyo taxanayaal ah n-joogtax.
+
+Taxabaha : B 2×3 waa hubaal in B 2×3 uu leeyahay 2 × 3 = 6 kutiirsanayaal.
+
+B 2×3 B = [ b 1 b 2 b 3 t 1 t 2 t 3 ] {\displaystyle B={\begin{bmatrix}{b}_{1}&{b}_{2}&{b}_{3}\\{t}_{1}&{t}_{2}&{t}_{3}\end{bmatrix}}} B waxay leedahay laba taxane dhinactax oo ah B = [ ( b 1 b 2 b 3 ) ] {\displaystyle B={\begin{bmatrix}({b}_{1}&{b}_{2}&{b}_{3})\end{bmatrix}}} iyo T = [ ( t 1 t 2 t 3 ) ] {\displaystyle T={\begin{bmatrix}({t}_{1}&{t}_{2}&{t}_{3})\end{bmatrix}}} iyo saddex taxane oo ah joogtax
+
+Si ballaaran taxanayaalka waxaa loo isticmaalaa jabayto qoridda sidaan soo socota.
+Tusaale:
+
+Taxana guud ee heerka 2×3 waxaa loo qori karaa ( a 11 a 12 a 13 a 21 a 22 a 23 ) {\displaystyle {\begin{pmatrix}{a}_{11}&{a}_{12}&{a}_{13}\\{a}_{21}&{a}_{22}&{a}_{23}\end{pmatrix}}}
+
+Taxana guud ee heerka m × n waxaa loo qori karaa
+
+A = [ a 11 a 12 ⋯ a 1 n a 21 a 22 ⋯ a 2 n ⋮ ⋮ ⋱ ⋮ a m 1 a m 2 ⋯ a m n ] . {\displaystyle \mathbf {A} ={\begin{bmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}&a_{m2}&\cdots &a_{mn}\end{bmatrix}}.}
+
+Waxaa loo soo gaabiyaa (a i j) marka i = (0,1,2,...m) j = (1,2,3,...n) ereyada kale ee taxanayaasha
+
+Taxane maran.
+Haddii tanayaal kutiirsanayaalkiisu dhammaan yihiin, eber, taxanahaas waxaa la yiraa tanaxane maran ama taxane eber waxaa lagu asteeyaa 0 m × n.
+
+Melmel taxane.
+Meelmeelka taxane B loono qoro B"" (u akhri "meelmeel B") waa taxane cusub oo ka yimid, B oo dhinactaxyadeeda la isku bedelay.
+
+Isle'ekaanshaha taxanayaal.
+Laba taxane B iyo T oo isla aaddimo ah waa isle'egyihiin haddii iyo haddii qura oo kutiirsanayaashoodu isku beegani isle'egyihiin.

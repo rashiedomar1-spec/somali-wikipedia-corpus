@@ -1,0 +1,39 @@
+title:
+Beyruut
+
+url:
+https://so.wikipedia.org/wiki?curid=19305
+
+text:
+Beyruut Waa caasimada wadanka Lubnaan
+
+
+# Infobox
+
+- **• Maayarka Magaalada**: Bilaal xamaad
+- **Area**: 20 km 2 (8 sq mi)
+- **• Urban**: 100 km 2 (40 sq mi)
+- **• Metro**: 200 km 2 (80 sq mi)
+- **Aag saacadeed**: +2
+- **• Xagaa ( DST )**: +3
+- **Website**: City of Beirut
+
+
+# Tables
+
+## Table 1
+| Beyruut بيروت Faransiis : Beyrouth , Ingiriis Beirut |
+| --- |
+| {{{type}}} |
+| Bidix ka wada: bayruut farasmagaalaha, Suuqa bayruut, Dhismayaasha dhaadhaar ee bayruut u dhow dekeda, Place de l'etoile, Cafés ee saaran Rue Maarad, xaafada Saifi |
+| Flag Seal |
+| Motto(s): (Magaaladii kala dambaynta) |
+| Beyruut |
+| Dowlada |
+| • Maayarka Magaalada | Bilaal xamaad |
+| Area | 20 km 2 (8 sq mi) |
+| • Urban | 100 km 2 (40 sq mi) |
+| • Metro | 200 km 2 (80 sq mi) |
+| Aag saacadeed | +2 |
+| • Xagaa ( DST ) | +3 |
+| Website | City of Beirut |

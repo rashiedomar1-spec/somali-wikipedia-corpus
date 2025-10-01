@@ -1,0 +1,17 @@
+title:
+Qabiilka Soomaaliga
+
+url:
+https://so.wikipedia.org/wiki?curid=38081
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2023-03-27T07:40:44Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;MITGATVM&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog loo bedeley &lt;a href="Qabiilada%20Soomaalida"&gt;Qabiilada Soomaalida&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;249691&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

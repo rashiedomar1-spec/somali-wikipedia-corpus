@@ -1,0 +1,8 @@
+title:
+Radio Laascaanood
+
+url:
+https://so.wikipedia.org/wiki?curid=5995
+
+text:
+Radio laascaanood waa raadio oo laga dhageesto woqooyiga dalka &lt;a href="soomaaliya"&gt;soomaaliya&lt;/a&gt;,raadiyahaan xaruntiisa waxee ku taalo magaalada &lt;a href="Laascaanood"&gt;Laascaanood&lt;/a&gt; ee gobolka &lt;a href="Sool"&gt;Sool&lt;/a&gt; woqooyiga dalka Soomaaliya, Raadiyahaan waxaa laga dhageestaa magaalo yaal badan oo ku yaalo gobolada &lt;a href="Woqooyi"&gt;Woqooyi&lt;/a&gt;ga.

@@ -1,0 +1,8 @@
+title:
+Pokemon
+
+url:
+https://so.wikipedia.org/wiki?curid=4544
+
+text:
+Pokémon waa musalsal talefishinka laga daayo iyo vidio game, oo saarto shikata &lt;a href="Nintendo"&gt;Nintendo&lt;/a&gt; oo ku taalo dalka &lt;a href="Jabaan"&gt;Jabaan&lt;/a&gt;.

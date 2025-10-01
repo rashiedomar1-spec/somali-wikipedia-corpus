@@ -1,0 +1,10 @@
+title:
+Cagaar
+
+url:
+https://so.wikipedia.org/wiki?curid=4694
+
+text:
+Cagaar ama Akhdar waa &lt;a href="midab"&gt;midab&lt;/a&gt; ka mid ah &lt;a href="Midabada%20Asaasiga"&gt;Midabada Asaasiga&lt;/a&gt;.
+=Midabo Kale=
+&lt;includeonly&gt;&lt;/includeonly&gt;

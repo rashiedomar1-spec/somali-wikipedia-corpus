@@ -1,0 +1,8 @@
+title:
+Buqarest
+
+url:
+https://so.wikipedia.org/wiki?curid=9005
+
+text:
+Buqarest (&lt;a href="Af-Romani"&gt;Af-Romani&lt;/a&gt;: "București)" waa caasimada wadanka &lt;a href="Romania"&gt;Romaniya&lt;/a&gt;.

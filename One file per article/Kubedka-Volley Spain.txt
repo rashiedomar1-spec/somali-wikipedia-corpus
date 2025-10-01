@@ -1,0 +1,42 @@
+title:
+Kubedka-Volley Spain
+
+url:
+https://so.wikipedia.org/wiki?curid=35634
+
+text:
+Kubedka-Volley Spain
+
+Spain
+
+FIVB
+
+CEV
+
+1	Andrés Villena	February 27, 1993	1.94 m (6 ft 4 in)	88 kg (194 lb)	356 cm (140 in)	330 cm (130 in)	Spain Ca'n Ventura Palma
+
+2	Ángel Trinidad	March 27, 1993	1.95 m (6 ft 5 in)	78 kg (172 lb)	342 cm (135 in)	318 cm (125 in)	Belgium Knack Randstad Roeselare
+
+3	Sergio Noda	March 23, 1987	1.91 m (6 ft 3 in)	87 kg (192 lb)	338 cm (133 in)	325 cm (128 in)	Italy Emma Villas Siena
+
+5	Alejandro Vigil	February 11, 1993	2.04 m (6 ft 8 in)	89 kg (196 lb)	348 cm (137 in)	330 cm (130 in)	Belgium Noliko Maaseik
+
+6	Borja Ruiz	July 26, 1992	2.00 m (6 ft 7 in)	87 kg (192 lb)	340 cm (130 in)	330 cm (130 in)	Spain Unicaja Almería
+
+7	Jorge Almansa	April 17, 1991	1.95 m (6 ft 5 in)	81 kg (179 lb)	338 cm (133 in)	325 cm (128 in)	Romania Steaua București
+
+10	Jorge Fernández (C)	May 4, 1989	2.01 m (6 ft 7 in)	90 kg (200 lb)	345 cm (136 in)	325 cm (128 in)	Spain Ca'n Ventura Palma
+
+11	Miguel Ángel de Amo	September 16, 1985	1.85 m (6 ft 1 in)	79 kg (174 lb)	342 cm (135 in)	320 cm (130 in)	Spain Unicaja Almería
+
+13	Daniel Ruiz Posadas	June 28, 1995	1.90 m (6 ft 3 in)	82 kg (181 lb)	305 cm (120 in)	190 cm (75 in)	Spain Vecindario ACEGC
+
+14	Miguel Ángel Fornés	September 6, 1993	2.02 m (6 ft 8 in)	94 kg (207 lb)	354 cm (139 in)	339 cm (133 in)	Belgium Knack Randstad Roeselare
+
+15	Francisco Iribarne	July 13, 1998	1.99 m (6 ft 6 in)	91 kg (201 lb)	336 cm (132 in)	328 cm (129 in)	Spain Melilla
+
+17	Francisco Ruiz	June 7, 1991	1.78 m (5 ft 10 in)	70 kg (150 lb)	334 cm (131 in)	310 cm (120 in)	Spain Ca'n Ventura Palma
+
+18	Juan González	January 11, 1994	1.92 m (6 ft 4 in)	83 kg (183 lb)	334 cm (131 in)	315 cm (124 in)	Spain Unicaja Almería
+
+25	Augusto Colito	January 23, 1997	1.90 m (6 ft 3 in)	81 kg (179 lb)	345 cm (136 in)	330 cm (130 in)	Spain C.V. L'Illa-Grau

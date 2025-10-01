@@ -1,0 +1,31 @@
+title:
+Bae Su-min
+
+url:
+https://so.wikipedia.org/wiki?curid=35512
+
+text:
+Bae Su-min [ 1 ] (배수민; Maarso 31, 2001) oo loo yaqaan Sumin waa heesa Koonfur Kuuriya, waxay xubin ka tahay kooxda gabdhaha STAYC . [ 2 ]
+
+Tixraacyo
+
+
+# Infobox
+
+- **Magaca dhalashada**: Bae Su-min
+- **Dhashay**: ( 2001-03-31 ) Maarso 31, 2001 ( 24jir) Pohang , Koonfur Kuuriya
+- **Sanadaha Shaqada**: 2020–hada
+- **Calaamadaha**: High Up Entertainment
+- **Falalka la xiriira**: STAYC
+
+
+# Tables
+
+## Table 1
+| Sumin |
+| --- |
+| Magaca dhalashada | Bae Su-min |
+| Dhashay | ( 2001-03-31 ) Maarso 31, 2001 ( 24jir) Pohang , Koonfur Kuuriya |
+| Sanadaha Shaqada | 2020–hada |
+| Calaamadaha | High Up Entertainment |
+| Falalka la xiriira | STAYC |

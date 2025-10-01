@@ -1,0 +1,15 @@
+title:
+Maxamed Saalax
+
+url:
+https://so.wikipedia.org/wiki?curid=38937
+
+text:
+Mohamed Salah Hamed Mahrous Ghaly (wuxuu dhashey June 15, 1992) waa cayaaryahan kubbadda cagta Masar ah oo kaalinta koowaad kula tartamay Liverpool Premier League iyo xulka qaranka Masar. Waxaa lagu kala soocay dulqaad badan, waana mid ka mid ah ciyaartoyda ugu fiican. [ 1 ]
+
+
+# Tables
+
+## Table 1
+| Maxamed Saalax |
+| --- |

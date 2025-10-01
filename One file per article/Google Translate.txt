@@ -1,0 +1,8 @@
+title:
+Google Translate
+
+url:
+https://so.wikipedia.org/wiki?curid=31639
+
+text:
+Google Translate (Turjumaadka Google) waa adeeg turjumaad mashiin oo bilaash ah oo ay soo saartay Google, si loogu turjumo qoraalka iyo website yada. Laga bilaabo 2025, Google Translate wuxuu turjumi karaa 109 luqadood oo heerar kala duwan ah iyo laga bilaabo 2016, 500 &lt;a href="milyan"&gt;milyan&lt;/a&gt; oo adeegsadoyaal ah, 100 &lt;a href="bilyan"&gt;bilyan&lt;/a&gt; oo eray oo malintii la turjumo..

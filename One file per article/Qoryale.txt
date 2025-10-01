@@ -1,0 +1,48 @@
+title:
+Qoryale
+
+url:
+https://so.wikipedia.org/wiki?curid=15357
+
+text:
+Qoryaale ( Af Ingiriis : Qorale ) waa magaalo yar oo ku taalaa gobolka Togdheer ee Gobolada Waqooyiga Soomaaliya , maanta loo yaqaano Somaliland .
+
+Faallo
+
+Qoryale waa fadhiga dowlada Degmada Qoryaale . Magaaladan yar waxay si toos ah ugu xidhan tahay jidka dheer ee toos u tega magaalada Burco . [ 1 ] [ 2 ]
+
+Waxbarashada
+
+Dusgsi sare ayaa laga dhisay magaaladaasi wakhti dhowayd.
+
+Xigasho
+
+Tixraac
+
+Template:Somalia-geo-stub
+
+Somaliland
+
+Building of the school
+
+
+# Infobox
+
+- **Wadan**: Somaliland Somaliland
+- **Gobol**: Togdheer
+- **Degmo**: Degmada Qoryaale
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Qoryale |
+| --- |
+| Town |
+|  |
+| Qoryale Meesha ka dhacdo Soomaaliland |
+| Wadan | Somaliland Somaliland |
+| Gobol | Togdheer |
+| Degmo | Degmada Qoryaale |
+| Aag saacadeed | UTC+3 ( EAT ) |

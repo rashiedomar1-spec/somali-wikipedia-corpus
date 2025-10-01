@@ -1,0 +1,8 @@
+title:
+Qaydaro
+
+url:
+https://so.wikipedia.org/wiki?curid=6550
+
+text:
+Qaydaro waa tuulo oo ku taalo gobolka &lt;a href="Galguduud"&gt;Galguduud&lt;/a&gt;

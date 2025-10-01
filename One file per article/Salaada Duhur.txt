@@ -1,0 +1,10 @@
+title:
+Salaada Duhur
+
+url:
+https://so.wikipedia.org/wiki?curid=4502
+
+text:
+Salaad Duhur 
+Waa &lt;a href="salaad"&gt;salaad&lt;/a&gt;a Labaad ee ka danbeysa &lt;a href="Subax"&gt;Subax&lt;/a&gt;a kana horeysa &lt;a href="Casir"&gt;Casir&lt;/a&gt;ka, waxayna ka koobantahay 4 &lt;a href="rakco"&gt;rakco&lt;/a&gt;.
+Salaada Duhur waxaa ka horeeyo 4 rakco oo sunno ah waxaana ka danbeyso 2 rakco oo &lt;a href="sunna"&gt;sunna&lt;/a&gt; ah.

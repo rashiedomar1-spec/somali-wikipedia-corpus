@@ -1,0 +1,45 @@
+title:
+Qoryooley
+
+url:
+https://so.wikipedia.org/wiki?curid=6300
+
+text:
+Qoryooley waa magaalo kutaala koonfurta Soomaaliya gaar ahaan gobolka Shabeellaha Hoose . Degmadaan waxey ka kooban tahay sedex xaafadood oo kal ah hodan xalane iyo wadajir waxee caan ku tahay xoolaha beeraha, waxee soo saartaa Galeyda, Sisinta, Digirta. Tubaakada, Suufka, Cambaha, Yanyada, Canuuniga, Qasabka, bariiska iyo waxyaabaha kale oo la mid ah.
+Waxaa sidoo kale ay soo saartaa Caanaha geela iyo kuwa looda oo sida badan ka soo gala tuulooyin aan sidaa uga fogeyn, Ukunta, Subaga Lo'da iyo waliba maqaarka xoolaha oo sida badan loo soo dhoofiyo magaalada muqdisho meelo kalena uga sii gudba amaba inta lagu warshadeeyo waxyaabao kale laga soo saaro.
+Waxaa mara Degmada Qoryooley Wabiga shabeele oo inta badan looga faa'iideyso waraabinta beeraha, iyo waliba xoolaha, waxaa sidoo kale inta badan ee magaaladaasi ku soo wareega Canal weyn oo lagu magacaabo liibaan kaasoo ayba magac ahaan la qaadatey oo ah Liibaantii Qoryooley.
+
+Sidoo kale fiiri
+
+Tixraac
+
+Liiska magaalooyinka Soomaaliya
+
+Shabeellaha Hoose
+
+Liiska magaalooyinka Soomaaliya dadka ku nool
+
+
+# Infobox
+
+- **Wadanka**: Somalia
+- **Gobol**: Shebeellaha Hoose
+- **Degmo**: Degmada Qoryoley
+- **• Dhammaan**: 62,700
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Qoryoolay Qoryooley قوريولي |
+| --- |
+| Magaalo |
+|  |
+| Qoryoolay Meesha kaga taalo Soomaaliya. |
+| Wadanka | Somalia |
+| Gobol | Shebeellaha Hoose |
+| Degmo | Degmada Qoryoley |
+| Tirada dadka |
+| • Dhammaan | 62,700 |
+| Aag saacadeed | UTC+3 ( EAT ) |

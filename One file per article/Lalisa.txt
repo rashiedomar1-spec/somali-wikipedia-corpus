@@ -1,0 +1,43 @@
+title:
+Lalisa
+
+url:
+https://so.wikipedia.org/wiki?curid=33468
+
+text:
+Lalisa waa albumkii hal ugu horreeyay ee fanaan reer Tayland iyo rapper Lisa , oo xubin ka ah kooxda gabdhaha Blackpink. Waxaa la sii daayay Sebteembwr 10, 2021. [ 1 ]
+
+Tixraacyada
+
+YG
+
+Interscope
+
+" Lalisa " Released: Sebteembar 10, 2021 ( 2021-09-10 )
+
+
+# Infobox
+
+- **Wuxuu soo baxay**: Sebteembar 10, 2021 ( 2021-09-10 )
+- **Istuudiyo**: The Black Label (Seoul)
+- **Nooca**: Hip hop
+- **Dhererka**: 6 : 08
+- **Calaamada**: YG Interscope
+
+
+# Tables
+
+## Table 1
+| Lalisa |
+| --- |
+| album kali by Lisa |
+| Wuxuu soo baxay | Sebteembar 10, 2021 ( 2021-09-10 ) |
+| Istuudiyo | The Black Label (Seoul) |
+| Nooca | Hip hop |
+| Dhererka | 6 : 08 |
+| Calaamada | YG Interscope |
+|  |
+|  |
+| Heesaha albumka ee Lalisa |
+| " Lalisa " Released: Sebteembar 10, 2021 ( 2021-09-10 ) |
+|  |

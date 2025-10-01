@@ -1,0 +1,39 @@
+title:
+Flesh Market
+
+url:
+https://so.wikipedia.org/wiki?curid=33192
+
+text:
+Flesh Market waa filim Jabaan ee 1962 -kii oo uu waday Satoru Kobayashi waxaana jilay Tamaki Katori . [ 2 ] Waxaa guud ahaan loo aqoonsaday inuu yahay filimkii ugu horreeyay ee ku jira nooca filimka pinku eiga [ 3 ] [ 4 ] [ 5 ] .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Directed by**: Satoru Kobayashi
+- **Written by**: Roji Asama Junichi Yoneya Satoru Kobayashi
+- **Produced by**: Ichirō Ikeda
+- **Starring**: Tamaki Katori
+- **Music by**: Sadao Nagase
+- **Production company**: OP Eiga
+- **Release date**: Febraayo 27, 1962 ( 1962-02-27 )
+- **Country**: Jabaan
+- **Language**: Jabaaniis
+
+
+# Tables
+
+## Table 1
+| Flesh Market [ 1 ] |
+| --- |
+| Directed by | Satoru Kobayashi |
+| Written by | Roji Asama Junichi Yoneya Satoru Kobayashi |
+| Produced by | Ichirō Ikeda |
+| Starring | Tamaki Katori |
+| Music by | Sadao Nagase |
+| Production company | OP Eiga |
+| Release date | Febraayo 27, 1962 ( 1962-02-27 ) |
+| Country | Jabaan |
+| Language | Jabaaniis |

@@ -1,0 +1,33 @@
+title:
+Manuel Turizo
+
+url:
+https://so.wikipedia.org/wiki?curid=30241
+
+text:
+Manuel Turizo Zapata , oo loo yaqaan Manuel Turizo loona soo gaabiyo MTZ , waa fanaan reer Kolombian ah. Wuxuu ku dhashay kuna koray Montería , wuxuu sameynta muusikada ku bilaabay  da'da saddex iyo toban. Wuxuu ku caan baxay hastiisii "Una Lady Como Tú" (2016). Wuxuu soo saaray albumkiisii ​​ugu horeeyay ADN Agoosto 23, 2019. Muusikada Turizo waxay ka kooban tahay muusikada pop'ka , trap , iyo vallenato .
+
+
+# Infobox
+
+- **Magaca dhalashada**: Manuel Turizo Zapata
+- **Dhashay**: ( 2000-04-12 ) 12 Abriil 2000 ( 25jir) Montería , Colombia
+- **Nooca fanka**: Reggaeton
+- **shaqada**: Fanaan
+- **Sanadaha Shaqada**: 2016–ilaa hadda
+- **Calaamadaha**: La Industria Inc.
+
+
+# Tables
+
+## Table 1
+| Manuel Turizo |
+| --- |
+| Turizo in 2020 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Manuel Turizo Zapata |
+| Dhashay | ( 2000-04-12 ) 12 Abriil 2000 ( 25jir) Montería , Colombia |
+| Nooca fanka | Reggaeton |
+| shaqada | Fanaan |
+| Sanadaha Shaqada | 2016–ilaa hadda |
+| Calaamadaha | La Industria Inc. |

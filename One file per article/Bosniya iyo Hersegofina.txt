@@ -1,0 +1,9 @@
+title:
+Bosniya iyo Hersegofina
+
+url:
+https://so.wikipedia.org/wiki?curid=5438
+
+text:
+Bosniya iyo Herzegovina waa wadan ku yaalo koonfur bari ee &lt;a href="Yurub"&gt;Yurub&lt;/a&gt;. Bosniya iyo Herzegovina, waxee markeeda hore ka tirsanaa jiray, wadankii la dhihi jiray &lt;a href="Jaguslaafia"&gt;Jaguslaafia&lt;/a&gt;.
+Caasimada dalkan waa &lt;a href="%20Sarajevo"&gt; Sarajevo&lt;/a&gt;

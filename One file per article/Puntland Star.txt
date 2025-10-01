@@ -1,0 +1,34 @@
+title:
+Puntland Star
+
+url:
+https://so.wikipedia.org/wiki?curid=17601
+
+text:
+Puntland Star waa news website urur ah ee jooga Garoowe , magaalada caasimadda Dowladda Puntland , Soomaaliya ah.
+
+Taariikhda
+
+Puntland Star waxaa la aasaasay sannadkii 2014 . Website-kani wuxuu daabacaa deg dega ah maalin kasta jabiyay qaylodhaan news oo ugu hadlay oo ku saabsan sheekooyin iyo dokumantaaryada iyo falanqaynta labada Soomaali iyo Ingiriis, iyadoo diiradda lagu saari doono arimaha Puntland. [ 1 ] [ 2 ] [ 3 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: www.puntlandstar.com
+- **Nooca site**: News Website
+- **Diyaar ku ah**: Soomaali , Ingiriis
+- **La bilaabay isticmaalka**: 2014
+- **Hada**: firfircoon
+
+
+# Tables
+
+## Puntland Star
+| Cinwaanka | www.puntlandstar.com |
+| --- | --- |
+| Nooca site | News Website |
+| Diyaar ku ah | Soomaali , Ingiriis |
+| La bilaabay isticmaalka | 2014 |
+| Hada | firfircoon |

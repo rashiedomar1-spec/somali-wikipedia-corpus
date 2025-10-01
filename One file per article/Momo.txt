@@ -1,0 +1,49 @@
+title:
+Momo
+
+url:
+https://so.wikipedia.org/wiki?curid=30208
+
+text:
+Momo Hirai ( Jabaan :平井 も も, Hirai Momo , waxay dhashay Nofeembar 9, 1996), oo caan ku ah magaca Mom ( Kuuriya : 모모; Jabaani : モ モ), waa heesaa Jabbaan ah oo hadda ku sugan Koonfur Kuuriya, waxay xubin ka tahay kooxda gabdhaha Twice ee ay sameysay JYP Entertainment .
+
+K-pop
+
+J-pop
+
+Fanaan
+
+JYP
+
+Warner Japan
+
+Twice
+
+JYP Nation
+
+
+# Infobox
+
+- **Magaca dhalashada**: Momo Hirai
+- **Dhashay**: ( 1996-11-09 ) Nofeembar 9, 1996 ( 28jir) Kyōtanabe , Jabaan
+- **Nooca fanka**: K-pop J-pop
+- **shaqada**: Fanaan
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2015–hada
+- **Calaamadaha**: JYP Warner Japan
+- **Falalka la xiriira**: Twice JYP Nation
+
+
+# Tables
+
+## Table 1
+| Momo 平井もも |
+| --- |
+| Magaca dhalashada | Momo Hirai |
+| Dhashay | ( 1996-11-09 ) Nofeembar 9, 1996 ( 28jir) Kyōtanabe , Jabaan |
+| Nooca fanka | K-pop J-pop |
+| shaqada | Fanaan |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2015–hada |
+| Calaamadaha | JYP Warner Japan |
+| Falalka la xiriira | Twice JYP Nation |

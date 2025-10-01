@@ -1,0 +1,8 @@
+title:
+XML
+
+url:
+https://so.wikipedia.org/wiki?curid=36597
+
+text:
+Luqadda Calaamadaynta La Fidi karo (XML-gaaban) waa luqad calaamadeyn ah sida &lt;a href="HTML"&gt;HTML&lt;/a&gt; laakiin waa la bixin karaa. Waxaa abuurey daladda mareegaha caalamiga ah (W3C). XML wuxuu qeexayaa xeerarka dhismaha &lt;a href="dukumeent"&gt;dukumeent&lt;/a&gt;iga. XML waxay ku daraa macnaha guud ee macluumaadka ku jira dukumeentiga. Ma sheegayo sida tan loo soo bandhigayo.

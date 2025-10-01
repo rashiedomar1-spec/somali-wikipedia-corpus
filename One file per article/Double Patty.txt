@@ -1,0 +1,52 @@
+title:
+Double Patty
+
+url:
+https://so.wikipedia.org/wiki?curid=33790
+
+text:
+Double Patty (더블패티; Deobeulpaeti ) waa filim ah Koonfur Kuuriya oo 2021 oo uu hogaaminayo Baek Seung-hwan. Filimku wuxuu jilaa Shin Seung-ho and Bae Joo-hyun . [ 1 ]
+
+Tix
+
+Shin Seung-ho
+
+Bae Joo-hyun
+
+kth
+
+Pancinema
+
+Febraayo 17, 2021 ( 2021-02-17 )
+
+
+# Infobox
+
+- **Directed by**: Baek Seung-hwan
+- **Written by**: Baek Seung-hwan
+- **Produced by**: Baek Seung-hwan
+- **Starring**: Shin Seung-ho Bae Joo-hyun
+- **Cinematography**: Shin Hyeon-gyu
+- **Edited by**: Kim Seong-hoon
+- **Music by**: Lee Sang-hoon
+- **Production company**: Baekgeurim
+- **Distributed by**: kth Pancinema
+- **Release date**: Febraayo 17, 2021 ( 2021-02-17 )
+
+
+# Tables
+
+## Table 1
+| Double Patty |
+| --- |
+| Template:Film name |
+| Directed by | Baek Seung-hwan |
+| Written by | Baek Seung-hwan |
+| Produced by | Baek Seung-hwan |
+| Starring | Shin Seung-ho Bae Joo-hyun |
+| Cinematography | Shin Hyeon-gyu |
+| Edited by | Kim Seong-hoon |
+| Music by | Lee Sang-hoon |
+| Production company | Baekgeurim |
+| Distributed by | kth Pancinema |
+| Release date | Febraayo 17, 2021 ( 2021-02-17 ) |

@@ -1,0 +1,39 @@
+title:
+Ukatny Jasiiradda
+
+url:
+https://so.wikipedia.org/wiki?curid=23981
+
+text:
+Ukatny Jasiiradda
+
+Kazakhstan
+
+Ukatnyy ama Ukatny waa jasiirad ku taal badda woqooyiga Caspian . Waxay ku taallaa dhinaca bari ee afka afka Volga. [1] [2]
+Ukatnyy Island waa dabayl. Waxay leedahay dherer ahaan 6.2 km iyo ugu badnaantii 4.3 km. Waxay ku taal aagga saliidda soo saara.
+Ukatnyy waa jasiirad lagu muransan yahay. [3] Sida laga soo xigtay Ruushka, jasiiraddan waxaa iska leh dhulalka Astrakhan ee Ruushka, laakiin Kazakhstan waxay u malayn jireen jasiiradda inay qayb ka ahayd dhulkeeda taariikheed oo ay ku jirto gobolka Atyrau [4] Jasiiradaha kale ee lagu muransan yahay [5] meel u dhow Ukatny waa kuwan soo socda:
+
+sido kale fiiri
+
+
+# Infobox
+
+- **Sea**: Caspian Sea
+- **Territory status**: Disputed island
+- **Countries**: Russia / Kasakhstan
+- **Area**: 14.9 km 2 (5.8 sq mi)
+
+
+# Tables
+
+## Table 1
+| Ukatnyy |
+| --- |
+| Disputed island |
+| Map of Ukatnyy Island |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Caspian Sea" does not exist. |
+| Sea | Caspian Sea |
+| Territory status | Disputed island |
+| Countries | Russia / Kasakhstan |
+| Area | 14.9 km 2 (5.8 sq mi) |

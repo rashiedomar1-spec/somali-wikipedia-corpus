@@ -1,0 +1,45 @@
+title:
+Hay'adda Duulista Rayidka Iyo Saadaasha Hawada Soomaaliyeed
+
+url:
+https://so.wikipedia.org/wiki?curid=23441
+
+text:
+Hay'adda Duulista Rayidka Iyo Saadaasha Hawada Soomaaliyeed ( Af-Ingiriis : Somali Civil Aviation and Meteorology Authority) SCAMA waa Hay'adda Qaranka ee Duulista Rayidka Soomaaliya . Xarunteedu waxay ku taallaa Gegada Diyaaradaha ee Aadan Cadde ee caasimadda Muqdisho , ee hoos tegta wasaaradda gaadiidka iyo barriga. Sannadku markuu ahaa 2012 wasaaradda iyo guddiga duulista rayidka ee Soomaaliya dajiyeen qorshe lagu unkayo muddo saddex sano ah si dib loogu yegleelo awoodda ha'adda qaranka ee duulista rayidka ah. Mudda dheer kaddib oo ay maamulaysay CACAS, SCAMA waxay la shaqaynaysay ICAO waxayna soo gabagabowday 2014 lana soo wareegtay Hay'adda Duulista Rayidka Iyo Saadaasha Hawada Soomaaliyeed.
+
+Taariikh
+
+CACAS
+
+Xilligii Ku meel gaarka
+
+Hagista Hawada Soomaaliy
+
+cadaraaxo
+
+Wasaaradda Gaadiidka iyo Saadaasha Hawada, Maxamed C/llahi Oomaar
+
+Yusuf Abdi Abdulle Jaalle, Agaasimaha guud
+
+
+# Infobox
+
+- **Hoos-tegta**: Somalia
+- **Xarunta sare**: Mogadishu
+- **Wasiirka wakiilka ah**: Wasaaradda Gaadiidka iyo Saadaasha Hawada, Maxamed C/llahi Oomaar
+- **Agency executive**: Yusuf Abdi Abdulle Jaalle, Agaasimaha guud
+- **Website**: scama.so
+
+
+# Tables
+
+## Somali Civil Aviation and Meteorology Authority
+| Hay'adda Duulista Rayidka Iyo Saadaasha Hawada Soomaaliyeed |
+| --- |
+|  |
+| Waxbixin Wakaalada |
+| Hoos-tegta | Somalia |
+| Xarunta sare | Mogadishu |
+| Wasiirka wakiilka ah | Wasaaradda Gaadiidka iyo Saadaasha Hawada, Maxamed C/llahi Oomaar |
+| Agency executive | Yusuf Abdi Abdulle Jaalle, Agaasimaha guud |
+| Website | scama.so |

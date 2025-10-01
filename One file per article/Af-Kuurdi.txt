@@ -1,0 +1,31 @@
+title:
+Af-Kuurdi
+
+url:
+https://so.wikipedia.org/wiki?curid=41876
+
+text:
+Af-Kuurdi waa luqada
+
+Af-Kuurdi
+
+
+# Infobox
+
+- **Gobolka**: Kuurdistaan Ciraaqiya, Suuriya, Iiraan, Turkiga
+- **Qoomiyada**: Kuurdi
+- **Qoyska luqada**: Af-Kuurdi
+- **ISO 639-3**: –
+
+
+# Tables
+
+## Table 1
+| Af-Kuurdi |
+| --- |
+|  |
+| Gobolka | Kuurdistaan Ciraaqiya, Suuriya, Iiraan, Turkiga |
+| Qoomiyada | Kuurdi |
+| Qoyska luqada | Af-Kuurdi |
+| Koodka luqada |
+| ISO 639-3 | – |

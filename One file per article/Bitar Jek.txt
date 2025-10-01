@@ -1,0 +1,28 @@
+title:
+Bitar Jek
+
+url:
+https://so.wikipedia.org/wiki?curid=34404
+
+text:
+Bitar Jek (dashay 20 Maajo 1982) Xirfad yahan hore ee Kubadda Cagta kaasoo hada ah lataliye dhanka farsamada iyo waxqabadka naadiga Ingiriiska ee Jelsi NK . sido kale wuxu kaso ciyaaray Xeegada Barafka goolhaye ahaan naadiga Giildifordi Finikis. Sida ay sheegaya qaar kamida Ciyaaryahanada, Khabiiro iyo tababarayasha inuu kamid yahay goolhayaasha ugu wanaagsan abid soo mara kubada kagta. Waxa lugu muransan yahay isaga iyo Bitar ishmaykal inay yihiin kuwa ugu wanaagsan ee soo mara horyaalka ingiriiska.
+
+
+# Infobox
+
+- **Dhashay**: 20 Maajo 1982 (39 Jir)
+- **Ku dhashay**: Bilsen, Jikosolofakiya
+- **Joogga**: 1.96 m (6 cg 5 in)
+- **Booska cayaarta**: Goolhaye
+
+
+# Tables
+
+## Bitar Jek
+| Jek oo usafan Jelsi 2013 |
+| --- |
+| Macluumaad Xirfadeed |
+| Dhashay | 20 Maajo 1982 (39 Jir) |
+| Ku dhashay | Bilsen, Jikosolofakiya |
+| Joogga | 1.96 m (6 cg 5 in) |
+| Booska cayaarta | Goolhaye |

@@ -1,0 +1,26 @@
+title:
+Isku dhis
+
+url:
+https://so.wikipedia.org/wiki?curid=12381
+
+text:
+= Isku Dhis =
+Isku dhis (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: compound) waa &lt;a href="falgal"&gt;falgal&lt;/a&gt;ka &lt;a href="labo"&gt;labo&lt;/a&gt; ama in badan oo &lt;a href="atom"&gt;atom&lt;/a&gt;ka &lt;a href="curiye"&gt;curiye&lt;/a&gt; ah, kuwaas oo soo saara &lt;a href="walax"&gt;walax&lt;/a&gt; cusub. 
+Isku dhisku waa mid labo gees ah oo marka &lt;a href="tiro"&gt;tiro&lt;/a&gt; atomyo ah isdhex-galaan dib ayaa loo kala saari karaa haddii loo baahdo. 
+Tusaale ahaan:
+Ayadoo la isticmaalayo &lt;a href="Heerkul"&gt;Heerkul&lt;/a&gt; qiyaasan ayaa 
+&lt;a href="labo"&gt;labo&lt;/a&gt; &lt;a href="atom"&gt;atom&lt;/a&gt; oo &lt;a href="Haydarojiin"&gt;Haydarojiin&lt;/a&gt; iyo &lt;a href="hal"&gt;hal&lt;/a&gt; atom oo [Ogsajiin]] ah la isla &lt;a href="falgal"&gt;falgal&lt;/a&gt;in, waxana soo baxaya "Isku dhiska" [[biyo]. 
+2[[H]] + 1[[O]] = [[H2O]]
+= Qeybaha Isku Dhisyada =
+= Isku Dhisyada Dabiiciga =
+= Fal-galka Curiyeha =
+= Isticmaalka Isku Dhiska =
+[[Category:Saynis]]
+[[Category:Heerkul]]
+[[Category:Falgal]]
+[[Category:Isku dhis]]
+[[Category:Diwaanka Curiye]]
+[[Category:Waxbarsho]]
+[[Category:Kimisteri]]
+[[Category:Curiye]]

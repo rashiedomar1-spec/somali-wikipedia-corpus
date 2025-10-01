@@ -1,0 +1,20 @@
+title:
+Iskudhufasho
+
+url:
+https://so.wikipedia.org/wiki?curid=13326
+
+text:
+Iskudhufasho (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: multiply) astaanta calaamada u ah (&lt;a href="x"&gt;x&lt;/a&gt;) waa hab la iskugu dhufto &lt;a href="lambar"&gt;lambar&lt;/a&gt;ada &lt;a href="tiro"&gt;tirada&lt;/a&gt; &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta. Iskudhufashadu waxay ka mid tahay &lt;a href="afar"&gt;afar&lt;/a&gt;ta hab ee &lt;a href="aasaaska%20xisaabta"&gt;aasaaska xisaabta&lt;/a&gt;. 
+Si ka duwan &lt;a href="iskugeyn"&gt;iskugeyn&lt;/a&gt;ta, &lt;a href="kalagoyn"&gt;kalagoyn&lt;/a&gt;ta iyo &lt;a href="iskuqaybin"&gt;iskuqaybin&lt;/a&gt;ta ayaa Iskudhufashadu waa isku-jeer laabka &lt;a href="lambar"&gt;lambar&lt;/a&gt;ada la isku dhufanayo. Tusaale ahaan, &lt;a href="2"&gt;2&lt;/a&gt; lagu dhuftey (x) &lt;a href="3"&gt;3&lt;/a&gt; wadarta iyo jawaabtu waa labo jeer laabka lambarka 3 oo ah (&lt;a href="3"&gt;3&lt;/a&gt; &lt;a href="%2B"&gt;+&lt;/a&gt; &lt;a href="3"&gt;3&lt;/a&gt; = &lt;a href="6"&gt;6&lt;/a&gt;). Sidoo kale, lambarka &lt;a href="6"&gt;6&lt;/a&gt; haddii lagu dhufto &lt;a href="8"&gt;8&lt;/a&gt; wadarta iyo jawaabtu waa lix-jeer laabka lambarka 8 taasi oo u dhiganta 8 + 8 + 8 + 8 + 8 + 8 = 48. 
+Labo tiro marka la isku dhufto wixii ka soo baxa waxaa loo yaqaanaa &lt;a href="Wadar"&gt;Wadar&lt;/a&gt;.
+Tusaale ahaa:
+= Hordhac =
+Ku dhufasho (calaamad "×") &lt;a href="xisaab"&gt;xisaab&lt;/a&gt; ahaan waa taranka tiro ee tiro kale.
+formula_1
+formula_2
+= Sharciga Iskudhufashada =
+&lt;a href="lambar"&gt;lambar&lt;/a&gt;ka &lt;a href="eber"&gt;eber&lt;/a&gt; (&lt;a href="0"&gt;0&lt;/a&gt;) tiro kasta oo lagu dhufto &lt;a href="wadar"&gt;wadar&lt;/a&gt;ta iyo jawaabta soo baxaysaa waa eber (0). Sidaas darteed sharciga iskudhufashada lambarka eber waa jawaab ah eber. 
+Dhinaca kale, lambarka &lt;a href="kow"&gt;kow&lt;/a&gt; (&lt;a href="1"&gt;1&lt;/a&gt;) tiro kasta oo lagu dhufto wax isbedel ah kuma imanayo, sidaas darteed lambar kow waa ismabedelaha iskudhufasho.
+= Jadwalka Aasaaska Iskudhufashada =
+=Tixraac=

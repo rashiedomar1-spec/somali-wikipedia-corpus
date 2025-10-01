@@ -1,0 +1,18 @@
+title:
+KCON
+
+url:
+https://so.wikipedia.org/wiki?curid=35446
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;230262&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-02-04T17:50:51Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Lia15Lo&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;230263&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+KCON waa shir sannadeedka &lt;a href="mawjada%20Kuuriya"&gt;mawjada Kuuriya&lt;/a&gt; oo lagu qabto meelo adduunka oo dhan ah, oo ay samaysay &lt;a href="Koreaboo"&gt;Koreaboo&lt;/a&gt; oo ay soo abaabushay &lt;a href="CJ%20E%26amp%3BM"&gt;CJ E&amp;M&lt;/a&gt;. Waxaa markii ugu horreysay lagu qabtay &lt;a href="Koonfurta%20Kaliforniya"&gt;Koonfurta Kaliforniya&lt;/a&gt; sida KCON 2012 waxayna tan iyo markaas ku fidday siddeed waddan illaa 2018.

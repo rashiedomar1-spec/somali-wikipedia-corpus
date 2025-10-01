@@ -1,0 +1,28 @@
+title:
+Puntland Post
+
+url:
+https://so.wikipedia.org/wiki?curid=17600
+
+text:
+Puntland Post waa warbaahin fadhigeedu yahay Garowe, Puntland. Waxaa la asaasay sanadkii 2001, waxaana asaasay qurbajoog soomaaliyeed oo reer Denmark ah. Puntland Post waa website laga daalacdo wararka Puntland iyo Soomaaliya, waxa uuna leeyahay Joornal todobaad leh oo isla magaciisa wata.
+
+Eeg waliba
+
+Puntland Post
+
+
+# Infobox
+
+- **Cinwaanka**: www.puntlandpost.com
+- **Nooca site**: news website
+- **Diyaar ku ah**: Soomaali , Ingiriis
+
+
+# Tables
+
+## Puntland Post
+| Cinwaanka | www.puntlandpost.com |
+| --- | --- |
+| Nooca site | news website |
+| Diyaar ku ah | Soomaali , Ingiriis |

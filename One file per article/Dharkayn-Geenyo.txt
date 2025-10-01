@@ -1,0 +1,34 @@
+title:
+Dharkayn-Geenyo
+
+url:
+https://so.wikipedia.org/wiki?curid=10046
+
+text:
+Dharkayn-Geenyo Waa Degmo Ka Tirsan Gobolka Sool , Waqooyibari . Waxay Hilaadii 70KM dhanka Koonfur Galbeed Kaga Beegan tahay Magaalada Laascaanood Ee Xarunta Gobolka Sool, Dharkayn-geenyo Waa Magalo Qadiim ah Waxaana ay leedahay Taariikh soo jireen ah.
+
+Dharkayn-Geenyo Waxay Xarun u ahayd Halgankii Barakaysnaa Ee Daraawiishta, Magaca Maagaaladu Wuxuu Ka Kooban Yahay Labo Magac Oo Kala ah Dharkayn Iyo Geenyo, Magacan Wuxuu ku baxay Dhacdo Taariikh ah
+oo lawada garanayo
+dharkayn geenyo waxay mar xarun u ahayd ciidankii SSC ee halganka waday 2010 ee xoraynta gobolada SSC 
+Dharkayn wa meesha xad beenaadka  Soomaaliya iyo Itoobiya u dhexeeya uu maro. Waxaa ka socda horumar balaadhan oo dhinac kasta xaga diinta,maadiga,siyaasadda,dhaqaalaha,waxay deris la ledahay Degmada Faacween Ee  Domco ee 
+waxa kuso noqnoqday dagaalo uu dheexya maamulada  SSC KhaaTumo  SNm ilahay hakala qaboojiyo. Waxaa deggan  beelaha Ciid-Nugaal, ama Si'iid Harti ama reer darawiish .
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Gobolka**: Sool
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Dharkayn Geenyo Darkein Genyo |
+| --- |
+| Town |
+|  |
+| Dharkayn Geenyo Location in Somalia. |
+| Country | Somalia |
+| Gobolka | Sool |
+| Aag saacadeed | UTC+3 ( EAT ) |

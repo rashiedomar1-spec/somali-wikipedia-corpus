@@ -1,0 +1,9 @@
+title:
+Freestyle Script
+
+url:
+https://so.wikipedia.org/wiki?curid=23625
+
+text:
+Freestyle Script waa &lt;a href="font"&gt;font&lt;/a&gt; waxaas &lt;a href="Martin%20Wait"&gt;Martin Wait&lt;/a&gt; waxaa loogu talagalay gudaha 1981. "Bold" werin ee Freestyle Script ahaa loogu talagalay 1986. &lt;a href="Adobe%20Systems"&gt;Adobe&lt;/a&gt;, &lt;a href="International%20Typeface%20Corporation"&gt;ITC&lt;/a&gt; iyo &lt;a href="Letraset"&gt;Letraset&lt;/a&gt; waa daabacayaasha ee Freestyle Script. Waxay leedahay 4 noocyada: Regular, Bold, SH Reg Alt, iyo SB Reg Alt.
+= Xigasho =

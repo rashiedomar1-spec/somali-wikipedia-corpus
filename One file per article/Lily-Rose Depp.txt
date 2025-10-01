@@ -1,0 +1,33 @@
+title:
+Lily-Rose Depp
+
+url:
+https://so.wikipedia.org/wiki?curid=33440
+
+text:
+Lily-Rose Melody Depp (dhashay 27 May 1999) [ 1 ] waa atariisho Faransiis-Mareykan ah iyo moodel, waa gabadha jilaa Johnny Depp iyo Vanessa Paradis . [ 2 ] Tan iyo 2015, waxay ahayd safiirka astaanta Shanel .
+
+Tixraacyada
+
+Johnny Depp
+
+Vanessa Paradis
+
+
+# Infobox
+
+- **Ku dhashay**: Lily-Rose Melody Depp ( 1999-05-27 ) 27 Maajo 1999 ( 26jir) Neuilly-sur-Seine
+- **Sanadaha Shaqada**: 2014–hada
+- **Dhererka**: 5 ft 5 in (165 cm)
+- **Waalidka**: Johnny Depp Vanessa Paradis
+
+
+# Tables
+
+## Table 1
+| Lily-Rose Depp |
+| --- |
+| Ku dhashay | Lily-Rose Melody Depp ( 1999-05-27 ) 27 Maajo 1999 ( 26jir) Neuilly-sur-Seine |
+| Sanadaha Shaqada | 2014–hada |
+| Dhererka | 5 ft 5 in (165 cm) |
+| Waalidka | Johnny Depp Vanessa Paradis |

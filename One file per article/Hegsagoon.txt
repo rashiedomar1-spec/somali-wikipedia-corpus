@@ -1,0 +1,19 @@
+title:
+Hegsagoon
+
+url:
+https://so.wikipedia.org/wiki?curid=38031
+
+text:
+Hegsagoonku waa mid ka mid ah shanaadaha iyo roobabka lixdan, oo loo yaqaan tessellation . Waxaa loo isticmaali karaa sida ee qaadista dhulka iyo waxaa ka mid ah dhaqdhaqaaqa, sidaas darteeda, sharaxaadaha shaahka oo ka kooban shanaadaha shan-jeexa ee ku jira bariisiga.
+
+A = (3√3/2) × s^2
+
+P = 6 × s
+
+
+# Tables
+
+## Table 1
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Hegsagoon |
+| --- | --- |

@@ -1,0 +1,8 @@
+title:
+Soomaali HMS (F33)
+
+url:
+https://so.wikipedia.org/wiki?curid=23238
+
+text:
+HMS "Somali" wuxuu ahaa &lt;a href="markab%20dagaal"&gt;markab dagaal&lt;/a&gt; laga leeyahay wadanka &lt;a href="UK"&gt;Boqortooyadii Ingiriiska&lt;/a&gt; kaasi oo loogu magac-daray &lt;a href="Eritrean"&gt;Dadka Soomaalida&lt;/a&gt;. Markabkan waxaa la dhisay 1937 wuxuuna ka qeyb galay &lt;a href="Dagaalkii%20Labaad%20ee%20Aduunka"&gt;Dagaalkii Labaad ee Aduunka&lt;/a&gt;.

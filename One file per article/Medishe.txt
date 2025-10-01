@@ -1,0 +1,37 @@
+title:
+Medishe
+
+url:
+https://so.wikipedia.org/wiki?curid=29696
+
+text:
+Somaliland Medishe waa tuulo ku taal Gobolka Sabaag waxana Dega Beelaha Muuse Ismaaciil Carre gaar ahaan Cabdalle Xaamud
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Region**: Sanaag
+- **District**: Fiqifuliye
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Medishe |
+| --- |
+| Town |
+|  |
+| Nickname(s): dhulkii Ugaadhyahan |
+| Medishe Location in Somaliland. |
+| Coordinates: 10°45′22″N 47°35′8″E ﻿ / ﻿ 10.75611°N 47.58556°E ﻿ / 10.75611; 47.58556 Coordinates : 10°45′22″N 47°35′8″E ﻿ / ﻿ 10.75611°N 47.58556°E ﻿ / 10.75611; 47.58556 |
+| Country | Somaliland |
+| Region | Sanaag |
+| District | Fiqifuliye |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+10.75611; 47.58556

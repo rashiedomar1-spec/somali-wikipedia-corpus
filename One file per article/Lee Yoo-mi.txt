@@ -1,0 +1,30 @@
+title:
+Lee Yoo-mi
+
+url:
+https://so.wikipedia.org/wiki?curid=34948
+
+text:
+Lee Yoo-mi ( Kuuriya : 이유미 ; Luuliyo 18, 1994) waa atariisho Koonfur Kuuriya ah. Waxay caan ku tahay doorkeeda sida Ji-yeong ee taxanaha telefishanka 2021, Squid Game .
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1994-07-18 ) Luuliyo 18, 1994 ( 31jir)
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2010–hada
+- **Wakiil**: Varo Entertainment
+
+
+# Tables
+
+## Table 1
+| Lee Yoo-mi |
+| --- |
+| Lee ee 2024 |
+| Ku dhashay | ( 1994-07-18 ) Luuliyo 18, 1994 ( 31jir) |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2010–hada |
+| Wakiil | Varo Entertainment |

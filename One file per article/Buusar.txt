@@ -1,0 +1,8 @@
+title:
+Buusar
+
+url:
+https://so.wikipedia.org/wiki?curid=6833
+
+text:
+Buusar waa degmo ku taalo gobolka &lt;a href="Gedo"&gt;Gedo&lt;/a&gt;

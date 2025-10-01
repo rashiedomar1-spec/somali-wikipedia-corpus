@@ -1,0 +1,42 @@
+title:
+Ubay bin kacab
+
+url:
+https://so.wikipedia.org/wiki?curid=37058
+
+text:
+ubay bin kacab waa saxaabi ka mid ah ansaarta wuxuu aad ugu dheereeyay quraanka , wuxuu noqday qoraaga waxyiga xiligii rasuulka scw, sidoo kale wuxuu ku jiraa afar qof kulmiyeen quraanka intuu noolaa rasuulka scw , uabay daraja wuxuu gaaray heer loogu yeero muslimiinta dhexdooda "sayidka al-quraa [ 1 ]
+
+Xigasho
+
+
+# Infobox
+
+- **aabihiisa:**: kacab bin qeys
+- **hooyadii**: suheyla binti aswad
+- **Ku dhashay:**: madiina
+- **Diintiisa:**: Islaam
+- **xaaska**: umu dufeyl bin dufeyl bin camar al-dows
+- **ilmahiisa**: dufeyl iyo muxamad
+- **Shaqada**: qoraaga waxyiga, xaafid quraan
+- **Dhintay:**: 30H /651
+- **Ku dhintay:**: madiina
+
+
+# Tables
+
+## Table 1
+| ubay bin kacab أبي بن كعب |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: | kacab bin qeys |
+| hooyadii | suheyla binti aswad |
+| Dhashay: |  |
+| Ku dhashay: | madiina |
+| Diintiisa: | Islaam |
+| xaaska | umu dufeyl bin dufeyl bin camar al-dows |
+| ilmahiisa | dufeyl iyo muxamad |
+| Shaqada | qoraaga waxyiga, xaafid quraan |
+| Dhintay: | 30H /651 |
+| Ku dhintay: | madiina |

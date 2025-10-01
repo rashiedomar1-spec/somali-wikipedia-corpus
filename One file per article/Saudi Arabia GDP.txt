@@ -1,0 +1,21 @@
+title:
+Saudi Arabia GDP
+
+url:
+https://so.wikipedia.org/wiki?curid=35051
+
+text:
+Saudi Arabia GDP
+&lt;a href="Aasiya"&gt;Aasiya&lt;/a&gt;
+1970.
+7 Billion dollars
+1980.
+164 Billion dollars
+1990.
+117 Billion dollars
+2000.
+189 Billion dollars
+2010.
+736 Billion dollars
+2020.
+700 Billion dollars

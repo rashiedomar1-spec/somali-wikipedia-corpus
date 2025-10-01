@@ -1,0 +1,8 @@
+title:
+Turunbo
+
+url:
+https://so.wikipedia.org/wiki?curid=12912
+
+text:
+Turunbo waa ul ka samaysan alwaax ama qori oo la afuufo si ay shanqadh &lt;a href="cod"&gt;cod&lt;/a&gt; &lt;a href="muusik"&gt;muusik&lt;/a&gt;o u samayso.

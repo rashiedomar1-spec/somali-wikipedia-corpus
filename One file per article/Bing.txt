@@ -1,0 +1,50 @@
+title:
+Bing
+
+url:
+https://so.wikipedia.org/wiki?curid=17193
+
+text:
+Kani waa maqaal ku saabsan barta waxraadinta internetka ee Shirkada Microsoft .
+
+Kani waa maqaal ku saabsan barta waxraadinta internetka ee Shirkada Microsoft .
+
+Bing (wakhtiyadii hore loo yaqaanay Live Search , Windows Live Search , iyo MSN Search ) waa Bar Wax Raadin (midaasi oo lagu xayeeysiiyo ineey tahay "bar raadin go'aan qaadan karta" [ 3 ] ) leedahay shirkada caanka ah ee Microsoft .
+
+Bing waxaa si shaaric ah ugu dhawaaqay madaxa sare ee Microsoft Steve Ballmer bishii Maay0 28, 2009. [ 4 ] [ 5 ] [ 6 ]
+
+
+# Infobox
+
+- **Cinwaanka**: www.bing.com
+- **Gabaygu**: Bing ku shaqeyso. (2012) Raadi oo go'aami (2009)
+- **Ganacsi?**: Yes
+- **Nooca site**: Bar Wax Raadin
+- **Diiwaan-gelin**: Ikhtiyaar (Ciwaan Microsoft)
+- **Diyaar ku ah**: 40 luuqadood
+- **Written in**: ASP.NET [ 1 ]
+- **Mulkiilaha**: Microsoft
+- **Farsamada**: Microsoft
+- **La bilaabay isticmaalka**: 1, 2009 ; 16 sanadood ka hor ( 2009-06-01 )
+- **Alexa garaado**: 27 (July 2015 [update] ) [ 2 ]
+- **Hada**: Shaqeyneysa
+
+
+# Tables
+
+## Bing
+|   |
+| --- |
+| Screenshot Ciwaanka sare ee Bing Ogosto 2015 Ciwaanka sare ee Bing Ogosto 2015 waa sawir ama sawir-socde isbedela maalin kasta. |
+| Cinwaanka | www.bing.com |
+| Gabaygu | Bing ku shaqeyso. (2012) Raadi oo go'aami (2009) |
+| Ganacsi? | Yes |
+| Nooca site | Bar Wax Raadin |
+| Diiwaan-gelin | Ikhtiyaar (Ciwaan Microsoft) |
+| Diyaar ku ah | 40 luuqadood |
+| Written in | ASP.NET [ 1 ] |
+| Mulkiilaha | Microsoft |
+| Farsamada | Microsoft |
+| La bilaabay isticmaalka | 1, 2009 ; 16 sanadood ka hor ( 2009-06-01 ) |
+| Alexa garaado | 27 (July 2015 [update] ) [ 2 ] |
+| Hada | Shaqeyneysa |

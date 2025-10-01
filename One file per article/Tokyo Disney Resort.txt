@@ -1,0 +1,8 @@
+title:
+Tokyo Disney Resort
+
+url:
+https://so.wikipedia.org/wiki?curid=36583
+
+text:
+&lt;a href="Tokyo%20Disney%20Resort"&gt;Tokyo Disney Resort&lt;/a&gt; waa baarkin ku yaal &lt;a href="Jabaan"&gt;Jabaan&lt;/a&gt;, oo bari ka xigta &lt;a href="Tokyo"&gt;Tokyo&lt;/a&gt;.

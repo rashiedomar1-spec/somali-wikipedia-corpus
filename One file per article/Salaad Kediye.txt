@@ -1,0 +1,43 @@
+title:
+Salaad Kediye
+
+url:
+https://so.wikipedia.org/wiki?curid=17139
+
+text:
+Salaad Gabeyre Kediye ( Af Carabi : لاسعانود ‎) sidoo kale loo yaqaan Salah Gaveire Kedie (1933-1972) waa guud iyo kacdoonka ah.
+
+Raadraaca
+
+Salaad gabeeyre
+
+Adam, Hussein Mohamed; Richard Ford. Red Sea Press. ISBN 1-56902-073-6 http://books.google.ca/books?id=0m9yAAAAMAAJ . Maqan ama ebar |title= ( caawin )
+
+Andrew, Christopher M.; Vasili Mitrokhin. Basic Books. ISBN 0-465-00311-7 http://books.google.ca/books?id=4eSR1rHg5_YC . Maqan ama ebar |title= ( caawin )
+
+Lipschutz, Mark R.; R. Kent Rasmussen. University of California Press. ISBN 0-520-06611-1 http://books.google.ca/books?id=QYoPkk04Yp4C . Maqan ama ebar |title= ( caawin )
+
+
+# Infobox
+
+- **Dhashay**: 1933 Xarardheere , Soomaaliya
+- **Dhintay**: 1972 Muqdisho , Soomaaliya
+- **U daacada**: Soomaaliya
+- **Ka howl gala/Qaybta**: Ciidanka Soomaaliya
+- **Sanadaha shaqada**: 1956-1971
+- **Darajeda**: Guud sarkaal
+- **Dagaalo/Dagaalo**: 1964 Border Conflict
+
+
+# Tables
+
+## Table 1
+| Salaad Gabeyre Kediye صالاد غابييري خيدييي |
+| --- |
+| Dhashay | 1933 Xarardheere , Soomaaliya |
+| Dhintay | 1972 Muqdisho , Soomaaliya |
+| U daacada | Soomaaliya |
+| Ka howl gala/Qaybta | Ciidanka Soomaaliya |
+| Sanadaha shaqada | 1956-1971 |
+| Darajeda | Guud sarkaal |
+| Dagaalo/Dagaalo | 1964 Border Conflict |

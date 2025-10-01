@@ -1,0 +1,22 @@
+title:
+Nikel
+
+url:
+https://so.wikipedia.org/wiki?curid=12331
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;121488&lt;/parentid&gt;
+ &lt;timestamp&gt;2013-12-21T21:50:42Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Ismail4all&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;/* Nikel */&lt;/comment&gt;
+ &lt;origin&gt;121657&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+= Nikel =
+Nikel (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: Nickel) calaamad &lt;a href="Ni"&gt;Ni&lt;/a&gt; waa &lt;a href="curiye"&gt;curiye&lt;/a&gt; kimiko ah oo &lt;a href="tiro"&gt;tiro&lt;/a&gt;da &lt;a href="atom"&gt;atom&lt;/a&gt;kiisu tahay labaatan-iyo-&lt;a href="sideed"&gt;sideed&lt;/a&gt;. 
+Nikel waa &lt;a href="curiye"&gt;curiye&lt;/a&gt; &lt;a href="bir"&gt;bir&lt;/a&gt; oo leh midabka naxaasta oo wax yar cad. 
+Curiyehan wuxuu ku jiraa birta &lt;a href="Diwaanka%20Curiye"&gt;Diwaanka Curiye&lt;/a&gt;ha waxaana laga helaa oogada sare ee &lt;a href="dhul"&gt;dhul&lt;/a&gt;ka.

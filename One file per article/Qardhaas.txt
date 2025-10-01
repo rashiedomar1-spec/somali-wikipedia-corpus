@@ -1,0 +1,61 @@
+title:
+Qardhaas
+
+url:
+https://so.wikipedia.org/wiki?curid=8625
+
+text:
+Qardhaas Waa mid kamid ah joometeriya afar xagal leh, afartiisa dhinacna ay isla egyihiiin, waxa uuna u egyahay laba saddax-xagal oo kala jeeda oo hal sal ka dhaxeeya
+
+Bedka
+
+Bedka ama Badka Qardhaas waxaa loo xisaabi karaa afar qaab:
+
+A = a ⋅ h , {\displaystyle A=a\cdot h,}
+
+A C ¯ ⋅ S B ¯ 2 = A C ¯ ⋅ B D ¯ / 2 2 = A C ¯ ⋅ B D ¯ 4 {\displaystyle {\frac {{\overline {AC}}\cdot {\overline {SB}}}{2}}={\frac {{\overline {AC}}\cdot {\overline {BD}}/2}{2}}={\frac {{\overline {AC}}\cdot {\overline {BD}}}{4}}}
+
+A = d 1 ⋅ d 2 2 = A C ¯ ⋅ B D ¯ 2 , {\displaystyle A={{d_{1}\cdot d_{2}} \over {2}}={\frac {{\overline {AC}}\cdot {\overline {BD}}}{2}},}
+
+4 ⋅ a ⋅ r 2 = 2 ⋅ a ⋅ r = p ⋅ r {\displaystyle 4\cdot {\frac {a\cdot r}{2}}=2\cdot a\cdot r=p\cdot r} .
+
+A = p ⋅ r , {\displaystyle A=p\cdot r,}
+
+a 2 ⋅ sin ⁡ α = a ⋅ ( a ⋅ sin ⁡ α ) = a ⋅ h {\displaystyle {a^{2}\cdot \sin \alpha }=a\cdot (a\cdot \sin \alpha )=a\cdot h}
+
+A = a 2 ⋅ sin ⁡ α = a 2 ⋅ sin ⁡ β . {\displaystyle A={a^{2}\cdot \sin \alpha }={a^{2}\cdot \sin \beta }.}
+
+Barbaroolayaasha oo dhan, Waxa ay ka samaysmaan Salka a {\displaystyle a} , Waxa ay la jaan qaadeeysaa dhinacyada iyo jooga h {\displaystyle h} : A = a ⋅ h , {\displaystyle A=a\cdot h,}
+
+Adigoo dhexroorka dheer ku dhifta d 1 {\displaystyle d_{1}} Dhexroorka gaaban d 2 {\displaystyle d_{2}} Oo aad markaas uqaybiso A C ¯ ⋅ S B ¯ 2 = A C ¯ ⋅ B D ¯ / 2 2 = A C ¯ ⋅ B D ¯ 4 {\displaystyle {\frac {{\overline {AC}}\cdot {\overline {SB}}}{2}}={\frac {{\overline {AC}}\cdot {\overline {BD}}/2}{2}}={\frac {{\overline {AC}}\cdot {\overline {BD}}}{4}}} Adigoo laba laaba si aan u helno A = d 1 ⋅ d 2 2 = A C ¯ ⋅ B D ¯ 2 , {\displaystyle A={{d_{1}\cdot d_{2}} \over {2}}={\frac {{\overline {AC}}\cdot {\overline {BD}}}{2}},}
+
+Adigoo ku dhufanaya goobada p {\displaystyle p} Gacanka r {\displaystyle r} Wareegeeda 4 ⋅ a ⋅ r 2 = 2 ⋅ a ⋅ r = p ⋅ r {\displaystyle 4\cdot {\frac {a\cdot r}{2}}=2\cdot a\cdot r=p\cdot r} . A = p ⋅ r , {\displaystyle A=p\cdot r,}
+
+Ugudamayntii adigoo uxisaaba sida afar xafal a {\displaystyle a} Xaglaha gudaha adigoo isku dhufta a 2 ⋅ sin ⁡ α = a ⋅ ( a ⋅ sin ⁡ α ) = a ⋅ h {\displaystyle {a^{2}\cdot \sin \alpha }=a\cdot (a\cdot \sin \alpha )=a\cdot h} A = a 2 ⋅ sin ⁡ α = a 2 ⋅ sin ⁡ β . {\displaystyle A={a^{2}\cdot \sin \alpha }={a^{2}\cdot \sin \beta }.}
+
+
+# Infobox
+
+- **Dhinacyada iyo Geesaha**: 4
+- **sumad shalafli**: { } + { }
+- **Wandharan**: D 2 (*2)
+- **Bed**: p q 2 {\displaystyle {\tfrac {pq}{2}}}
+- **Xagasha gudaha ( Darajada )**: Afar xagal
+- **Barbarrole**: Laydi
+- **Astaamaha**: Qaabtuureed leh
+
+
+# Tables
+
+## Table 1
+| Qardhaas |
+| --- |
+| Laba Qardhaas |
+| Dhinacyada iyo Geesaha | 4 |
+| sumad shalafli | { } + { } |
+| Sumada kokistar |  |
+| Wandharan | D 2 (*2) |
+| Bed | p q 2 {\displaystyle {\tfrac {pq}{2}}} |
+| Xagasha gudaha ( Darajada ) | Afar xagal |
+| Barbarrole | Laydi |
+| Astaamaha | Qaabtuureed leh |

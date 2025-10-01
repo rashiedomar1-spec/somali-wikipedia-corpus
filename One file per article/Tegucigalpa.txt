@@ -1,0 +1,8 @@
+title:
+Tegucigalpa
+
+url:
+https://so.wikipedia.org/wiki?curid=17236
+
+text:
+Tegucigalpa waa magaalo madaxda iyo saldhiga dowlada wadanka jamhuuriyada &lt;a href="Honduras"&gt;Honduras&lt;/a&gt; ee &lt;a href="Bartamaha%20Ameerika"&gt;Bartamaha Ameerika&lt;/a&gt;.

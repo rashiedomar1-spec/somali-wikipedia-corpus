@@ -1,0 +1,9 @@
+title:
+HTML
+
+url:
+https://so.wikipedia.org/wiki?curid=5056
+
+text:
+HyperText Markup Language (HTML) waa nooc ka mid ah &lt;a href="luqadda%20calaamadaynta"&gt;luqadda calaamadaynta&lt;/a&gt;. Waxaa loo isticmaalaa in lagu sameeyo boggaga &lt;a href="internet"&gt;internet&lt;/a&gt;ka. Bogagga mareegaha waxaa ku jiri kara qoraal, xiriirin, sawirro, iyo xitaa cod iyo muuqaal. HTML wuxuu u sheegaa daalacayaasha webka sida ay bogaggu u ekaan karaan. HTML wuxuu kaloo ku daraa macluumaadka meta boggaga internetka. Macluumaadka Meta waa macluumaadka ku saabsan bogga mareegaha tusaale, magaca qofka bogga sameeyay. Daalacashada shabakadu badanaa ma muujiyaan macluumaadka meta.
+=Tixraacyada=

@@ -1,0 +1,8 @@
+title:
+Dheddin
+
+url:
+https://so.wikipedia.org/wiki?curid=6004
+
+text:
+Dheddin waa geed ka baxo dalka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt; oo dhan ama &lt;a href="Geeska%20Afrika"&gt;Geeska Afrika&lt;/a&gt; oo dhan iyo &lt;a href="Bariga%20Dhexe"&gt;Bariga Dhexe&lt;/a&gt;, geedkaan waxaa laga sameeyaa luubaanta.

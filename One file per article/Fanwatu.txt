@@ -1,0 +1,65 @@
+title:
+Fanwatu
+
+url:
+https://so.wikipedia.org/wiki?curid=36799
+
+text:
+Fanwatu waa wadan ku yaal badweynta Baasifiga .  Luuqadaha rasmiga ah ee Fanwatu waa Bislama, Ingiriisi iyo Faransiis. Fanwatu waxay leedahay dad ka badan 250,000 oo qof.  Caasimada Fanwatu waa Bort Fila .  Dalka waxa gumaysi ahaan ka talinayay Ingiriiska iyo Faransiiska .  Waxay xornimadeedii heshay 1980kii.  Waqtigii gumeysiga, waxaa loo bixiyay "Hebrides-ka Cusub" ama "Nouvelles Hebrides".
+
+
+# Infobox
+
+- **Luqadaha rasmiga ah**: Af-Bislama Af-Ingiriisi Af-Faransiiska
+- **Dadka**: Ni-Vanuatu; Vanuatuan
+- **Xukunka**: Unitary Baarlamaanka
+- **Lacagta**: Vanuatu vatu ( VUV )
+- **Waqtiga**: VUT (Vanuatu Time) ( UTC +11)
+- **Wadista Baabuurta**: right
+- **Thiinada telka**: 678
+- **Furaha Internetka**: .vu
+
+
+# Tables
+
+## Table 1
+| Republic of Vanuatu Jamhuuriyadda Fanwatu République de Vanuatu |
+| --- |
+|  |  |  |  |  |
+|  |  |
+|  |  |
+| Hal ku dheg: " Long God yumi stanap " (In God we stand [ 1 ] [ 2 ] [ 3 ] ) |
+| Heesta qaranka: " Yumi, Yumi, Yumi " ("Anaga, anaga, anaga") |
+| Location of Fanuatu/ Vanuatu |
+| Magaalo madax Waa Magaalada ugu balaaran | Bort Fila 17°45′S 168°18′E ﻿ / ﻿ 17.750°S 168.300°E ﻿ / -17.750; 168.300 |
+| Luqadaha rasmiga ah | Af-Bislama Af-Ingiriisi Af-Faransiiska |
+| Qaybaha qoomiyedaha (1999) | Ni-Vanuatu 98.5% kale 1.5% |
+| Dadka | Ni-Vanuatu; Vanuatuan |
+| Xukunka | Unitary Baarlamaanka |
+| - | Madaxweynaha | Nikenike Vurobaravu |
+| - | Ra'iisul Wasaaraha | Bob Loughman |
+| Madaxbanaanida |
+| - | ka yimid Faransiiska iyo Boqortooyada Ingiriiska | 30 Luuliyo 1980 |
+| Baaxad |
+| - | Guud ahaan | 12,190 km 2 ( 161st ) 4,710 sq mi |
+| Tirada dadka |
+| - | qiyaasta | 224,564 (July 2011 est.) [ 4 ] |
+| - | 2009 Tirakoob | 243,304 [ 5 ] |
+| - | Mugga Dadka | 19.7/km 2 ( 188th ) 51/sq mi |
+| Wax soo saar ( PPP ) | 2010 qiyaastii |
+| - | Guud ahaan | $1.216 billion [ 6 ] |
+| - | Qof qof | $5,500 (2010 est.) [ 6 ] |
+| Wax soo saar (Iskaga magacaaban) | 2010 estimate |
+| - | Guud ahaan | $721 million [ 6 ] |
+| - | Calaa qof | $2,835 [ 6 ] |
+| Kobaca (2004) | 0.693 ( medium / 126th ) |
+| Lacagta | Vanuatu vatu ( VUV ) |
+| Waqtiga | VUT (Vanuatu Time) ( UTC +11) |
+| Wadista Baabuurta | right |
+| Thiinada telka | 678 |
+| Furaha Internetka | .vu |
+
+
+
+# Coordinates
+-17.750; 168.300

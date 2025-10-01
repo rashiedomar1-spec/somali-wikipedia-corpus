@@ -1,0 +1,8 @@
+title:
+OpenAI
+
+url:
+https://so.wikipedia.org/wiki?curid=38011
+
+text:
+OpenAI waa shirkadda waxbarasho ee &lt;a href="cilmi%20nabad%20sugidda"&gt;AI&lt;/a&gt;-yada &lt;a href="Mareykanka"&gt;Mareykanka&lt;/a&gt; oo qayb ka ah xarunta waxbarashada ee la qoray sanadka &lt;a href="2015"&gt;2015&lt;/a&gt; kaasoo la diiwaangeliyey Sam Altman, Reid Hoffman, Jessica Livingston, &lt;a href="Elon%20Musk"&gt;Elon Musk&lt;/a&gt;, Ilya Sutskever, Peter Thiel, Olivier Grabias iyo dad kale. Microsoft ayaa bixisay lacag $1 bilyan ah sanadka &lt;a href="2019"&gt;2019&lt;/a&gt; iyo lacag dheeraad ah oo ka socda sannadkii &lt;a href="2023"&gt;2023&lt;/a&gt;. Muraayaddaani waxay leedahay 375 xubnood (2023).

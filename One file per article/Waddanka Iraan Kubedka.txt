@@ -1,0 +1,80 @@
+title:
+Waddanka Iraan Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=33662
+
+text:
+Waddanka Iraan Kubedka
+
+Iiraan
+
+Kubedka Iran
+
+Dharka Kubedka
+
+Germany Uhlsport
+
+Sido Kale fiiri
+
+AFC
+
+FIFA
+
+AFC
+
+Dunida Tiroka 22
+
+2001 South Korea 1-0 Iran
+
+2003 Iran 3-0 Lebanon
+
+2009 China 1-0 Iran
+
+2021 United Arab Emirates 0-1 Iran
+
+1	GK	Alireza Beiranvand	12 September 1992 (age 29)	46	0	Portugal Boavista
+
+12	GK	Payam Niazmand	6 April 1995 (age 26)	1	0	Portugal Portimonense
+
+22	GK	Amir Abedzadeh	26 April 1993 (age 28)	5	0	Spain Ponferradina
+
+2	DF	Sadegh Moharrami	24 March 1996 (age 25)	10	0	Croatia Dinamo Zagreb
+
+3	DF	Saleh Hardani	14 September 1998 (age 23)	1	0	Iran Foolad
+
+4	DF	Shojae Khalilzadeh	31 May 1989 (age 32)	17	1	Qatar Al-Rayyan
+
+5	DF	Milad Mohammadi	29 September 1993 (age 27)	41	1	Greece AEK Athens
+
+13	DF	Hossein Kanaanizadegan	23 March 1994 (age 27)	24	2	Qatar Al-Ahli
+
+15	DF	Jafar Salmani	12 January 1997 (age 24)	2	0	Iran Esteghlal
+
+19	DF	Siavash Yazdani	27 February 1992 (age 29)	0	0	Iran Esteghlal
+
+21	DF	Omid Noorafkan	9 April 1997 (age 24)	5	0	Iran Sepahan
+
+6	MF	Saeid Ezatolahi	1 October 1996 (age 24)	36	1	Denmark Vejle
+
+7	MF	Alireza Jahanbakhsh (vice Captain)	11 August 1993 (age 28)	55	10	Netherlands Feyenoord
+
+8	MF	Ahmad Nourollahi	2 January 1993 (age 28)	16	2	United Arab Emirates Shabab Al-Ahli
+
+11	MF	Vahid Amiri	2 April 1988 (age 33)	59	2	Iran Persepolis
+
+14	MF	Saman Ghoddos	6 September 1993 (age 28)	27	2	England Brentford
+
+16	MF	Mehdi Torabi	10 September 1994 (age 27)	33	6	Iran Persepolis
+
+17	MF	Ali Gholizadeh	10 March 1996 (age 25)	15	5	Belgium Charleroi
+
+18	MF	Zobeir Niknafs	12 April 1993 (age 28)	0	0	Iran Esteghlal
+
+9	FW	Mehdi Taremi	18 July 1992 (age 29)	52	25	Portugal Porto
+
+10	FW	Karim Ansarifard (Captain)	3 April 1990 (age 31)	87	29	Greece AEK Athens
+
+20	FW	Sardar Azmoun	1 January 1995 (age 26)	56	37	Russia Zenit Saint Petersburg
+
+23	FW	Mehdi Ghayedi	5 December 1998 (age 22)	6	2	United Arab Emirates Shabab Al-Ahli

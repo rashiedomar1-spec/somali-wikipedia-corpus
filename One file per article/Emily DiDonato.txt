@@ -1,0 +1,30 @@
+title:
+Emily DiDonato
+
+url:
+https://so.wikipedia.org/wiki?curid=33396
+
+text:
+Emily DiDonato (dhashay Febraayo 24, 1991) waa moodel Marekyan ah. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1991-02-24 ) Febraayo 24, 1991 ( 34jir) Goshen, New York
+- **Shaqada**: Moodel
+- **Sanadaha Shaqada**: 2009–hada
+- **Xaasaska**: Kyle Peterson ( g. 2018)
+
+
+# Tables
+
+## Table 1
+| Emily DiDonato |
+| --- |
+| DiDonato ee 2016 |
+| Ku dhashay | ( 1991-02-24 ) Febraayo 24, 1991 ( 34jir) Goshen, New York |
+| Shaqada | Moodel |
+| Sanadaha Shaqada | 2009–hada |
+| Xaasaska | Kyle Peterson ( g. 2018) |

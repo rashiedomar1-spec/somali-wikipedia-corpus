@@ -1,0 +1,9 @@
+title:
+Badh
+
+url:
+https://so.wikipedia.org/wiki?curid=13607
+
+text:
+Badh
+Badh Bar ama Kala Badh (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: half) waa qeyb ama nus taasi oo &lt;a href="xisaab"&gt;xisaab&lt;/a&gt; ahaan loo qoro 1/2 ama &lt;a href="0.5"&gt;0.5&lt;/a&gt;

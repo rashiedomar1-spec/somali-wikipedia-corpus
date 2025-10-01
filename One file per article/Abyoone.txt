@@ -1,0 +1,24 @@
+title:
+Abyoone
+
+url:
+https://so.wikipedia.org/wiki?curid=14315
+
+text:
+Tirooyinka Abyoone waa tirooyin ay suutowdo in loo qori karo iyadoon la adeegsan Jajab ama hakad tobanaale , waxayna noqonaysaa urur tirooyin abyoone -taasoo ka dhigan Hormo urur ka tirsan urur tiro maangal ah - laga soo bilaabo Tiro tirsiimo (1, 2, 3, ..) iyo Eber iyo tirooyinka taban ee ku beegan tirooyinka tirsiimaha (-1, -2, -3, ..), waa in ay ahaadaan ururta tirooyinka abyoone Urur makoobane waxayna la mid yihiin urur tirooyin tirsiimaha, sida caadiga ah waxaa loo suntaa xarafka Z .
+
+Kuwaan soo socdana waa wax ka mkid ah aas aaska gaarka ah ee isugeynta iyo isku dhufada abyoone kasta a , b iyo c .
+
+
+# Tables
+
+## Astaamaha isugeynta iyo isku dhufashada ee abyoone
+|   | Isugeyn | Isku dhufasho |
+| --- | --- | --- |
+| oodnaan : | a + b waa abyoone | a × b waa abyoone |
+| Hormogalnimo : | a + ( b + c ) = ( a + b ) + c | a × ( b × c ) = ( a × b ) × c |
+| Xeerka kala-hormarinta : | a + b = b + a | a × b = b × a |
+| Jiritaanka ah Asalmadoorshe : | a + 0 = a | a × 1 = a |
+| Jiritaanka ah Weydaarka kutirsane : | a + (− a ) = 0 | Weydaarka kutirsane sida caadiga ah maba jiro. |
+| Kala dhigid : | a × ( b + c ) = ( a × b ) + ( a × c ) iyo ( a + b ) × c = ( a × c ) + ( b × c ) |
+| No Qaybiye eber: (*) |  | Haddii a × b = 0 , kadib a = 0 ama b = 0 (ama labodooda oo isla jira) |

@@ -1,0 +1,56 @@
+title:
+Waddanka Dominican Republic Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35076
+
+text:
+Waddanka Dominican Republic Kubedka
+
+FIFA
+
+CONCACAF
+
+1	GK	Miguel Lloyd	23 October 1982 (age 39)	48	0	Dominican Republic Cibao
+
+12	GK	Rafael Díaz	8 October 1991 (age 30)	5	0	United States Sacramento Republic
+
+20	GK	Odalis Báez	29 September 1983 (age 38)	7	0	Dominican Republic Atlético Pantoja
+
+3	DF	Tano Bonnín	30 June 1990 (age 31)	17	1	Spain Hércules
+
+4	DF	Brian López	20 November 1999 (age 22)	3	0	Spain Ursaria
+
+5	DF	Andrea Bosco	6 October 1995 (age 26)	4	0	Italy Pineto
+
+6	DF	Kelvin Durán	8 May 1994 (age 27)	1	0	Dominican Republic Moca
+
+15	DF	Ismael Díaz	21 August 1990 (age 31)	26	1	Dominican Republic Cibao
+
+18	DF	Enmy Peña	7 September 1992 (age 29)	15	2 Malta Valletta
+
+23	DF	Luiyi de Lucas	31 August 1994 (age 27)	8	0 Finland Haka
+
+7	MF	Edarlyn Reyes	30 September 1997 (age 24)	15	0	Bolivia Real Santa Cruz
+
+8	MF	Antonio Natalucci	1 August 2000 (age 21)	3	0	Italy Triestina
+
+9	MF	Ronaldo Vásquez	30 June 1999 (age 22)	19	2	Dominican Republic Atlético Pantoja
+
+10	MF	Carlos Heredia	28 September 1998 (age 23)	11	1	Dominican Republic Cibao
+
+13	MF	Rafael Flores	24 April 1991 (age 30)	47	0	Dominican Republic Moca
+
+14	MF	Jean Carlos López	9 November 1993 (age 28)	37	3	Dominican Republic Cibao
+
+19	MF	Wilman Modesta	24 December 1995 (age 26)	20	1	Dominican Republic O&M
+
+22	MF	Manny Rodríguez	23 May 1998 (age 23)	3	1	Spain Rayo Majadahonda
+
+11	FW	Domingo Peralta	28 July 1986 (age 35)	43	14	Dominican Republic O&M
+
+17	FW	Dorny Romero	24 January 1998 (age 23)	14	3	Bolivia Real Santa Cruz
+
+16	FW	Fran Núñez	15 May 1995 (age 26)	8	2	Spain Melilla
+
+21	FW	Nowend Lorenzo	2 November 2002 (age 19)	5	2	Spain Subiza

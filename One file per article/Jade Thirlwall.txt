@@ -1,0 +1,30 @@
+title:
+Jade Thirlwall
+
+url:
+https://so.wikipedia.org/wiki?curid=30262
+
+text:
+Jade Amelia Thirlwall (waxay dhalatay Diseembar 26 , 1992 ) waa fanaanad Ingiriis ah oo xubin ka ah kooxda gabdhaha ee Little Mix .
+
+
+# Infobox
+
+- **Ku dhashay**: Jade Amelia Thirlwall ( 1992-12-26 ) 26 Diseembar 1992 ( 32jir) UK
+- **Dhalsho**: UK
+- **Shaqada**: fanaan
+- **Sanadaha Shaqada**: 2011–xaadir
+- **Loo yaqaano**: Little mix
+
+
+# Tables
+
+## Table 1
+| Jade Amelia Thirlwall |
+| --- |
+| Jade Thirlwall |
+| Ku dhashay | Jade Amelia Thirlwall ( 1992-12-26 ) 26 Diseembar 1992 ( 32jir) UK |
+| Dhalsho | UK |
+| Shaqada | fanaan |
+| Sanadaha Shaqada | 2011–xaadir |
+| Loo yaqaano | Little mix |

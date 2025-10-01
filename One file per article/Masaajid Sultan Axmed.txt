@@ -1,0 +1,56 @@
+title:
+Masaajid Sultan Axmed
+
+url:
+https://so.wikipedia.org/wiki?curid=19547
+
+text:
+Masaajidka Suldan Axmed sido kale loo yaqaano Masaajidka Sultan Ahmet ( Af Turki : Sultan Ahmet Camii ) waa masaajid taariikhi ah oo ku dhexyaala caasimada Istanbul , ee wadanka Turkiga . [ 2 ]
+
+Masaajidka Sultan Axmed Wawa masaajid taariikhi ah oo Ku yaalo magaalada Istanbul ee dalka TUrkiga waxaa dhisay masaajidkaan Sultan Axmedkii 1aad ee Cusmaaniyada, waxaa kale oo loo yaqaan Masaajidka Buluugga ah .
+
+
+# Infobox
+
+- **Isuduweha Juqraafi**: 41°00′20″N 28°58′39″E ﻿ / ﻿ 41.005483°N 28.977385°E ﻿ / 41.005483; 28.977385 Coordinates : 41°00′20″N 28°58′39″E ﻿ / ﻿ 41.005483°N 28.977385°E ﻿ / 41.005483; 28.977385
+- **Mabda'a**: Sunni Islam
+- **Sameeyay Nashqada**: Sedefkâr Mehmed Ağa
+- **Nooca dhisme**: Masaajid
+- **Naqshada dhismaha**: Dhisme Islaamiya, Farshaxanta Dowladii Cusmaaniyiinta
+- **La dhamaystiray**: 1616
+- **Baaxada**: 10,000
+- **Dhererka**: 73 m (240 ft)
+- **Balaca**: 65 m (213 ft)
+- **Jooga banaanka**: 43 m (141 ft)
+- **Dome dia. (inner)**: 23.50 m (77.1 ft) [ 1 ]
+- **Minaaradaha**: 6
+- **Jooga minaaradaha**: 64 m (210 ft)
+
+
+# Tables
+
+## Table 1
+| Masaajid Sultan Axmed |
+| --- |
+|  |
+| Shown within Lua error in Module:Location_map at line 42: The name of the location map definition to use must be specified. |
+| Warbixin aasaasiya |
+| Isuduweha Juqraafi | 41°00′20″N 28°58′39″E ﻿ / ﻿ 41.005483°N 28.977385°E ﻿ / 41.005483; 28.977385 Coordinates : 41°00′20″N 28°58′39″E ﻿ / ﻿ 41.005483°N 28.977385°E ﻿ / 41.005483; 28.977385 |
+| Mabda'a | Sunni Islam |
+| Sameeyay Nashqada | Sedefkâr Mehmed Ağa |
+| Nooca dhisme | Masaajid |
+| Naqshada dhismaha | Dhisme Islaamiya, Farshaxanta Dowladii Cusmaaniyiinta |
+| La dhamaystiray | 1616 |
+| Specifications |
+| Baaxada | 10,000 |
+| Dhererka | 73 m (240 ft) |
+| Balaca | 65 m (213 ft) |
+| Jooga banaanka | 43 m (141 ft) |
+| Dome dia. (inner) | 23.50 m (77.1 ft) [ 1 ] |
+| Minaaradaha | 6 |
+| Jooga minaaradaha | 64 m (210 ft) |
+
+
+
+# Coordinates
+41.005483; 28.977385

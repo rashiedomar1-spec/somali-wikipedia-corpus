@@ -1,0 +1,36 @@
+title:
+Conqor, Boosaaso
+
+url:
+https://so.wikipedia.org/wiki?curid=37638
+
+text:
+Conqor ( Af Carabi : لاسعانود ‎; Af Ingiriis : Onqor ; waa deegaan balaaran oo ka tirsan magaalada Boosaaso . 5 kilomitir ayeey u jirtaa magaalada dhanka koonfur bari. Deegaanku wuxuu leeyahay beero isugu jira beero cowsaad iyo beero khudaareed xiliile ah.
+
+Faahfaahin
+
+Waxaa ku nool conqor iyo nawaaxigeeda dad tiro ahaan aan yarayn. Dadka deegaankan ayaa noloshoodu inta badan ku tiirsan tahay ganacsiga beeraha, waxay xiriir ganacsi la leeyihiin ganacsatada xoolaha ee magaalada Boosasso.
+
+
+# Infobox
+
+- **Dalka**: Soomaaliya
+- **Gobol**: Bari
+- **Degmo**: Boosaaso
+- **Joogga**: 15 m (49 ft)
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Conqor Onqor |
+| --- |
+| Tuulo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Dalka | Soomaaliya |
+| Gobol | Bari |
+| Degmo | Boosaaso |
+| Joogga | 15 m (49 ft) |
+| Aag saacadeed | UTC+3 ( EAT ) |

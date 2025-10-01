@@ -1,0 +1,12 @@
+title:
+American University
+
+url:
+https://so.wikipedia.org/wiki?curid=33715
+
+text:
+https://www.american.edu/
+American University
+jaamacad ku taal usa oo fadhigeedu yahay Washington
+Sido Kale fiiri.
+&lt;a href="USA"&gt;USA&lt;/a&gt;

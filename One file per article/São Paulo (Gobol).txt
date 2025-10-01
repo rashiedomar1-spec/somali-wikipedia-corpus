@@ -1,0 +1,8 @@
+title:
+São Paulo (Gobol)
+
+url:
+https://so.wikipedia.org/wiki?curid=5861
+
+text:
+São Paulo waa gobol ka mid ah Gobolada dalka &lt;a href="Baraasiil"&gt;Baraasiil&lt;/a&gt;. Gobolkaan caasimadiisa waxaa la dhahaa &lt;a href="S%C3%A3o%20Paulo"&gt;São Paulo&lt;/a&gt;.

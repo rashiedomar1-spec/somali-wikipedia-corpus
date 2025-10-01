@@ -1,0 +1,40 @@
+title:
+Abuu dardaa
+
+url:
+https://so.wikipedia.org/wiki?curid=37053
+
+text:
+abuu dardaa waa saxaabi ka mid ah ansaarta wuxuu isku ahaa faqiih, qaari iyo garsoore, waxaa loogu yeeraa "xakiimka umadaan" [ 1 ] , dadka aad ugu dadaala cibaadada iyo aqrinta quraanka ayuu ka mid ahaa, wuxuu degay shaam halkaas oo dadka ku baraayay quraanka kuna fahansiinayay diinta ilaa uu ka dhimnto.
+
+Xigasho
+
+
+# Infobox
+
+- **Dhashay:**: 580
+- **Ku dhashay:**: Madiina
+- **Diintiisa:**: Islaam
+- **xaaska**: kheyra binti abii xadrad , umu dardaa hujeyma
+- **ilmahiisa**: bilaal bin abii dardaa
+- **walaalihiis**: Cabdullaahi bin rwaaxa
+- **Dhintay:**: Dimishiq , shaam
+
+
+# Tables
+
+## Table 1
+| abuu dardaa أبو الدرداء |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: |  |
+| hooyadii |  |
+| Dhashay: | 580 |
+| Ku dhashay: | Madiina |
+| Diintiisa: | Islaam |
+| xaaska | kheyra binti abii xadrad , umu dardaa hujeyma |
+| ilmahiisa | bilaal bin abii dardaa |
+| walaalihiis | Cabdullaahi bin rwaaxa |
+| Dhintay: | Dimishiq , shaam |
+| Ku dhintay: |  |

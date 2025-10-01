@@ -1,0 +1,15 @@
+title:
+Hokusai
+
+url:
+https://so.wikipedia.org/wiki?curid=8148
+
+text:
+Hokusai (葛飾 北斎), 1760-1849, farshaxan ( Jabaan ).
+
+
+# Tables
+
+## Table 1
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Hokusai |
+| --- | --- |

@@ -1,0 +1,31 @@
+title:
+Maxamed Abshir Muuse
+
+url:
+https://so.wikipedia.org/wiki?curid=5178
+
+text:
+Mohmed Abshir Muuse waxa uu ahaa sarkaalkii ugu sareeyey ee ciidamada qalabka sida.Gen. Mohamed Abshir waxa uu u wareegay ciidamada Booliiska oo uu mudo badan ahaa talyaha ciidanka booliiska qaranka soomaaliyeed illaa sanadkii 1969 kii markii uu Mohamed siyaad Bare dalka ku qabsadey cinqilaab aan dhiig ku daadan .
+
+Gen. Mohamed Abshir waxa uu hadda ku noolyahay wadanka maraykanka isagoo waayeel ah waxaa uu ahaa hogaamiye ku caan baxay daacad iyo hufnaan Waxaa la xirey xilligii kacaanka isagoo sanooyin badan ku jirey xabsi illaa 1989 la soo daayey
+
+
+# Infobox
+
+- **Ku dhashay**: 1 luulyo 1926 Xarardheere , soomaaliya
+- **Dhimasho**: 25 Oktoobar 2017 Miniyaabolis , Minnesota
+- **Dhalsho**: Soomaaliya
+- **Qoomiyada**: Soomaalida
+- **Sanadaha Shaqada**: 1940yd - 1960yd
+
+
+# Tables
+
+## Table 1
+| Maxamed abshir muuse |
+| --- |
+| Ku dhashay | 1 luulyo 1926 Xarardheere , soomaaliya |
+| Dhimasho | 25 Oktoobar 2017 Miniyaabolis , Minnesota |
+| Dhalsho | Soomaaliya |
+| Qoomiyada | Soomaalida |
+| Sanadaha Shaqada | 1940yd - 1960yd |

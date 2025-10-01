@@ -1,0 +1,20 @@
+title:
+Waddanka Algeria Naga Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35084
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;228552&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-03-09T14:33:00Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;37.205.58.146&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;232218&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Waddanka Algeria Naga Kubedka
+Dharka Kubedka.
+ Addidas

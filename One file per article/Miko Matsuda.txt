@@ -1,0 +1,42 @@
+title:
+Miko Matsuda
+
+url:
+https://so.wikipedia.org/wiki?curid=33755
+
+text:
+Miko Matsuda (dhashay Oktoobar 28, 1995) waa idol iyo atariisho AV Jabaan ah. [ 1 ]
+
+Tix
+
+Atariisho
+
+J-pop
+
+NMB48
+
+Honey Popcorn
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1995-10-28 ) Oktoobar 28, 1995 ( 29jir) Magaalada Osaka , Gobolka Osaka , Jabaan
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2017–hada
+- **Nooca fanka**: J-pop
+- **Falalka la xiriira**: NMB48 Honey Popcorn
+
+
+# Tables
+
+## Table 1
+| Miko Matsuda |
+| --- |
+| Ku dhashay | ( 1995-10-28 ) Oktoobar 28, 1995 ( 29jir) Magaalada Osaka , Gobolka Osaka , Jabaan |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2017–hada |
+| Xirfad muusik |
+| Nooca fanka | J-pop |
+| Sanadaha Shaqada | 2011–hada |
+| Falalka la xiriira | NMB48 Honey Popcorn |
+|  |

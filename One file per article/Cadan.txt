@@ -1,0 +1,40 @@
+title:
+Cadan
+
+url:
+https://so.wikipedia.org/wiki?curid=3827
+
+text:
+Cadan ( Af Carabi : لاسعانود ‎) waamagaalo kutaala wadanka Yemen . Waxa ay ahayd caasimada. Jamhuuriyada.dimuquraadiga.shacbiga.sanadihii u dhexeeyay.1967.ilaa.1990.oo ahayd markii ay labadii dal ee yamini u qabsanaan jirtay.ay midoobeen.waxa ay 170.klm.bariga kaxigaa. baab almandabka .marinka layidhaahdo.waxa lagu yaqaanaa in ay cadani tahay caasimada dhaqaale ee wadanka yaman. Doonta Cadan waxay wataa ilaa Jabuuti iyo Berbera .
+
+
+# Infobox
+
+- **Dalka**: Yemen
+- **Gobol**: Cadan
+- **Area**: 760 km 2 (290 sq mi)
+- **Joogga**: 6 m (20 ft)
+- **• Dhammaan**: 760,923
+- **• Cufnaanta dadka**: 1,000/km 2 (2,600/sq mi)
+- **Aag saacadeed**: UTC+3 (GMT)
+- **Furaha**: 967
+
+
+# Tables
+
+## Table 1
+| Cadan عدن (Carabi) |
+| --- |
+|  |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Yemen" does not exist. |
+| Dalka | Yemen |
+| Gobol | Cadan |
+| Area | 760 km 2 (290 sq mi) |
+| Joogga | 6 m (20 ft) |
+| Tirada dadka ( 2012 ) |
+| • Dhammaan | 760,923 |
+| • Cufnaanta dadka | 1,000/km 2 (2,600/sq mi) |
+| Aag saacadeed | UTC+3 (GMT) |
+| Furaha | 967 |

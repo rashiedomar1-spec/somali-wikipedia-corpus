@@ -1,0 +1,42 @@
+title:
+Tariim
+
+url:
+https://so.wikipedia.org/wiki?curid=38304
+
+text:
+Tariim ( Carabi : تَرِيْم) waa magaalada taariikheed ee ku yaalla Wadi Hadhramaut ee Yemen , oo ku yaalla waqooyiga koonfurta Dhulbaxsinta Carabta . Waxaa loo yaqaan sida sharafta, sharciyadda iyo dhaqan-gelinta ee degmada Wadi Hadhramaut. Waxaa sidoo kale u muuqda in ay tahay ugu dhowaad xarunta waxbarashada Islaamka , waxaana lagu qiyaasay in ay ka kooban yihiin dadka ugu badan ee dhalinyaradda nebiga Maxamed (Sayidka) ee ku dhowaad adduunka. [ 1 ] Magaalada waxaa ka mid ah dadka ugu muhiimsan ee ku baranaya dhaqanka Islaamka, oo ay ku jiraan culumo badan oo Islaami ah, oo ay ka mid yihiin Imaam al-Xaddad. Sidoo kale, Tariim waxay ku nool yihiin Dar al-Mustafa, dugsiga waxbarashada loo yaqaan ee ku saabsan cilmiga Islaamka ee dhaqanka.
+
+Tixraac
+
+
+# Infobox
+
+- **Dalka**: Yemen
+- **Maamulad**: Hadhramaut
+- **Degmada**: Tariim
+- **• Dhammaan**: 58,523
+- **Aag saacadeed**: UTC+3 (SAST)
+
+
+# Tables
+
+## Table 1
+| Tariim تَرِيْم |
+| --- |
+| Magaalada |
+| Dulmar |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Yemen" does not exist. |
+| Coordinates: 16°03′N 49°0′E ﻿ / ﻿ 16.050°N 49.000°E ﻿ / 16.050; 49.000 |
+| Dalka | Yemen |
+| Maamulad | Hadhramaut |
+| Degmada | Tariim |
+| Tirada dadka (2012) |
+| • Dhammaan | 58,523 |
+| Aag saacadeed | UTC+3 (SAST) |
+
+
+
+# Coordinates
+16.050; 49.000

@@ -1,0 +1,36 @@
+title:
+Salaar
+
+url:
+https://so.wikipedia.org/wiki?curid=36978
+
+text:
+Salaar waa khudaar. Lafaha iyo caleemaha labadaba waa la cuni karaa.
+
+Salaar waxa lagu beeri karaa meelo badan oo aduunka ah, oo ay ku jiraan Yurub, Aasiya, iyo Waqooyiga Ameerika, cimilo dhexdhexaad ah.  Waxay u rogi doontaa dhadhan qadhaadh cimilada kulul.
+
+Inta badan caleemaha salaarku waa cagaar, laakiin qaar waa casaan.
+
+Lactuca scariola var. sativa (Moris)
+
+L. scariola var. integrata ( Gren. and Godr. )
+
+L. scariola var. integrifolia ( G.Beck )
+
+
+# Tables
+
+## Table 1
+| Salaar |
+| --- |
+|  |
+| Beer salaar baraf ah oo ku taal California |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| (darajo la'aan): | Tracheophyta Angiospermae Dhir abuur badan ( eudicots ) Asterids |
+| Bahka: | Asteraceae |
+| Qabiilka: | Cichorieae |
+| Duulka: | Lactuca |
+| Noocyada: | L. sativa |
+| Eray la mid ah |
+| Lactuca scariola var. sativa (Moris) L. scariola var. integrata ( Gren. and Godr. ) L. scariola var. integrifolia ( G.Beck ) |

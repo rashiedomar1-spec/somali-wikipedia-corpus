@@ -1,0 +1,8 @@
+title:
+Tamarta qoraxda
+
+url:
+https://so.wikipedia.org/wiki?curid=18629
+
+text:
+Tamarta qoraxda (; ) waa tamarta ku yaala iftiinka &lt;a href="qorax"&gt;qorax&lt;/a&gt;da. Isticmaalkeeda wa &lt;a href="kul"&gt;kul&lt;/a&gt;eylka, &lt;a href="karinta"&gt;karinta&lt;/a&gt;, iyo &lt;a href="koronto"&gt;koronto&lt;/a&gt;da.

@@ -1,0 +1,30 @@
+title:
+Elle Fanning
+
+url:
+https://so.wikipedia.org/wiki?curid=35036
+
+text:
+Mary Elle Fanning (dhashay Abriil 9, 1998) [ 1 ] waa atariisho Mareykan ah. Waxay samaysay filimkeedii ugu horeeyay iyada oo ah nooca ka yar ee dabeecadeeda walaasheed Dakota Fanning filimka I Am Sam (2001). Sida atariisho caruur ah, waxay kasoo muuqatay filimaan dhowr ah.
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Mary Elle Fanning ( 1998-04-09 ) Abriil 9, 1998 ( 27jir) Conyers, Georgia
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2001–hada
+- **Qaraabada**: Dakota Fanning
+
+
+# Tables
+
+## Table 1
+| Elle Fanning |
+| --- |
+| Fanning ee 2020 |
+| Ku dhashay | Mary Elle Fanning ( 1998-04-09 ) Abriil 9, 1998 ( 27jir) Conyers, Georgia |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2001–hada |
+| Qaraabada | Dakota Fanning |

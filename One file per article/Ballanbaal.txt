@@ -1,0 +1,8 @@
+title:
+Ballanbaal
+
+url:
+https://so.wikipedia.org/wiki?curid=41800
+
+text:
+Waa degmo ka tirsan gobolka &lt;a href="sanaag"&gt;sanaag&lt;/a&gt; gaar ahaan &lt;a href="Gar%20adag"&gt;garadag&lt;/a&gt; waxa degan &lt;a href="reeryoonis"&gt;reeryoonis&lt;/a&gt; gaar ahaan &lt;a href="cismaan%20yoonis"&gt;cismaan yoonis&lt;/a&gt;

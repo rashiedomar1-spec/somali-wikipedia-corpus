@@ -1,0 +1,33 @@
+title:
+Asma Saban
+
+url:
+https://so.wikipedia.org/wiki?curid=34530
+
+text:
+Asma Saban waa fannaanad Soomaaliyeed oo fadhigeedu yahay Hargeysa iyo Muqdisho . Waxay caan ku tahay heesaha "Iga Waal" iyo "Wacana". [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Asma Xasan Isamail
+- **Dhashay**: 1999 Hargeisa, Somalia
+- **Asal**: Somalian
+- **Dhintay**: 11 agoosto 2024 hargeisa
+- **Occupations**: Fannaanad
+- **Qalabka**: Cod
+
+
+# Tables
+
+## Table 1
+| Asma Saban |
+| --- |
+| Magaca dhalashada | Asma Xasan Isamail |
+| Dhashay | 1999 Hargeisa, Somalia |
+| Asal | Somalian |
+| Dhintay | 11 agoosto 2024 hargeisa |
+| Occupations | Fannaanad |
+| Qalabka | Cod |

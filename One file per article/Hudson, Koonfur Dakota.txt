@@ -1,0 +1,51 @@
+title:
+Hudson, Koonfur Dakota
+
+url:
+https://so.wikipedia.org/wiki?curid=36694
+
+text:
+Hudson waa magaalo ku taal koonfur-bari ee gobolka Koonfur Dakota ee Maraykanka .  Waxay ku taal degmada Lincoln , 296 qofna waxay ku noolaayeen tirakoobkii 2010. Dadku waxay markii ugu horreysay bilaabeen inay ku noolaadaan Hudson 1868.
+
+
+# Infobox
+
+- **Dalka**: Maraykanka
+- **Gobolka**: Koonfur Dakota
+- **Gobal**: Lincoln
+- **Area**: 0.28 sq mi (0.73 km 2 )
+- **• Land**: 0.28 sq mi (0.73 km 2 )
+- **• Water**: 0.00 sq mi (0.00 km 2 )
+- **Joogga**: 1,220 ft (372 m)
+- **• Dhammaan**: 296
+- **• Cufnaanta dadka**: 1,057.1/sq mi (408.1/km 2 )
+- **Aag saacadeed**: UTC-6 (CST)
+- **• Xagaa ( DST )**: UTC-5 (CDT)
+
+
+# Tables
+
+## Table 1
+| Hudson, Koonfur Dakota |
+| --- |
+| Magaalada Goobta Hudson ee Koonfur Dakota |
+|  |
+| Hudson, Koonfur Dakota |
+| Coordinates: Coordinates : 43°7′47″N 96°27′17″W ﻿ / ﻿ 43.12972°N 96.45472°W ﻿ / 43.12972; -96.45472 |
+| Dalka | Maraykanka |
+| Gobolka | Koonfur Dakota |
+| Gobal | Lincoln |
+| Area | 0.28 sq mi (0.73 km 2 ) |
+| • Land | 0.28 sq mi (0.73 km 2 ) |
+| • Water | 0.00 sq mi (0.00 km 2 ) |
+| Joogga | 1,220 ft (372 m) |
+| Tirada dadka (2010) [ 1 ] |
+| • Dhammaan | 296 |
+| • Cufnaanta dadka | 1,057.1/sq mi (408.1/km 2 ) |
+| Aag saacadeed | UTC-6 (CST) |
+| • Xagaa ( DST ) | UTC-5 (CDT) |
+
+
+
+# Coordinates
+43.12972; -96.45472

@@ -1,0 +1,8 @@
+title:
+Toronto
+
+url:
+https://so.wikipedia.org/wiki?curid=9368
+
+text:
+Toronta waa magaalo oo kuyaalo dalka &lt;a href="Kanada"&gt;Kanada&lt;/a&gt;.

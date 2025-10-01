@@ -1,0 +1,32 @@
+title:
+Al Mahwit
+
+url:
+https://so.wikipedia.org/wiki?curid=14683
+
+text:
+Al Mahwit ( Af Carabi : لاسعانود ‎) waa magaalo ku Yemen .
+
+Sawirada
+
+
+# Infobox
+
+- **Dalka**: Yemen
+- **Gobol**: Al Mahwit
+- **• Dhammaan**: 16,291
+
+
+# Tables
+
+## Table 1
+| Al Mahwit |
+| --- |
+| Magaalo |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Yemen" does not exist. |
+| Dalka | Yemen |
+| Gobol | Al Mahwit |
+| Tirada dadka ( 2012 ) |
+| • Dhammaan | 16,291 |

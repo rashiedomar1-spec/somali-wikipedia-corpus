@@ -1,0 +1,9 @@
+title:
+Quebec
+
+url:
+https://so.wikipedia.org/wiki?curid=23562
+
+text:
+Quebec waa gobolka labaad ee ugu weyn &lt;a href="Kanada"&gt;Kanada&lt;/a&gt;. Magaalooyinka waxaa ka mid ah &lt;a href="Montreal"&gt;Montreal&lt;/a&gt;, &lt;a href="Quebec%20City"&gt;Quebec City&lt;/a&gt; iyo &lt;a href="L%C3%A9vis%2C%20Quebec"&gt;Lévis, Quebec&lt;/a&gt;. Quebec waxay leedahay dad ah 8,501,833 [1]]]
+Deegaanka Quebec waa 1,356,128 kilomitir Square.

@@ -1,0 +1,40 @@
+title:
+Burdhubo
+
+url:
+https://so.wikipedia.org/wiki?curid=30003
+
+text:
+Burdhubo waa degmo ka tirsan Gobolka Jubbada sare ama loo yaqaan Gedo isla markaana ah magaal madaxda Gobolka Jubbada Dhexe degmadan waa magaalo istaraatiiji ah waxaa ay caan ku tahy dadka degan waa beeroleey iyo xoolo dhaqato.
+
+Burdhubo waa magaalo ku taalo bariga Gobolka Gedo , Magaalada Burdhubo waxaa dhaxmaro Webiga weyn ee loo yaqaan Wabiga Jubba .
+
+Tixraac
+
+Waxaa degmada Burdhubo degan bulsho u badan beeralay.
+
+
+# Infobox
+
+- **Wadan**: Somalia
+- **Maamul Goboleed**: Jubaland
+- **Gobol**: Jubada Sare / Gedo
+- **Magaalo**: Burdhubo
+- **• Duqa Magaalada**: ====
+
+
+# Tables
+
+## Table 1
+| Burdhubo |
+| --- |
+| Magaalo                 = |
+|  |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Wadan | Somalia |
+| Maamul Goboleed | Jubaland |
+| Gobol | Jubada Sare / Gedo |
+| Magaalo | Burdhubo |
+| Dowlada |
+| • Duqa Magaalada | ==== |

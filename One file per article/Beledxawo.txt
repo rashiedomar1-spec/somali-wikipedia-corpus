@@ -1,0 +1,51 @@
+title:
+Beledxawo
+
+url:
+https://so.wikipedia.org/wiki?curid=29998
+
+text:
+BeledXawo waa magaalo dhacda Waqooyiga Gobolka Gedo ee wadanka Soomaaliya . Magaalada waxaa laf dhabar u ganacsiga Koonfurta & Bartamaha Soomaaliya waan Goob kulmiso Ganacsato kakala Timid Soomaaliya Kenya & Ethopia Taas oo kor Uqaaday Hormarka ganacsi ee Magaalada kana yeeshay Goob loo soo beec geeyo Badeecooyin kala duwan Xadaarad Ahaan
+waa magaalo kulmisatay Dhaqamo Luuqada & Xadaarada Kala Duwan taas oo ilbaxnimadeeda
+Ka dhigtay Mid Cirka isku Shareertay ayna Dheertahay Magaalooyin Badan oo Taariikh
+ahaan kafac weynaa.
+
+Sidoo kale fiiri
+
+Xigasho
+
+Tixraac
+
+Liiska magaalooyinka Soomaaliya dadka ku nool
+
+Liiska magaalooyinka Soomaaliya
+
+Cagaaran
+
+
+# Infobox
+
+- **Wadan**: Somalia
+- **Gobol**: Gedo
+- **Degmo**: BeledXawo
+- **• Duqa magaalada**: Ahmed Mohamed Yusuf
+- **• Dhammaan**: 73,000 est.
+- **Aag saacadeed**: UTC+3 ( East Africa Time )
+
+
+# Tables
+
+## Table 1
+| BeledXawo BuuloXawo |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Wadan | Somalia |
+| Gobol | Gedo |
+| Degmo | BeledXawo |
+| Dowlada |
+| • Duqa magaalada | Ahmed Mohamed Yusuf |
+| Tirada dadka |
+| • Dhammaan | 73,000 est. |
+| Aag saacadeed | UTC+3 ( East Africa Time ) |

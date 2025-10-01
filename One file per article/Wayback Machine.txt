@@ -1,0 +1,11 @@
+title:
+Wayback Machine
+
+url:
+https://so.wikipedia.org/wiki?curid=35848
+
+text:
+&lt;a href="Wayback%20Machine"&gt;Wayback Machine&lt;/a&gt; waa degel leh bogag shabakad ah oo hore. Waa mashiinka waqtiga ee internetka.
+=Taarikhda=
+"Internet Archive" wuxuu bilaabay Mashiinka Wayback &lt;a href="Oktoobar"&gt;Oktoobar&lt;/a&gt; 2001.
+=Tixraac=

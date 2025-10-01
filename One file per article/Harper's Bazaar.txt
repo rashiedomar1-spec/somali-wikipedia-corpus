@@ -1,0 +1,36 @@
+title:
+Harper's Bazaar
+
+url:
+https://so.wikipedia.org/wiki?curid=32525
+
+text:
+Harper's Bazaar waa joornaal haweeney bille ah oo fadhigeedu yahay magaalada New York, oo markii ugu horreysay lagu daabacay magaalada New York bishii Nofeembar 2, 1867. [ 2 ] [ 3 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Publisher**: 1867–1913, Harper & Brothers
+- **Founded**: Nofeembar 2, 1867 ; 157 sanadood ka hor ( 1867-11-02 )
+- **Language**: Af-Ingiriisi
+- **City**: New York
+- **Country**: Mareykanka
+- **ISSN**: 0017-7873
+- **Website**: harpersbazaar.com
+
+
+# Tables
+
+## Harper's Bazaar
+|   |
+| --- |
+|  |
+| Publisher | 1867–1913, Harper & Brothers |
+| Founded | Nofeembar 2, 1867 ; 157 sanadood ka hor ( 1867-11-02 ) |
+| Language | Af-Ingiriisi |
+| City | New York |
+| Country | Mareykanka |
+| ISSN | 0017-7873 |
+| Website | harpersbazaar.com |

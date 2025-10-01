@@ -1,0 +1,26 @@
+title:
+IMF - Afrika
+
+url:
+https://so.wikipedia.org/wiki?curid=37072
+
+text:
+IMF - Afrika
+
+Somalia somaliland 0.03
+
+Djibouti 0.01%
+
+Eratareya 0.02%
+
+Algeria 0.41%
+
+Egypt 0.43%
+
+Kenya 0.11%
+
+Nigeria 0.52%
+
+Ethiopia 0.06%
+
+Gambia 0.01%

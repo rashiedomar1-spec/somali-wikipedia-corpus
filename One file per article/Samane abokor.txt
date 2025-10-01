@@ -1,0 +1,8 @@
+title:
+Samane abokor
+
+url:
+https://so.wikipedia.org/wiki?curid=36425
+
+text:
+Beesha Samane abokor waa beel ka tirsan Beel-weynta &lt;a href="Habarjeclo"&gt;Habarjeclo&lt;/a&gt; waxaanay walaalo yihiin Beelaha &lt;a href="Muuse%20abokor"&gt;Muuse abokor&lt;/a&gt; iyo &lt;a href="Maxamed%20Abokor"&gt;Maxamed abokor&lt;/a&gt;

@@ -1,0 +1,30 @@
+title:
+Abaalmarinta Muusikada Kuuriya
+
+url:
+https://so.wikipedia.org/wiki?curid=33279
+
+text:
+Abaalmarinta Muusikada Kuuriya ayaa ah abaalmarinno muusig oo Koonfur Kuuriya ah oo sannadle ah oo muujinaya in la maamuuso fannaaniinta muusikada caadiga ah iyo kuwa dhulka hoostiisa ka soo jeeda noocyo kala duwan. Si ka duwan abaalmarinnada kale ee waaweyn ee Koonfur Kuuriya, kuwaas oo inta badan ku tiirsan iibinta rikoorka si loo go'aamiyo kuwa ku guuleysta, Abaalmarinta Muusikada Kuuriya waxay qaybisaa abaalmarinno ku saleysan talooyinka guddi garsoorayaal ah oo ka kooban dhaleeceeyayaasha muusigga, soo-saareyaasha raadiyaha, aqoonyahanno, iyo xirfadlayaal kale oo ka tirsan warshadaha. Abaalmarintii ugu horreysay ee Muusikada Kuuriya waxaa la qabtay 2004.
+
+
+# Infobox
+
+- **Waxaa kafaala qaaday**: Wasaaradda Dhaqanka, Ciyaaraha iyo Dalxiiska Wakaaladda Macluumaadka Hal-abuurka ee Kuuriya, Jasiiradda Nodeul
+- **Dalka**: Koonfur Kuuriya
+- **Ugu horrayn la guddoonsiiyey**: 2004
+- **Website**: koreanmusicawards.com
+
+
+# Tables
+
+## Table 1
+| Abaalmarinta Muusikada Kuuriya |
+| --- |
+| Current: Abaalmarinta Muusikada Kuuriya 18aad |
+|  |
+| Waxaa kafaala qaaday | Wasaaradda Dhaqanka, Ciyaaraha iyo Dalxiiska Wakaaladda Macluumaadka Hal-abuurka ee Kuuriya, Jasiiradda Nodeul |
+| Dalka | Koonfur Kuuriya |
+| Ugu horrayn la guddoonsiiyey | 2004 |
+| Highlights |
+| Website | koreanmusicawards.com |

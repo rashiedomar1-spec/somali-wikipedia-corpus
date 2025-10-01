@@ -1,0 +1,25 @@
+title:
+Meere la jaalka
+
+url:
+https://so.wikipedia.org/wiki?curid=19734
+
+text:
+Meere la jaalka yahay Yemen falaga caalamka ah loo isticmaalo, gaar ahaan in la hagaajiyo awooda meeraha ah in shir tagayso ka, kaas oo asalkiisu ka soo jeedo ee BC 8 qarnigii.
+
+
+# Tables
+
+## Table 1
+| Meere | Shir tagayso la jaalka |
+| --- | --- |
+| Qorax | Aries |
+| Dusaa | Virgo iyo Aquarius |
+| Waxaraxir | Pisces iyo Gemini |
+| Dayaxa | Taurus |
+| Farraare | Capricorn |
+| Cirjeex | Sagittarius |
+| Raage | Libra |
+| Uroono | Scorpio |
+| Docey | Cancer |
+| Bluto | Leo |

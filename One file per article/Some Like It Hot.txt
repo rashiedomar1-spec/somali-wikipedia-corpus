@@ -1,0 +1,56 @@
+title:
+Some Like It Hot
+
+url:
+https://so.wikipedia.org/wiki?curid=31545
+
+text:
+Some Like It Hot waa filim 1959 Mareykan ah. [ 2 ]
+
+Xiriirinta dibedda
+
+Tixraacyo
+
+
+# Infobox
+
+- **Directed by**: Billy Wilder
+- **Screenplay by**: Billy Wilder I. A. L. Diamond
+- **Story by**: Robert Thoeren Michael Logan
+- **Produced by**: Billy Wilder
+- **Starring**: Marilyn Monroe Tony Curtis Jack Lemmon George Raft Joe E. Brown Pat O'Brien
+- **Cinematography**: Charles Lang
+- **Edited by**: Arthur P. Schmidt
+- **Music by**: Adolph Deutsch
+- **Production company**: Mirisch Company
+- **Distributed by**: United Artists
+- **Release date**: Maarso 29, 1959
+- **Running time**: 121 daqiiqado
+- **Country**: Mareykanka
+- **Language**: Ingiriis
+- **Budget**: $2.9 milyan
+- **Box office**: $40 milyan
+
+
+# Tables
+
+## Table 1
+| Some Like It Hot |
+| --- |
+| Boosta lagu sii daayo masraxa [ 1 ] |
+| Directed by | Billy Wilder |
+| Screenplay by | Billy Wilder I. A. L. Diamond |
+| Story by | Robert Thoeren Michael Logan |
+| Produced by | Billy Wilder |
+| Starring | Marilyn Monroe Tony Curtis Jack Lemmon George Raft Joe E. Brown Pat O'Brien |
+| Cinematography | Charles Lang |
+| Edited by | Arthur P. Schmidt |
+| Music by | Adolph Deutsch |
+| Production company | Mirisch Company |
+| Distributed by | United Artists |
+| Release date | Maarso 29, 1959 |
+| Running time | 121 daqiiqado |
+| Country | Mareykanka |
+| Language | Ingiriis |
+| Budget | $2.9 milyan |
+| Box office | $40 milyan |

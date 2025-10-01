@@ -1,0 +1,40 @@
+title:
+Laasdoomaare
+
+url:
+https://so.wikipedia.org/wiki?curid=28508
+
+text:
+Waa degmo ka tirsan gobolka sanaag o ku taala dhinicsa waqooyi galbed ayay ka xigtaa . Ceerigaabo . wa magalo ku caana beeyada iyo sidoo kale beeraha 
+Waxa laha helaa xoolaha ugu badan dalka gaar ahaan gobolla. sanaag Waxa dega habarjeclo , biciide , axmed faarax(habarjeclo)
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Sanaag
+- **Degmo**: laasdoomaare
+- **Joogga**: 1,027 m (3,369 ft)
+- **• Dhammaan**: 6.390
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| laasdoomaare lasdomare لآصذوماره |
+| --- |
+| degaan |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Sanaag |
+| Degmo | laasdoomaare |
+| Joogga | 1,027 m (3,369 ft) |
+| Tirada dadka |
+| • Dhammaan | 6.390 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

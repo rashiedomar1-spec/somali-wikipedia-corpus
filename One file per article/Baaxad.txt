@@ -1,0 +1,18 @@
+title:
+Baaxad
+
+url:
+https://so.wikipedia.org/wiki?curid=9555
+
+text:
+Qayb ka mid ah laamaha S {\displaystyle S} Saddex baaxadood leh R 3 {\displaystyle \mathbb {R} ^{3}} Waa baaxad ee loogu talo galay bar kasta x {\displaystyle x} ka kooban S {\displaystyle S} meelo furan U {\displaystyle U} shaqooyin kala duwan
+
+F : U → R {\displaystyle F:U\to \mathbb {R} \,\!}
+
+marka U {\displaystyle U} iskajara S {\displaystyle S} bar mucayin ah oo F {\displaystyle F} baaba'da:
+
+U ∩ S = F − 1 ( 0 ) {\displaystyle U\cap S=F^{-1}(0)}
+
+Meel walba:
+
+∇ F ≠ 0 {\displaystyle \nabla F\neq 0}

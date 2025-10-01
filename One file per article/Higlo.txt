@@ -1,0 +1,50 @@
+title:
+Higlo
+
+url:
+https://so.wikipedia.org/wiki?curid=28483
+
+text:
+Higlo wa degmo ka mida  Gobolka togdheer ,  waxay magalada burco u jirta 74km meel kaga beegan dhinaca bariga waxay u dhowdahay degmada qoryale oo ay u jirta waxyar sidoo kale  waa magalo quruxbadan hada waxana oo kuyaala dhul ku haboon beeraha iyo  xoolaha waxana ilaahay ku manestay ceelal  farabdan oo biyo macaan ah  waxa aasaasay allah ha u naxariste sugaal fara dheere Waxa dega beelaha reeryoonis , habarjeclo ,
+
+Wadada ceerigaabo
+
+Qabilada dega'
+
+Waxa dega beelaha reeryoonis gaar ahaan allamaga sida reer siciid, reer maxamed xidig, iyo hayiile
+
+.... waxa mayir ka ah ibrahim sugaal faradheere oo reer sicid ah
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Togdheer
+- **Degmo**: Higlo
+- **• Duqa-magaalada**: ibrahim sugal faradhere
+- **Joogga**: 121 m (397 ft)
+- **• Dhammaan**: 3,377
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| Higlo higlo هغلو |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Togdheer |
+| Degmo | Higlo |
+| Dowlada |
+| • Duqa-magaalada | ibrahim sugal faradhere |
+| Joogga | 121 m (397 ft) |
+| Tirada dadka |
+| • Dhammaan | 3,377 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

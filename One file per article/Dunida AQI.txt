@@ -1,0 +1,32 @@
+title:
+Dunida AQI
+
+url:
+https://so.wikipedia.org/wiki?curid=34665
+
+text:
+Dunida AQI
+
+ug/m3
+
+Warka
+
+Lahore Pakistan 186
+
+Delhi , India 181
+
+Chengdu , China 172
+
+Chongqing , China 170
+
+Beijing , China 165
+
+Karachi , Pakistan 160
+
+Dhaka , Bangladesh 159
+
+Bangkok, Thailand Thailand 74
+
+Hargeisa Somaliland 15
+
+https://www.iqair.com/world-air-quality-ranking

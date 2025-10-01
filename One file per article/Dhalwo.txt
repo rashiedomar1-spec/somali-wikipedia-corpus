@@ -1,0 +1,58 @@
+title:
+Dhalwo
+
+url:
+https://so.wikipedia.org/wiki?curid=6889
+
+text:
+Dhalwo waa degmo ku taalo gobolka Galgaduud . ku aadan koofurta xaradheere .
+
+Dhalwo: Waxa ay dhacdaa inta u dhaxeysa Gobolada Galguduud iyo Mudug, waxa ayna aadan tahay Magaalada Xarardheere. Wali Magaalo ma aysan noqon balse waxa ay ku jirtaa wadadii ay ku noqon lahayd dagmo buuxdo amaba magaalo isku filan. Sanadkii 1964tii ayuu magacani soo caan baxay sida Taariikhda ku xusan. Waa Tuulo dagmadeed inta badan ku tiirsan xoolaha nool.  Waxaa gabi ahaanteeda daga beesha Saruur madar kicis amaba Ibraahim Madar kicis qofba sida uu u yaqaano.
+
+Sida taariikhda ku xusan waa mid ka mid ah deegaanada ugu caansan meelaha ay dagto beesha Ibrahim Madar-kicis "Saruur".
+
+Xudur
+
+Waajid
+
+Tiyeeglow
+
+Rabdhuure
+
+Ceelgaras
+
+Ceelbarde
+
+Korkor
+
+Ceelboon
+
+Buurdhuxunle
+
+Garasweyne
+
+Teed
+
+Washaaqo
+
+Abal
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Gobolka**: Galguduud
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Dhalwo |
+| --- |
+| Degmo |
+|  |
+| Dhalwo Location in Somalia. |
+| Country | Somalia |
+| Gobolka | Galguduud |
+| Aag saacadeed | UTC+3 ( EAT ) |

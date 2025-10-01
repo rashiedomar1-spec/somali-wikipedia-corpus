@@ -1,0 +1,8 @@
+title:
+Bartamaha Ameerika
+
+url:
+https://so.wikipedia.org/wiki?curid=5782
+
+text:
+Ameerikada dhexe waa mandaqad ku taala laba qaaradood ee &lt;a href="ameerika"&gt;ameerika&lt;/a&gt; ka koobantahay dhexdooda waxa ay ku fid santahay dhanka waqooyi ilaa &lt;a href="maksiiko"&gt;maksiiko&lt;/a&gt; dhanka koonfurna waxa ay gaadhsiisantahay ilaa &lt;a href="kolonbiya"&gt;kolonbiya&lt;/a&gt; juquraafi ahaaan waxa ay raacsantahy &lt;a href="ameerikada%20waqooyi"&gt;ameerikada waqooyi&lt;/a&gt; .

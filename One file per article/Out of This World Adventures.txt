@@ -1,0 +1,25 @@
+title:
+Out of This World Adventures
+
+url:
+https://so.wikipedia.org/wiki?curid=32652
+
+text:
+Out of This World Adventures wuxuu ahaa majallad Mareykan ah oo daabacday laba arrimood, bishii Luulyo iyo Diseembar 1950. Waxaa ku jiray dhowr bog oo majaajillo ah iyo sidoo kale sheekooyin khayaal ah oo saynis ah.  Waxaa tifaftiray Donald A. Wollheim waxaana daabacay Avon.  Iibinta ayaa aad u liidatay taas oo hogaamineysa Avon laba arimood ka dib si loo joojiyo majallad.
+
+
+# Infobox
+
+- **Founded**: 1950
+- **Language**: Ingiriis
+- **Country**: Mareykanka
+
+
+# Tables
+
+## Out of This World Adventures
+| Daboolka tirsigii Diseembar 1950.  Farshaxanka James Bama |
+| --- |
+| Founded | 1950 |
+| Language | Ingiriis |
+| Country | Mareykanka |

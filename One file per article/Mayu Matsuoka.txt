@@ -1,0 +1,30 @@
+title:
+Mayu Matsuoka
+
+url:
+https://so.wikipedia.org/wiki?curid=33151
+
+text:
+Mayu Matsuoka (松岡 茉優, Matsuoka Mayu , dhashay Febraayo 16, 1995) waa atariisho reer Jabaan ah.
+
+Xiriirinta dibedda
+
+
+# Infobox
+
+- **Magaca Saxda**: 松岡 茉優
+- **Ku dhashay**: ( 1995-02-16 ) Febraayo 16, 1995 ( 30jir) Tokyo , Jabaan
+- **Sanadaha Shaqada**: 2004–hada
+- **Wakiil**: Hirata Office
+
+
+# Tables
+
+## Table 1
+| Mayu Matsuoka |
+| --- |
+| Matsuoka ee 2018 Filimka Caalamiga ee Tokyo Dabaaldag |
+| Magaca Saxda | 松岡 茉優 |
+| Ku dhashay | ( 1995-02-16 ) Febraayo 16, 1995 ( 30jir) Tokyo , Jabaan |
+| Sanadaha Shaqada | 2004–hada |
+| Wakiil | Hirata Office |

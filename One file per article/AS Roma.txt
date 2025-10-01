@@ -1,0 +1,8 @@
+title:
+AS Roma
+
+url:
+https://so.wikipedia.org/wiki?curid=9004
+
+text:
+Associazione Sportiva Roma (AS Roma) waa koox-banooni oo kuyaalo magaalada &lt;a href="Roma"&gt;Roma&lt;/a&gt; ee &lt;a href="Talyaaniga"&gt;Talyaaniga&lt;/a&gt;

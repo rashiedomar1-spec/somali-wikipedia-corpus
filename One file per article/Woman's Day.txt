@@ -1,0 +1,20 @@
+title:
+Woman's Day
+
+url:
+https://so.wikipedia.org/wiki?curid=32927
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;221522&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-01-19T05:27:44Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;EmausBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;Bot: Migrating 4 interwiki links, now provided by on &lt;/comment&gt;
+ &lt;origin&gt;228981&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Woman's Day ("Maalinta Haweenka") waa joornaal haween Mareykan ah oo ka hadlaya mowduucyada sida guri-goynta, cuntada, nafaqada, jimicsiga jirka, soo jiidashada jirka, iyo moodka. Daabacaadda waa mid ka mid ah majaladaha Seven Sisters. Majaladda waxaa markii ugu horreysay la daabacay &lt;a href="1931"&gt;1931&lt;/a&gt;iyo daabacaha hadda jira waa Shirkadda Hearst.

@@ -1,0 +1,8 @@
+title:
+Osmose
+
+url:
+https://so.wikipedia.org/wiki?curid=7819
+
+text:
+Siimow "osmosis" waa dhaqdhaqaaqa molekuleyaasha &lt;a href="Biyaha%20wax%20ku%20milmi%20karo"&gt;Biyaha&lt;/a&gt; ama &lt;a href="diffusion"&gt;diffusion&lt;/a&gt;ka biyaha galaayo meel yar oo ka mid ah xubin kana mid noqonaayo meel kale oo dhaqdhaqaaq isku taxluujin badan ka jirto.

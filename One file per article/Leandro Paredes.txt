@@ -1,0 +1,15 @@
+title:
+Leandro Paredes
+
+url:
+https://so.wikipedia.org/wiki?curid=38893
+
+text:
+Leandro Daniel Paredes (Soomaali: Leandro Daniel Paredes; waxa uu dhashay Juun 29, 1994) waa xirfadle kubbadda cagta Argentine kaas oo lagu garto weerarkiisa cajiibka ah. [ 1 ] [ 1 ]
+
+
+# Tables
+
+## Table 1
+| Leandro Paredes |
+| --- |

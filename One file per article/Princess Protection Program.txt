@@ -1,0 +1,46 @@
+title:
+Princess Protection Program
+
+url:
+https://so.wikipedia.org/wiki?curid=30414
+
+text:
+Princess Protection Program ( Barnaamijka Ilaalinta amiiradda ) waa 2009 Disney Channel Filim, jilaayaasha waa Demi Lovato iyo Selena Gomez .
+
+Annie DeYoung
+
+David Morgasen
+
+Selena Gomez
+
+Demi Lovato
+
+
+# Infobox
+
+- **Written by**: Annie DeYoung David Morgasen
+- **Produced by**: Danielle Weinstock
+- **Starring**: Selena Gomez Demi Lovato
+- **Cinematography**: David A. Makin
+- **Edited by**: Mark Conte
+- **Music by**: John Van Tongeren
+- **Distributed by**: Disney–ABC Domestic Television
+- **Country**: United States
+- **Language**: English
+
+
+# Tables
+
+## Table 1
+| Princess Protection Program |
+| --- |
+|  |
+| Written by | Annie DeYoung David Morgasen |
+| Produced by | Danielle Weinstock |
+| Starring | Selena Gomez Demi Lovato |
+| Cinematography | David A. Makin |
+| Edited by | Mark Conte |
+| Music by | John Van Tongeren |
+| Distributed by | Disney–ABC Domestic Television |
+| Country | United States |
+| Language | English |

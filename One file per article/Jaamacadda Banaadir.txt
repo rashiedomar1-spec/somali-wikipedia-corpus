@@ -1,0 +1,54 @@
+title:
+Jaamacadda Banaadir
+
+url:
+https://so.wikipedia.org/wiki?curid=20543
+
+text:
+Jaamacada Banaadir waa jaamacad ku taalo magaalada Muqdisho ee dalka Soomaaliya .
+
+Taariikh
+
+Jaamacada Banaadir waxaa laga bartaa cilmiga dhakhtarnimada,iyo waxyaale ka oo fara badan sida engineering,education iwm waxaana lasameeyay sanadka marka oo ahaa 2002.
+
+Waxyaabaha laga barto
+
+Qaraxii ardayda Jaamacada
+
+Sanadka marka oo ahaa 3 Diseembar 2009 waxaa dhacday qarax ismiidaamin ah, oo lagu weeraray arday qalin jabisay oo xaflad loogu qabanaayay hotel shamo. Qaraxaas waxaa ku dhintay dad gaaraayo ilaa 22qof oo ka mid ah 3 wasiirada Dawladda iyo 40 ardayda jaamacada banaadir oo dhaawacantay.
+
+jaamacada waxaa lagabartaa dhinaca dhaqtarnimada ama medicinka
+
+dhinaca injineernimada
+
+dhinaca cilmiga Kombyuterada iyo teknologiga.
+
+iyo dhinaca xukunka iyo shaeecada
+
+Cilmiga beeraha iyo xaywaanka.
+
+
+# Infobox
+
+- **Halku dhegga**: Samaynta Karti Umadeed
+- **Hal ku dhegga af-shisheeye**: CULTIVATING HUMAN TALENTS
+- **La aas aasay**: 2002
+- **Nuuca**: Jaamacd Gaar ah
+- **Hormuudka jaamacadda**: Abdirizak Ahmed Dalmar
+- **Waxay ku taal**: , Muqdisho , Soomaaliya
+- **Website**: Official website
+
+
+# Tables
+
+## Table 1
+| Jaamacadda Banaadir |
+| --- |
+| جامعـــة بنـــادر Benadir University |
+| Halku dhegga | Samaynta Karti Umadeed |
+| Hal ku dhegga af-shisheeye | CULTIVATING HUMAN TALENTS |
+| La aas aasay | 2002 |
+| Nuuca | Jaamacd Gaar ah |
+| Hormuudka jaamacadda | Abdirizak Ahmed Dalmar |
+| Waxay ku taal | , Muqdisho , Soomaaliya |
+| Website | Official website |

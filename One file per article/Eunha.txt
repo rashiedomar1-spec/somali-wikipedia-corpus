@@ -1,0 +1,34 @@
+title:
+Eunha
+
+url:
+https://so.wikipedia.org/wiki?curid=33188
+
+text:
+Jung Eun-bi (dhashay Maajo 30, 1997), si fiican loogu yaqaan magaceeda masraxa Eunha , waa heesaa iyo atariisho Koonfur Kuuriya. Waxay xubin ka ahayd kooxda gabdhaha GFriend .
+
+
+# Infobox
+
+- **Ku dhashay**: Jung Eun-bi ( 1997-05-30 ) Maajo 30, 1997 ( 28jir) Seoul , Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2015–hada
+- **Calaamadaha**: Source Music
+- **Falalka la xiriira**: GFriend
+
+
+# Tables
+
+## Table 1
+| Eunha |
+| --- |
+| Eunha ee 2022 |
+| Ku dhashay | Jung Eun-bi ( 1997-05-30 ) Maajo 30, 1997 ( 28jir) Seoul , Koonfur Kuuriya |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2015–hada |
+| Calaamadaha | Source Music |
+| Falalka la xiriira | GFriend |
+|  |

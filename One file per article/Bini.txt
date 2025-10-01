@@ -1,0 +1,22 @@
+title:
+Bini
+
+url:
+https://so.wikipedia.org/wiki?curid=35735
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;232189&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-03-25T18:27:01Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Lia15Lo&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;/* Tixraac */&lt;/comment&gt;
+ &lt;origin&gt;233155&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Lee Hye-bin (&lt;a href="Hangul"&gt;Hangul&lt;/a&gt;: 이혜빈) waa heesaa iyo moodel hore. Waa xubin hore uga tirsanayd kooxda gabdhaha &lt;a href="Nine%20Muses"&gt;Nine Muses&lt;/a&gt; sida magaca Bini.
+Nolol.
+Lee waxay xubin ka ahayd Nine Muses laga bilaabo 2010 ilaa 2011.
+Sannadkii 2012, waxay la kulantay ciyaaryahan kubbadda cagta Lee Kyu Ro oo xiriir la bilowday isaga. Lee waxay guursatay 2014kii.

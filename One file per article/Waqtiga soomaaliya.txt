@@ -1,0 +1,12 @@
+title:
+Waqtiga soomaaliya
+
+url:
+https://so.wikipedia.org/wiki?curid=30186
+
+text:
+waqtiga.
+Gudaha Soomaaliya waxaa laga isticmaalaa 12saac.
+waqooyiga iyo koonfurta Soomaaliya si kala duwan ayaa loogu dhawaaqaa saacada.
+Koonfurta Soomaaliya, waqtiga waxaa lagu tiriyaa 1,2,3 illaa 12, laga bilaabo &lt;a href="subax"&gt;subaxii&lt;/a&gt; illaa &lt;a href="fiidkii"&gt;fiidkii&lt;/a&gt;.
+Waqooyiga Soomaaliya waxay saacada u isticmaashaa sida wadamada kale..

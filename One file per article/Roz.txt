@@ -1,0 +1,26 @@
+title:
+Roz
+
+url:
+https://so.wikipedia.org/wiki?curid=34845
+
+text:
+Rawan Cbdullah Abu Zaid ( Carabi : روان عبدالله ابو زيد, dhashay Ogosto 14, 1989) loo yqaano Roz ama Model Roz waa moodel Sucuudi ah, kuna nool dalka Maraykanka. Waxay shaqadeeda bilawday 2013 waxayna heshay caan ah. [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Rawan Cbdullah Abu Zaid روان عبدالله ابو زيد ( 1989-08-14 ) Agoosto 14, 1989 ( 36jir) Gobolka Bari, Sacuudi Carabiya
+- **Sanadaha Shaqada**: 2013–hada
+
+
+# Tables
+
+## Table 1
+| Roz |
+| --- |
+| Roz ee 2018 |
+| Ku dhashay | Rawan Cbdullah Abu Zaid روان عبدالله ابو زيد ( 1989-08-14 ) Agoosto 14, 1989 ( 36jir) Gobolka Bari, Sacuudi Carabiya |
+| Sanadaha Shaqada | 2013–hada |

@@ -1,0 +1,32 @@
+title:
+Xoor
+
+url:
+https://so.wikipedia.org/wiki?curid=40613
+
+text:
+Xoor waxaa af ingiriis lagu dhahaa honey badger ; ( Af Carabi : لاسعانود ‎ Af Ingiriis : honey badger ) waa xayawaan duurjoog iyo naasley oo dega Afrika iyo konfuurta Aasiya. Xoorka waxa uu ka mid yahay boqortooyada xayawaanka (Mustelidia) ee qoyska Mellivorinae. Wuxuu xoorka yahay hilibcune. Xoorka waxa uu ka mid yahay xaywaanada ee ugu qallafsan aduunka. [ 1 ]
+
+Tixraac
+
+
+# Tables
+
+## Table 1
+| Xoor |
+| --- |
+|  |
+| Xoor |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Qaybinta: | Chordata |
+| Gacalka: | Naasley |
+| Dirka: | Carnivora |
+| Bahka: | Mustelidae |
+| Bahka hoose: | Mellivorinae |
+| Duulka: | Mellivora |
+| Noocyada: | M. capensis |
+| Magaca laba-geesoodka ah |
+| Mellivora capensis Schreber (1776) |
+|  |
+| Meelaha laga heli karo Xoor |

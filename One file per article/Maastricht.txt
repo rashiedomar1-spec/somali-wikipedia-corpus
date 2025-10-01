@@ -1,0 +1,8 @@
+title:
+Maastricht
+
+url:
+https://so.wikipedia.org/wiki?curid=9317
+
+text:
+Magaalada Maastricht, waa magaalad oo kuyaalo wadanka Holland. Maastricht waa caasimada gobolka &lt;a href="Limburg"&gt;Limburg&lt;/a&gt; oo kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt;.

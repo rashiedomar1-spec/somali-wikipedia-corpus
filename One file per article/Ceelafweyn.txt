@@ -1,0 +1,55 @@
+title:
+Ceelafweyn
+
+url:
+https://so.wikipedia.org/wiki?curid=2803
+
+text:
+Taariikhda magalada
+
+ceel xaraar waa degmo ku taalo gobolka shabeelaha hoose , gaar ahaan waxay ku taalaa waqooyi bari ee degmada warmaxan
+
+Template:Degmooyinka Gobolka shabeelaha hoose
+
+
+# Infobox
+
+- **region**: Template:Country data doondheere
+- **Region**: Shabeelaha hoose
+- **cabdulaahi miigane(murusade) (dhegaweyne)mayor 2017-2023**: 1999
+- **• Nuuca**: somalia
+- **• gudoomiye**: cabdulaahi miigane
+- **Area**: 60 km 2 (20 sq mi)
+- **• Land**: 3 km 2 (1 sq mi)
+- **• Cufnaanta dadka**: 3,000/km 2 (8,000/sq mi)
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252
+- **Website**: www.afgooye.com
+
+
+# Tables
+
+## Table 1
+| ceel xaraar ceel mashiidiye |
+| --- |
+| Town |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/shabeelaha hoose" does not exist. |
+| Coordinates: 9°55′0″N 47°15′0″E ﻿ / ﻿ 9.91667°N 47.25000°E ﻿ / 9.91667; 47.25000 Coordinates : 9°55′0″N 47°15′0″E ﻿ / ﻿ 9.91667°N 47.25000°E ﻿ / 9.91667; 47.25000 |
+| region | Template:Country data doondheere |
+| Region | Shabeelaha hoose |
+| cabdulaahi miigane(murusade) (dhegaweyne)mayor 2017-2023 | 1999 |
+| Dowlada |
+| • Nuuca | somalia |
+| • gudoomiye | cabdulaahi miigane |
+| Area | 60 km 2 (20 sq mi) |
+| • Land | 3 km 2 (1 sq mi) |
+| • Cufnaanta dadka | 3,000/km 2 (8,000/sq mi) |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 |
+| Website | www.afgooye.com |
+
+
+
+# Coordinates
+9.91667; 47.25000

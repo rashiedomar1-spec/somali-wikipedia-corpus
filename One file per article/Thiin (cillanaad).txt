@@ -1,0 +1,25 @@
+title:
+Thiin (cillanaad)
+
+url:
+https://so.wikipedia.org/wiki?curid=12233
+
+text:
+"Kani waa maqaal ku saabsan tirada xisaabta."
+Thiin ama Tiro (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: number; &lt;a href="carabi"&gt;carabi&lt;/a&gt;: عدد) waa xuddunta &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta aan maalin kasta isticmaalno, taas oo ka bilaabanta &lt;a href="eber"&gt;eber&lt;/a&gt; (&lt;a href="0"&gt;0&lt;/a&gt;) kuna dhamaata meel aan la aqoon. 
+Sida eey isku raaceen khubarada &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta ee &lt;a href="duni"&gt;duni&lt;/a&gt;da, tirada la isticmaalo waxaa ugu badan &lt;a href="Tiriliyan"&gt;Tiriliyan&lt;/a&gt; oo ka sameeysan &lt;a href="sadex"&gt;sadex iyo toban&lt;/a&gt; &lt;a href="god"&gt;god&lt;/a&gt; (hal tiriliyan = 1'000'000'000'000)
+Laakiin intaas kuma eeka tiradu oo waa la sii wadi karaa ayadoo la isticmaalayo qaabka loo yaqaan (x10) oo u dhiganta ku dar &lt;a href="toban"&gt;toban&lt;/a&gt; &lt;a href="eber"&gt;eber&lt;/a&gt;.
+= Asal Maguurtada Tirada =
+Tirada dhamaanteed waxa &lt;a href="aasaaska%20tiro"&gt;aasaas&lt;/a&gt; u ah &lt;a href="lambar"&gt;toban lambar&lt;/a&gt; oo kala ah: 
+&lt;a href="Eber"&gt;Eber&lt;/a&gt; (&lt;a href="0"&gt;0&lt;/a&gt;),
+&lt;a href="kow"&gt;kow&lt;/a&gt; (&lt;a href="1"&gt;1&lt;/a&gt;), &lt;a href="labo"&gt;labo&lt;/a&gt; (&lt;a href="2"&gt;2&lt;/a&gt;), &lt;a href="sadex"&gt;sadex&lt;/a&gt; (&lt;a href="3"&gt;3&lt;/a&gt;), &lt;a href="Afar"&gt;Afar&lt;/a&gt; (&lt;a href="4"&gt;4&lt;/a&gt;), &lt;a href="Shan"&gt;Shan&lt;/a&gt; (&lt;a href="5"&gt;5&lt;/a&gt;), &lt;a href="Lix"&gt;Lix&lt;/a&gt; (&lt;a href="6"&gt;6&lt;/a&gt;), &lt;a href="Todoba"&gt;Todoba&lt;/a&gt; (&lt;a href="7"&gt;7&lt;/a&gt;), &lt;a href="Sideed"&gt;Sideed&lt;/a&gt; (&lt;a href="8"&gt;8&lt;/a&gt;) iyo &lt;a href="Sagaal"&gt;Sagaal&lt;/a&gt; (&lt;a href="9"&gt;9&lt;/a&gt;).
+= Aasaaska Tirada =
+Tiro waxay ka bilaabantaa &lt;a href="eber"&gt;eber&lt;/a&gt; ilaa dhamaad la'aan, waxaanay ku dhisan tahay xeerka ah &lt;a href="god"&gt;god&lt;/a&gt; oo &lt;a href="lambar"&gt;lambar&lt;/a&gt;ada &lt;a href="eber"&gt;eber&lt;/a&gt; ilaa &lt;a href="sagaal"&gt;sagaal&lt;/a&gt; waxa loo yaqaan &lt;a href="hal-god"&gt;hal-god&lt;/a&gt;leey; &lt;a href="toban"&gt;toban&lt;/a&gt; ilaa &lt;a href="sagaal"&gt;sagaashan iyo sagaal&lt;/a&gt; (99) waa &lt;a href="labo-god"&gt;labo-god&lt;/a&gt;leey; &lt;a href="boqol"&gt;boqol&lt;/a&gt; ilaa laga gaaro &lt;a href="boqol"&gt;sagaal-boqol-sagaashan-iyo-sagaal&lt;/a&gt; (999) waa &lt;a href="sadex-god"&gt;sadex-god&lt;/a&gt;leey. 
+Sidaas ayay u sii soconaysaa tiradu oo dhamaad ama meel eey ku eeg tahay ma lahan. 
+Tusaale ahaan, hal &lt;a href="Bilyan"&gt;Bilyan&lt;/a&gt; oo &lt;a href="lambar"&gt;lambar&lt;/a&gt; ahaan u qoranta 1'000'000'000 waa &lt;a href="Sadex-iyo-toban-god"&gt;Sadex-iyo-toban-god&lt;/a&gt;leey. 
+= Qeeybaha Tirada =
+Tiradu aad ayay u faro badan tahay, laakiin waxa aas-aas u ah oo mar walba ku sameeysan tahay &lt;a href="toban"&gt;toban&lt;/a&gt; lambar. 
+Kuwaas oo kala ah:
+Markaa tirooyinkan markasta oo la isku daro ama la &lt;a href="mataan"&gt;mataan&lt;/a&gt;eeyo waxay sameeyaan tiro cusub. 
+Tusaale ahaan marka tirooyinka &lt;a href="kow"&gt;kow&lt;/a&gt; iyo &lt;a href="labo"&gt;labo&lt;/a&gt; la mideeyo waxay noqdaan tiro cusub - &lt;a href="labo-god"&gt;labo-god&lt;/a&gt;leey - oo ah &lt;a href="toban"&gt;toban-iyo-labo&lt;/a&gt; (12). 
+Sidaas ayay tiradu u sii soconeeysaa.

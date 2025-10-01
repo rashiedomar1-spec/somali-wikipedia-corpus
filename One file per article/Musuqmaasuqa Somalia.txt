@@ -1,0 +1,24 @@
+title:
+Musuqmaasuqa Somalia
+
+url:
+https://so.wikipedia.org/wiki?curid=34830
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;254297&lt;/parentid&gt;
+ &lt;timestamp&gt;2024-05-02T07:23:26Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;InternetArchiveBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5&lt;/comment&gt;
+ &lt;origin&gt;263188&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+&lt;a href="Musuqmaasuqa%20Somalia"&gt;Musuqmaasuqa Somalia&lt;/a&gt;
+en: Corruption in Somalia
+Lacagaha dawladda iyo laaluushka oo loo adeegsado lacag dawladeed oo loo adeegsado dad iyo mashaariic, Soomaaliya waxay ka mid tahay dalalka ugu musuq-maasuqa badan ee ay ka jiraan wada hadal kooban oo u dhexeeya dadka iyo madaxda &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt;.
+Kooxaha qabaa'ilku waa hogaamiyayaal iyo laaluush dadka laga qaado inta badan dhibaatada mashaariicda adeegyada aasaasiga ah ee Soomaaliya.
+Musuqmaasuqa ka jira somalia waxa laga yaabaa in uu sabab u noqdo macaluusha oo ay madaxdu wali ku harsan yihiin in ka badan kala badh dadka ku nool macaluul iyo baahi cunto.
+Musuqmaasuqa ayaa horseeday hoos u dhac weyn oo ku yimid maalgashiga beeraha ee koonfurta Soomaaliya waxaana Soomaaliya lagu tiriyaa wadan musuq-maasuq badan uu ka jiro oo madaxda aan lagula xisaabtamin macluusha in ka badan 5 milyan oo qof.

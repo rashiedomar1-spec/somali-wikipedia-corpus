@@ -1,0 +1,39 @@
+title:
+Garabcad
+
+url:
+https://so.wikipedia.org/wiki?curid=28450
+
+text:
+Garabcad ..... waa Tuulo ku taala bariga gobolka sanaag waxay waqooyi bari ka xigtaa Tuulada dararwayne magalada waxa dega biciide gaar ahaan baho oo kamida muuse abokor habarjeclo Wana degmoyinka hoosyimada degmada ceelafweyn waa dhulki ay daraawish ti uu watay Haji sudi ka talin jireen
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Sanaag
+- **Degmo**: garab cad
+- **Joogga**: 350 m (1,150 ft)
+- **• Dhammaan**: 3,395
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| garab cad garab ad غرب عد |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Sanaag |
+| Degmo | garab cad |
+| Joogga | 350 m (1,150 ft) |
+| Tirada dadka |
+| • Dhammaan | 3,395 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

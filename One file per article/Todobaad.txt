@@ -1,0 +1,9 @@
+title:
+Todobaad
+
+url:
+https://so.wikipedia.org/wiki?curid=2067
+
+text:
+Todabaadka ama Usbuuc , sitimaan wuxuu ka koobmaa todobo maalmood oo kala ah,
+&lt;a href="Sanad"&gt;Sanad&lt;/a&gt;kii waxaa ku jiro ilaa iyo 52 usbuuc

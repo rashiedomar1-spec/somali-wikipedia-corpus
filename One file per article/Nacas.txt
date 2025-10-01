@@ -1,0 +1,8 @@
+title:
+Nacas
+
+url:
+https://so.wikipedia.org/wiki?curid=18700
+
+text:
+Nacas waa kalimad oo tilmaamaa qofka &lt;a href="aqoondarro"&gt;aqoondarro&lt;/a&gt; ah.

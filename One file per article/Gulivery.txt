@@ -1,0 +1,10 @@
+title:
+Gulivery
+
+url:
+https://so.wikipedia.org/wiki?curid=27344
+
+text:
+Gulivery
+&lt;a href="Cunto"&gt;Cunto&lt;/a&gt;
+&lt;a href="http%3A//www.gulivery.so"&gt;www.gulivery.so&lt;/a&gt;

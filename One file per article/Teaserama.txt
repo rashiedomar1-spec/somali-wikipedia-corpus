@@ -1,0 +1,34 @@
+title:
+Teaserama
+
+url:
+https://so.wikipedia.org/wiki?curid=32802
+
+text:
+Teaserama waa filim 1955 Mareykan ah oo miisaaniyad jaban ka faa’iideysi galmo ah oo uu sameeyay Irving Klaw. Waxay raacdaa waxqabadka bandhig culeys ah.
+
+
+# Infobox
+
+- **Directed by**: Irving Klaw
+- **Produced by**: Irving Klaw
+- **Starring**: Bettie Page
+- **Cinematography**: Michael Slifka
+- **Edited by**: Lester Orlebeck
+- **Distributed by**: Beautiful Productions Inc.
+- **Release date**: 1955 ( 1955 )
+
+
+# Tables
+
+## Table 1
+| Teaserama |
+| --- |
+|  |
+| Directed by | Irving Klaw |
+| Produced by | Irving Klaw |
+| Starring | Bettie Page |
+| Cinematography | Michael Slifka |
+| Edited by | Lester Orlebeck |
+| Distributed by | Beautiful Productions Inc. |
+| Release date | 1955 ( 1955 ) |

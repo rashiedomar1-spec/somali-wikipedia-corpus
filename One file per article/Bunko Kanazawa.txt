@@ -1,0 +1,29 @@
+title:
+Bunko Kanazawa
+
+url:
+https://so.wikipedia.org/wiki?curid=33288
+
+text:
+Bunko Kanazawa waa atariisho filima galmo Jabaan, kaasoo inta badan firfircoonaa dabayaaqadii 1990-meeyadii iyo horraantii 2000-meeyadii.  Waxaa loogu yeeray "mid ka mid ah sanamyada ugu waaweyn AV ee Jabaan". [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Magaca Saxda**: 金沢文子
+- **Ku dhashay**: ( 1979-04-04 ) Abriil 4, 1979 ( 46jir)
+- **Naanees**: Fumiko Kanazawa
+
+
+# Tables
+
+## Table 1
+| Bunko Kanazawa |
+| --- |
+| Magaca Saxda | 金沢文子 |
+| Ku dhashay | ( 1979-04-04 ) Abriil 4, 1979 ( 46jir) |
+| Naanees | Fumiko Kanazawa |
+| Website |
+| www.graphix.ne.jp/kanabun/index.html |

@@ -1,0 +1,8 @@
+title:
+Gambir
+
+url:
+https://so.wikipedia.org/wiki?curid=23437
+
+text:
+Madax waynaha uugu danbeeya waxa la dhahaa jokawi dudu

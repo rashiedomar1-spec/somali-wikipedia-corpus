@@ -1,0 +1,11 @@
+title:
+Koob la tuuro
+
+url:
+https://so.wikipedia.org/wiki?curid=32229
+
+text:
+Koob la tuuro
+koob baal ah oo la tuuro oo loo isticmaalo cuntada degdegga ah iyo makhaayadaha, koob la isticmaalo mar ama dhowr jeer, maadaama uusan ahayn koob adag oo marar badan la isticmaalo, koobka la tuuro ayaa adduunka oo dhan looga isticmaalaa sidii loogu iibin lahaa meel ka baxsan meelaha cuntada degdegga ah lagu cuno.
+sido kale fiiri.
+&lt;a href="Biyo"&gt;Biyo&lt;/a&gt;

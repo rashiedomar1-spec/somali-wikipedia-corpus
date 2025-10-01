@@ -1,0 +1,48 @@
+title:
+The Seven Year Itch
+
+url:
+https://so.wikipedia.org/wiki?curid=32598
+
+text:
+The Seven Year Itch ( Toddobada Sanno Cuncun )  waa filim majaajillo jacayl Mareykan ah oo 1955-kii ku saleysnaa riwaayad 1952 oo isla magacaas uu sameeyay George Axelrod. Filimkan waxaa wada-qoray oo hagayay Billy Wilder, waxaana jilaya Marilyn Monroe iyo Tom Ewell.
+
+
+# Infobox
+
+- **Directed by**: Billy Wilder
+- **Screenplay by**: George Axelrod Billy Wilder
+- **Based on**: The Seven Year Itch
+- **Produced by**: Charles K. Feldman Billy Wilder
+- **Starring**: Marilyn Monroe Tom Ewell
+- **Cinematography**: Milton R. Krasner
+- **Edited by**: Hugh S. Fowler
+- **Music by**: Alfred Newman
+- **Production company**: Charles K. Feldman Group Productions
+- **Distributed by**: 20th Century-Fox
+- **Release date**: Junn 1, 1955
+- **Running time**: 105 daqiiqo
+- **Country**: Mareykanka
+- **Language**: Ingiriis
+
+
+# Tables
+
+## Table 1
+| The Seven Year Itch |
+| --- |
+| Sawir laga soo qaaday filimka |
+| Directed by | Billy Wilder |
+| Screenplay by | George Axelrod Billy Wilder |
+| Based on | The Seven Year Itch |
+| Produced by | Charles K. Feldman Billy Wilder |
+| Starring | Marilyn Monroe Tom Ewell |
+| Cinematography | Milton R. Krasner |
+| Edited by | Hugh S. Fowler |
+| Music by | Alfred Newman |
+| Production company | Charles K. Feldman Group Productions |
+| Distributed by | 20th Century-Fox |
+| Release date | Junn 1, 1955 |
+| Running time | 105 daqiiqo |
+| Country | Mareykanka |
+| Language | Ingiriis |

@@ -1,0 +1,38 @@
+title:
+Abaalmarinta Muusikada Genie
+
+url:
+https://so.wikipedia.org/wiki?curid=33278
+
+text:
+Abaalmarinta Muusikada Genie waa bandhig abaalmarinno muusig oo waaweyn oo sannad walba lagu qabto Koonfur Kuuriya waxaana soo qabanqaabiyay Genie Music oo ay weheliyaan shabakadooda lamaanaha.
+
+
+# Infobox
+
+- **Lagu abaalmariyey**: Heerka sare ee muusikada
+- **Dalka**: Koonfur Kuuriya
+- **Waxaa soo bandhigay**: Genie Music MBC Plus (2018) M2 (2019)
+- **Hosted by**: 2018: Jun Hyun-moo 2019: Han Hye-jin
+- **Formerly called**: MBC Plus X Genie Music Awards
+- **Ugu horrayn la guddoonsiiyey**: 2018
+- **Network**: 2018: MBC Plus MBC Music MBC Every1 2019: Mnet
+- **Runtime**: 90 daqiiqado (Roogga Cas), 240 (Dhacdada ugu weyn)
+
+
+# Tables
+
+## Table 1
+| Abaalmarinta Muusikada Genie |
+| --- |
+|  |
+| Lagu abaalmariyey | Heerka sare ee muusikada |
+| Dalka | Koonfur Kuuriya |
+| Waxaa soo bandhigay | Genie Music MBC Plus (2018) M2 (2019) |
+| Hosted by | 2018: Jun Hyun-moo 2019: Han Hye-jin |
+| Formerly called | MBC Plus X Genie Music Awards |
+| Ugu horrayn la guddoonsiiyey | 2018 |
+| Highlights |
+| Television/radio coverage |
+| Network | 2018: MBC Plus MBC Music MBC Every1 2019: Mnet |
+| Runtime | 90 daqiiqado (Roogga Cas), 240 (Dhacdada ugu weyn) |

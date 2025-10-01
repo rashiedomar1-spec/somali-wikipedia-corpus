@@ -1,0 +1,36 @@
+title:
+Microsoft Windows
+
+url:
+https://so.wikipedia.org/wiki?curid=3456
+
+text:
+Microsoft Windows (1985-2009)
+
+Windows 1
+
+Windows 2
+
+Windows 3.0
+
+Windows 3.1
+
+Windows 3.11
+
+Windows 95
+
+Windows 98
+
+Windows NT
+
+Windows ME
+
+Windows 2000
+
+Windows XP
+
+Windows Vista
+
+Windows 7
+
+ReactOS

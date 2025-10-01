@@ -1,0 +1,8 @@
+title:
+Caafi baale
+
+url:
+https://so.wikipedia.org/wiki?curid=40450
+
+text:
+Caafi baale waa mid kamida ardaayada &lt;a href="cismaan%20yoonis"&gt;cismaan yoonis&lt;/a&gt; oo ka tirsan qabiilka &lt;a href="reeryoonis"&gt;reeryoonis&lt;/a&gt; ee &lt;a href="Habar%20Jeclo"&gt;habarjeclo&lt;/a&gt; beeshu waxay degtaa gobolka &lt;a href="sool"&gt;sool&lt;/a&gt; iyo sidoo kale &lt;a href="togdheer"&gt;togdheer&lt;/a&gt;

@@ -1,0 +1,37 @@
+title:
+Scarlett Johansson
+
+url:
+https://so.wikipedia.org/wiki?curid=35033
+
+text:
+Scarlett Ingrid Johansson ( / h æ n s ən / ; dhashay Nofeembar 22, 1984) [ 1 ] waa atariisho Mareykan ah. Waxay ahayd aktarada adduunka ugu mushaarka badan 2018 iyo 2019, waxayna dhowr jeer kasoo muuqatay liiska Forbes Celebrity 100 . Aflaanteedu waxay soo xareeyeen in ka badan US$14.3 bilyan adduunka oo dhan, taasoo ka dhigaysa Johansson xiddiga sagaalaad ee lacagaha ugu badan soo xareeyo abid. Iyadu waa qaataha abaal-marinno kala duwan, oo ay ku jiraan Abaalmarinta Tony iyo Abaalmarinta Filimada Akadeemiyada Ingiriiska , marka lagu daro magacaabista laba Abaalmarinnada Akadeemiyada iyo shan Abaalmarinnada Golden Globe .
+
+Tix
+
+Ryan Reynolds ( g. 2008; f 2011)
+
+Romain Dauriac ( g. 2014; f 2017)
+
+Colin Jost ( g. 2020)
+
+
+# Infobox
+
+- **Ku dhashay**: Scarlett Ingrid Johansson ( 1984-11-22 ) Nofeembar 22, 1984 ( 40jir) New York
+- **Sanadaha Shaqada**: 1994–hada
+- **Xaasaska**: Ryan Reynolds ( g. 2008; f 2011) Romain Dauriac ( g. 2014; f 2017) Colin Jost ( g. 2020)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Scarlett Johansson |
+| --- |
+| Johansson ee 2009 |
+| Ku dhashay | Scarlett Ingrid Johansson ( 1984-11-22 ) Nofeembar 22, 1984 ( 40jir) New York |
+| Sanadaha Shaqada | 1994–hada |
+| Xaasaska | Ryan Reynolds ( g. 2008; f 2011) Romain Dauriac ( g. 2014; f 2017) Colin Jost ( g. 2020) |
+| Ilmaha | 2 |
+| Saxiixa |  |

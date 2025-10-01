@@ -1,0 +1,43 @@
+title:
+Wareeg
+
+url:
+https://so.wikipedia.org/wiki?curid=4871
+
+text:
+Goobo ama meeris waa shay kamid ah xisaabta. Waana 360 darajo, wareega dhameestiran. Bartamaha wareega ilaa qarkiisa waxaa loogu yeeraa wareega raadius.wareega qarkiisa ilaa qarka kale neh waxaa u maleenaa in loogu yeero (Siiwade)
+
+Qaacidada
+
+Tusaale
+
+P = 2 ⋅ π ⋅ r {\displaystyle P=2\cdot \pi \cdot r}
+
+Ama
+
+P = d ⋅ π {\displaystyle P=d\cdot \pi }
+
+Sida
+
+Waxaa loo cabiri karaa Afar geeslaha in la isugeeyo dhamaan Xaglahiisa.
+
+Wareega Goobo Waxaa lagu helaa
+
+P Waa dhererka Wareegga r Gacan Goobo d Dhexroor Goobo
+
+P Waa dhererka Wareegga
+
+r Gacan Goobo
+
+d Dhexroor Goobo
+
+
+# Tables
+
+## Table 1
+| Nuuca | qaacidada | Isbedelka |
+| --- | --- | --- |
+| Goobo | 2 π r {\displaystyle 2\pi r\,} | Meesha ah r {\displaystyle r} Waa gacan. |
+| saddax-xagal | a + b + c {\displaystyle a+b+c\,} | Meesha ah a {\displaystyle a} , b {\displaystyle b} iyo c {\displaystyle c} Waa dhinacyeda Saddax-xagal. |
+| Qardhaas / qardhaas | 4 a {\displaystyle 4a} | Meesha ah a {\displaystyle a} Waa dhererka dhinaca |
+| Laydi | 2 ( h + w ) {\displaystyle 2(h+w)} | Meesha ah h {\displaystyle h} Waa joogga iyo w {\displaystyle w} Ballaca |

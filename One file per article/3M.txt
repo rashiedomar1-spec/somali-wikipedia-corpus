@@ -1,0 +1,40 @@
+title:
+3M
+
+url:
+https://so.wikipedia.org/wiki?curid=23906
+
+text:
+3M - Maraykanka
+
+Shirkadda 3M, oo hore loogu yaqaanay Shirkadda Mining and Manufacturing Company, waa shirkad Maraykan ah oo ka shaqeysa shirkadaha caalamiga ah oo ku salaysan Maplewood, Minnesota, oo ku taal xaafada St. Paul.
+3M waxay ka shaqeysaa 90,000 oo qof oo adduunka ku shaqeeya waxayna soo saartaa in ka badan 55,000 oo badeecadood, oo ay ka mid yihiin: waxyaabaha la isku qurxiyo, abrasives, laminates, difaaca dabka, qalabka ilaalinta shakhsi ahaaneed, alaabooyinka ilkaha iyo kuwa korontada, qalabka elektarooniga, alaabta caafimaadka, (shimbiraha qorraxda, ciriiriga, mira, shaambo baabuur, daaweynta dibedda, gudaha iyo ilaalinta xayndaada ilkaha), [3] wareegyada elektarooniga ah, software-ka daryeelka caafimaadka iyo filimada la yiraahdo [4] 3M waxay leedahay hawlo in ka badan 65 dal oo ay ka mid yihiin 29 shirkadood oo caalami ah oo leh hawlaha wax soosaarka iyo 35 shirkadood oo leh shaybaarro. Waxyaabaha 3M ah ayaa diyaar u ah inay iibsadaan iyada oo loo marayo iibiyeyaasha iyo tafaariiqlayda, oo si toos ah uga soo iibsada shirkadda.
+
+
+# Infobox
+
+- **Hore loo yaqaanay**: Minnesota Mining and Manufacturing Company
+- **Nooca**: Public
+- **ka ganacsaday sida**: {
+- **Shirkada**: Conglomerate
+- **Aasaasaha**: John Dwan Hermon Cable Henry Bryan William A. McGonagle
+- **Xarunta**: Maplewood , Minnesota , U.S.
+- **Meelaha loo adeegsaday**: Worldwide
+- **Tirada inta ka shaqeeso**: 91,536 (2017) [ 1 ]
+- **Website**: 3M.com
+
+
+# Tables
+
+## 3M Company
+|   |
+| --- |
+| Hore loo yaqaanay | Minnesota Mining and Manufacturing Company |
+| Nooca | Public |
+| ka ganacsaday sida | { |
+| Shirkada | Conglomerate |
+| Aasaasaha | John Dwan Hermon Cable Henry Bryan William A. McGonagle |
+| Xarunta | Maplewood , Minnesota , U.S. |
+| Meelaha loo adeegsaday | Worldwide |
+| Tirada inta ka shaqeeso | 91,536 (2017) [ 1 ] |
+| Website | 3M.com |

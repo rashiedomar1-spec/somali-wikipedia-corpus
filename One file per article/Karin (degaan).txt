@@ -1,0 +1,49 @@
+title:
+Karin (degaan)
+
+url:
+https://so.wikipedia.org/wiki?curid=21348
+
+text:
+Karin ( Af Ingiriis : Caren , Af Carabi : لاسعانود ‎) Waa magaalo ku taal Gobolka Bari Soomaaliya. Waxay kamid tahay magaalooyinka ugu facaweyn soomaaliya, 40 KM ayeey dhanka koonfureed ka xigtaa Magaalada Boosaaso waxaana la assaasay horaantii qarnigii 14-aad ee taariikhda miilaadiga, waxay ku taal deegaan Istaraatiiji ah oo ah Karinka Kala qaybsha Buuraha Calmiskaad & Calmadow , Waa qalcad dabiici ah.
+
+Taariikhda
+
+Karin waxay ku bilaabatay Beero si tartiib tartiib ah ayeeyna Isugu bedeshay magaalo,
+Horaanta qarnigii 20-aad waxaa saldhig iyo xarun ciidan ka samaystay Faashiitihii Talyaaniga Xaruntaas oo ahayd mida Labaad ee ugu weyn ee Talyaanigu ku yeeshay Soomaaliya
+
+Dhaqaalaha
+
+Nolasha dadka oo badideed aad ugu xiran magaalada bosaso, waxay ku tiirsantahay wax soosaarka beeraha iyo maydiga (beeyada iyo fooxa) maadaama Magalaada karin ay dhexdooda kutaal labada Buurood e Calmadaw iyo  Calmiskaat kuwaaso ay kabaxaan xabkuhu.
+
+Taariikh
+
+
+# Infobox
+
+- **Wadanka**: Soomaaliya
+- **Maamulka**: Puntland
+- **Gobolka**: Bari
+- **Degmada**: karin
+- **• Nuuca**: Degmo
+- **• Dhammaan**: 80,000
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Karin Karriyyn كارين |
+| --- |
+| Degmo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Wadanka | Soomaaliya |
+| Maamulka | Puntland |
+| Gobolka | Bari |
+| Degmada | karin |
+| Dowlada |
+| • Nuuca | Degmo |
+| Tirada dadka |
+| • Dhammaan | 80,000 |
+| Aag saacadeed | UTC+3 ( EAT ) |

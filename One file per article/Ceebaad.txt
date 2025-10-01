@@ -1,0 +1,50 @@
+title:
+Ceebaad
+
+url:
+https://so.wikipedia.org/wiki?curid=31915
+
+text:
+Ceebaad waa tan labaad ee ugu weyn lixda jasiiradood ee Saylac Archipelago . Waxay leedahay laydh.  Waa jasiirad yar oo bacaad leh, oo leh duurka, oo dhererkeedu yahay 1.75 mayl iyo ballac ahaan qiyaastii 0.55 mayl. Badanaa waxaa ku xeeran dhagax dixeed.
+
+Sidoo kale eeg
+
+Tixraacyo
+
+Koyama (jasiirad)
+
+Gasiirada Sacadiin
+
+
+# Infobox
+
+- **Meesha**: Somaliland
+- **Deegaanka**: Zeila Archipelago
+- **Baaxada**: km 2 ( sq mi)
+- **Balaca**: [ convert: needs a number ]
+- **Ku baahsan**: km 2 ( sq mi)
+- **Area covered**: km 2 ( sq mi)
+- **Bulshada**: <
+
+
+# Tables
+
+## Aibat island
+| Juquraafi |
+| --- |
+| Meesha | Somaliland |
+| Deegaanka | Zeila Archipelago |
+| Baaxada | km 2 ( sq mi) |
+| Balaca | [ convert: needs a number ] |
+| Maamulka |
+| Somaliland |
+| Ku baahsan | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Area covered | km 2 ( sq mi) |
+| Bulshada | < |

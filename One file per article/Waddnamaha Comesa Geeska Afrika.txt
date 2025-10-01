@@ -1,0 +1,9 @@
+title:
+Waddnamaha Comesa Geeska Afrika
+
+url:
+https://so.wikipedia.org/wiki?curid=34402
+
+text:
+Waddnamaha Comesa Geeska Afrika
+&lt;a href="comesa"&gt;comesa&lt;/a&gt;

@@ -1,0 +1,62 @@
+title:
+Waddanka Malawi kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35564
+
+text:
+Waddanka Malawi kubedka
+
+Malawi
+
+FIFA
+
+COSAFA
+
+CAF
+
+16	GK	Ernest Kakhobwe	26 June 1993 (age 28)	27	0	Malawi Big Bullets
+
+23	GK	William Thole	2 October 1998 (age 23)	5	0	Malawi Mighty Wanderers
+
+1	GK	Charles Thomu	24 January 1999 (age 23)	2	0	Malawi Silver Strikers
+
+2	DF	Stanley Sanudi	2 February 1995 (age 27)	67	0	Malawi Mighty Wanderers
+
+19	DF	Limbikani Mzava	12 November 1993 (age 28)	64	2	South Africa AmaZulu
+
+4	DF	Peter Cholopi	19 August 1996 (age 25)	30	0	Malawi Mighty Wanderers
+
+5	DF	Dennis Chembezi	15 January 1997 (age 25)	30	0	South Africa Polokwane City
+
+6	DF	Gomezgani Chirwa	25 September 1996 (age 25)	19	0	Malawi Big Bullets
+
+12	DF	Mark Fodya	22 December 1997 (age 24)	5	0	Malawi Silver Strikers
+
+15	DF	Lawrence Chaziya	19 August 1998 (age 23)	4	0	Malawi Civil Service United
+
+17	MF	John Banda	6 February 1992 (age 30)	80	7	Mozambique Songo
+
+7	MF	Micium Mhone	19 January 1992 (age 30)	50	4	Malawi Blue Eagles
+
+21	MF	Chikoti Chirwa	9 March 1992 (age 29)	29	2	Malawi Kamuzu Barracks
+
+8	MF	Chimwemwe Idana	7 September 1998 (age 23)	31	0	Malawi Big Bullets
+
+3	MF	Charles Petro	8 February 2001 (age 21)	25	0	Moldova Sheriff Tiraspol
+
+11	FW	Gabadinho Mhango	27 September 1992 (age 29)	61	15	South Africa Orlando Pirates
+
+14	FW	Robin Ngalande	2 November 1992 (age 29)	46	2	Ethiopia Saint George
+
+9	FW	Richard Mbulu	25 January 1994 (age 28)	38	5	South Africa Baroka
+
+20	FW	Yamikani Chester	20 December 1994 (age 27)	32	0	Malawi Mighty Wanderers
+
+22	FW	Khuda Muyaba	26 December 1993 (age 28)	22	4	South Africa Polokwane City
+
+13	FW	Peter Banda	22 September 2000 (age 21)	18	0	Tanzania Simba
+
+10	FW	Francisco Madinga	11 February 2000 (age 22)	11	0	Georgia (country) Dila Gori
+
+18	FW	Zebron Kalima	13 May 2002 (age 19)	2	0	Malawi Silver Strikers

@@ -1,0 +1,40 @@
+title:
+The Las Vegas Story
+
+url:
+https://so.wikipedia.org/wiki?curid=32765
+
+text:
+The Las Vegas Story waa filim 1952 ay jilayeen Jane Russell iyo Victor Mature.
+
+
+# Infobox
+
+- **Directed by**: Robert Stevenson
+- **Screenplay by**: Paul Jarrico Earl Felton Harry Essex
+- **Story by**: Jay Dratler
+- **Produced by**: Robert Sparks Howard Hughes Samuel Bischoff
+- **Starring**: Jane Russell Victor Mature Vincent Price Hoagy Carmichael
+- **Cinematography**: Harry J. Wild
+- **Edited by**: Frederic Knudtson George C. Shrader
+- **Music by**: Leigh Harline
+- **Production company**: RKO Pictures
+- **Release date**: Janaayo 30, 1952 ( 1952-01-30TUnited States )
+
+
+# Tables
+
+## Table 1
+| The Las Vegas Story |
+| --- |
+|  |
+| Directed by | Robert Stevenson |
+| Screenplay by | Paul Jarrico Earl Felton Harry Essex |
+| Story by | Jay Dratler |
+| Produced by | Robert Sparks Howard Hughes Samuel Bischoff |
+| Starring | Jane Russell Victor Mature Vincent Price Hoagy Carmichael |
+| Cinematography | Harry J. Wild |
+| Edited by | Frederic Knudtson George C. Shrader |
+| Music by | Leigh Harline |
+| Production company | RKO Pictures |
+| Release date | Janaayo 30, 1952 ( 1952-01-30TUnited States ) |

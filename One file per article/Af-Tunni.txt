@@ -1,0 +1,8 @@
+title:
+Af-Tunni
+
+url:
+https://so.wikipedia.org/wiki?curid=7222
+
+text:
+Af-Tunni waa lahjad ka mid ah lahjadaha &lt;a href="Af-Soomaali"&gt;Af Soomaaliga&lt;/a&gt;. Lahjadan waxa lagaga hadlaa degmooyin ka mid ah gobolada &lt;a href="Shabeellaha%20Hoose"&gt;Shabeellaha Hoose&lt;/a&gt; iyo &lt;a href="Jubbada%20Dhexe"&gt;Jubbada Dhexe&lt;/a&gt;.

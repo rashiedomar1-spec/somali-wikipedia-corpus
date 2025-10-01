@@ -1,0 +1,44 @@
+title:
+Cadnaan (magac)
+
+url:
+https://so.wikipedia.org/wiki?curid=18998
+
+text:
+Cadnan ( Af Ingiriis : Adnan ; Af Carabi : لاسعانود ‎, ʿAdnān ) waa magac loo bixiyo labka (rag) ku dhaqan wadanada Dunida Muslimka . Magacan waxaa dadka Carabta ahi la bixi jireen tan iyo wakhti badan ka hor soo bixitaankii Nebi Muxamed waxaana la ogyahay in asalka iyo tafiirta nebigu ay gasho nin la odhan jiray Cadnaan oo noolaa wakhtiyo hore.
+
+Maanta dad badan oo ah Carab iyo Cajabi, Islaam iyo dad kale ayaa la baxa magacaasi.
+
+Dadka Magaca Leh
+
+La Xidhiidha
+
+Tixraac
+
+Miangul Adnan Aurangzeb, siyaasi reer Bakistaan ah
+
+Adnan Abdo al-Sukhni (dhashay 1961), siyaasi reer Suuriya ah
+
+Cadnaan
+
+Cadnaaniyiin
+
+Magac
+
+
+# Infobox
+
+- **Nooc**: Lab
+- **Af**: Carabi, Bosnian, Turkish, iyo Iiraan
+- **Macnaha**: "degane"
+
+
+# Tables
+
+## Table 1
+| Cadnan Adnan |
+| --- |
+| Nooc | Lab |
+| Af | Carabi, Bosnian, Turkish, iyo Iiraan |
+| Asalka |
+| Macnaha | "degane" |

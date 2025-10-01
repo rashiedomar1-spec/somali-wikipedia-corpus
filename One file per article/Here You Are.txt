@@ -1,0 +1,28 @@
+title:
+Here You Are
+
+url:
+https://so.wikipedia.org/wiki?curid=35627
+
+text:
+Here You Are (loo habeeyey: Here you are ) waa buug-sawirkii ugu horreeyay ee Yua Mikami , waxa la sii daayay Diseembar 16, 2015. Buuga ayaa la siidaayay ka dib markii Mikami ay sameysay filimkeedii galmo ugu horeeyay sanadkaas. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Mawduuca**: Yua Mikami
+- **Taariikhda Daabacaadda**: Diseembar 16, 2015
+- **Ku xigay**: Your angel
+- **Qoraalka asalka**: Here you are at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource
+
+
+# Tables
+
+## Here you are
+| Mawduuca | Yua Mikami |
+| --- | --- |
+| Taariikhda Daabacaadda | Diseembar 16, 2015 |
+| Ku xigay | Your angel |
+| Qoraalka asalka | Here you are at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource |

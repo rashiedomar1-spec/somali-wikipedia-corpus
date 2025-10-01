@@ -1,0 +1,41 @@
+title:
+Dalsan
+
+url:
+https://so.wikipedia.org/wiki?curid=35528
+
+text:
+Dalsan , waa deegaan ku yaala koonfurta gobolka Jubbada Hoose Jubbada Hoose ee dalka Soomaaliya.
+
+Dalsan waxaa ay 21 KM dhanka waqooyi-galbeed kaga beegan tahay caasimadda degmada Kismaayo , Dalsan waxa ay leedahay adeegyada aasaasiga ah ee bulshada sida MCH (Caafimaadka Hooyada iyo Dhallaanka), Dugsi Hoose, Masjid iyo hotel.
+
+
+# Infobox
+
+- **Waddanka**: Somalia
+- **Gobol**: Jubbada Hoose
+- **Degmo**: Kismayo
+- **• Dhammaan**: 700
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Dalsan |
+| --- |
+| Village |
+|  |
+| Dalsan is located in Earth Dalsan |
+| Coordinates: 0°20′55″S 42°22′59″E ﻿ / ﻿ 0.34861°S 42.38306°E ﻿ / -0.34861; 42.38306 Coordinates : 0°20′55″S 42°22′59″E ﻿ / ﻿ 0.34861°S 42.38306°E ﻿ / -0.34861; 42.38306 |
+| Waddanka | Somalia |
+| Gobol | Jubbada Hoose |
+| Degmo | Kismayo |
+| Tirada dadka |
+| • Dhammaan | 700 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+-0.34861; 42.38306

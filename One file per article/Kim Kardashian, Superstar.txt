@@ -1,0 +1,33 @@
+title:
+Kim Kardashian, Superstar
+
+url:
+https://so.wikipedia.org/wiki?curid=34580
+
+text:
+Kim Kardashian, Superstar (oo sidoo kale loo yaqaan Kim K Superstar ) waa filim galmo 2007 oo muujinaya shakhsiyadda telefishinka Maraykanka Kim Kardashian iyo fannaanka-aktarka Ray J . Waxay ka kooban tahay Kardashian oo galmo la samaynaysa Ray J xilli uu fasax ku jiray Oktoobar 2002 gudaha Cabo San Lucas , Meksiko . [ 1 ]
+
+Tix
+
+Maarso 21, 2007 ( 2007-03-21 )
+
+
+# Infobox
+
+- **Directed by**: Ray J
+- **Produced by**: Ray J
+- **Starring**: Kim Kardashian Ray J
+- **Distributed by**: Vivid Entertainment
+- **Release date**: Maarso 21, 2007 ( 2007-03-21 )
+
+
+# Tables
+
+## Table 1
+| Kim Kardashian, Superstar |
+| --- |
+| Directed by | Ray J |
+| Produced by | Ray J |
+| Starring | Kim Kardashian Ray J |
+| Distributed by | Vivid Entertainment |
+| Release date | Maarso 21, 2007 ( 2007-03-21 ) |

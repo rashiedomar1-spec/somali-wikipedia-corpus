@@ -1,0 +1,8 @@
+title:
+Socod
+
+url:
+https://so.wikipedia.org/wiki?curid=18686
+
+text:
+Socod waa habka &lt;a href="lug"&gt;lug&lt;/a&gt;aha marku qofka rabo inuu meel aado.

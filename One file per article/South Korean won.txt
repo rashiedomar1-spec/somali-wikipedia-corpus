@@ -1,0 +1,29 @@
+title:
+South Korean won
+
+url:
+https://so.wikipedia.org/wiki?curid=23955
+
+text:
+Korean- KRW
+
+Korean: 원, Korean waa: [wʌn]; calaamad:;; code: KRW) ama Korea Republic Won waa lacagta Kuuriyada Koonfureed. Kaliya hal guul ayaa loo qaybiyaa 100 jeoon, midda lacagta ah. Dabeecada mar dambe looma isticmaalo dhaqdhaqaaqyada maalinlaha ah, waxayna u muuqataa in sicirka sarrifka oo keliya. Guusha ayaa waxaa soo saaray Bangiga Kuuriya, oo ku salaysan caasimadda Seoul.
+
+sido kale fiiri
+
+Korea
+
+
+# Tables
+
+## Table 1
+| 2006–2017 Series [ 1 ] Template:Ko icon |
+| --- |
+| Image | Value | Dimensions | Main color | Description | Date of issue | BOK series designation |
+| Obverse | Reverse | Obverse | Reverse | Watermark |
+|  |  | ₩1,000 | 136 × 68 mm | Blue | Yi Hwang , Myeongryundang in Seonggyungwan , plum flowers | "Gyesangjeonggeodo"; a painting Yi Hwang in Dosan Seowon by Jeong Seon | Reversed portrait, value (1,000 to 50,000 won) Pyeongchang Olympic Stadium (2,000 won) | January 22, 2007 | Series III ( 다 ) |
+|  |  | ₩2,000 | 140 x 75 mm | Gray | Seven winter sports events (Biathlon, Ice hockey, Curling, Speed skating, Ski jumping, Luge and Bobsled) | Songhamaenghodo (a painting of a tiger and a pine tree by Joseon-era artist Kim Hong-do) | December 11, 2017 | Series I ( 가 ) |
+|  |  | ₩5,000 | 142 × 68 mm | Orange | Yi I , Ojukheon in Gangneung , black bamboo | "Insects and Plants", a painting of a watermelon and cockscombs by Yi I's mother Shin Saimdang | January 2, 2006 | Series V ( 마 ) |
+|  |  | ₩10,000 | 148 × 68 mm | Green | Sejong the Great , Irworobongdo , a folding screen for Joseon -era kings, and text from the second chapter of Yongbieocheonga , the first work of literature written in hangul | Globe of Honcheonsigye , Cheonsang Yeolcha Bunyajido C14 star map and reflecting telescope at Bohyeonsan Observatory in the background | January 22, 2007 | Series VI ( 바 ) |
+|  |  | ₩50,000 | 154 × 68 mm | Yellow | Shin Saimdang with Chochungdo - a Folding Screen of Embroidered Plants and Insects (South Korean National Treasure No. 595) in the background | Bamboo and a plum tree | June 23, 2009 | Series I ( 가 ) |
+| Template:Standard banknote table notice |

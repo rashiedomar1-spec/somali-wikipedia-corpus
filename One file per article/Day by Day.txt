@@ -1,0 +1,41 @@
+title:
+Day by Day
+
+url:
+https://so.wikipedia.org/wiki?curid=33008
+
+text:
+" Day by Day " waa hees dib-u-habeyn ah oo uu duubay heesaha Kuuriyada Koonfureed iyo xubin ka tirsan Red Velvet Joy . Asal ahaan waxaa duubay oo sii daayay labada gabdhood ee loo yaqaan As One sanadkii 1999-kii, heesta ayaa dib loo duubay waxaana la sii daayay Maajo 31, 2021 oo ay soo saartay shirkadda SM Entertainment oo ah raad ka yimid albumkeeda, Hello . [ 1 ]
+
+Tixraacyada
+
+SM
+
+Dreamus
+
+
+# Infobox
+
+- **La sii daayay**: Maajo 31, 2021 ( 2021-05-31 )
+- **Istuudiyaha**: SM Yellow Tail Studio
+- **Nooca**: R&B
+- **Dhererka**: 4 : 10
+- **Summada**: SM Dreamus
+- **Laxanka**: Shim Sang-won
+- **Erayada**: Yoon Sa-rah
+
+
+# Tables
+
+## Table 1
+| "Day by Day" |
+| --- |
+| by Joy |
+| from the album Hello |
+| La sii daayay | Maajo 31, 2021 ( 2021-05-31 ) |
+| Istuudiyaha | SM Yellow Tail Studio |
+| Nooca | R&B |
+| Dhererka | 4 : 10 |
+| Summada | SM Dreamus |
+| Laxanka | Shim Sang-won |
+| Erayada | Yoon Sa-rah |

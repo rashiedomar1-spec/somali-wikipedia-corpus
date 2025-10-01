@@ -1,0 +1,8 @@
+title:
+Iniin
+
+url:
+https://so.wikipedia.org/wiki?curid=18608
+
+text:
+Iniin wa qaybo ku yaala &lt;a href="dhir"&gt;dhir&lt;/a&gt;ta iyo &lt;a href="beer"&gt;beer&lt;/a&gt;id. Wa qaybo loo talagalay dhalid.

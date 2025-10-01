@@ -1,0 +1,31 @@
+title:
+Turkish lira
+
+url:
+https://so.wikipedia.org/wiki?curid=23937
+
+text:
+Lire
+
+Lire Turkish (Turkish: Turkish lirası; calaamad: ₺; Koodh: DAWLO, sida caadiga loo soo gaabiyo TL) [2] waa lacagta Turkiga iyo Jamhuuriyadda Turkiga ee is-kaashatey ee waqooyiga Cyprus. Lacagta Turkiga waxaa loo qaybiyaa 100 kuruş.
+
+Sido Kale fiiri
+
+Turkey
+
+
+# Tables
+
+## Table 1
+| Current Turkish lira banknotes [1] |
+| --- |
+| Image | Value (₺) | Dimensions (mm) | Main Colour | Description | Date of issue |
+| Obverse | Reverse | Obverse | Reverse | Watermark |
+|  |  | 5 | 130 × 64 |  | Brown | Mustafa Kemal Atatürk | Aydın Sayılı : solar system, atom, ancient cave, left-handed Z-DNA helix. | Mustafa Kemal Atatürk , Value | 1 January 2009 |
+|  |  |  | Purple | 8 April 2013 |
+|  |  | 10 | 136 × 64 |  | Red | Cahit Arf : Arf invariant , arithmetic series, abacus, binary sequence | 1 January 2009 |
+|  |  | 20 | 142 × 68 |  | Green | Architect Kemaleddin : Gazi University main building, aqueduct, circular motif and cube-globe-cylinder symbolizing architecture |
+|  |  | 50 | 148 × 68 |  | Orange | Fatma Aliye Topuz : flower and literary figures |
+|  |  | 100 | 154 × 72 |  | Blue | Buhurizade Itri : musical notes, instruments and Mevlevi figure |
+|  |  | 200 | 160 × 72 |  | Violet | Yunus Emre : Yunus' s mausoleum, rose, pigeon and the line " Sevelim, sevilelim " (Let us love, let us be loved) |
+| Template:Standard banknote table notice |

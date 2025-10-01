@@ -1,0 +1,29 @@
+title:
+Raxma Riad
+
+url:
+https://so.wikipedia.org/wiki?curid=34846
+
+text:
+Raxma Riad (Carabi: رحمة رياض, waxay dhalatay Janaayo 19, 1987) waa heesaa Ciraaq ah [ 1 ] .
+
+Tix
+
+
+# Infobox
+
+- **Dhashay**: ( 1987-01-19 ) Janaayo 19, 1987 ( 38jir) Ciraaq
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2004–hada
+
+
+# Tables
+
+## Table 1
+| Raxma Riad رحمة رياض |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Dhashay | ( 1987-01-19 ) Janaayo 19, 1987 ( 38jir) Ciraaq |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2004–hada |

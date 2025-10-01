@@ -1,0 +1,52 @@
+title:
+Bursaspor
+
+url:
+https://so.wikipedia.org/wiki?curid=19864
+
+text:
+Coordinates : 40°11′0″N 29°03′0″E ﻿ / ﻿ 40.18333°N 29.05000°E ﻿ / 40.18333; 29.05000
+
+Bursaspor Waa koox-banooni oo ka dhisan magaalada Bursa ee dalka Turkiga . Kooxdani waxaa la aasaasay sanadku markuu ahaa 1963dii , waxayna ka mid tahay kooxaha ugu waawyn uguna taageerayaasha badan guud ahaan dalkaasi.
+
+Tixraac
+
+Eeg waliba
+
+Bursaspor
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Bursaspor Kulübü Derneği
+- **Naaneys**: Yeşil Timsahlar (Green Crocodiles)
+- **La aasaasay**: 1 Juun 1963 ; 62 sanadood ka hor ( 1963-06-01 )
+- **Garoon**: Bursa Metropolitan Stadium
+- **Garoonka Awoodda**: 43,361
+- **Gudoomiyaha**: Ömer Furkan Banaz
+- **Maamulaha**: İsmail Ertekin
+- **Website**: Club home page
+
+
+# Tables
+
+## Bursaspor
+|   |
+| --- |
+| Magaca oo dhameestiran | Bursaspor Kulübü Derneği |
+| Naaneys | Yeşil Timsahlar (Green Crocodiles) |
+| La aasaasay | 1 Juun 1963 ; 62 sanadood ka hor ( 1963-06-01 ) |
+| Garoon | Bursa Metropolitan Stadium |
+| Garoonka Awoodda | 43,361 |
+| Gudoomiyaha | Ömer Furkan Banaz |
+| Maamulaha | İsmail Ertekin |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab Saddexaad middab | Guriga midab | Marti midab | Saddexaad middab |
+| Guriga midab | Marti midab | Saddexaad middab |
+|  |
+
+
+
+# Coordinates
+40.18333; 29.05000

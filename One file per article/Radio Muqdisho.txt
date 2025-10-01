@@ -1,0 +1,41 @@
+title:
+Radio Muqdisho
+
+url:
+https://so.wikipedia.org/wiki?curid=5987
+
+text:
+Radiyo Muqdisho codka Jamhuuriyadda Soomaaliya, waa idaacad ku hadasha codka dowladda federaalka ee Soomaaliya . [ 1 ]
+
+Taariikh
+
+Raadio muqdisho Waxaa la aasaasay xilligii gumeysiga talyaaniga ee Dhulka Talyaaniga ee Soomaaliya .  Raadiyo Muqdisho ayaa markii hore ku baahin jirtay wararka afka soomaaliga iyo talyaaniga . idaacadda ayaa markii ugu horreysay la bilaabay 1951 [ 2 ] 9 sano ka hor intii aan dalku xor noqon.
+
+raadio muqdisho waxaa la xiray Dagaalkii sokeeye ee qarxay 1991, waxaana si rasmi ah dib loogu furay horaantii sanadkii 2000 dowladii ku meel gaarka ahayd ee Madaxweynihii hore ee Soomaaliya, Cabdiqaasim Salaad Xassan .
+
+
+# Infobox
+
+- **Nuuca**: Idaacad iyo telefishin
+- **Dalka**: Somalia
+- **Ugaar ah**: Qaranka
+- **Xarunta**: Muqdisho , Soomaaliya
+- **Milkiyadda**: Dawladda Soomaaliya
+- **Waqtiga hawada**: 1951
+- **Website rasmiga ah**: Radio Muqdisho
+- **Afka (luqada)**: Soomaali, Carabi, Ingiriis
+
+
+# Tables
+
+## Raadiyoow Muqdisho Radio Mogadishu
+| Radmoglogo.jpg |
+| --- |
+| Nuuca | Idaacad iyo telefishin |
+| Dalka | Somalia |
+| Ugaar ah | Qaranka |
+| Xarunta | Muqdisho , Soomaaliya |
+| Milkiyadda | Dawladda Soomaaliya |
+| Waqtiga hawada | 1951 |
+| Website rasmiga ah | Radio Muqdisho |
+| Afka (luqada) | Soomaali, Carabi, Ingiriis |

@@ -1,0 +1,49 @@
+title:
+Saalax Naaji
+
+url:
+https://so.wikipedia.org/wiki?curid=19601
+
+text:
+Sharaxaad badan iyo faahfaahin fanaaniinta , fadlan fiiri Fanaaniinta Soomaaliya .
+
+Sharaxaad badan iyo faahfaahin fanaaniinta , fadlan fiiri Fanaaniinta Soomaaliya .
+
+Saalax Qaasim Naaji ( Af Carabi : لاسعانود ‎) waa fanaan weyn oo ku hees Af-Soomaaliga kaasi oo leh suugaan iyo heeso aad u badan. [ 1 ] Heesaha uu qaado fanaankani oo u badan jacayl, wadani, goobaabin, talo-siin, dhiiri-gelin iyo wanaag darteed ayaa Saalax Qaasim sharaf iyo sumcad ku dhex leeyahay Fanka Soomaalida .
+
+Sidoo kale fiiri
+
+Xigasho
+
+Fanaan Soomaali
+
+Suugaanta Soomaalida
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1943-05-21 ) Maajo 21, 1943 ( 82jir) Muqdisho , Banadir
+- **Degenaansho**: London , England , Boqortooyada Ingiriiska
+- **Qoomiyada**: Soomaali
+- **Shaqada**: Heesaa , Fanaan , laxamiiste , jilaa
+- **Sanadaha Shaqada**: 1963kii-2000
+- **Ka tirsan**: Hobolada Waaberi (1970-1998)
+- **Shaqooyinka ugu muhiimsan**: Heeso wadani, heeso jacayl, qasaa'id
+- **Magaalada ka soo jeedo**: Xamar , Banadir
+- **Diinta**: Sunni Islaam
+
+
+# Tables
+
+## Table 1
+| Saalax Qaasim Naaji صالح قاسم ناج |
+| --- |
+| Ku dhashay | ( 1943-05-21 ) Maajo 21, 1943 ( 82jir) Muqdisho , Banadir |
+| Degenaansho | London , England , Boqortooyada Ingiriiska |
+| Qoomiyada | Soomaali |
+| Shaqada | Heesaa , Fanaan , laxamiiste , jilaa |
+| Sanadaha Shaqada | 1963kii-2000 |
+| Ka tirsan | Hobolada Waaberi (1970-1998) |
+| Shaqooyinka ugu muhiimsan | Heeso wadani, heeso jacayl, qasaa'id |
+| Magaalada ka soo jeedo | Xamar , Banadir |
+| Diinta | Sunni Islaam |

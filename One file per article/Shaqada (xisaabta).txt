@@ -1,0 +1,20 @@
+title:
+Shaqada (xisaabta)
+
+url:
+https://so.wikipedia.org/wiki?curid=38123
+
+text:
+Xeerarka shaqada ah ee xisaabinta ( en:Function ) (oo koodka ahaan loo yaqaanay khariidaynta ama khariidad ) waxay ka shuban yihin dhabarka laba qiimay, midkaasoo leh qiimaha ka dhexeeya (xallinta ahaan, maamulka shaqada, ama "inputka") iyo midka kale (qiimaha shaqada, ama "outputka") oo loo yaqaanay dhabarka u dhaxeeya inputka.
+
+Tusaale . f haa ahado shaqada qaada saddexagalka (diyaarada) oo soo celisa aaggeeda.  Qaybta shaqadani waa saddexagalka saddexagalka ah, kala duwanaantuna waa tirada tirooyinka dhabta ah ee togan (ma danaynayno meelaha taban).  Hawlaha waxaa badanaa lagu qoraa iyadoo doodooda lagu soo lifaaqay qawl, markaa haddii T uu yahay saddex xagal oo leh aagga 32, xiriirkan waxaa laga yaabaa in la qoro:
+
+f ( T ) = 32 {\displaystyle f(T)=32}
+
+f ( T ) = 32 {\displaystyle f(T)=32}
+
+Kaas oo loo akhrin lahaa sida f ee T waxay la mid tahay 32.
+
+Akhris dheeraad ah
+
+Citizendium. (30-3-2023.). Function (mathematics) . ee Citizendium. La soo celiyay Maarso 30, 2023, ka https://citizendium.org/wiki/Function_(mathematics)

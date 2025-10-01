@@ -1,0 +1,49 @@
+title:
+Recep Akdağ
+
+url:
+https://so.wikipedia.org/wiki?curid=21742
+
+text:
+Recep Akdağ ( Af Turki : Recep Akdağ ; Af Carabi : لاسعانود ‎ Ku dhashay 8dii May 1960kii Magaalada Erzurum ee isla Gobolka Erzurum ee dalka Turkiga ) Waa wasiirka caafimaadka ee dalka Turkiga.
+
+
+# Infobox
+
+- **Ra'iisulwasaare**: Binali Yıldırım
+- **Xilka kaga horeeyey**: Mehmet Müezzinoğlu
+- **Kaga horeeyey xilka**: Osman Durmuş
+- **Kaga dambeeyey xilka**: Mehmet Müezzinoğlu
+- **Wareega doorashooyinka**: Erzurum ( Nov 2015 )
+- **Ku dhashay**: ( 1960-05-08 ) Maajo 8, 1960 ( 65jir) Erzurum , Turkey
+- **Xisbi siyaasadeed**: Justice and Development Party
+- **Waxbarasho jaamacadeed**: Atatürk University King's College London
+- **Diinta**: Islam
+
+
+# Tables
+
+## Table 1
+| Recep Akdağ MP |
+| --- |
+|  |
+| Wasiirka Caafimaadka |
+| Hadda xilka haya |
+| La wareegay Xilka 24 May 2016 |
+| Ra'iisulwasaare | Binali Yıldırım |
+| Xilka kaga horeeyey | Mehmet Müezzinoğlu |
+| Ka qabtay xilka 18 November 2002 – 24 January 2013 |
+| Ra'iisulwasaare | Abdullah Gül Recep Tayyip Erdoğan |
+| Kaga horeeyey xilka | Osman Durmuş |
+| Kaga dambeeyey xilka | Mehmet Müezzinoğlu |
+| Xubin Baarlamaanka Turkiga |
+| Xilka |
+| Ka qabtay xilka 1 November 2015 |
+| Wareega doorashooyinka | Erzurum ( Nov 2015 ) |
+| Ka haya Xilka 3 November 2002 – 7 June 2015 |
+| Wareega doorashooyinka | Erzurum ( 2002 , 2007 , 2011 ) |
+| Macluumaad gaar ah |  |
+| Ku dhashay | ( 1960-05-08 ) Maajo 8, 1960 ( 65jir) Erzurum , Turkey |
+| Xisbi siyaasadeed | Justice and Development Party |
+| Waxbarasho jaamacadeed | Atatürk University King's College London |
+| Diinta | Islam |

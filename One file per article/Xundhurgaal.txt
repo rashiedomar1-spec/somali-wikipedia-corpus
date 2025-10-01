@@ -1,0 +1,42 @@
+title:
+Xundhurgaal
+
+url:
+https://so.wikipedia.org/wiki?curid=28477
+
+text:
+XUNDHURGAAL Waa magaalo ku taala bariga somaliland gaar ahan waxay u dhaxaysaa gobolada sool iyo sanaag waa degmo taarikhiya oo so jireen ah waxa wali kasi muuqda dhufaysyadi iyo raadadki ay ku reeben rajimki siyad bare iyo gabodfaladu uu ka geystay dadka deganka waxa lagu qiyaasa 13000 kun oo qof degmada waxa gebi ahaan ba dega beelaha idarays muuse oo ka tirsan qabiillKa muuse abokor o kmaida habarjeclo Dadka degaanka badan koodu waa xoolo dhaqato .......
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Saraar
+- **Degmo**: xundhurgaal
+- **• Duqa-magaalada**: axmed
+- **Joogga**: 0 m (0 ft)
+- **• Dhammaan**: 4,390
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| xundhuraal Hundurgal حنظرغآل |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Saraar |
+| Degmo | xundhurgaal |
+| Dowlada |
+| • Duqa-magaalada | axmed |
+| Joogga | 0 m (0 ft) |
+| Tirada dadka |
+| • Dhammaan | 4,390 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

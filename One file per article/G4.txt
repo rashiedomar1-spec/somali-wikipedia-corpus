@@ -1,0 +1,9 @@
+title:
+G4
+
+url:
+https://so.wikipedia.org/wiki?curid=34397
+
+text:
+G4
+&lt;a href="Qaramada%20Midoobay"&gt;Qaramada Midoobay&lt;/a&gt; mustakbalka waddnamha dunida G4

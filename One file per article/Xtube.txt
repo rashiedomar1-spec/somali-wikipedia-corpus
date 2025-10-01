@@ -1,0 +1,45 @@
+title:
+Xtube
+
+url:
+https://so.wikipedia.org/wiki?curid=15145
+
+text:
+XTube waa websedyada adeeg hosting video Holland ku salaysan kaas oo u ogolaanaya dadka isticmaala si ay dad kale la wadaagaan video content dadka waaweyn. Waxyaabaha kale, shuruudaha adeegsiga gobolka xtube.com in dadka isticmaala waa in uu ahaadaa 18 sano jir ama ka weyn.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Nooca**: Websedyada
+- **Waxaa la asaasay**: 12 Maarso 2006
+- **Headquarters**: Amistardam , Holland
+- **Industry**: Websedyada
+- **Mulkiilaha**: MindGeek
+- **Dhigyo**: Log on and get off!
+- **Website**: xtube.com
+- **Alexa garaado**: 912 (Juun 2014 [update] ) [ 1 ]
+- **Nooca site**: Websedyada video wadaagga
+- **Diiwaan-qoritaan**: Ikhtiyaar ah
+- **Available in**: Ingiriis
+- **Current status**: Firfircoon
+
+
+# Tables
+
+## XTube
+|   |
+| --- |
+| Nooca | Websedyada |
+| Waxaa la asaasay | 12 Maarso 2006 |
+| Headquarters | Amistardam , Holland |
+| Industry | Websedyada |
+| Mulkiilaha | MindGeek |
+| Dhigyo | Log on and get off! |
+| Website | xtube.com |
+| Alexa garaado | 912 (Juun 2014 [update] ) [ 1 ] |
+| Nooca site | Websedyada video wadaagga |
+| Diiwaan-qoritaan | Ikhtiyaar ah |
+| Available in | Ingiriis |
+| Current status | Firfircoon |

@@ -1,0 +1,27 @@
+title:
+The Smart Set
+
+url:
+https://so.wikipedia.org/wiki?curid=32705
+
+text:
+The Smart Set wuxuu ahaa joornaal suugaaneed Mareykan ah, oo uu aasaasay Colonel William d'Alton Mann lana daabacay March 1900 . ilaa June 1930 . Xarunteedu waxay ahayd Magaalada New York.
+
+
+# Infobox
+
+- **Publisher**: William d'Alton Mann (1900–1911) John Adams Thayer (1911–1914) Eugene Crowe and Eltinge F. Warner ( 1914 – 1930 )
+- **Founded**: Maarso 1900 ( 1900-03 )
+- **Language**: Ingiriis
+- **Circulation**: 250,000 ( 1925 )
+
+
+# Tables
+
+## The Smart Set
+|   |
+| --- |
+| Publisher | William d'Alton Mann (1900–1911) John Adams Thayer (1911–1914) Eugene Crowe and Eltinge F. Warner ( 1914 – 1930 ) |
+| Founded | Maarso 1900 ( 1900-03 ) |
+| Language | Ingiriis |
+| Circulation | 250,000 ( 1925 ) |

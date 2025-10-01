@@ -1,0 +1,25 @@
+title:
+McClure's
+
+url:
+https://so.wikipedia.org/wiki?curid=32701
+
+text:
+McClure's (1893-1929) wuxuu ahaa joornaal bille ah oo Mareykan ah, caan ku ahaa qarnigii 20aad.
+
+
+# Infobox
+
+- **Founder(s)**: S. S. McClure iyo John Sanborn Phillips
+- **Publisher**: S. S. McClure (1893–1911)
+- **Founded**: Juun 1893 ; 132 sano ka hor ( 1893-06 ) illa
+
+
+# Tables
+
+## McClure's
+|   |
+| --- |
+| Founder(s) | S. S. McClure iyo John Sanborn Phillips |
+| Publisher | S. S. McClure (1893–1911) |
+| Founded | Juun 1893 ; 132 sano ka hor ( 1893-06 ) illa |

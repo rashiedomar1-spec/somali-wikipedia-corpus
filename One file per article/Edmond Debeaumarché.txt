@@ -1,0 +1,18 @@
+title:
+Edmond Debeaumarché
+
+url:
+https://so.wikipedia.org/wiki?curid=15483
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2015-01-26T22:44:15Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;प्रजापति&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog cusub: Edmond Debeaumarché waa geesi ah oo iska caabin ah inta lagu jiro dagaalkii labaad ee adduunka. === Duubay iyo durriyaddii === * Uu aaska lagu qabtay Paris barxadda of Invalide...&lt;/comment&gt;
+ &lt;origin&gt;135514&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Edmond Debeaumarché waa geesi ah oo iska caabin ah inta lagu jiro dagaalkii labaad ee adduunka.

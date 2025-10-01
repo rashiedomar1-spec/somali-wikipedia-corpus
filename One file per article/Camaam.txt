@@ -1,0 +1,8 @@
+title:
+Camaam
+
+url:
+https://so.wikipedia.org/wiki?curid=40001
+
+text:
+Camaamka (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: cranium) waa dusha &lt;a href="dhafoof"&gt;dhafoof&lt;/a&gt;ka. Camaamka wuxuu difaaca &lt;a href="maskaxda"&gt;maskaxda&lt;/a&gt;.

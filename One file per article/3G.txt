@@ -1,0 +1,8 @@
+title:
+3G
+
+url:
+https://so.wikipedia.org/wiki?curid=17950
+
+text:
+3G loo soo gaabiyay "third generation" ama "jiilka sadexaad" waa nidaam ay isticmaalaan habka isgaadhsiinta &lt;a href="shirkad"&gt;shirkad&lt;/a&gt;aha telefanada iyo &lt;a href="internet"&gt;internet&lt;/a&gt;ka.

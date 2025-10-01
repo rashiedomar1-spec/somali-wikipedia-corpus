@@ -1,0 +1,63 @@
+title:
+Revival
+
+url:
+https://so.wikipedia.org/wiki?curid=30324
+
+text:
+Revival waa album-kii labaad ee soloomiyadeed oo ay qaado majaajilistaha Mareykanka Selena Gomez .
+
+heeso
+
+Pop
+
+dance-pop
+
+electropop
+
+Interscope
+
+Polydor Records
+
+Revival
+
+Kill Em with Kindness
+
+Hands to Myself
+
+Same Old Love
+
+Sober
+
+Good for You
+
+Camouflage
+
+Me & the Rhythm
+
+Survivors
+
+Body Heat
+
+Rise
+
+
+# Infobox
+
+- **Nooca fanka**: Pop dance-pop electropop
+- **Calaamadaha**: Interscope Polydor Records
+- **Falalka la xiriira**: Selena Gomez
+- **Website**: selena-gomez
+
+
+# Tables
+
+## Table 1
+| Revival |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Nooca fanka | Pop dance-pop electropop |
+| Calaamadaha | Interscope Polydor Records |
+| Falalka la xiriira | Selena Gomez |
+| Website | selena-gomez |

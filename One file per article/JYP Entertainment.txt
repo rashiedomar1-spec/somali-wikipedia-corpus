@@ -1,0 +1,21 @@
+title:
+JYP Entertainment
+
+url:
+https://so.wikipedia.org/wiki?curid=33409
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;216318&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-03-03T10:18:12Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;YiFeiBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;بوت: ترحيل 28 وصلة إنترويكي, موجودة الآن في على &lt;/comment&gt;
+ &lt;origin&gt;231879&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+JYP Entertainment Corporation (JYP 엔터테인먼트) waa madadaalada caalamiga ah ee Kuuriyada Koonfureed iyo sumadda duubista sumcadda oo la aasaasay 1997 oo uu sameeyay &lt;a href="Park%20Jin-young"&gt;Park Jin-young&lt;/a&gt;. Waa mid ka mid ah shirkadaha madadaalada ee ugu waaweyn Koonfur Kuuriya, waxayna u shaqaysaa sidii sumad diiwaangashan, wakaalad karti leh, shirkad soosaarka muusikada, shirkad maareynta dhacdada, shirkadda soosaarka riwaayada, iyo madbacadda muusikada. Intaa waxaa sii dheer, shirkadu waxay ka shaqaysaa habab kala duwan iyo qaybo kala duwan oo adduunka ah.
+Fannaaniinta caanka ah ee hoos yimaada wakaaladda waxaa ka mid ah kooxaha &lt;a href="2PM"&gt;2PM&lt;/a&gt;, &lt;a href="Day6"&gt;Day6&lt;/a&gt;, &lt;a href="Twice"&gt;Twice&lt;/a&gt;, &lt;a href="Boy%20Story"&gt;Boy Story&lt;/a&gt;, &lt;a href="Stray%20Kids"&gt;Stray Kids&lt;/a&gt;, &lt;a href="Itzy"&gt;Itzy&lt;/a&gt;, iyo &lt;a href="NiziU"&gt;NiziU&lt;/a&gt;, sidoo kale heesaaga kaligiis ah &lt;a href="Bernard%20Park"&gt;Bernard Park&lt;/a&gt;. Waxa kale oo ay gacanta ku haysay &lt;a href="Rain"&gt;Rain&lt;/a&gt;, &lt;a href="g.o.d"&gt;g.o.d&lt;/a&gt;, &lt;a href="Wonder%20Girls"&gt;Wonder Girls&lt;/a&gt;, &lt;a href="2AM"&gt;2AM&lt;/a&gt;, &lt;a href="Miss%20A"&gt;Miss A&lt;/a&gt;, &lt;a href="15%26amp%3B"&gt;15&amp;&lt;/a&gt;, &lt;a href="JJ%20Project"&gt;JJ Project&lt;/a&gt;, &lt;a href="Got7"&gt;Got7&lt;/a&gt;, &lt;a href="Jus2"&gt;Jus2&lt;/a&gt; iyo &lt;a href="Baek%20A-yeon"&gt;Baek A-yeon&lt;/a&gt;.

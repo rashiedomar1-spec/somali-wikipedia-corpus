@@ -1,0 +1,8 @@
+title:
+Decametre
+
+url:
+https://so.wikipedia.org/wiki?curid=8344
+
+text:
+Dekameter ku waa weedh ingiris ah waxaana loo soo gaabiyaa (dam) Waa wax lagu cabti sida &lt;a href="Millimeter"&gt;Millimeter&lt;/a&gt; &lt;a href="Centimetre"&gt;Centimetre&lt;/a&gt; &lt;a href="Meter"&gt;Meter&lt;/a&gt; &lt;a href="Kilometer"&gt;Kilometer&lt;/a&gt; waxaana tuslaale u ah Dekameter waxa uu la midyahay 10 Mitir.

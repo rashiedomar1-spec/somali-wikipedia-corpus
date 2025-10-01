@@ -1,0 +1,43 @@
+title:
+Chanthaburi
+
+url:
+https://so.wikipedia.org/wiki?curid=27206
+
+text:
+Chanthaburi (Thai: จันทบุรี) waa tuulo (thesaban mueang) oo ku taal bariga Thailand, oo ku yaal bangiyada Chanthaburi. Waa caasimadda gobolka Chanthaburi iyo degmada Mueang Chanthaburi.
+Magaaladu waxay daboolaysaa labadan tiir ee Talat iyo Wat Mai oo ka tirsan Degmada Mueang Chanthaburi. Laga soo bilaabo 2005, magaaladu waxay lahayd dad gaaraya 27,602. Magaalooyinka magaalada ee dhaxalka King Taksin. Sanadii 1981-kii, golaha wasiirada Thai ayaa go'aan ka gaadhey in uu u magacaabo sharafta sharafta leh ee Weyn. Marka Bank of Thailand ay soo saartey taxanaha 12aad ee lacagta lagu bixiyo, oo la yiraahdo The Great Series, oo ah taariikhda King Taksin ee Great ee magaalada Park ee Tungnachaey oo lagu soo bandhigay gadaashiisa 20ka bahood ee la soo saaray 28 December 1981, [1] 214 guuradii oo ah muraayad.
+
+
+# Infobox
+
+- **Country**: Thailand
+- **Province**: Chanthaburi Province
+- **Districts of Thailand**: Amphoe Mueang Chanthaburi
+- **Joogga**: 10 m (30 ft)
+- **• Dhammaan**: 27,602
+- **Aag saacadeed**: UTC+7 ( ICT )
+
+
+# Tables
+
+## Table 1
+| Chanthaburi, Thailand |
+| --- |
+| {{{type}}} |
+|  |
+|  |
+| Chanthaburi, Thailand |
+| Coordinates: 12°36′31″N 102°16′14″E ﻿ / ﻿ 12.60861°N 102.27056°E ﻿ / 12.60861; 102.27056 |
+| Country | Thailand |
+| Province | Chanthaburi Province |
+| Districts of Thailand | Amphoe Mueang Chanthaburi |
+| Joogga | 10 m (30 ft) |
+| Tirada dadka (2005) |
+| • Dhammaan | 27,602 |
+| Aag saacadeed | UTC+7 ( ICT ) |
+
+
+
+# Coordinates
+12.60861; 102.27056

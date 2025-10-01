@@ -1,0 +1,35 @@
+title:
+Khuram suldaan
+
+url:
+https://so.wikipedia.org/wiki?curid=36760
+
+text:
+khuram suldaan oo loo yaqaan sidoo kale rookislaana waa xaaska suldaanka cusmaaniyiinta suleymaan qaanuuni , waana hooyada saliim labaad, waxaa lagu eedeeyaa inay lug ku lahayd dilka shahrazaada musdafa oo ahaa kan ugu weynaa ilmaha suleymaan qaanuuni iyo dilka sadrulacdam Ibrahim baashaa .
+
+
+# Infobox
+
+- **Dhalatay:**: qiyaastii 1502 ama 1504
+- **goobta dhalshada:**: roohaatin , boqortooyada boolaaan
+- **Diintiisa:**: kirishtaan artodkas , kadib islaam
+- **Dhalasho:**: dawlada cosmaniya
+- **xaaska**: suleymaan qaanuuni
+- **ilmaha**: saliim labaad
+- **Dhimatay:**: 1558
+- **Ku dhimatay:**: Qusdandiiniya
+
+
+# Tables
+
+## Table 1
+| khuram suldaan خرم سلطان |
+| --- |
+| Dhalatay: | qiyaastii 1502 ama 1504 |
+| goobta dhalshada: | roohaatin , boqortooyada boolaaan |
+| Diintiisa: | kirishtaan artodkas , kadib islaam |
+| Dhalasho: | dawlada cosmaniya |
+| xaaska | suleymaan qaanuuni |
+| ilmaha | saliim labaad |
+| Dhimatay: | 1558 |
+| Ku dhimatay: | Qusdandiiniya |

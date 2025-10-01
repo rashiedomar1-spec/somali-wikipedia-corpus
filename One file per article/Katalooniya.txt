@@ -1,0 +1,8 @@
+title:
+Katalooniya
+
+url:
+https://so.wikipedia.org/wiki?curid=8988
+
+text:
+Katalooniya (af-Isbain:Cataluña) waa gobol ka mid ah 12 gobol ee dalka &lt;a href="Isbania"&gt;Isbain&lt;/a&gt;. Caasimada Katalooniya waa &lt;a href="Barcelona"&gt;Barcelona&lt;/a&gt;

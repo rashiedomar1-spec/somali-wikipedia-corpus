@@ -1,0 +1,23 @@
+title:
+Koobka Afrika U17 2023
+
+url:
+https://so.wikipedia.org/wiki?curid=37201
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;247695&lt;/parentid&gt;
+ &lt;timestamp&gt;2023-05-12T17:41:49Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;82.132.185.230&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;/* SF */&lt;/comment&gt;
+ &lt;origin&gt;251909&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Koobka Afrika U17 2023
+&lt;a href="Aljeeriya"&gt;Aljeeriya&lt;/a&gt;
+koobka qaramada afrika ee da'doodu ka hooseyso 17 jir oo ka dhacay algeria ee waqooyiga afrika
+FATEH.
+kof

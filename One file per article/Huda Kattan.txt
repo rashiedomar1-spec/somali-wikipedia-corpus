@@ -1,0 +1,29 @@
+title:
+Huda Kattan
+
+url:
+https://so.wikipedia.org/wiki?curid=34413
+
+text:
+Huda Kattan ( Carabi : هدى قطان ; dhashay Oktoobar 2, 1983 ) waa farsamayaqaan qurxiyo Maraykan ah [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] , blogger qurux, iyo ganacsade. [ 7 ] [ 8 ] [ 9 ] Iyadu waa aasaasihii khadka qurxinta Huda Beauty . [ 7 ]
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1983-10-02 ) Oktoobar 2, 1983 ( 41jir) Magaalada Oklahoma, Oklahoma
+- **Sanadaha Shaqada**: 2010–hada
+- **Qiimaha netka**: $1 bilyan (2021)
+
+
+# Tables
+
+## Table 1
+| Huda Kattan |
+| --- |
+| Ku dhashay | ( 1983-10-02 ) Oktoobar 2, 1983 ( 41jir) Magaalada Oklahoma, Oklahoma |
+| Sanadaha Shaqada | 2010–hada |
+| Qiimaha netka | $1 bilyan (2021) |
+| Website |
+| hudabeauty.com |

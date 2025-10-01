@@ -1,0 +1,32 @@
+title:
+Gigi Hadid
+
+url:
+https://so.wikipedia.org/wiki?curid=33324
+
+text:
+Jelena Noura Hadid (dhashay Abriil 23, 1995) waa moodel Mareykan ah.
+
+
+# Infobox
+
+- **Ku dhashay**: Jelena Noura Hadid ( 1995-04-23 ) Abriil 23, 1995 ( 30jir) Los Angeles, Kalifornia
+- **Sanadaha Shaqada**: 1997–hada
+- **Partner(s)**: Zayn Malik (2015–hada)
+- **Ilmaha**: 1
+- **Waalidka**: Mohamed Hadid Yolanda Hadid
+- **Qaraabada**: Bella Hadid
+
+
+# Tables
+
+## Table 1
+| Gigi Hadid |
+| --- |
+|  |
+| Ku dhashay | Jelena Noura Hadid ( 1995-04-23 ) Abriil 23, 1995 ( 30jir) Los Angeles, Kalifornia |
+| Sanadaha Shaqada | 1997–hada |
+| Partner(s) | Zayn Malik (2015–hada) |
+| Ilmaha | 1 |
+| Waalidka | Mohamed Hadid Yolanda Hadid |
+| Qaraabada | Bella Hadid |

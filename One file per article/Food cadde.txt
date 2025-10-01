@@ -1,0 +1,9 @@
+title:
+Food cadde
+
+url:
+https://so.wikipedia.org/wiki?curid=41743
+
+text:
+Food cade waa tuulo ku taala bariga &lt;a href="burco"&gt;burco&lt;/a&gt; ee gobolka &lt;a href="togdheer"&gt;togdheer&lt;/a&gt; waa degaan ceelal leh oo xoolahana lagu dhaqado 
+Waxa degan &lt;a href="maxamed%20yoonis"&gt;maxamed yoonis&lt;/a&gt;

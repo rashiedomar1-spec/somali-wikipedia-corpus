@@ -1,0 +1,30 @@
+title:
+Ahn Ji-hyun
+
+url:
+https://so.wikipedia.org/wiki?curid=33233
+
+text:
+Ahn Ji-hyun (wuxuu dhashay Luuliyo 10, 1992) waa atariisho Koonfur Kuuriya ah. [ 1 ] [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1992-07-10 ) Luuliyo 10, 1992 ( 33jir) Busan , Koonfur Kuuriya
+- **Waxbarashada**: Jaamacadda Yonsei - Dhaqaalaha Bariga Asia iyo Ganacsiga
+- **Sanadaha Shaqada**: 2010–hada
+- **Wakiil**: Koom Entertainment
+
+
+# Tables
+
+## Table 1
+| Ahn Ji-hyun |
+| --- |
+|  |
+| Ku dhashay | ( 1992-07-10 ) Luuliyo 10, 1992 ( 33jir) Busan , Koonfur Kuuriya |
+| Waxbarashada | Jaamacadda Yonsei - Dhaqaalaha Bariga Asia iyo Ganacsiga |
+| Sanadaha Shaqada | 2010–hada |
+| Wakiil | Koom Entertainment |

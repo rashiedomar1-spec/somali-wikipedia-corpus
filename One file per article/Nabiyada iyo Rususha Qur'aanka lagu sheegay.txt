@@ -1,0 +1,44 @@
+title:
+Nabiyada iyo Rususha Qur'aanka lagu sheegay
+
+url:
+https://so.wikipedia.org/wiki?curid=4913
+
+text:
+Nebiya iyo Rususha uu Ilaahay inoogu sheegay kitaabka Quraanka ah ee lagu soo dejiyay Nebi Muxamed aad ayay lol
+
+badan yihiin. Waxaana ka mid ah: is good
+
+References
+
+
+# Tables
+
+## الأنبیاء والرسل في القرآن
+| Magaca | Nabi | Rasuul | Imaam | Kitaab | Qoom | Shareecadiisa |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nabi Aadam C.S. | نبي |  |  |  |  |  |
+| Nabi Idriis C.S. | نبي [ 1 ] |  |  |  |  |  |
+| Nabi Nuux C.S. | نبي [ 2 ] | رسول [ 3 ] |  |  | Qoomu Nuux قوم نوح [ 4 ] | صاحب الشريعة [ 5 ] |
+| Nabi Huud C.S. | رسول | رسول [ 6 ] |  |  | عاد [ 7 ] |  |
+| Nabi Saalax C.S. | رسول | رسول [ 8 ] |  |  | Thamuud ثمود [ 9 ] |  |
+| Nabi Ibraahiim C.S. | نبي [ 10 ] | رسول [ 11 ] | إمام [ 12 ] | Suxuf صُحُف [ 13 ] | قوم إبراهيم [ 14 ] | haa [ 15 ] |
+| Nabi Luud C.S. | نبي [ 2 ] | رسول [ 16 ] |  |  | قوم لوط [ 17 ] |  |
+| Nabi Ismaaciil C.S. | نبي [ 18 ] | رسول [ 18 ] |  |  |  |  |
+| Nabi Isxaaq C.S. | نبي [ 19 ] |  | إمام [ 20 ] |  |  |  |
+| Nabi Yacquub C.S. | نبي [ 19 ] |  | إمام [ 20 ] |  |  |  |
+| Nabi Yuusuf C.S. | نبي [ 2 ] |  |  |  |  |  |
+| Nabi Ayuub C.S. | نبي [ 2 ] |  |  |  |  |  |
+| Nabi Shuceyb C.S. | NABI | رسول [ 21 ] |  |  | مدين [ 22 ] |  |
+| Nabi Muuse C.S. | نبي [ 23 ] | رسول [ 23 ] |  | التوراة [ 24 ] | فرعون وملائيه [ 25 ] | صاحب الشريعة [ 15 ] |
+| Nabi Haaruun C.S. | نبي [ 26 ] |  |  |  |  |  |
+| Nabi Dulkifli C.S. |  |  |  |  |  |  |
+| Nabi Daa'uud C.S. | نبي [ 2 ] |  |  | زبور [ 27 ] |  |  |
+| Nabi Suleymaan C.S. | نبي [ 2 ] |  |  |  |  |  |
+| Nabi Ilyaas C.S. | نبي [ 2 ] | رسول [ 28 ] |  |  | قوم الياس [ 29 ] |  |
+| Nabi Alyasac C.S. | نبي [ 2 ] |  |  |  |  |  |
+| Nabi Yuunus C.S. | نبي [ 2 ] | رسول [ 30 ] |  |  | قوم يونس [ 31 ] |  |
+| Nabi Zakariye C.S. | نبي [ 2 ] |  |  |  |  |  |
+| Nabi Yaxye C.S. | نبي [ 32 ] |  |  |  |  |  |
+| Nabi Ciise C.S. | نبي [ 33 ] | رسول [ 34 ] |  | إنجيل [ 35 ] | بني إسرائيل [ 36 ] | صاحب الشريعة [ 15 ] |
+| Nabi Muxamed S.C.W | نبي [ 37 ] | رسول [ 37 ] |  | قرآن [ 38 ] | جميع الناس [ 39 ] | صاحب الشريعة [ 15 ] |

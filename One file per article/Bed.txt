@@ -1,0 +1,26 @@
+title:
+Bed
+
+url:
+https://so.wikipedia.org/wiki?curid=4445
+
+text:
+Bed waa cabir lagu cabiro meel dusheeda.
+
+Halkaan waxaad ka arki kartaa Bedka iyo cabirkiisa .
+
+A = π r r 2 + h 2 + π r 2 = π r ( r + r 2 + h 2 ) {\displaystyle A=\pi r{\sqrt {r^{2}+h^{2}}}+\pi r^{2}=\pi r(r+{\sqrt {r^{2}+h^{2}}})\,\!}
+
+Bedka sare = π r 2 {\displaystyle \pi r^{2}\,}
+
+Bedka hoose = π r 2 {\displaystyle \pi r^{2}\,}
+
+Bedka guud = ( 2 × π r 2 ) + ( P × h ) {\displaystyle (2\times \pi r^{2})+(P\times h)}
+
+Dhinacyada iska soo horjeeda = Tirada guud ee dhinacyada salka
+
+Tirada xarfaka ku suntan = Tirada madxaha ee salka
+
+Jooga Gunbur = Xariiqa lasamaynaya salka xagal Quman kuna xiran madaxa
+
+Bedka Gunburka salka midka uga eg d 2 h 2 × B {\displaystyle {\frac {d^{2}}{h^{2}}}\times B}

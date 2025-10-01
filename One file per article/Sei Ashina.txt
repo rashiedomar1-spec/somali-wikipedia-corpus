@@ -1,0 +1,35 @@
+title:
+Sei Ashina
+
+url:
+https://so.wikipedia.org/wiki?curid=33341
+
+text:
+Aya Igarashi (Nofeembar 22, 1983 – Sebteembar 14, 2020), xirfad ahaan loo yaqaan Sei Ashina waxay ahayd atariisho reer Jabaan ah. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Magaca Saxda**: 芦名 星
+- **Ku dhashay**: Aya Igarashi (五十嵐 彩) ( 1983-11-22 ) 22 Nofeembar 1983 Fukushima , Jabaan
+- **Dhimasho**: 14. Sebteembar 2020 ( 2020-09-14 ) (da'da 36jir) Shinjuku , Tokyo
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2002–2020
+- **Wakiil**: Horipro
+
+
+# Tables
+
+## Table 1
+| Sei Ashina |
+| --- |
+| Magaca Saxda | 芦名 星 |
+| Ku dhashay | Aya Igarashi (五十嵐 彩) ( 1983-11-22 ) 22 Nofeembar 1983 Fukushima , Jabaan |
+| Dhimasho | 14. Sebteembar 2020 ( 2020-09-14 ) (da'da 36jir) Shinjuku , Tokyo |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2002–2020 |
+| Wakiil | Horipro |
+| Website |
+| www.horipro.co.jp/ashinasei/ |

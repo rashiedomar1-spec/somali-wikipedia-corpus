@@ -1,0 +1,37 @@
+title:
+Mama Xadiyo
+
+url:
+https://so.wikipedia.org/wiki?curid=34770
+
+text:
+Mama Xadiyo waa taxane telefshin majaajillo oo Soomaali ah, waxaana soo saaray Astaan ​​TV .  Sheekadu waxay diiradda saartaa jiilka hore iyo kan cusub.
+
+Jilayasha
+
+Ubah Fahma sida Mama Xadiyo
+
+Sido kale firi
+
+Telefishinka ee Soomaaliya
+
+
+# Infobox
+
+- **No. of seasons**: 2
+- **Producer**: Astaan TV
+- **Production location**: Muqdisho
+- **First shown in**: 2020
+
+
+# Tables
+
+## Table 1
+| Mama Xadiyo |
+| --- |
+| No. of seasons | 2 |
+| Production |
+| Producer | Astaan TV |
+| Production location | Muqdisho |
+| Release |
+| First shown in | 2020 |

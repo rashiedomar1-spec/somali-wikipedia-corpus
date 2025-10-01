@@ -1,0 +1,22 @@
+title:
+TikTok
+
+url:
+https://so.wikipedia.org/wiki?curid=34422
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;224443&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-03-03T10:21:53Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;YiFeiBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;بوت: ترحيل 86 وصلة إنترويكي, موجودة الآن في على &lt;/comment&gt;
+ &lt;origin&gt;231901&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+TikTok, oo Shiinaha looga yaqaan Douyin (Shiinaha: 抖音; pinyin: "Dǒuyīn")), waa adeega xidhiidhka bulshada ee ku wajahan muqaal ay leedahay shirkad Shiinees ah &lt;a href="ByteDance"&gt;ByteDance&lt;/a&gt;. Waxay martigelisaa muuqaalo adeegsad oo kala duwan oo qaab-gaaban ah, oo ka socda noocyada sida qoob ka ciyaarka, majaajilada, iyo waxbarashada, oo leh muddo 15 ilbiriqsi ilaa saddex daqiiqo. TikTok waa nooc caalami ah oo Douyin ah, kaas oo markii hore lagu sii daayay suuqa Shiinaha Sebtember 2016. TikTok waxaa la bilaabay 2017 IOS iyo Android inta badan suuqyada ka baxsan dhul weynaha Shiinaha; si kastaba ha ahaatee, waxa ay noqotay mid la heli karo aduunka oo dhan ka dib markii ay ku biirtay adeeg kale oo warbaahinta bulshada Shiinaha, &lt;a href="Musical.ly"&gt;Musical.ly&lt;/a&gt;, 2 Agosto 2018.
+TikTok iyo Douyin waxay leeyihiin ku dhawaad ​​isticmaale isku mid ah laakiin ma galaan midba midka kale waxa ku jira. Server-koodu mid walbaa wuxuu ku salaysan yahay suuqa uu app-ka ka jiro. Tan iyo markii la bilaabay 2016, TikTok/Douyin waxay si degdeg ah caan uga noqotay &lt;a href="Bariga%20Aasiya"&gt;Bariga Aasiya&lt;/a&gt;, &lt;a href="KoonfurAasiya"&gt;Koonfurta Aasiya&lt;/a&gt;, &lt;a href="Koonfur-bari%20Aasiya"&gt;Koonfur-bari Aasiya&lt;/a&gt;, &lt;a href="Gobolada%20Isku%20Tegay%20ee%20Ameerika"&gt;Mareykanka&lt;/a&gt;, &lt;a href="Turkiga"&gt;Turkiga&lt;/a&gt;, &lt;a href="Ruushka"&gt;Ruushka&lt;/a&gt;, iyo qaybaha kale ee adduunka. Laga soo bilaabo Oktoobar 2020, TikTok ayaa dhaaftay in ka badan 2 bilyan oo la soo dejiyo mobilada adduunka oo dhan.
+&lt;a href="Morning%20Consult"&gt;Morning Consult&lt;/a&gt; waxay TikTok ku qiimeysay inay tahay astaanta saddexaad ee ugu kobaca badan ee 2020, ka dib kaliya &lt;a href="Zoom"&gt;Zoom&lt;/a&gt; and &lt;a href="Peacock"&gt;Peacock&lt;/a&gt;.

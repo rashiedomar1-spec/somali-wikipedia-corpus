@@ -1,0 +1,8 @@
+title:
+Hello Kitty
+
+url:
+https://so.wikipedia.org/wiki?curid=20784
+
+text:
+Hello Kitty (&lt;a href="Af-Jabaan"&gt;Af-Jabaan&lt;/a&gt;: ハローキティ) waa qof khayaali ah oo uu abuuray farshaxanka Yuko Shimizu ee loogu talagalay shirkadda &lt;a href="Jabaan"&gt;Jabaan&lt;/a&gt; &lt;a href="Sanrio"&gt;Sanrio&lt;/a&gt;. Waxa lagu sawiray bisad &lt;a href="Ingiriiska"&gt;Ingiriis&lt;/a&gt; ah oo cad oo aan &lt;a href="af"&gt;af&lt;/a&gt; lahayn oo qaanso guduudan dhegta ugu jirto.

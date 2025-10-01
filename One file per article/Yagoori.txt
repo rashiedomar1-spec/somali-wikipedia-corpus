@@ -1,0 +1,40 @@
+title:
+Yagoori
+
+url:
+https://so.wikipedia.org/wiki?curid=11521
+
+text:
+Yagoori waadegmo  ku taala inta u dhexeysa magaalooyinka Laascaanood iyo burco ee gobolka waxay ka mid taahay gobolka Sool ,
+Waxa la'asasay 1935 magaalo ahaan 
+Markii hore waxay ahayd doxooyin reer guuragu dego 
+Waa meeshi ugu horeysay ee daraawish degto
+yagoori waxay xarun u tahay qaar kamida culimada soomaaliyeed gaar ahaan kuwa ahlu suna wal jamaca ee loo yaqaan timo waynta,
+
+Yagoori waxaa mara dooxooyin qurxa badan oo ay ka mid tahay dooxada casuura. Dawlad gaboleedka Somaliland ayaa ka talisa Magaalada Yagooori wakhtigan xaadirkan.
+
+
+# Infobox
+
+- **wadanka**: Waqooyibari
+- **Gobolka**: Sool
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Yagori |
+| --- |
+| Town |
+|  |
+| Yagori Location in Somalia. |
+| Coordinates: 8°45′N 46°58′E ﻿ / ﻿ 8.750°N 46.967°E ﻿ / 8.750; 46.967 |
+| wadanka | Waqooyibari |
+| Gobolka | Sool |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+8.750; 46.967

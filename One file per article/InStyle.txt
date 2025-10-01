@@ -1,0 +1,27 @@
+title:
+InStyle
+
+url:
+https://so.wikipedia.org/wiki?curid=32935
+
+text:
+InStyle waa joornaal haween ah oo bille ah oo la aasaasay 1994. Waxaa lagu daabacay Mareykanka gudihiisa Meredith Corporation.
+
+
+# Infobox
+
+- **Language**: Ingiriis
+- **Country**: Mareykanka
+- **ISSN**: 1076-0830
+- **Website**: instyle.com (Mareykanka) instylemag.com.au (Australia)
+
+
+# Tables
+
+## InStyle
+|   |
+| --- |
+| Language | Ingiriis |
+| Country | Mareykanka |
+| ISSN | 1076-0830 |
+| Website | instyle.com (Mareykanka) instylemag.com.au (Australia) |

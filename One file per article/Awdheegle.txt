@@ -1,0 +1,28 @@
+title:
+Awdheegle
+
+url:
+https://so.wikipedia.org/wiki?curid=4476
+
+text:
+Awdheegle waa degmo ka tirsan degmooyinka Gobolka Shabeellaha Hoose waxey caan ku tahay dhul beeraadka.iyo wax soo saarka  Degmada Awdheegle waxaa dago Beesha Begediga qeybaheeda kala duwan sida abaasaad quraabane quriile abaa abaa iyo abaajibil iyo rer Cumar iyo Garre dhamaantoodaba waa dad ahlu diin ah, muruqooda maalato ah nabadda iyo deris wanaagga aad u tixgelisa. Ka hor dawladii kacaanka shacbiga umada soomaaliyeed ee maxamed siyaad bare awdheegle waxeey ka mid aheed meelaha daqliga dawaladiisa kasoo gali jirtay waxeeyna ahayd dhulalka qudaarta inta badan laga dhoofin jiray dalkeena soomaaliya aadna uqeyraadsanaa wax soo sarkiisa xitaa la isku dayay in shidaal laga qodo iyo macdano qaali kadibna suurta galiweyday arintaasi shacabkiina diidan.
+
+
+# Infobox
+
+- **Wadan**: Soomaaliya
+- **Gobol**: Shabeellaha Hoose
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Awdheegle |
+| --- |
+| Magaalo |
+|  |
+| Awdheegle Location in Somalia. |
+| Wadan | Soomaaliya |
+| Gobol | Shabeellaha Hoose |
+| Aag saacadeed | UTC+3 ( EAT ) |

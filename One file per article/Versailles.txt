@@ -1,0 +1,8 @@
+title:
+Versailles
+
+url:
+https://so.wikipedia.org/wiki?curid=15214
+
+text:
+Versailles waa &lt;a href="magaalo"&gt;magaalo&lt;/a&gt; ku taala dalka &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt;.

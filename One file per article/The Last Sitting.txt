@@ -1,0 +1,30 @@
+title:
+The Last Sitting
+
+url:
+https://so.wikipedia.org/wiki?curid=32636
+
+text:
+The Last Sitting ( Fadhiga Ugu Dambeeya ) waa buug iyo sawir qaadis Marilyn Monroe ah oo uu qoray sawir qaade Bert Stern. Sawir qaadista waxaa amar ku siisay majaladda Vogue dabayaaqadii bishii Juun 1962, oo ka dhacday seddex kulan oo maalinle ah, kaliya lix toddobaad ka hor dhimashadeeda.
+
+
+# Infobox
+
+- **Qoraa**: Bert Stern Annie Gottlieb
+- **Mawduuca**: Marilyn Monroe
+- **Taariikhda Daabacaadda**: Oktoobar 1982
+- **Boggag**: 188
+- **OCLC**: 8345846
+- **Qoraalka asalka**: The Last Sitting at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource
+
+
+# Tables
+
+## The Last Sitting
+| Qoraa | Bert Stern Annie Gottlieb |
+| --- | --- |
+| Mawduuca | Marilyn Monroe |
+| Taariikhda Daabacaadda | Oktoobar 1982 |
+| Boggag | 188 |
+| OCLC | 8345846 |
+| Qoraalka asalka | The Last Sitting at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource |

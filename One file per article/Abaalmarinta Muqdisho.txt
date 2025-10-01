@@ -1,0 +1,40 @@
+title:
+Abaalmarinta Muqdisho
+
+url:
+https://so.wikipedia.org/wiki?curid=34804
+
+text:
+Abaalmarinta Muqdisho waa xaflad abaal-marineed oo sanadle ah oo ka dhacda magaalada Muqdisho ee dalka Soomaaliya. Waxaa soo aasstay Amal Cali e 2018. Waxaa loo sharafa Soomaalidii oo wax ku soo kordhisay in ay uu qabteen dalkooda. [ 1 ]
+
+Tix
+
+Hormuud Telecom
+
+IBS Bank
+
+Premier Bank
+
+Amal Bank
+
+Dahabshiil
+
+G.Banaadir (Maamulka Gobolka Banaadir iyo Dowladda Hoose ee Xamar)
+
+
+# Infobox
+
+- **Waxaa kafaala qaaday**: Hormuud Telecom IBS Bank Premier Bank Amal Bank Dahabshiil G.Banaadir (Maamulka Gobolka Banaadir iyo Dowladda Hoose ee Xamar)
+- **Dalka**: Soomaaliya
+- **Established**: 2018
+
+
+# Tables
+
+## Table 1
+| Abaalmarinta Muqdisho |
+| --- |
+| Waxaa kafaala qaaday | Hormuud Telecom IBS Bank Premier Bank Amal Bank Dahabshiil G.Banaadir (Maamulka Gobolka Banaadir iyo Dowladda Hoose ee Xamar) |
+| Dalka | Soomaaliya |
+| Established | 2018 |
+| Highlights |

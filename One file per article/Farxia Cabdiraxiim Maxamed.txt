@@ -1,0 +1,37 @@
+title:
+Farxia Cabdiraxiim Maxamed
+
+url:
+https://so.wikipedia.org/wiki?curid=34784
+
+text:
+Farxia Cabdiraxiim Maxamed waa dumar ganacsato Soomaaliyeed ah. Iyadu waa mulkiilaha Farhia The Bosslady (sidoo kale loo yaqaan F&D), [ 1 ] ururinta diraac ee fadhigeedu yahay Muqdisho .
+
+Nolol
+
+Waxay ku dhalatay kuna nool magaalada Muqdisho halkaas oo uu ganacsigeedu sidoo kale saldhig u yahay. Xaaska Farxia waa fanaanka Dayax Dalnuurshe .
+
+Tix
+
+Ganacsato
+
+shakhsiyadda warbaahinta bulshada
+
+
+# Infobox
+
+- **Ku dhashay**: Muqdisho , Soomaaliya
+- **Naanees**: Farhia The Bosslady
+- **Shaqada**: Ganacsato shakhsiyadda warbaahinta bulshada
+- **Xaasaska**: Dayax Dalnuurshe
+
+
+# Tables
+
+## Table 1
+| Farxia Cabdiraxiim Maxamed |
+| --- |
+| Ku dhashay | Muqdisho , Soomaaliya |
+| Naanees | Farhia The Bosslady |
+| Shaqada | Ganacsato shakhsiyadda warbaahinta bulshada |
+| Xaasaska | Dayax Dalnuurshe |

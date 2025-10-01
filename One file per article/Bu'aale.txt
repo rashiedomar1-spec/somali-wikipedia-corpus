@@ -1,0 +1,47 @@
+title:
+Bu'aale
+
+url:
+https://so.wikipedia.org/wiki?curid=4205
+
+text:
+Bu'aale waa degmo ka tirsan Gobolka Jubbada Dhexe isla markaana ah magaalo madaxda Gobolka Jubbada Dhexe degmadan  waa magaalo istaraatiiji ah waxaa magaaladaan mara wabiga jubba magaalada waxaa ka howl ka degan waa beeroleey iyo xoolo dhaqato.
+
+Sidoo kale fiiri
+
+Xigasho
+
+Tixraac
+
+Liiska magaalooyinka Soomaaliya dadka ku nool
+
+Liiska magaalooyinka Soomaaliya
+
+Cagaaran
+
+
+# Infobox
+
+- **Wadanka**: Somalia
+- **Gobolka**: Jubbada Dhexe
+- **Degmo**: Degmada Bu'aale
+- **Area**: 30 km 2 (10 sq mi)
+- **• Dhammaan**: 350.00
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Bu'aale |
+| --- |
+|  |
+|  |
+| Bu'aale Meesha dhacdo Soomaaliya. |
+| Wadanka | Somalia |
+| Gobolka | Jubbada Dhexe |
+| Degmo | Degmada Bu'aale |
+| Area | 30 km 2 (10 sq mi) |
+| Tirada dadka |
+| • Dhammaan | 350.00 |
+| Aag saacadeed | UTC+3 ( EAT ) |

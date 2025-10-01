@@ -1,0 +1,49 @@
+title:
+Laasmuuse
+
+url:
+https://so.wikipedia.org/wiki?curid=28500
+
+text:
+laasmuuse waa tuulo ku taalo gobolka saaxil ee woqooyiga somaliland , waa barta uu ku aasanyahay sheekh muuse abokor oo ah shekhi ay ka tafirmen beela weynta muuse abokor habar jeclo , waa tuulo qadiima oo taarikhiya oo ku taala bariga magalada Berbera .
+Waxaa Deggaan ahaan ahaan u badan beesha H-jeclo-muuse Abokor gaar ahaan Jifada Bahmajeelo. Siiba isixaaq iyo Cabdale.
+Waxaa ku aasan odayo beeleedyo badi u badnaa Culimo oo kasoo jeeday beeshaas muuse abokor oo ku ag aasan qabriga awowgood muuse Abokor, waxaa kamid Ah cali cabdule, Saleebaan Ahmed iyo Shiikh Xasan mataan.
+
+dhaqaalaha
+
+magalada dadka ku dhaqan waxay ku tiirsan yihiin kaluumaysiga  oo ah il khyraad dabiiciya sidoo kale wxa lagu dhqdaa xolha nool 
+waa meelihi uu codka ka helay xisbiga kulmiye ee sida culus u taagerayay.
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Saaxil
+- **Degmo**: Laasmuuse
+- **• Duqa-magaalada**: oday Bahmajeelo ah
+- **Joogga**: 1,430 m (4,690 ft)
+- **• Dhammaan**: 3,890 [ 1 ] [ 2 ]
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| laasmuuse lasmuse لاص موسي |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Saaxil |
+| Degmo | Laasmuuse |
+| Dowlada |
+| • Duqa-magaalada | oday Bahmajeelo ah |
+| Joogga | 1,430 m (4,690 ft) |
+| Tirada dadka |
+| • Dhammaan | 3,890 [ 1 ] [ 2 ] |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

@@ -1,0 +1,27 @@
+title:
+Koreaboo
+
+url:
+https://so.wikipedia.org/wiki?curid=32740
+
+text:
+Koreaboo waa degel ku hadla luuqadda Ingiriisiga oo diiradda saaraya wadaagista waxyaabaha ku jira K-Pop . La bilaabay Oktoobar 4, 2010, waxay u kortay inay noqoto mid ka mid ah barnaamijyada ugu waaweyn ee akhristayaasha caalamiga ah ee K-Pop-ka leh in ka badan 50 milyan oo akhristayaasha adduunka.
+
+
+# Infobox
+
+- **Cinwaanka**: https://www.koreaboo.com/
+- **Diyaar ku ah**: Ingiriis
+- **La bilaabay isticmaalka**: Oktoobar 4, 2010 ; 14 sanadood ka hor ( 2010-10-04 )
+- **Hada**: Firfircoon
+
+
+# Tables
+
+## Table 1
+|   |
+| --- |
+| Cinwaanka | https://www.koreaboo.com/ |
+| Diyaar ku ah | Ingiriis |
+| La bilaabay isticmaalka | Oktoobar 4, 2010 ; 14 sanadood ka hor ( 2010-10-04 ) |
+| Hada | Firfircoon |

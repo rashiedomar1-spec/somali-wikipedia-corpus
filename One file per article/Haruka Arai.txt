@@ -1,0 +1,26 @@
+title:
+Haruka Arai
+
+url:
+https://so.wikipedia.org/wiki?curid=33345
+
+text:
+Haruka Arai waa moodel soo jiidasho oo reer Jabaan ah iyo YouTuber .
+
+
+# Infobox
+
+- **Ku dhashay**: ( 2000-07-31 ) Luuliyo 31, 2000 ( 25jir)
+- **Dhalsho**: Jabaan
+- **Shaqada**: Moodel qaawan YouTuber
+
+
+# Tables
+
+## Table 1
+| Haruka Arai (新井遥) |
+| --- |
+| 2021 |
+| Ku dhashay | ( 2000-07-31 ) Luuliyo 31, 2000 ( 25jir) |
+| Dhalsho | Jabaan |
+| Shaqada | Moodel qaawan YouTuber |

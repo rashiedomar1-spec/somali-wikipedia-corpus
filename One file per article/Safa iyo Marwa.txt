@@ -1,0 +1,8 @@
+title:
+Safa iyo Marwa
+
+url:
+https://so.wikipedia.org/wiki?curid=38050
+
+text:
+Safa iyo Marwa waa labo buurood oo dhaca bariga &lt;a href="Masjidul-xaraam"&gt;Masjidul-Xaraam&lt;/a&gt;

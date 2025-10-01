@@ -1,0 +1,29 @@
+title:
+Baando Tejaafu
+
+url:
+https://so.wikipedia.org/wiki?curid=41843
+
+text:
+Baando Tejaafu waa Barasiilka
+
+
+# Infobox
+
+- **Asal**: Baaxiya, Barasiil
+- **Xubnaha**: Jiindson Riyoos
+- **Past members**: Naadilah DJ Juuniiniyo Burtuqaal
+
+
+# Tables
+
+## Table 1
+| Baando Tejaafu |
+| --- |
+| File:Banda Djavu caragua 2010.jpg |
+| Macluumaadka asalka |
+| Asal | Baaxiya, Barasiil |
+|  |
+| Xubnaha | Jiindson Riyoos |
+|  |
+| Past members | Naadilah DJ Juuniiniyo Burtuqaal |

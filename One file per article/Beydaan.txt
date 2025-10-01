@@ -1,0 +1,8 @@
+title:
+Beydaan
+
+url:
+https://so.wikipedia.org/wiki?curid=6003
+
+text:
+Beydaan waa geed weyn oo ka baxa dalal ay ka mid yihiin &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt;, &lt;a href="Soomaaliland"&gt;Soomaaliland&lt;/a&gt; iyo wadamo badan oo ku yaalo &lt;a href="Aduunka"&gt;caalamka&lt;/a&gt;.

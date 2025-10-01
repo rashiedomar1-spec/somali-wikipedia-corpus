@@ -1,0 +1,54 @@
+title:
+Abtirsiga beesha yaxye cabdale
+
+url:
+https://so.wikipedia.org/wiki?curid=39579
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;263587&lt;/parentid&gt;
+ &lt;timestamp&gt;2025-04-12T19:48:35Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;154.115.224.148&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;273896&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+1:maxamed yaxye cabdale wuxu dhalay 1 wiil
+1:xasan jibriil maxamed wuxu dhalay 1 wiil
+1:cali xasan jibriil wuxu dhalay 2 wiil
+1:abokor cali xasan wuxu dhalay 4 wiil
+1:abokor fiqiwarfa cali
+2:Cabdile fiqiwarfa cali
+3:axmed fiqiwarfa cali
+4:xildiid fiqiwarfa cali
+_____________________________________________
+1:warfaa muuse urursuge
+1:muumin gacal muuse
+2:geedi gacal muuse
+3:cali gacal muuse
+4:axmed gacal muuse
+1:cabdi muumin gacal
+2:wacays muumin gacal
+3:maxamud muumin gacal
+4:suubaan muumin gacal
+1:axmed geedi gacal
+2:samatar geedi gacal
+3:warfaa geedi gacal
+1:aw saalax cali gacal
+2:aw cabdile cali gacal
+1:jibriil axmed gacal  
+1:Xasan warsame yaxye wuxu dhalay 2 wiil
+1:cabdi xasan warsame
+1:faatax jibriil xasan wuxu dhalay 1 wiil
+1:faarax faatax  jibriil wuxu dhalay 2 wiil
+1:cabdle saban faarax faatax
+2:warsame faarax faatax wuxu dhalay 1 wiil
+1:diiriye warsame faarax wuxu dhalay 2 wiil
+1:Xirsi diriye warsame  wuxu dhalay 2 wiil
+1:maxamed xirsi diriye
+1:xaaji maxamed aw cali
+2:xaaji maxamud aw cali
+3:c/laahi aw cali
+4:ismacil aw cali

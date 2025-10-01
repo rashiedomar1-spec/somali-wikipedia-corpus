@@ -1,0 +1,31 @@
+title:
+Jang Ye-eun
+
+url:
+https://so.wikipedia.org/wiki?curid=35408
+
+text:
+Jang Ye-eun (장예은; Diseembar 9, 2004) oo loo yaqaan J (재이) [ 1 ] waa heesa Koonfur Kuuriya, waxay xubin ka tahay kooxda gabdhaha STAYC . [ 2 ]
+
+Tixraacyo
+
+
+# Infobox
+
+- **Magaca dhalashada**: Jang Ye-eun
+- **Dhashay**: ( 2004-12-04 ) Diseembar 4, 2004 ( 20jir) Daejeon , Koonfur Kuuriya
+- **Sanadaha Shaqada**: 2020–hada
+- **Calaamadaha**: High Up Entertainment
+- **Falalka la xiriira**: STAYC
+
+
+# Tables
+
+## Table 1
+| J |
+| --- |
+| Magaca dhalashada | Jang Ye-eun |
+| Dhashay | ( 2004-12-04 ) Diseembar 4, 2004 ( 20jir) Daejeon , Koonfur Kuuriya |
+| Sanadaha Shaqada | 2020–hada |
+| Calaamadaha | High Up Entertainment |
+| Falalka la xiriira | STAYC |

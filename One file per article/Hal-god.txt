@@ -1,0 +1,42 @@
+title:
+Hal-god
+
+url:
+https://so.wikipedia.org/wiki?curid=12245
+
+text:
+God-xisaabeed waa hab ama qaab ka mid ah cilmiga xisaabta lagu kala saaro godadka tirooyinka .
+
+Tusaale ahaan tiroda todoba waxay ka mid tahay tobanka lambar ee la isku yidhaahdo Hal-godleey . Halka tirada konton -iyo- shan ka tirsan yahay Labo-godleeyda oo ugu dambeeyso sagaashan -iyo- sagaal .
+
+Goddadka tiroda lama soo koobi karo, laakiin waxaa u muhiimsan oo ugu horeeya kuwan hoos ku xusan:
+
+Hal-godleey = 0 - 9 oo loo yaqaano Kowaad .
+
+Labo-godleey = 10 - 99 oo loo yaqaano Tobanaad .
+
+Sadex-godleey = 100 - 999 oo loo yaqaano Boqolaad .
+
+Afar-godleey = 1'000 - 9'999 oo loo yaqaano Kunaad .
+
+Shan-godleey = 10'000 - 99'999 oo loo yaqaano Toban - Kunaad .
+
+Lix-godleey = 100'000 - 999'999 oo loo yaqaano Boqol - Kunaad .
+
+Todoba-godleey = 1'000'000 - 9'999'999 oo loo yaqaano Milyan .
+
+Sideed-godleey 10'000'000 - 99'999'999 oo loo yaqaano Toban - Milyanaad .
+
+Sagaal-godleey 100'000'000 - 999'999'999 oo loo yaqaano Boqol - Milyanaad .
+
+Toban-godleey 1'000'000'000 - 9'999'999'999 Bilyanaad .
+
+Toban-iyo-kow-godleey 10'000'000'000 - 99'999'999'999 oo loo yaqaano Toban - Bilyanaad .
+
+Toban-iyo-labo-godleey 100'000'000'000 - 999'999'999'999 oo loo yaqaano Boqol - Bilyanaad .
+
+Toban-iyo-sadex-godleey 1'000'000'000'000 - 9'000'000'000'000 oo loo yaqaano Tiriliyan .
+
+Toban-iyo-Afar-godleey 10'000'000'000'000 - 99'999'999'999'999 oo loo yaqaano Toban - Tiriliyanaad
+
+Toban-iyo-shan-godleey 100'000'000'000'000 - 999'999'999'999'999 oo lagu magacaabo Boqol - Tiriliyanaad .

@@ -1,0 +1,40 @@
+title:
+Malaika Arora
+
+url:
+https://so.wikipedia.org/wiki?curid=35777
+
+text:
+Malaika Arora (dhashay 23 Oktoobar 1973) waa atariisho Hindi ah, qoob-ka-cayaar, moodel, VJ , iyo shaqsi telefishin oo kasoo muuqda filimada Hindi . [ 2 ]
+
+Tixraac
+
+Atariisho
+
+moodel
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1973-10-23 ) 23 Oktoobar 1973 ( 51jir) [ 1 ] Thane , Maharashtra , Hindiya
+- **Naanees**: Malaika Arora Khan (1998—2017)
+- **Shaqada**: Atariisho moodel
+- **Sanadaha Shaqada**: 1997–hada
+- **Xaasaska**: Arbaaz Khan (1998–2017)
+- **Ilmaha**: 1
+- **Qaraabada**: Amrita Arora
+
+
+# Tables
+
+## Table 1
+| Malaika Arora |
+| --- |
+| Arora ee 2017 |
+| Ku dhashay | ( 1973-10-23 ) 23 Oktoobar 1973 ( 51jir) [ 1 ] Thane , Maharashtra , Hindiya |
+| Naanees | Malaika Arora Khan (1998—2017) |
+| Shaqada | Atariisho moodel |
+| Sanadaha Shaqada | 1997–hada |
+| Xaasaska | Arbaaz Khan (1998–2017) |
+| Ilmaha | 1 |
+| Qaraabada | Amrita Arora |

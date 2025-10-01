@@ -1,0 +1,30 @@
+title:
+Ruby Aldridge
+
+url:
+https://so.wikipedia.org/wiki?curid=33390
+
+text:
+Ruby Rose Aldridge waa moodel moodada iyo heesaha Mareykanka.
+
+
+# Infobox
+
+- **Ku dhashay**: Ruby Rose Aldridge ( 1991-08-26 ) Agoosto 26, 1991 ( 34jir) Los Angeles , Kalifornia
+- **Shaqada**: Moodel
+- **Wakiil**: IMG Models
+- **Waalidka**: Laura Lyons Alan Aldridge
+- **Qaraabada**: Lily Aldridge
+
+
+# Tables
+
+## Table 1
+| Ruby Aldridge |
+| --- |
+|  |
+| Ku dhashay | Ruby Rose Aldridge ( 1991-08-26 ) Agoosto 26, 1991 ( 34jir) Los Angeles , Kalifornia |
+| Shaqada | Moodel |
+| Wakiil | IMG Models |
+| Waalidka | Laura Lyons Alan Aldridge |
+| Qaraabada | Lily Aldridge |

@@ -1,0 +1,9 @@
+title:
+Mount kenya
+
+url:
+https://so.wikipedia.org/wiki?curid=5280
+
+text:
+Mount kenya ama buurta kiinya waa buurta ugu ween wadanka &lt;a href="Kiinya"&gt;Kiinya&lt;/a&gt;.
+waana buurta labaad oo uugu ween &lt;a href="Afrika"&gt;Afrika&lt;/a&gt;, markii la fiiriyo &lt;a href="Kilimanjaaro"&gt;Kilimanjaaro&lt;/a&gt;.

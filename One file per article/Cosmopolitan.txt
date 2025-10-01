@@ -1,0 +1,34 @@
+title:
+Cosmopolitan
+
+url:
+https://so.wikipedia.org/wiki?curid=32527
+
+text:
+Cosmopolitan waa joornaal bille Mareykan ah iyo madadaalo loogu talagalay haweenka, markii ugu horreysay waxaa lagu daabacay magaalada New York bishii Maarso 1886. Cosmopolitan waa mid ka mid ah joornaalada ugu iibinta badan waxayna leeyihiin dhagaystayaal dumar ah. [ 2 ] [ 3 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Editor**: Jessica Pels
+- **Language**: Af-Ingiriisi
+- **City**: New York
+- **Country**: Mareykanka
+- **ISSN**: 0010-9541
+- **Website**: www.cosmopolitan.com
+
+
+# Tables
+
+## Cosmopolitan
+|   |
+| --- |
+|  |
+| Editor | Jessica Pels |
+| Language | Af-Ingiriisi |
+| City | New York |
+| Country | Mareykanka |
+| ISSN | 0010-9541 |
+| Website | www.cosmopolitan.com |

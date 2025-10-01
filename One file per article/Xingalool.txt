@@ -1,0 +1,37 @@
+title:
+Xingalool
+
+url:
+https://so.wikipedia.org/wiki?curid=6530
+
+text:
+Xingalool waxay ka tirsan tahay gobolka Sanaag ee dalka Somalia gaar ahaan bariga gobolka Sanag waxayna daris la tahay magalooyin badan sida Badhan dhahar ceel buuh baragaha qol degmada xingaloool waxa la dagay sanadii markii ay ahayd 1960 degmada xingalool. Waa degmo ku caan ah xoolo dhaqasho geela iyo adhiga.
+
+
+# Infobox
+
+- **Wadanka**: Somalia Waqooyibari
+- **Gobolka**: Sanaag
+- **Degmo**: Degmada Ceerigaabo
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Xingalool |
+| --- |
+| Magaalo |
+|  |
+|  |
+| Xingalool Location in Somalia |
+| Coordinates: 9°45′16″N 48°18′34″E ﻿ / ﻿ 9.75444°N 48.30944°E ﻿ / 9.75444; 48.30944 |
+| Wadanka | Somalia Waqooyibari |
+| Gobolka | Sanaag |
+| Degmo | Degmada Ceerigaabo |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+9.75444; 48.30944

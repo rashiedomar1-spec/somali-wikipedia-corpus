@@ -1,0 +1,8 @@
+title:
+Sayda
+
+url:
+https://so.wikipedia.org/wiki?curid=19304
+
+text:
+Saydaa ama Saydun (, ) waa magaalada sadexaad ee ugu weyn wadanka &lt;a href="Lubnaan"&gt;Lubnaan&lt;/a&gt;, waxay ka mid tahay magaalooyinka &lt;a href="caalamka"&gt;caalamka&lt;/a&gt; ugu qadiimsan, koonfurta &lt;a href="lubnaan"&gt;lubnaan&lt;/a&gt; ayay ku taal waxayna saarantahay &lt;a href="Bada%20Dhexe"&gt;Badda Cad&lt;/a&gt;.

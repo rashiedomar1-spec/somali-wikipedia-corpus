@@ -1,0 +1,68 @@
+title:
+Telugu
+
+url:
+https://so.wikipedia.org/wiki?curid=24610
+
+text:
+Spoken in these States and union territories of India :
+
+India Telugu (Ingiriis: / tɛlʊɡuː /; తెలుగు [t̪el̪uɡu]) waa luqadda Koonfurta-bartamaha waddanka ee Hindida . Waxay u dhigantaa Hindi, Ingiriis iyo Bengali sida mid ka mid ah luuqadaha yar yar ee leh heerka rasmiga ah ee luuqada koowaad ee rasmiga ah ee ku yaala in ka badan hal Hindi ah.  Telugu waa luqadda koowaad ee dowladaha Andhra Pradesh, Telangana, iyo dhulalka ururka shaqaalaha ee Puducherry. Waxaa sidoo kale jira luuqado tiro yar oo luuqado ah oo ku yaal dalalka deriska ah. Waa mid ka mid ah lix luuqadood oo loo qoondeeyey luqad rasmi ah oo Hindiya ka timid xukuumadda waddanka.
+
+Telugu wuxuu ka kooban yahay afraad afafka ugu badan ee ku hadla afkooda hooyo ee Hindiya, iyada oo 6.93 boqolkiiba tirakoobka 2011, 9-kii iyo shan iyo tobnaad ee liiska asaliga ah ee luuqadaha ugu ballaaran dunida oo dhan. Waa mid ka mid ah labaatan iyo laba luqadood oo jadwalka jadwalka ah ee Jamhuuriyadda India. Qiyaas ahaan 10,000 qoraallo hor leh oo gumeysi ah ayaa ka jira luqadda Telugu.
+
+Southern South-Central Telugu languages Telugu
+
+South-Central Telugu languages Telugu
+
+Telugu languages Telugu
+
+Telugu
+
+Andhra Pradesh
+
+Telangana
+
+Yanam
+
+
+# Infobox
+
+- **Dhawaaq**: Template:IPA-te
+- **Dhalad u ah**: India
+- **Gobolka**: Andhra Pradesh , Telangana and Yanam
+- **Qoomiyada**: Telugu people
+- **U ah afka hooyo**: 81.1 million  (2011 census) [ 1 ]
+- **Qoyska luqada**: Dravidian Southern South-Central Telugu languages Telugu
+- **Hab qoraalka**: Telugu alphabet Telugu Braille
+- **Ka ah Luqad rasmi**: India Spoken in these States and union territories of India : Andhra Pradesh Telangana Yanam
+- **ISO 639-1**: te
+- **ISO 639-2**: tel
+- **ISO 639-3**: tel
+- **Luqadda la adeegsado**: 49-DBA-aa
+
+
+# Tables
+
+## Table 1
+| Telugu |
+| --- |
+| తెలుగుtelugu |
+|  |
+| Dhawaaq | Template:IPA-te |
+| Dhalad u ah | India |
+| Gobolka | Andhra Pradesh , Telangana and Yanam |
+| Qoomiyada | Telugu people |
+| U ah afka hooyo | 81.1 million  (2011 census) [ 1 ] |
+| Qoyska luqada | Dravidian Southern South-Central Telugu languages Telugu |
+| Hab qoraalka | Telugu alphabet Telugu Braille |
+| Xaalada Rasmiga |
+| Ka ah Luqad rasmi | India Spoken in these States and union territories of India : Andhra Pradesh Telangana Yanam |
+| Koodka luqada |
+| ISO 639-1 | te |
+| ISO 639-2 | tel |
+| ISO 639-3 | tel |
+| Luqadda la adeegsado | 49-DBA-aa |
+| Telugu is native to Andhra Pradesh and Telangana |
+| {{{1}}} |  |
+|  |

@@ -1,0 +1,32 @@
+title:
+Yume Hayashi
+
+url:
+https://so.wikipedia.org/wiki?curid=33351
+
+text:
+Yume Hayashi waa moodel soo jiidasho oo reer Jabaan ah iyo gabar isir hore ah.
+
+Xiriirinta dibedda
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1995-10-18 ) Oktoobar 18, 1995 ( 29jir) Furano City, Hokkaido, Japan
+- **Naanees**: Yume Yoshida
+- **Dhererka**: 168 cm
+
+
+# Tables
+
+## Table 1
+| Yume Hayashi |
+| --- |
+| File:Yume Hayashi 2019 (1).jpg Yume ee 2019 |
+| Ku dhashay | ( 1995-10-18 ) Oktoobar 18, 1995 ( 29jir) Furano City, Hokkaido, Japan |
+| Naanees | Yume Yoshida |
+| Dhererka | 168 cm |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Yume Hayashi |
+| --- | --- |

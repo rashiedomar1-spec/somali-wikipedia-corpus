@@ -1,0 +1,8 @@
+title:
+Frankfurt
+
+url:
+https://so.wikipedia.org/wiki?curid=2806
+
+text:
+Frankfurt ("&lt;a href="Af-Jarmal"&gt;af-jamal&lt;/a&gt;: Frankfurt am Main") waa &lt;a href="magaalo"&gt;magaalo&lt;/a&gt; ku taala dalka &lt;a href="Jarmalka"&gt;Jarmalka&lt;/a&gt;.

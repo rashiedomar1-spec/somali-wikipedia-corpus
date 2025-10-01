@@ -1,0 +1,10 @@
+title:
+Axad
+
+url:
+https://so.wikipedia.org/wiki?curid=2062
+
+text:
+Axad waa maalinta labaad ee &lt;a href="Todobaad"&gt;Todobaad&lt;/a&gt;ka, waxayna u dhaxaysaa &lt;a href="Sabti"&gt;Sabti&lt;/a&gt;ga iyo &lt;a href="Isniin"&gt;Isniin&lt;/a&gt;ta.
+axad waxay dhicana istandharka ISO 8601 ka tahay maalinta todobaad ee usbuuca. &lt;a href="Kalandar"&gt;Kalandar&lt;/a&gt;ka gaalada waxay u tahay maalin fasax ah oo aanan la shaqynin
+luqada Ingiriiska waxaa lagu yiraahdaa Sunday, mida Finnishakana Sunnuntai.

@@ -1,0 +1,8 @@
+title:
+Haparanda
+
+url:
+https://so.wikipedia.org/wiki?curid=4448
+
+text:
+Haparanda waxaa ku taalaa waqooyiya wadanka &lt;a href="Sweden"&gt;Sweden&lt;/a&gt;.

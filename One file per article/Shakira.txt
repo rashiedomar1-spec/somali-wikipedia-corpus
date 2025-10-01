@@ -1,0 +1,58 @@
+title:
+Shakira
+
+url:
+https://so.wikipedia.org/wiki?curid=15002
+
+text:
+Shakira Isabel Mebarak Ripoll (waxay dhashay 2 Febraayo 1977 ) waa fannand- Kolombiya , soo saare, qoob-ka-ciyaaraya, atariisho iyo tabaruc. Waxay ku dhalatay kuna kortay Barranquilla, waxay sameysay duubisteedii ugu horreeyay ee ka dhacey Sony Music Columbia markay ahayd 13 sano. Ka dib guuldaradii ganacsi ee labadeeda album ee ugu horreeyay, Magia (1991) iyo Peligro (1993), waxay caan ku noqotay ku hadalka Isbaanishka. wadamada leh albumyadeeda xiga, Pies Descalzos (1995) iyo Dónde Están los Ladrones? (1998). Shakira waxay gashay suuqa luuqadda Ingiriisiga iyadoo leh albumkeedii shanaad, Laundry Service (2001).  Waxay iibisay in ka badan 13 milyan oo nuqul, waxay daaha ka qaadday hal-ku-dhigga caalamiga ah ee hal-ku-dhega ah "Whenever, Wherever" iyo "Underneath Your Clothes", waxayna ku faafisay sumcadeeda inay tahay fanaaniin caan ah.
+
+Albumkeedii
+
+Tixraac
+
+Magia (1991)
+
+Peligro (1993)
+
+Pies Descalzos (1995)
+
+Dónde Están los Ladrones? (1998)
+
+Laundry Service (2001)
+
+Fijación Oral, Vol. 1 (2005)
+
+Oral Fixation, Vol. 2 (2005)
+
+She Wolf (2009)
+
+Sale el Sol (2010)
+
+Shakira (2014)
+
+El Dorado (2017)
+
+Las Mujeres Ya No Lloran (2024)
+
+
+# Infobox
+
+- **Ku dhashay**: Shakira Isabel Mebarak Ripoll ( 1977-02-02 ) 2 Febraayo 1977 ( 48jir) Kolombiya
+- **Shaqada**: fanaan
+- **Sanadaha Shaqada**: 1988–hada
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Shakira |
+| --- |
+| Shakira oo joogta xaflada abaalmarinta Latin Grammy, 2023 |
+| Ku dhashay | Shakira Isabel Mebarak Ripoll ( 1977-02-02 ) 2 Febraayo 1977 ( 48jir) Kolombiya |
+| Shaqada | fanaan |
+| Sanadaha Shaqada | 1988–hada |
+| Ilmaha | 2 |
+| Website |
+| shakira.com |

@@ -1,0 +1,36 @@
+title:
+Jessica Alba
+
+url:
+https://so.wikipedia.org/wiki?curid=19450
+
+text:
+Jessica Marie Alba (28 April 1981'kii ayay dhalatay), Waxay ka noqotay Golden globe'ka Hollywood musharax, waana Gabadh u dhalatay dalka Mareykanka oo Filin jila ah.
+
+Kaynaklar
+
+
+# Infobox
+
+- **Ku dhashay**: Jessica Marie Alba ( 1981-04-28 ) Abriil 28, 1981 ( 44jir) Pomona, Kaliforniya , Maraykanka
+- **Degenaansho**: Beverly Hills, Kalifornia, U.S.
+- **Shaqada**: Atariisho , model, ganacsato
+- **Sanadaha Shaqada**: 1994–hada
+- **Qiimaha netka**: $340 Milyan (May 2016) [ 1 ]
+- **Xaasaska**: Cash Warren (2008)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Jessica Alba |
+| --- |
+| Jessica oo joogta xaflad 2014 |
+| Ku dhashay | Jessica Marie Alba ( 1981-04-28 ) Abriil 28, 1981 ( 44jir) Pomona, Kaliforniya , Maraykanka |
+| Degenaansho | Beverly Hills, Kalifornia, U.S. |
+| Shaqada | Atariisho , model, ganacsato |
+| Sanadaha Shaqada | 1994–hada |
+| Qiimaha netka | $340 Milyan (May 2016) [ 1 ] |
+| Xaasaska | Cash Warren (2008) |
+| Ilmaha | 2 |

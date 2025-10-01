@@ -1,0 +1,42 @@
+title:
+Waddanka Nigeria Cricket
+
+url:
+https://so.wikipedia.org/wiki?curid=34564
+
+text:
+Waddanka Nigeria Cricket
+
+Nigeria
+
+ICC
+
+ICC Africa
+
+Dotun Olatunji	18	599	0
+
+Kunle Adegbola	34	588	33
+
+Endurance Ofem	32	521	15
+
+Ademola Onikoyi	34	502	1
+
+Ricky Sharma	16	284	0
+
+Segun Olayinka	29	584	0
+
+Olajide Bejide	31	556	9
+
+Joshua Ogunlola	29	124	44
+
+Oluseye Olympio	27	154	29
+
+Ositadinma Onwuzulike	18	127	10
+
+Chimezie Onwuzulike	12	85	11
+
+Saheed Akolade	31	98	48
+
+Emmanuel Okwudili	20	351	0
+
+Leke Oyede	10	84	5

@@ -1,0 +1,8 @@
+title:
+Lévis, Quebec
+
+url:
+https://so.wikipedia.org/wiki?curid=23571
+
+text:
+Levis waa magaalo ku taal koonfurta magaalada &lt;a href="Quebec%20City"&gt;Quebec City&lt;/a&gt;, gobolka &lt;a href="Quebec"&gt;Quebec&lt;/a&gt;. Levis waxay leedahay dad ka kooban 143,414, oo ah magaalada 33aad ee ugu weyn &lt;a href="Kanada"&gt;Kanada&lt;/a&gt;.

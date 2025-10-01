@@ -1,0 +1,33 @@
+title:
+Salool
+
+url:
+https://so.wikipedia.org/wiki?curid=17925
+
+text:
+Salool ( Af Ingiriis : popcorn ; Af Carabi : لاسعانود ‎)
+
+The Wonders of Corn
+
+
+# Tables
+
+## Table 1
+| Salool |
+| --- |
+|  |
+| Galley dubnayn |
+|  |
+| Galley la xasiiday |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| (darajo la'aan): | Dhir |
+| (darajo la'aan): | Geed |
+| (darajo la'aan): | Firileey |
+| Dirka: | Galley |
+| Bahka: | Arabakhi |
+| Duulka: | Xasiid |
+| Noocyada: | Dubaney |
+| Noocyada kala duwan: | Zalool |
+| Trinomial name |
+| Salool |

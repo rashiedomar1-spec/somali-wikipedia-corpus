@@ -1,0 +1,66 @@
+title:
+Interlingue
+
+url:
+https://so.wikipedia.org/wiki?curid=35144
+
+text:
+Interlingue , oo hore u ahaan jirtay Occidental , waa luqad caawimo caalami ah oo uu sameeyay Edgar de Wahl waxaana la daabacay 1922.
+
+Interlingue waa luqadda ugu fudud ee la barto iyadoo ay ugu wacan tahay naxwaha ugu yar iyo kan caadiga ah, iyo samaynteeda caalamiga ah.
+
+Suugaanta
+
+Qoraallada suugaanta ugu waaweyn ee Interlinge ayaa ka soo muuqday Cosmoglotta. Waxa kale oo jiray qaar ka mid ah shuqullada, oo asal ah iyo kuwo la turjumay, oo lagu daabacay Interlinge.
+
+Qaar ka mid ah shaqooyinka Interlingue waa:
+
+Tixraacyo
+
+Interlingue
+
+Kajš, Jan Amos (1938) Krasina, raconta del subterrania del Moravian carst .
+
+Podobský, Jaroslav (1935/1947) Li astres del Verne .
+
+Costalago, Vicente (2021) Li sercha in li castelle Dewahl e altri racontas [ 1 ] .
+
+Costalago, Vicente (2021) Antologie hispan [ 2 ] .
+
+Costalago, Vicente (2021) Fabules, racontas e mites [ 3 ] .
+
+
+# Infobox
+
+- **waxaa abuuray**: Edgar de Wahl
+- **Date**: 1922
+- **Setting and usage**: Luqadda caawimada caalamiga ah
+- **Purpose**: afka la dhisay oo ku salaysan Luqadaha Indo-Yurub
+- **Early forms:**: Auli Interlingue
+- **Hab qoraalka**: Far Laatiinka
+- **ISO 639-1**: ie
+- **ISO 639-2**: ile
+- **ISO 639-3**: ile
+- **Liiska luqadaha**: ile
+
+
+# Tables
+
+## Table 1
+| Interlingue |
+| --- |
+| Occidental Interlingue |
+|  |
+| waxaa abuuray | Edgar de Wahl |
+| Date | 1922 |
+| Setting and usage | Luqadda caawimada caalamiga ah |
+| Purpose | afka la dhisay oo ku salaysan Luqadaha Indo-Yurub |
+| Early forms: | Auli Interlingue |
+| Hab qoraalka | Far Laatiinka |
+| Koodka luqada |
+| ISO 639-1 | ie |
+| ISO 639-2 | ile |
+| ISO 639-3 | ile |
+| Liiska luqadaha | ile |
+| {{{1}}} |  |
+|  |

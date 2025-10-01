@@ -1,0 +1,8 @@
+title:
+Qooqi
+
+url:
+https://so.wikipedia.org/wiki?curid=32280
+
+text:
+Qooqi waa dareenka hormoonka (&lt;a href="Af-Ingiriisi"&gt;Af-Ingiriisi&lt;/a&gt; „testosterone”).

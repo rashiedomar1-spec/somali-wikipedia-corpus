@@ -1,0 +1,38 @@
+title:
+Smartphone
+
+url:
+https://so.wikipedia.org/wiki?curid=9497
+
+text:
+Smartphone ( Af-Carabi : هاتف ذكي, Af-Soomaali : Taleefanka casriga) waa magac law guyero gar kamida tilifonada cusub oo ku shaqaysa sistamyada hormarsan, 
+smartphone waa magac law guyero gar kamida tilifonada cusub oo ku shaqaysa sistamyada hormarsan.
+
+Inta uu badan nah tilifonadan waxay kushaqeyan dhalo tabasho , sharikadaha tilifonada sameya'na xal lagamagarin smartphon's ka tilifonada lo bixinayo, waxa kamid'ah kuwo umaleya smartphone tilifonada internet iyo Email 'ada dirikara ona furkiara malaf'yada office ona leh keybord dhamaystiran QWERTY, bes tilmanshada ugufican oo ugu yelitan badan wa tilifonada kushaqeya sistamyadan: iOS , Android , BlackBerry OS 10 .
+
+Sharikadaha ugu waweyn tilifon samayska
+
+Apple
+
+Motorola
+
+Microsoft
+
+Nokia
+
+Sony
+
+Google
+
+Samsung
+
+
+# Tables
+
+## Table 1
+| Apple | Samsung | Motorola | LG | HTC |
+| --- | --- | --- | --- | --- |
+| iPhone 6s | Galaxy S6 | Motorola Razr | G4 | One A9 One M9 |
+| iPhone 6 | Galaxy S5 | Motorola Razr2: | G3 | One M8 |
+| iPhone 5s | Galaxy S4 | Motorola Droid Razr | G2 | One M7 |  |
+| iPhone 5 | Galaxy S III | Motorola Razr V3 | Optimus G | One X |  |

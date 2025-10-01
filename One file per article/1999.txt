@@ -1,0 +1,8 @@
+title:
+1999
+
+url:
+https://so.wikipedia.org/wiki?curid=2572
+
+text:
+&lt;a href="1998"&gt;1998&lt;/a&gt; - &lt;a href="1999"&gt;1999&lt;/a&gt; - &lt;a href="2000"&gt;2000&lt;/a&gt;

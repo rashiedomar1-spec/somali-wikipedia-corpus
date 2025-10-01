@@ -1,0 +1,17 @@
+title:
+Xasan Mumin
+
+url:
+https://so.wikipedia.org/wiki?curid=31209
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2020-07-28T22:14:49Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Maax&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Maax moved page &lt;a href="Xasan%20Mumin"&gt;Xasan Mumin&lt;/a&gt; to &lt;a href="Xasan%20Sheekh%20Mumin"&gt;Xasan Sheekh Mumin&lt;/a&gt; over redirect&lt;/comment&gt;
+ &lt;origin&gt;204360&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

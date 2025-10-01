@@ -1,0 +1,8 @@
+title:
+Maygaag
+
+url:
+https://so.wikipedia.org/wiki?curid=29751
+
+text:
+Maygaag waa deegaan oo &lt;a href="Baharsame"&gt;Baharsame&lt;/a&gt; ah, oo u ku jira &lt;a href="Bookh"&gt;Bookh&lt;/a&gt;.

@@ -1,0 +1,45 @@
+title:
+April Snow
+
+url:
+https://so.wikipedia.org/wiki?curid=33326
+
+text:
+April Snow waa 2005 filim jaceyl Koonfur Kuuriya ah oo ay wada qoreen isla markaana hagayaan Hur Jin-ho, oo uu jilayo Bae Yong-joon iyo Son Ye-jin . [ 1 ] [ 2 ] [ 3 ] [ 4 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Directed by**: Hur Jin-ho
+- **Written by**: Shin Joon-ho Lee Won-sik Seo Yu-min Lee Il Hur Jin-ho
+- **Produced by**: Bae Yong-guk
+- **Starring**: Bae Yong-joon Son Ye-jin
+- **Cinematography**: Lee Mo-gae
+- **Edited by**: Lee Eun-su
+- **Music by**: Jo Seong-woo
+- **Production companies**: Blue Storm Co., Ltd.
+- **Distributed by**: Show East
+- **Release date**: Sebteembar 8, 2005 ( 2005-09-08 )
+- **Country**: Koonfur Kuuriya
+- **Language**: Kuuriyan
+
+
+# Tables
+
+## Table 1
+| April Snow |
+| --- |
+| Directed by | Hur Jin-ho |
+| Written by | Shin Joon-ho Lee Won-sik Seo Yu-min Lee Il Hur Jin-ho |
+| Produced by | Bae Yong-guk |
+| Starring | Bae Yong-joon Son Ye-jin |
+| Cinematography | Lee Mo-gae |
+| Edited by | Lee Eun-su |
+| Music by | Jo Seong-woo |
+| Production companies | Blue Storm Co., Ltd. |
+| Distributed by | Show East |
+| Release date | Sebteembar 8, 2005 ( 2005-09-08 ) |
+| Country | Koonfur Kuuriya |
+| Language | Kuuriyan |

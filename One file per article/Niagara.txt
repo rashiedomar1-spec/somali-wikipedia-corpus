@@ -1,0 +1,52 @@
+title:
+Niagara
+
+url:
+https://so.wikipedia.org/wiki?curid=32600
+
+text:
+Niagara waa 1953 filim xiiso badan oo Mareykan [ 3 ] oo uu agaasime ka ahaa Henry Hathaway, waxaa soo saaray Charles Brackett, waxaana qoray Brackett, Richard L. Breen iyo Walter Reisch. Filimkan waxaa jilaya Marilyn Monroe , Joseph Cotten, Jean Peters iyo Max Showalter.  Wuxuu ka mid ahaa Filimkii 20-aad ee qarniga Fox filimki ugu guusha badnaa sanadka.
+
+Tixraacyo
+
+
+# Infobox
+
+- **Directed by**: Henry Hathaway
+- **Screenplay by**: Charles Brackett Richard L. Breen Walter Reisch
+- **Produced by**: Charles Brackett
+- **Starring**: Marilyn Monroe Joseph Cotten Jean Peters Max Showalter
+- **Narrated by**: Joseph Cotten
+- **Cinematography**: Joseph MacDonald
+- **Edited by**: Barbara McLean
+- **Music by**: Sol Kaplan
+- **Distributed by**: 20th Century Fox
+- **Release date**: Janaayo 21, 1953
+- **Running time**: 88 daqiiqo
+- **Country**: Mareykanka
+- **Language**: Ingiriis
+- **Budget**: $1.67 milyan [ 1 ]
+- **Box office**: $2.35 milyan [ 2 ]
+
+
+# Tables
+
+## Table 1
+| Niagara |
+| --- |
+| Monroe filimka |
+| Directed by | Henry Hathaway |
+| Screenplay by | Charles Brackett Richard L. Breen Walter Reisch |
+| Produced by | Charles Brackett |
+| Starring | Marilyn Monroe Joseph Cotten Jean Peters Max Showalter |
+| Narrated by | Joseph Cotten |
+| Cinematography | Joseph MacDonald |
+| Edited by | Barbara McLean |
+| Music by | Sol Kaplan |
+| Distributed by | 20th Century Fox |
+| Release date | Janaayo 21, 1953 |
+| Running time | 88 daqiiqo |
+| Country | Mareykanka |
+| Language | Ingiriis |
+| Budget | $1.67 milyan [ 1 ] |
+| Box office | $2.35 milyan [ 2 ] |

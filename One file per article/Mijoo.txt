@@ -1,0 +1,36 @@
+title:
+Mijoo
+
+url:
+https://so.wikipedia.org/wiki?curid=33231
+
+text:
+Lee Seung-ah , [ 1 ] ku dhashay Lee Mi-joo, oo si fiican loogu yaqaanno magaciisa Mijoo, waa fanaanad u dhalatay Koonfur Kuuriya, oo looga dooday inay xubin ka tahay kooxda gabdhaha South Korea ee Lovelyz ee hoos timaadda Woollim Entertainment 2014.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: Lee Mi-joo ( 1994-09-23 ) Sebteembar 23, 1994 ( 30jir) Degmada Okcheon, Gobolka Waqooyiga Chungcheong, Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2014–hada
+- **Calaamadaha**: Woollim Entertainment
+- **Falalka la xiriira**: Lovelyz
+
+
+# Tables
+
+## Table 1
+| Mijoo |
+| --- |
+| Mijoo ee 2018 |
+| Ku dhashay | Lee Mi-joo ( 1994-09-23 ) Sebteembar 23, 1994 ( 30jir) Degmada Okcheon, Gobolka Waqooyiga Chungcheong, Koonfur Kuuriya |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2014–hada |
+| Calaamadaha | Woollim Entertainment |
+| Falalka la xiriira | Lovelyz |
+|  |

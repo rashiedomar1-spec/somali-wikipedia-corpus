@@ -1,0 +1,38 @@
+title:
+Kareena Kapoor
+
+url:
+https://so.wikipedia.org/wiki?curid=34949
+
+text:
+Kareena Kapoor Khan ( loogu dhawaaqo [kəˈriːna kəˈpuːr] ; née Kapoor ; 21 Sebteembar 1980) waa Atariisho Hindi ah oo ka soo baxda filimada Hindiga .  Waxaay u dhalatay Randhir Kapoor iyo Babita , waana walaasha ka yar atirishada Karisma Kapoor .  Waxaa lagu yaqaanaa dooryasha kala duwan ee noocyada filimada, Kapoor waa mid ka mid ah atirishooyinka ugu caansan Bollywood uguna mushaarka badan. [ 1 ]
+
+Tix
+
+Randhir Kapoor
+
+Babita Kapoor
+
+
+# Infobox
+
+- **Ku dhashay**: Kareena Kapoor ( 1980-09-21 ) 21 Sebteembar 1980 ( 44jir) Bombay, Maharashtra , Hindiya
+- **Naanees**: Kareena Kapoor
+- **Shaqada**: Atariisho
+- **Xaasaska**: Saif Ali Khan ( g. 2012)
+- **Ilmaha**: 2
+- **Waalidka**: Randhir Kapoor Babita Kapoor
+
+
+# Tables
+
+## Table 1
+| Kareena Kapoor Khan |
+| --- |
+| Kapoor ee 2014 |
+| Ku dhashay | Kareena Kapoor ( 1980-09-21 ) 21 Sebteembar 1980 ( 44jir) Bombay, Maharashtra , Hindiya |
+| Naanees | Kareena Kapoor |
+| Shaqada | Atariisho |
+| Xaasaska | Saif Ali Khan ( g. 2012) |
+| Ilmaha | 2 |
+| Waalidka | Randhir Kapoor Babita Kapoor |

@@ -1,0 +1,8 @@
+title:
+Shansho
+
+url:
+https://so.wikipedia.org/wiki?curid=4987
+
+text:
+Shanshadu waa laf dheer oo ku taalla lugta. Waxay ka hooseysaa &lt;a href="jilib"&gt;jilib&lt;/a&gt;ka.

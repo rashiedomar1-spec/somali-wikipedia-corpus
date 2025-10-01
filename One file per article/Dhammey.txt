@@ -1,0 +1,8 @@
+title:
+Dhammey
+
+url:
+https://so.wikipedia.org/wiki?curid=32352
+
+text:
+dhammey waa gabadha ee dunida ugu gurux badan.

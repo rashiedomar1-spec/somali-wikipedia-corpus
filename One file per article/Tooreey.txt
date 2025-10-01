@@ -1,0 +1,8 @@
+title:
+Tooreey
+
+url:
+https://so.wikipedia.org/wiki?curid=6331
+
+text:
+Tooreey waa &lt;a href="Mindi"&gt;Mindi&lt;/a&gt; la farsameeyay oo labada gees ka afeesan. Tooreeyda waa hub.

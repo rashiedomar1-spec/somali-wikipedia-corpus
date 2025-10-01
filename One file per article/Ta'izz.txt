@@ -1,0 +1,39 @@
+title:
+Ta'izz
+
+url:
+https://so.wikipedia.org/wiki?curid=14670
+
+text:
+Coordinates : 13°34′44″N 44°01′19″E ﻿ / ﻿ 13.57889°N 44.02194°E ﻿ / 13.57889; 44.02194
+
+Ta'izz waa magaalo ku Yemen .
+
+
+# Infobox
+
+- **Dalka**: Yemen
+- **Gobol**: Ta'izz
+- **• Dhammaan**: 596 672
+- **Aag saacadeed**: UTC+3 (Yemen Standard Time)
+
+
+# Tables
+
+## Table 1
+| Ta'izz |
+| --- |
+| Magaalo |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Yemen" does not exist. |
+| Dalka | Yemen |
+| Gobol | Ta'izz |
+| Tirada dadka ( 2005 ) |
+| • Dhammaan | 596 672 |
+| Aag saacadeed | UTC+3 (Yemen Standard Time) |
+
+
+
+# Coordinates
+13.57889; 44.02194

@@ -1,0 +1,36 @@
+title:
+Saleebaan (magac)
+
+url:
+https://so.wikipedia.org/wiki?curid=21019
+
+text:
+Saleebaan ( Af Ingiriis : Salman ama Selman ; Af Carabi : لاسعانود ‎) sidoo kale Sulmaan , Suleymaan iyo Saleyman waa magac Af-Carabi ah kaasi oo loo bixiyo labka dadka.
+
+Sidoo kale fiiri
+
+Tixraac
+
+Magac
+
+Dad
+
+
+# Infobox
+
+- **Dhawaaqid**: Af-Carabi: [sal'maːn] Af-Hindi: [səlˈmaːn]
+- **Nooc**: Magac lab
+- **Macnaha**: "Naxariis iyo nabad"
+- **Meesha asalka**: Af-Carabi
+
+
+# Tables
+
+## Table 1
+| Suleebaan Salman |
+| --- |
+| Dhawaaqid | Af-Carabi: [sal'maːn] Af-Hindi: [səlˈmaːn] |
+| Nooc | Magac lab |
+| Asalka |
+| Macnaha | "Naxariis iyo nabad" |
+| Meesha asalka | Af-Carabi |

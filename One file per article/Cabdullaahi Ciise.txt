@@ -1,0 +1,35 @@
+title:
+Cabdullaahi Ciise
+
+url:
+https://so.wikipedia.org/wiki?curid=2233
+
+text:
+Cabdullaahi Ciise Maxamuud عبدالله عيسى محمواد waxuu dhashay uuna geeriyooday ( 1922 - 1988 ), Allahaa u naxariistee waxa uu ku dhashay degmada Afgooye ee gobolka Shabeellaha Hoose ee dalka Soomaaliya . Wuxuu ahaa halgamaa door weyn ka ciyaaray madaxbanaanida iyo qaranimada Soomaaliyeed, wuxuu kale oo uu ahaa raiisul wasaarahii ugu horeeyey dalka Soomaaliya ay yeelato ee dowladii daaqiliyada ahayd inta aysan Soomaaliya madaxbanaanida helin.
+
+Hordhac
+
+Abdullahi wuxuu ku dhashay magalada afgooye oo gobolka shabeelada sanadu markay ahay  nov 1922.
+Abdullahi wuxuu noqday raisulwasaarihii u horeyay ee daakhiliga
+
+
+# Infobox
+
+- **Ku dhashay**: November 11, 1922 Afgooye , Italian Somaliland
+- **Dhimasho**: March 11, 1988 (Da'da 65) Rome , Italy
+- **Ka horeeyay**: Ra'iisal Wasaarihii 1aad
+- **Ka dambeeyay**: Maxamed Xaaji Ibraahim Cigaal
+- **Xisbiga siyaasadeed**: Somali Youth League
+
+
+# Tables
+
+## Table 1
+| Cabdullahi Ciise عبد الله عيسى |
+| --- |
+|  |
+| Ku dhashay | November 11, 1922 Afgooye , Italian Somaliland |
+| Dhimasho | March 11, 1988 (Da'da 65) Rome , Italy |
+| Ka horeeyay | Ra'iisal Wasaarihii 1aad |
+| Ka dambeeyay | Maxamed Xaaji Ibraahim Cigaal |
+| Xisbiga siyaasadeed | Somali Youth League |

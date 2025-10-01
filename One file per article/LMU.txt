@@ -1,0 +1,8 @@
+title:
+LMU
+
+url:
+https://so.wikipedia.org/wiki?curid=34878
+
+text:
+Jammada &lt;a href="Yurub"&gt;Yurub&lt;/a&gt;, waddanka Yurub.

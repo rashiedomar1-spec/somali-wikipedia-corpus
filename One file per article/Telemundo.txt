@@ -1,0 +1,8 @@
+title:
+Telemundo
+
+url:
+https://so.wikipedia.org/wiki?curid=38732
+
+text:
+Telemundo waa shabakad telefishan oo ku hadasha afka Isbaanishka oo &lt;a href="Gobolada%20Midoobay"&gt;Mareykan&lt;/a&gt; ah oo ay iska leedahay &lt;a href="NBCUniversal"&gt;NBCUniversal&lt;/a&gt;, waa qeyb ka mid ah &lt;a href="Comcast"&gt;Comcast&lt;/a&gt;. Waxaa la aasaasay 19 Juun 1984.

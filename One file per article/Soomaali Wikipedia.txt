@@ -1,0 +1,42 @@
+title:
+Soomaali Wikipedia
+
+url:
+https://so.wikipedia.org/wiki?curid=19392
+
+text:
+Soomaali Wikipedia waa website cilmi-ururin ah oo ku qoran Luuqada Soomaaliga , kaasi oo ka mid ah Wikipediaha xorta ah ee laga helo barta internetka.
+
+Tixraac
+
+
+# Infobox
+
+- **Cinwaanka**: so.wikipedia.org
+- **Gabaygu**: Insaykalabedhiyaha xorta ah ee qof kasta wax ka bedeli karo.
+- **Ganacsi?**: Maya
+- **Nooca site**: Cilmi-ururin internetka ah
+- **Diiwaan-gelin**: Khasab ma ahan, laakiin waa muhiim si aad waxyaabaha qaar u sameeyso.
+- **Isticmaalayaasha**: 41,719
+- **Content license**: Creative Commons Attribution/ Share-Alike 3.0 (most text also dual-licensed under GFDL ) Media licensing varies
+- **Mulkiilaha**: Wikimedia Foundation
+- **Farsamada**: Jimmy Wales , Larry Sanger [ 1 ]
+- **La bilaabay isticmaalka**: Abril 2008
+
+
+# Tables
+
+## Soomaali Wikipedia
+|   |
+| --- |
+| Screenshot Muuqaalka Bogga Hore Maayo 2016 |
+| Cinwaanka | so.wikipedia.org |
+| Gabaygu | Insaykalabedhiyaha xorta ah ee qof kasta wax ka bedeli karo. |
+| Ganacsi? | Maya |
+| Nooca site | Cilmi-ururin internetka ah |
+| Diiwaan-gelin | Khasab ma ahan, laakiin waa muhiim si aad waxyaabaha qaar u sameeyso. |
+| Isticmaalayaasha | 41,719 |
+| Content license | Creative Commons Attribution/ Share-Alike 3.0 (most text also dual-licensed under GFDL ) Media licensing varies |
+| Mulkiilaha | Wikimedia Foundation |
+| Farsamada | Jimmy Wales , Larry Sanger [ 1 ] |
+| La bilaabay isticmaalka | Abril 2008 |

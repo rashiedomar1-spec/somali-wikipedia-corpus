@@ -1,0 +1,9 @@
+title:
+Somaliweyn
+
+url:
+https://so.wikipedia.org/wiki?curid=4210
+
+text:
+Macnaha Soomaaliweyn, waxa weeyi, shan qaran oo wadaga magaca iyo qomiyada somali sadex ka mid ahina ay madaxbananyihiin labana ay haysan dowladaha kenya iyo Ethiopia,
+Somaliweyn wa shantan &lt;a href="Djibouti"&gt;Djibouti&lt;/a&gt;,&lt;a href="somaliland"&gt;somaliland&lt;/a&gt;,&lt;a href="somalia"&gt;somalia&lt;/a&gt;,&lt;a href="NFD"&gt;NFD&lt;/a&gt;,&lt;a href="somaliregion"&gt;somaliregion&lt;/a&gt;

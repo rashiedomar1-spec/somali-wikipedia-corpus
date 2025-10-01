@@ -1,0 +1,81 @@
+title:
+Karaaji
+
+url:
+https://so.wikipedia.org/wiki?curid=7638
+
+text:
+Karachi (Afka Urdooga كراچى) Waa caasimada labaad ee wadanka Bakistaan waana magaalda uguwayn wadanka Bakistaan waana caasimada gobolka Sind . 
+Karachi waa xarunta dhaqaale ee wadanka Bakistaan waana dakad aad u muhim ah waxa auy magaaldu kutaalaa xeebta Badada Carabta waxa magaalda kunool dad gaadhaya ilaa 13+milyan oo qof.
+
+Dhaqaalaha
+
+Magaalda karaaji waa magaalda dhqaale iyo tijaaradeed ee wadanka Baakistaan.
+
+Tixraac
+
+Karachi East
+
+Karachi West
+
+Karachi South
+
+Karachi Central
+
+Malir
+
+Korangi
+
+
+# Infobox
+
+- **Country**: Pakistan
+- **Province**: Sindh
+- **Metropolitan Corporation**: 2011
+- **City Council**: City Complex, Gulshan-e-Iqbal Town
+- **Districts [ 1 ]**: 6 Karachi East Karachi West Karachi South Karachi Central Malir Korangi
+- **• Nuuca**: Metropolitan City
+- **• City administrator**: Sajjad Hussain Abbasi [ 2 ]
+- **• Metropolitan commissioner**: Samiuddin Siddiqui [ 3 ]
+- **• Commissioner**: Shoaib Ahmed Siddiqui [ 4 ]
+- **Area [ 6 ]**: Template:Infobox settlement/metric/mag
+- **Joogga**: 8 m (26 ft)
+- **• Dhammaan**: 24,300,000 [ 7 ] [ 8 ]
+- **• Rank**: 1st (Pakistan) .
+- **Magac kale**: Karachiite
+- **Aag saacadeed**: UTC+05:00 ( PKT )
+- **Postal codes**: 74XXX – 75XXX
+- **Dialling code**: +9221-XXXX XXXX
+- **Website**: www.kmc.gos.pk
+
+
+# Tables
+
+## Table 1
+| Karaaji کراچی |
+| --- |
+| City |
+| Karaaji |
+| File:Logo of Karachi Metropolitan Corporation.png Seal |
+| Nickname(s): The City of Lights |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Sindh" does not exist. |
+| Country | Pakistan |
+| Province | Sindh |
+| Metropolitan Corporation | 2011 |
+| City Council | City Complex, Gulshan-e-Iqbal Town |
+| Districts [ 1 ] | 6 Karachi East Karachi West Karachi South Karachi Central Malir Korangi |
+| Dowlada [ 5 ] |
+| • Nuuca | Metropolitan City |
+| • City administrator | Sajjad Hussain Abbasi [ 2 ] |
+| • Metropolitan commissioner | Samiuddin Siddiqui [ 3 ] |
+| • Commissioner | Shoaib Ahmed Siddiqui [ 4 ] |
+| Area [ 6 ] | Template:Infobox settlement/metric/mag |
+| Joogga | 8 m (26 ft) |
+| Tirada dadka (2016) |
+| • Dhammaan | 24,300,000 [ 7 ] [ 8 ] |
+| • Rank | 1st (Pakistan) . |
+| Magac kale | Karachiite |
+| Aag saacadeed | UTC+05:00 ( PKT ) |
+| Postal codes | 74XXX – 75XXX |
+| Dialling code | +9221-XXXX XXXX |
+| Website | www.kmc.gos.pk |

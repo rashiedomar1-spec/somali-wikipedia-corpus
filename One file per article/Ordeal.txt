@@ -1,0 +1,34 @@
+title:
+Ordeal
+
+url:
+https://so.wikipedia.org/wiki?curid=32669
+
+text:
+Ordeal waa taariikh nololeedka 1980 ee ay sameysay atariishadii hore ee filimada qaawan ee Linda Lovelace (magaca dhabta ah: Linda Boreman), xidigta filimka Deep Throat , oo ah filim 1972 ayaa ka caawiyay caan ka noqoshada Da'da Dahabiga ah ee Filimada Qaawan. Taariikh nololeedka, Lovelace waxay ka sheekeyneysaa in la kufsaday intii ay ku guda jirtay xirfadeeda warshadaha.
+
+
+# Infobox
+
+- **Qoraa**: Linda Lovelace
+- **Dalka**: Mareykanka
+- **Luqada**: Ingiriis
+- **Daabacaha**: Citadel Press (Kensington Books)
+- **Taariikhda Daabacaadda**: 1980
+- **Boggag**: 253
+- **OCLC**: 5674846
+- **Qoraalka asalka**: Ordeal at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource
+
+
+# Tables
+
+## Ordeal
+| Qoraa | Linda Lovelace |
+| --- | --- |
+| Dalka | Mareykanka |
+| Luqada | Ingiriis |
+| Daabacaha | Citadel Press (Kensington Books) |
+| Taariikhda Daabacaadda | 1980 |
+| Boggag | 253 |
+| OCLC | 5674846 |
+| Qoraalka asalka | Ordeal at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource |

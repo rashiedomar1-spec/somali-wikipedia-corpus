@@ -1,0 +1,31 @@
+title:
+Soma Oil
+
+url:
+https://so.wikipedia.org/wiki?curid=11913
+
+text:
+(Soma Oil & Gas) waa shirkad baarta shidaalka kana baarta Soomaaliya waxaa la aasaasay 3 Oktoobar 2013.
+
+
+# Infobox
+
+- **Nooca**: Shirkad Biritish ah
+- **ka ganacsaday sida**: LSE : SomGas
+- **La aasaasay**: 2013
+- **Xarunta**: London, England , United Kingdom
+- **Meelaha loo adeegsaday**: Soomaaliya
+- **Website**: www.somaoilandgas.com
+
+
+# Tables
+
+## Soma Oil & Gas
+| File:Soma Oil.jpg |
+| --- |
+| Nooca | Shirkad Biritish ah |
+| ka ganacsaday sida | LSE : SomGas |
+| La aasaasay | 2013 |
+| Xarunta | London, England , United Kingdom |
+| Meelaha loo adeegsaday | Soomaaliya |
+| Website | www.somaoilandgas.com |

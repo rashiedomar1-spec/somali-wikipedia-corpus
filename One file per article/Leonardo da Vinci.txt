@@ -1,0 +1,15 @@
+title:
+Leonardo da Vinci
+
+url:
+https://so.wikipedia.org/wiki?curid=4189
+
+text:
+Leonardo da Vinci , wuxuu dhashay 15 april 1452. waxa uuna ku dhashat magaalada lagu magacaabo frazione Anchiano oo u dhow Vinci Toscana, Italien. Leonadro wxa uu dhintay markay taarikhdu ahayd 2 may 1519 meesha uu ku dhintay waa Amboise oo ku taala Frankrike. leonardo waxa uu ahaa nin italian ah oo ku caan sawiraada gacmaha lagu sawiro. Leonardo ayaa xitaa ahaa sawire, injineer, farsamo yaqaan, soo saare, iyo kuwa dhirta baara, leonadro waxa uu ka qayb ahaa renässansens oo kuwa oogu qiimaha badan.asaga sawirkiisa uu caan lu yahay waa Mona Lisa , waxa uuna sameeyay sanadkii 1503-1506 iyo fresken Nattvarden, waqtigii 1498. Leonardo magaciisa buuxa ayaa la dhahay Leonardo di ser Piero da Vinci, taaso micneheeda uu ahaa Leonardo, herr Pieros wiilkiisa. magacaan ayuu haystay sababtoo ah waxa uu ahaa wecel.
+
+
+# Tables
+
+## Table 1
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Leonardo da Vinci |
+| --- | --- |

@@ -1,0 +1,20 @@
+title:
+The Docks of New York
+
+url:
+https://so.wikipedia.org/wiki?curid=32772
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;212891&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-01-19T05:27:29Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;EmausBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;Bot: Migrating 14 interwiki links, now provided by on &lt;/comment&gt;
+ &lt;origin&gt;228970&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+The Docks of New York waa filim aamusnaan ah oo Mareykanku soo saaray sanadkii 1928-kii waxaana Director ka ahaa Josef von Sternberg waxaana jilaya George Bancroft, Betty Compson iyo Olga Baclanova.

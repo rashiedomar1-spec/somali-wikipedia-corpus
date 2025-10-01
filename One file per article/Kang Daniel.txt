@@ -1,0 +1,41 @@
+title:
+Kang Daniel
+
+url:
+https://so.wikipedia.org/wiki?curid=33336
+
+text:
+Kang Daniel (강다니엘 ; dhashay Kang Eui-geon Diseembar 10, 1996) waa fanaanad u dhalatay Koonfur Kuuriya, heesaa-qoraa, iyo ganacsade.  Wuxuu caan ku noqday horraantii 2017 isagoo ku guuleystay kaalinta koowaad ee xilli-ciyaareedkii labaad ee tartanka dhabta ah ee Produce 101 iyo xubin hore oo ka tirsan kooxda wiilka Wanna One, kaasoo kasbaday guulo muhiim ah iyo ganacsi intuu kor u qaadayay hal sano iyo bar.
+
+
+# Infobox
+
+- **Ku dhashay**: Kang Eui-geon ( 1996-12-10 ) Diseembar 10, 1996 ( 28jir) Busan , Koonfur Kuuriya
+- **Waxbarashada**: Jaamacadda Kyung Hee Cyber
+- **Sanadaha Shaqada**: 2017–hada
+- **Abaal-marin**: Liis buuxa
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Calaamadaha**: MMO YMC Konnect
+- **Falalka la xiriira**: Wanna One
+- **Website**: 강다니엘 (Kang Daniel)
+
+
+# Tables
+
+## Table 1
+| Kang Daniel |
+| --- |
+| Kang Daniel ee Marsso 2020 |
+| Ku dhashay | Kang Eui-geon ( 1996-12-10 ) Diseembar 10, 1996 ( 28jir) Busan , Koonfur Kuuriya |
+| Waxbarashada | Jaamacadda Kyung Hee Cyber |
+| Sanadaha Shaqada | 2017–hada |
+| Abaal-marin | Liis buuxa |
+| Saxiixa |  |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Calaamadaha | MMO YMC Konnect |
+| Falalka la xiriira | Wanna One |
+| Website | 강다니엘 (Kang Daniel) |
+|  |

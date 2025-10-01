@@ -1,0 +1,49 @@
+title:
+Mnet
+
+url:
+https://so.wikipedia.org/wiki?curid=31737
+
+text:
+Mnet (soo gaabinta M usic Net work) waa kanaal muusiga lacag telefishinka oo Koonfur Kuuriya ay iska leedahay CJ E&M .
+
+Tixraac
+
+
+# Infobox
+
+- **Country**: Koonfur Kuuriya
+- **Headquarters**: CJ E&M Center, Sangam-dong , Mapo-gu
+- **Picture format**: 1080i TQ (hoos loo dhigay 16:9 480i quudinta TQC )
+- **Owner**: CJ ENM E&M Division ( CJ Group )
+- **Sister channels**: Mnet Japan tvN tvN Show TVN O tvN tvN STORY Olive OCN OCN Movies OCN Thrills Chunghwa TV CATCH ON 1 CATCH ON 2 OGN Tooniverse English Gem DIA TV UXN
+- **Launched**: 1993
+- **Former names**: Music Network (1993-1995)
+- **Website**: Mnet Korea Mwave TVING TV Genie Music
+- **Mwave**: Watch Live (Selected Shows Only.)
+- **TVING**: Watch Live (South Korea Only.)
+
+
+# Tables
+
+## Mnet
+|   |
+| --- |
+| Country | Koonfur Kuuriya |
+| Headquarters | CJ E&M Center, Sangam-dong , Mapo-gu |
+| Programming |
+| Picture format | 1080i TQ (hoos loo dhigay 16:9 480i quudinta TQC ) |
+| Ownership |
+| Owner | CJ ENM E&M Division ( CJ Group ) |
+| Sister channels | Mnet Japan tvN tvN Show TVN O tvN tvN STORY Olive OCN OCN Movies OCN Thrills Chunghwa TV CATCH ON 1 CATCH ON 2 OGN Tooniverse English Gem DIA TV UXN |
+| History |
+| Launched | 1993 |
+| Former names | Music Network (1993-1995) |
+| Links |
+| Website | Mnet Korea Mwave TVING TV Genie Music |
+| Availability |
+|  |
+| Streaming media |
+| Mwave | Watch Live (Selected Shows Only.) |
+| TVING | Watch Live (South Korea Only.) |
+|  |

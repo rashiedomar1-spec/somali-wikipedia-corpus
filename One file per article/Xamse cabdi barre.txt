@@ -1,0 +1,35 @@
+title:
+Xamse cabdi barre
+
+url:
+https://so.wikipedia.org/wiki?curid=36839
+
+text:
+xamse cabdi barre waa siyaasi soomaaliyeed, waxaa loo magacaabay xilka raysalwasaaraha soomaaliya 15 june 2022
+
+
+# Infobox
+
+- **Xil kaga horeeyay:**: maxamed Xuseen Rooble .
+- **Dhashay:**: 1983 43jir
+- **Ku dhashay:**: kismaayo , jubada hoose
+- **Diintiisa**: Islaam Sunni
+- **Dhalasho:**: soomaaliya
+- **shaqadiisa**: siyaasi
+
+
+# Tables
+
+## Table 1
+| xamse cabdi barre hamze abdi barre |
+| --- |
+| raysalwasaaraha soomaaliya |
+| mudada xukunkiisa |
+| 15 june, 2022 ilaa , hada |
+| Xil kaga horeeyay: | maxamed Xuseen Rooble . |
+| Xil kaga danbeeyay |  |
+| Dhashay: | 1983 43jir |
+| Ku dhashay: | kismaayo , jubada hoose |
+| Diintiisa | Islaam Sunni |
+| Dhalasho: | soomaaliya |
+| shaqadiisa | siyaasi |

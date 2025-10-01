@@ -1,0 +1,31 @@
+title:
+Najma Nashaad
+
+url:
+https://so.wikipedia.org/wiki?curid=34157
+
+text:
+Najma Nashaad waa fannaanad Somalilander ah Duriyada Reer Sheekh Isxaaq ah, waxay  ku guuleysatay "Fanaanada Dumarka oo Sanadka" ee Abaalmarinta Madxafka Somaliland
+
+ee 2021 . [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Nooca fanka**: Fanka Soomaalida
+- **Occupations**: Fannaanad
+- **Qalabka**: Cod
+
+
+# Tables
+
+## Table 1
+| Najma Nashaad |
+| --- |
+| 2021 |
+| Macluumaadka asalka |
+| Nooca fanka | Fanka Soomaalida |
+| Occupations | Fannaanad |
+| Qalabka | Cod |

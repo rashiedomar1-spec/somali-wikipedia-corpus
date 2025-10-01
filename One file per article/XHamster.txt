@@ -1,0 +1,33 @@
+title:
+XHamster
+
+url:
+https://so.wikipedia.org/wiki?curid=15131
+
+text:
+xHamster waa websedyada video wadaagga site a free, kaas oo bishii Maayo 2014 ku qabtay Alexa darajeeyo 55 taasoo ka dhigaysa gudahood top 100 goobood Adduunka. [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: xhamster.com
+- **Nooca site**: Websedyada video wadaagga
+- **Diyaar ku ah**: Ingiriis
+- **Content license**: Gratis; xhamsterpremiumpass.com waa lahaansho
+- **Alexa garaado**: 55 (Maayo 2014 [update] ) [ 1 ]
+- **Hada**: Online
+
+
+# Tables
+
+## xHamster
+|   |
+| --- |
+| Cinwaanka | xhamster.com |
+| Nooca site | Websedyada video wadaagga |
+| Diyaar ku ah | Ingiriis |
+| Content license | Gratis; xhamsterpremiumpass.com waa lahaansho |
+| Alexa garaado | 55 (Maayo 2014 [update] ) [ 1 ] |
+| Hada | Online |

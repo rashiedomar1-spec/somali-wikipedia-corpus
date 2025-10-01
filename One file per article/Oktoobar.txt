@@ -1,0 +1,8 @@
+title:
+Oktoobar
+
+url:
+https://so.wikipedia.org/wiki?curid=2215
+
+text:
+Sanadka miilaadiga &lt;a href="bil"&gt;bishiisa&lt;/a&gt; tobnaad, waxayna u dhaxaysaa bilaha &lt;a href="Sebteembar"&gt;Sebteembar&lt;/a&gt; iyo &lt;a href="Nofeembar"&gt;Nofeembar&lt;/a&gt;. Bisha &lt;a href="Oktoobar"&gt;Oktoobar&lt;/a&gt; waxay ka koobantahay 31 &lt;a href="maalin"&gt;maalmood&lt;/a&gt;, waxaana loo soo gaabiyaa Okt.

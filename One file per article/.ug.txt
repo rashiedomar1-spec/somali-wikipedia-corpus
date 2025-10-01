@@ -1,0 +1,8 @@
+title:
+.ug
+
+url:
+https://so.wikipedia.org/wiki?curid=23496
+
+text:
+.ug, waa furaha &lt;a href="Internet"&gt;Internet&lt;/a&gt;ka ee dalka ee &lt;a href="Yugandha"&gt;Yugandha&lt;/a&gt;.

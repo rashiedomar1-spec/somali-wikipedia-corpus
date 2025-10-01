@@ -1,0 +1,8 @@
+title:
+Pali
+
+url:
+https://so.wikipedia.org/wiki?curid=41474
+
+text:
+Pali waa luqadda &lt;a href="Gootama%20buuda"&gt;Buddha&lt;/a&gt;. Pali waxay ku dhowdahay luqadda &lt;a href="Sanskrit"&gt;Sanskrit&lt;/a&gt;. &lt;a href="Tipitaka"&gt;Tipitaka&lt;/a&gt; waxay ku qoran tahay luqadda Pali.

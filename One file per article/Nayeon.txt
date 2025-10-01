@@ -1,0 +1,41 @@
+title:
+Nayeon
+
+url:
+https://so.wikipedia.org/wiki?curid=30226
+
+text:
+Im Na-yeon (dhashey Sebteemar 22, 1995), oo si caan ah loogu yaqaano Nayeon , waa fanaanad iyo qoraaga heesaha oo reer Koonfur Kuuriya ah. Waxay xubin ka tahay kooxda gabdhaha koonfur Korea Twice ee ay sameysay JYP Entertainment . [ 2 ] [ 3 ]
+
+Taariikh Nololeed
+
+Tixraac
+
+Twice
+
+JYP Nation
+
+
+# Infobox
+
+- **Magaca dhalashada**: Im Na-yeon
+- **Dhashay**: ( 1995-09-22 ) Sebteembar 22, 1995 ( 29jir) Seoul , Koonfur Kuuriya [ 1 ]
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2015–hada
+- **Calaamadaha**: JYP
+- **Falalka la xiriira**: Twice JYP Nation
+
+
+# Tables
+
+## Table 1
+| Nayeon 나연 |
+| --- |
+| Magaca dhalashada | Im Na-yeon |
+| Dhashay | ( 1995-09-22 ) Sebteembar 22, 1995 ( 29jir) Seoul , Koonfur Kuuriya [ 1 ] |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2015–hada |
+| Calaamadaha | JYP |
+| Falalka la xiriira | Twice JYP Nation |

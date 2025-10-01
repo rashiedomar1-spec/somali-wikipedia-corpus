@@ -1,0 +1,8 @@
+title:
+HyperText
+
+url:
+https://so.wikipedia.org/wiki?curid=5057
+
+text:
+Sideedaba Hypertext (af Ingiriis ahaan waxaa loogu dhawaaqaa [ ˈhaɪpərˌtɛkst ],ama [haaypatekesti] , macnahiisa afka Soomaaliga waa Farbooddo ) waa habka laisugu xiriiriyo qoraallo, masawirro iyo macluumaad kaleba ayadoo la adeegsanaayo( hyperlinks ) farbooddada waxaa lagu diyaariyaa luqadda Hypertext Markup Language (HTML) af Soomaali ahaan ah [luqadda qeexista ee farbooddada]

@@ -1,0 +1,33 @@
+title:
+Kaede Hashimoto
+
+url:
+https://so.wikipedia.org/wiki?curid=33348
+
+text:
+Kaede Hashimoto (wuxuu dhashay Janaayo 21, 1997) waa sanam Jabaan ah iyo moodel soo jiidasho .  Waxay ka timid deegaanka Kanagawa. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Dhashay**: ( 1997-01-21 ) Janaayo 21, 1997 ( 28jir) Kanagawa, Jabaan
+- **Nooca fanka**: J-pop
+- **Occupations**: Heessa moodel
+- **Sanadaha Shaqada**: 2009–2018 2019–hada
+- **Falalka la xiriira**: Honey Popcorn
+
+
+# Tables
+
+## Table 1
+| Kaede Hashimoto (橋本楓) |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Dhashay | ( 1997-01-21 ) Janaayo 21, 1997 ( 28jir) Kanagawa, Jabaan |
+| Nooca fanka | J-pop |
+| Occupations | Heessa moodel |
+| Sanadaha Shaqada | 2009–2018 2019–hada |
+| Falalka la xiriira | Honey Popcorn |

@@ -1,0 +1,11 @@
+title:
+Sabti
+
+url:
+https://so.wikipedia.org/wiki?curid=2061
+
+text:
+Sabti waa maalinta &lt;a href="Todobaad"&gt;Todobaad&lt;/a&gt;ka ugu horeeysa, waxeyna u dhaxaysaa &lt;a href="jimco"&gt;Jimcaha&lt;/a&gt; iyo &lt;a href="Axad"&gt;Axad&lt;/a&gt;da.
+Sabti waxay dhinaca istandharka ISO 8601 ka tahay maalinta lixaad ee usbuuca. &lt;a href="Kalandar"&gt;Kalandar&lt;/a&gt;ka &lt;a href="Roomaan"&gt;Roomaan&lt;/a&gt;ka iyo &lt;a href="Yuhuud"&gt;Yuhuud&lt;/a&gt;a waa maalinta usbuuca ugu dambeyso. 
+luqada Ingiriiska waxaa laguyiraahdaa Saturday, mida Finnishakana Lauantai.
+Tan Jermalkana waa Samstag

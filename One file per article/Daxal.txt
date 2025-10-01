@@ -1,0 +1,10 @@
+title:
+Daxal
+
+url:
+https://so.wikipedia.org/wiki?curid=12955
+
+text:
+Daxal
+Daxal (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: Rust) waa isbedel &lt;a href="midab"&gt;midab&lt;/a&gt;ka iyo muuqaalka &lt;a href="bir"&gt;bir&lt;/a&gt;aha ku yimaada taas ooy keento &lt;a href="falgal"&gt;falgal&lt;/a&gt;ka birta iyo &lt;a href="hawo"&gt;hawada&lt;/a&gt; gaar ahaan &lt;a href="ogsajiin"&gt;ogsajiin&lt;/a&gt;ta ka dhex dhaca. 
+Inta u badan biruhu waxay daxaleystaan marka qoyaan &lt;a href="biyo"&gt;biyo&lt;/a&gt; iyo &lt;a href="hawo"&gt;hawadu&lt;/a&gt; isku helaan.

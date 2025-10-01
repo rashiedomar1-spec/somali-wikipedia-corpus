@@ -1,0 +1,34 @@
+title:
+Aika
+
+url:
+https://so.wikipedia.org/wiki?curid=34803
+
+text:
+Aika (dhashay Agoosto 25, 1990) waa atariisho AV Jabaan ah iyo moodel .
+
+Atariisho filimada galmada
+
+moodel
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1990-08-25 ) Agoosto 25, 1990 ( 35jir) Gobolka Hyogo , Jabaan
+- **Shaqada**: Atariisho filimada galmada moodel
+- **Sanadaha Shaqada**: 2010–hada
+- **Wakiil**: T-POWERS
+- **Abaal-marin**: Sky PerfectTV!  Abaalmarinta Baahinta Dadka Waaweyn — "Abaalmarinta Aktarada" FANZA Abaalmarinta Dadka Waaweyn — "Abaalmarinta Jilaayada Wacan"
+
+
+# Tables
+
+## Table 1
+| Aika |
+| --- |
+|  |
+| Ku dhashay | ( 1990-08-25 ) Agoosto 25, 1990 ( 35jir) Gobolka Hyogo , Jabaan |
+| Shaqada | Atariisho filimada galmada moodel |
+| Sanadaha Shaqada | 2010–hada |
+| Wakiil | T-POWERS |
+| Abaal-marin | Sky PerfectTV!  Abaalmarinta Baahinta Dadka Waaweyn — "Abaalmarinta Aktarada" FANZA Abaalmarinta Dadka Waaweyn — "Abaalmarinta Jilaayada Wacan" |

@@ -1,0 +1,41 @@
+title:
+Xudun (degmo)
+
+url:
+https://so.wikipedia.org/wiki?curid=23325
+
+text:
+Xudun ( Af Ingiriis : Hudun ) waa magaalo ku taala waqooyiga gobolka Sool ee ka tirsan Waqooyibari . [ 1 ]
+
+Xudun waa xarunta dawladda maamulka Waqooyibari .
+
+Sidoo kale fiiri
+
+Tixraac
+
+Laascaanood
+
+
+# Infobox
+
+- **Wadan**: Waqooyibari
+- **Gobol**: Sool
+- **Degmo**: Degmada Xudun
+- **• Dhammaan**: 69,720
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Xudun |
+| --- |
+| Magaalo |
+| Seal |
+| Xudun Meesha ka dhacdo Waqooyibari |
+| Wadan | Waqooyibari |
+| Gobol | Sool |
+| Degmo | Degmada Xudun |
+| Tirada dadka |
+| • Dhammaan | 69,720 |
+| Aag saacadeed | UTC+3 ( EAT ) |

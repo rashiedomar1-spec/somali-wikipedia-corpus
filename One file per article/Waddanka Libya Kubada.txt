@@ -1,0 +1,64 @@
+title:
+Waddanka Libya Kubada
+
+url:
+https://so.wikipedia.org/wiki?curid=35561
+
+text:
+Waddanka Libya Kubada
+
+FIFA
+
+CAF
+
+UNAF
+
+GK	Muad Allafi	15 May 2000 (age 21)	3	0	Libya Al-Ittihad
+
+GK	Murad Al-Wuheeshi	28 February 1997 (age 24)	2	0	Libya Al-Ahly Benghazi
+
+GK	Muad Al-Mansoori	29 August 1993 (age 28)	0	0	Libya Abu Salem
+
+DF	Motasem Sabbou	20 August 1993 (age 28)	60	2	Libya Al-Ittihad
+
+DF	Ahmed El Trbi	6 June 1992 (age 29)	56	0	Libya Al-Ahli Tripoli
+
+DF	Sanad Al Warfali	17 May 1992 (age 29)	35	6	Libya Alittihad Misurata
+
+DF	Ahmed Al-Maghasi	10 February 1993 (age 29)	24	1	Libya Al-Nasr
+
+DF	Naji Dura	5 May 1988 (age 33)	9	0	Libya Al-Ittihad
+
+DF	Fadel Salama	21 February 2002 (age 19)	1	0	Libya Al-Ahly Benghazi
+
+DF	Maab Shukri	2 January 2001 (age 21)	0	0	Libya Al-Ahli Tripoli
+
+DF	Ali Al Musrati	7 September 2001 (age 20)	0	0	Libya Al-Ahly Benghazi
+
+MF	Hamdou Elhouni	12 February 1994 (age 28)	36	4	Tunisia Espérance
+
+MF	Muaid Ellafi	7 March 1996 (age 25)	33	7	Morocco Wydad Casablanca
+
+MF	Mohammed Soulah	29 June 1993 (age 28)	21	0	Kuwait Al-Arabi
+
+MF	Asnosi Ammar	26 February 1994 (age 27)	10	0	Kuwait Al-Arabi
+
+MF	Shamikh Faraj	27 June 1994 (age 27)	10	0	Morocco MC Oujda
+
+MF	Mohammed Al-Tohami	31 May 1992 (age 29)	9	0	Libya Al-Nasr
+
+MF	Omar Al Khouja	31 March 2000 (age 21)	7	1	Libya Al-Ittihad}
+
+MF	Nour al-Din Al Qulaib	22 March 2001 (age 20)	3	0	Libya Al-Ahli Tripoli
+
+MF	Jumaa Abu Raqiqah	7 December 1997 (age 24)	1	0	Libya Al-Ahly Benghazi
+
+MF	Tariq Bishara		1	0	Libya Olympic Azzaweya
+
+FW	Muad Eisa	8 May 1999 (age 22)	6	0	Libya Al-Ittihad
+
+FW	Anis Al-Musrati	19 October 1994 (age 27)	5	0	Algeria CR Belouizdad
+
+FW	Youssef Fayek	18 March 2000 (age 21)	1	0	Libya Olympic Azzaweya
+
+FW	El Mahdi El Kout	29 August 1999 (age 22)	0	0	Libya Al-Ittihad

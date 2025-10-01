@@ -1,0 +1,8 @@
+title:
+Qurux
+
+url:
+https://so.wikipedia.org/wiki?curid=18732
+
+text:
+Qurux ama qalanjo waa waxyaabaha oo indhaha cajabiyay oo ay ka helaan. Quruxda waxa ay ka soo horjeeda waxyaabaha &lt;a href="foolxun"&gt;foolxun&lt;/a&gt;.

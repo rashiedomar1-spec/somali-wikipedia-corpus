@@ -1,0 +1,30 @@
+title:
+Seoul Abaalmarinta Drama Caalamiga
+
+url:
+https://so.wikipedia.org/wiki?curid=33333
+
+text:
+Seoul Abaalmarinta Drama Caalamiga (서울 국제 드라마 어워즈), waa xaflad abaalmarin sanadle ah oo fadhigeedu yahay Seoul, Koonfur Kuuriya taas oo lagu maamuuso heer sare waxsoosaarka telefishanka drama adduunka oo dhan. [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Lagu abaalmariyey**: Heer sare ee telefishanka
+- **Dalka**: Koonfur Kuuriya
+- **Ugu horrayn la guddoonsiiyey**: 2006 ; 19 sano ka hor ( 2006 )
+- **Website**: http://www.seouldrama.org
+
+
+# Tables
+
+## Table 1
+| Seoul Abaalmarinta Drama Caalamiga |
+| --- |
+| Lagu abaalmariyey | Heer sare ee telefishanka |
+| Dalka | Koonfur Kuuriya |
+| Ugu horrayn la guddoonsiiyey | 2006 ; 19 sano ka hor ( 2006 ) |
+| Highlights |
+| Website | http://www.seouldrama.org |

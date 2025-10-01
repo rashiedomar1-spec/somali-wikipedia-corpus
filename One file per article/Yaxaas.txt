@@ -1,0 +1,28 @@
+title:
+Yaxaas
+
+url:
+https://so.wikipedia.org/wiki?curid=7271
+
+text:
+Laurenti (1768)
+
+Yaxaas waa xamaarato aad u xoogan oo leh af dheer iyo ilko badan.woona jir adagyahay.Yaxaaska waa bahal aad looga cabsado dalka soomaaliya, sababtoo ah waxoo sanad kasto dad ku cunaa Wabiga Shabeelle gaar ahaan meelaha ee dadka dadka degenyihiin.Badanaa dadka badankooda lama arko marka ee wabiga galaan. Wali ma maqlin in oo yaxaaska dad ku cuno Wabiga Jubba , laakiin wa mid aad uuga balaaran kan shabeele, kana bahalo badan.Sida aad ogsoontahay soomaalida ma ahan dad kaluumeesato ah, sidaas darteed waxee dadka badankood u maleeyaan in oo yaxaaska ku noolyahay xattaa badda.Laakiin runtii waa bahal ku nool wabiyada kaliya.
+
+
+# Tables
+
+## Table 1
+| Yaxaas |
+| --- |
+|  |
+| Yaxaas oo lago sawiray Bakistaan |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Qaybinta: | Chordata |
+| Gacalka: | Reptilia |
+| Dirka: | Crocodilia |
+| Bahka: | Crocodylidae |
+| Duulka: | Crocodylus Laurenti (1768) |
+|  |
+| Meelaha laga heli karo yaxaas |

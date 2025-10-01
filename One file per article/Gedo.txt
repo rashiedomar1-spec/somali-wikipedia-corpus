@@ -1,0 +1,47 @@
+title:
+Gedo
+
+url:
+https://so.wikipedia.org/wiki?curid=41903
+
+text:
+Gedo waa gobol ku yaalla koonfur-galbeed Soomaaliya, wuxuuna xuduud la leeyahay Itoobiya iyo Kenya. Maamul ahaan, Gedo waxa uu ka tirsan yahay dowlad-goboleedka Jubbaland, oo ay sidoo kale ka mid yihiin gobollada Jubbada Hoose iyo Jubbada Dhexe. Inkastoo Gedo uu door muhiim ah ka ciyaaro siyaasadda Soomaaliya sababo la xiriira goobtiisa istiraatiijiga ah iyo tirada dadka ku nool, haddana looma aqoonsana dowlad-goboleed gaar ah. Sanadihii la soo dhaafay waxaa jiray khilaafaad siyaasadeed oo u dhexeeyay mas’uuliyiinta maxalliga ah ee Gedo iyo maamulka Jubbaland, gaar ahaan arrimaha maamulka iyo matalaadda. Si kastaba ha ahaatee, sida uu yahay nidaamka federaalka ee Soomaaliya hadda, Gedo si rasmi ah wuxuu hoos yimaadaa maamulka Jubbaland.
+
+
+# Infobox
+
+- **Today part of**: Somalia
+- **Founded**: 1 January 1974
+- **Capital**: Garbaharey
+- **• Nuuca**: Federal Member State Government of Somalia
+- **• Area code**: +252 (Somalia)
+- **Area**: 85,000 km 2 (33,000 sq mi)
+- **Joogga**: 914.4 m (3,000 ft)
+- **• Dhammaan**: 1,566,300
+- **• Cufnaanta dadka**: 18/km 2 (48/sq mi)
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **ISO 3166 code**: SO-GE
+
+
+# Tables
+
+## Table 1
+| Gedo جيدو |
+| --- |
+| State |
+| Gedo State of Somalia |
+| Gedo flag Flag Gedo Coat of arms Seal |
+| Gedo Location |
+| Today part of | Somalia |
+| Founded | 1 January 1974 |
+| Capital | Garbaharey |
+| Dowlada |
+| • Nuuca | Federal Member State Government of Somalia |
+| • Area code | +252 (Somalia) |
+| Area | 85,000 km 2 (33,000 sq mi) |
+| Joogga | 914.4 m (3,000 ft) |
+| Tirada dadka |
+| • Dhammaan | 1,566,300 |
+| • Cufnaanta dadka | 18/km 2 (48/sq mi) |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| ISO 3166 code | SO-GE |

@@ -1,0 +1,36 @@
+title:
+Caatifeteeh Yaxyega
+
+url:
+https://so.wikipedia.org/wiki?curid=41866
+
+text:
+Caatifeteeh Yaxyega ( Af-Albeeniyaan : Atifete Jahjaga, dhashay 1975 Abriil 30) waa siyaasa Kosofoka
+
+
+# Infobox
+
+- **Raiisel wasaare**: Haashim Tatshi Ciisa Mustafe
+- **ka horeeyay**: Yacquub Kraasniki
+- **Ku xigay**: Haashim Tatshi
+- **Dhashay**: Gaakofa, Kosofo
+- **Xaaska**: Astrit Kuushi (2018)
+
+
+# Tables
+
+## Table 1
+| Caatifeteeh Yaxyega |
+| --- |
+|  |
+|  |
+| Madaxweynaha Kosofo ee 4aad |
+| Ambassador to Welcome |
+| Xafiiska 2011 Abriil 7 – 2016 Abriil 7 |
+| Raiisel wasaare | Haashim Tatshi Ciisa Mustafe |
+| ka horeeyay | Yacquub Kraasniki |
+| Ku xigay | Haashim Tatshi |
+|  |
+| Faahfaahin shaqsiyadeed |
+| Dhashay | Gaakofa, Kosofo |
+| Xaaska | Astrit Kuushi (2018) |

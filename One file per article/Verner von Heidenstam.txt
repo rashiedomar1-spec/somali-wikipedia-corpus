@@ -1,0 +1,34 @@
+title:
+Verner von Heidenstam
+
+url:
+https://so.wikipedia.org/wiki?curid=33836
+
+text:
+Carl Gustaf Verner von Heidenstam , waxay dhalatay 1859 waxayna dhimatay 1940. [ 1 ] Verner waa mid ka mida dadka qoraaga ah ee ugu caansan dalka Iswiidhan .
+
+Wuxuu xubin ka ahaa qoyska Heidenstam. [ 1 ]
+
+Tixraac
+
+
+# Infobox
+
+- **Dhashay**: Carl Gustaf Verner von Heidenstam Luuliyo 6, 1859 Olshammar , Iswiidhan
+- **Dhintay**: Maajo 20, 1940 Övralid , Iswiidhan
+- **Shaqo**: Qoraa
+- **Luuqad**: Swedish
+- **Wadanka**: Sweden
+
+
+# Tables
+
+## Table 1
+| Verner von Heidenstam |
+| --- |
+|  |
+| Dhashay | Carl Gustaf Verner von Heidenstam Luuliyo 6, 1859 Olshammar , Iswiidhan |
+| Dhintay | Maajo 20, 1940 Övralid , Iswiidhan |
+| Shaqo | Qoraa |
+| Luuqad | Swedish |
+| Wadanka | Sweden |

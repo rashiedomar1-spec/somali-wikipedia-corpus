@@ -1,0 +1,42 @@
+title:
+Shirkada Isgaariinta ee Nationlink
+
+url:
+https://so.wikipedia.org/wiki?curid=4096
+
+text:
+Shirkada Isgaariinta ee Nationlink waa shirkad isgaarsiin xarunteedu tahay muqdisho kana shaqaysa koofurta iyo woqooyiga soomaaliya .
+
+Hordhac
+
+NationLink Telecom waa shirkad isgaarsiin oo saldhiggeedu yahay Soomaaliya. NationLink Telecom waxaa la aasaasay Bishii Sebtembar 1997kii, Abdirizak Ido, oo ah ganacsade Soomaali ah oo hadda u shaqeeya madaxweynaha shirkadda. Shirkaddu waa mid ka mid ah bixiyeyaasha adeegga isgaarsiinta ee ugu sarreysa Soomaaliya waxayna bixiyaan adeegyadeeda guud ahaan dalka.
+
+Adeegyada
+
+Shirkaddu waxay diiradda saareysaa qaybaha muhiimka ah ee adeegyada moobiilka, internetka iyo khadka tooska ah. Ujeeddadeeda guud waa in ay bixiso adeegga isgaarsiinta ee dhammaan Soomaalida, iyo geedi socodka, waxay gacan ka geystaan hagaajinta heerka nolosha. Nationlink wuxuu ka mid yahay shirkadaha ugu waawayn ee moobiilka ee dalka.
+
+Sido kale firri
+
+Liska Shirkad Somaliland/Somalia
+
+
+# Infobox
+
+- **Nooca**: Si gaara loo leeyahay
+- **Shirkada**: Isgaarsiinta
+- **La aasaasay**: 1997
+- **Xarunta**: Soomaaliya
+- **Alaabta**: Mobile services Internet services Fixed line
+- **Website**: [[[:Template:Wdib]] ]
+
+
+# Tables
+
+## NationLink Telecom
+| Nooca | Si gaara loo leeyahay |
+| --- | --- |
+| Shirkada | Isgaarsiinta |
+| La aasaasay | 1997 |
+| Xarunta | Soomaaliya |
+| Alaabta | Mobile services Internet services Fixed line |
+| Website | [[[:Template:Wdib]] ] |

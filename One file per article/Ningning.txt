@@ -1,0 +1,35 @@
+title:
+Ningning
+
+url:
+https://so.wikipedia.org/wiki?curid=35268
+
+text:
+Ning Yìzhuō (宁艺卓) si fiican loogu yaqaan Ningning (宁宁) waa heesaa Shiinees ah oo hoos timaada SM Entertainment . Waxay xubin ka tahay kooxda gabdhaha Aespa . [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Níng Yìzhuō
+- **Dhashay**: ( 2002-10-23 ) Oktoobar 23, 2002 ( 22jir) Harbin
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2020–hada
+- **Calaamadaha**: SM Entertainment
+- **Falalka la xiriira**: Aespa
+
+
+# Tables
+
+## Table 1
+| Ningning |
+| --- |
+| Ningning ee 2024 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Níng Yìzhuō |
+| Dhashay | ( 2002-10-23 ) Oktoobar 23, 2002 ( 22jir) Harbin |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2020–hada |
+| Calaamadaha | SM Entertainment |
+| Falalka la xiriira | Aespa |

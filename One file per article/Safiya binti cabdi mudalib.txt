@@ -1,0 +1,45 @@
+title:
+Safiya binti cabdi mudalib
+
+url:
+https://so.wikipedia.org/wiki?curid=37090
+
+text:
+Safiya binti Cabdi Mudalib bin Haashim waa eedada Rasuulka scw, waxa ayna isku bah yihiin Xamza , Safiyo sidoo kale waa Hooyada Zubeyr bin cawaam .
+
+Taariikh Nooleedkeeda
+
+Xigasho
+
+
+# Infobox
+
+- **Aabaha:**: Cabdi Mudalib
+- **Hooyada**: Haala binti wuheeb
+- **Dhalatay:**: 571
+- **Ku dhalatay:**: Makka mukarama
+- **Diinta:**: Islaam
+- **xaaska**: Xaaris bin xarbi, Cawaam bin khuweylid
+- **ilmaheeda**: Zubeyr bin Cawaam , Saaib bin Cawaam, Umu xabiiba binti cawaam
+- **walaalaheed**: Cabdulaahi aabaha nabiga scw, Xamza , Cabaas , Abuu Daalib
+- **Dhimatay:**: 20H
+- **Ku dhimatay:**: Madiina munawara
+
+
+# Tables
+
+## Table 1
+| Safiya binti cabdi mudalib صفية بنت عبد المطلب |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| Aabaha: | Cabdi Mudalib |
+| Hooyada | Haala binti wuheeb |
+| Dhalatay: | 571 |
+| Ku dhalatay: | Makka mukarama |
+| Diinta: | Islaam |
+| xaaska | Xaaris bin xarbi, Cawaam bin khuweylid |
+| ilmaheeda | Zubeyr bin Cawaam , Saaib bin Cawaam, Umu xabiiba binti cawaam |
+| walaalaheed | Cabdulaahi aabaha nabiga scw, Xamza , Cabaas , Abuu Daalib |
+| Dhimatay: | 20H |
+| Ku dhimatay: | Madiina munawara |

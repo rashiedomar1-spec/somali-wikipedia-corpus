@@ -1,0 +1,20 @@
+title:
+Pteridospermatophyta
+
+url:
+https://so.wikipedia.org/wiki?curid=36774
+
+text:
+Pteridospermatophyta waa dhowr kooxood oo dhirta abuur dabar go'ay (spermatophyta).
+
+
+# Tables
+
+## Table 1
+| Pteridospermatophyta Dambe Defoniyaan – Dambe Nuurad 376–66 mya |
+| --- |
+|  |
+| Fosil |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| Qaybinta: | Pteridospermatophyta |

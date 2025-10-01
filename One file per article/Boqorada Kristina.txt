@@ -1,0 +1,18 @@
+title:
+Boqorada Kristina
+
+url:
+https://so.wikipedia.org/wiki?curid=12273
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;142436&lt;/parentid&gt;
+ &lt;timestamp&gt;2020-04-21T12:09:59Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Josefin Gladh, Nationalmuseum&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;200258&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Boqoradi Kristina horena la oran jiray Kristina Alexandra,waxay dhalatay 1626,waxayna dhimatay 1689,Kristina markay ahay 6 sano ayu aabaheed dhintay markaas bay noqotay boqorada Sweden 1632 ila 1654 lakin waxay xunka la wareegtay 1644.Intay xukumka haysay waxay so afjartay dagaalki socday 30 sanadood. Kristina waxay xiisayn jirtay dhaqanka iyo inay u so jiido ninki la odhan jiray René Descartes xaga gasarka madaxtooyada.Waxay ka iska casishay xukunki 1654 isuna badashay madhabta kaatoliga,waxay ahayd ceebti ugu waynayd,waxay marki danbe dagtay magalada Roma,xagaas oo ay ka ciyaartay door wayn xaga dhaqanka.Waxay ahayd gabadhi boqorki Gustav II Adolf iyo Maria Eleonora.

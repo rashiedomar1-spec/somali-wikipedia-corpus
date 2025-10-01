@@ -1,0 +1,33 @@
+title:
+Tomie vs Tomie
+
+url:
+https://so.wikipedia.org/wiki?curid=33634
+
+text:
+Tomie vs Tomie (富江 vs 富江) waa filim cabsi leh oo Jabaaniis ah 2007 oo uu hogaaminayo Tomohiro Kubo. [ 1 ] Waa qeybtii toddobaad ee taxanaha filimka Tomie , oo ku saleysan taxanaha manga ee isla magaca ah oo Junji Ito , gaar ahaan cutubka Kulankii ee mugga saddexaad.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Directed by**: Tomohiro Kubo
+- **Based on**: Tomie by Junji Ito
+- **Starring**: Yū Abiru Tōru Hachinohe Emiko Matsuoka Masaki Miura
+- **Release date**: Nofeembar 17, 2007 ( 2007-11-17 )
+- **Country**: Jabaan
+- **Language**: Jabaaniis
+
+
+# Tables
+
+## Table 1
+| Tomie vs Tomie |
+| --- |
+| Directed by | Tomohiro Kubo |
+| Based on | Tomie by Junji Ito |
+| Starring | Yū Abiru Tōru Hachinohe Emiko Matsuoka Masaki Miura |
+| Release date | Nofeembar 17, 2007 ( 2007-11-17 ) |
+| Country | Jabaan |
+| Language | Jabaaniis |

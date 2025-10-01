@@ -1,0 +1,8 @@
+title:
+Dardaare
+
+url:
+https://so.wikipedia.org/wiki?curid=7010
+
+text:
+Dardaare waa degmo ku taalo gobolka &lt;a href="Bari%20%28Gobol%29"&gt;Bari&lt;/a&gt;

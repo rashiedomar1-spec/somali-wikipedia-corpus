@@ -1,0 +1,8 @@
+title:
+Garas
+
+url:
+https://so.wikipedia.org/wiki?curid=6005
+
+text:
+Garas waa geed ka baxo dalka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt; iyo &lt;a href="Itoobiya"&gt;Itoobiya&lt;/a&gt; ama &lt;a href="Geeska%20Afrika"&gt;Geeska Afrika&lt;/a&gt; ilaa &lt;a href="Bariga%20Dhexe"&gt;Bariga Dhexe&lt;/a&gt;.

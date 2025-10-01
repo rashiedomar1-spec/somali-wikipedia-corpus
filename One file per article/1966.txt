@@ -1,0 +1,8 @@
+title:
+1966
+
+url:
+https://so.wikipedia.org/wiki?curid=8811
+
+text:
+&lt;a href="1965"&gt;1965&lt;/a&gt; - &lt;a href="1966"&gt;1966&lt;/a&gt; - &lt;a href="1967"&gt;1967&lt;/a&gt;

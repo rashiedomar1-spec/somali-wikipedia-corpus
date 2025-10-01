@@ -1,0 +1,23 @@
+title:
+ISO 639-3
+
+url:
+https://so.wikipedia.org/wiki?curid=20716
+
+text:
+TS EN ISO 639-3: 2007 Xeerarka matalaadda magacyada luqadaha - Qaybta 3: Koodhka Alpha-3 ee daboolida dhammaystiran ee luqadaha, waa halbeeg caalami ah oo loogu talagalay koodka luqadaha taxanaha ISO 639. Waxay qeexaysaa summada saddexda xaraf ka kooban ee lagu aqoonsanayo luqadaha. Halbeegga waxaa daabacay Ururka Caalamiga ah ee Halbeega (ISO) 1dii Febraayo 2007. 
+Laga bilaabo 2023, daabacaadda heerkan si rasmi ah ayaa looga noqday waxaana lagu beddelay ISO 639:2023.
+ISO 639-3 waxay kordhisaa koodhka ISO 639-2 alfa-3 iyadoo ujeedadu tahay in lagu daboolo dhammaan luqadaha dabiiciga ah ee la yaqaan. Caymiska luqadda la dheereeyey waxaa ugu horreyntii lagu saleeyey koodka luqadda ee lagu isticmaalo Ethnologue (mujallada 10-14) ee ay daabacday SIL International, oo hadda ah maamulka diiwaangelinta ISO 639-3.[2] Waxay bixisaa tirinta luqadaha sida ugu macquulsan, oo ay ku jiraan kuwa nool iyo kuwa dabar go'ay, qadiimiga iyo kuwa la dhisay, waaweyn iyo kuwa yar, qoran iyo kuwa aan qornayn.[1] Si kastaba ha ahaatee, kuma jiraan luqadaha dib loo dhisay sida Proto-Indo-European.
+ISO 639-3 waxaa loogu talagalay in loo isticmaalo sida code-yada metadata ee codsiyo kala duwan. Waxaa si weyn loogu isticmaalaa kombiyuutarada iyo nidaamyada macluumaadka, sida internetka, taas oo luuqado badan u baahan yihiin in lagu taageero. Kaydka iyo kaydinta macluumaadka kale, waxa loo istcimaalaa hababka buugaagta, taasoo muujinaysa luqadda agabku ku jiro ama ku saabsan yahay. Xeerarka sidoo kale waxaa si joogta ah loogu isticmaalaa suugaanta afafka iyo meelo kale si loo magdhabo xaqiiqda ah in magacyada luqaddu ay noqon karaan kuwo dahsoon ama mugdi ah.
+Meel code.
+Maadaama koodku yahay alifbeeti saddex xaraf ah, hal xadka sare ee tirada luqadaha ee la matali karo waa 26 × 26 × 26 = 17,576. Maaddaama ISO 639-2 ay qeexayso koodhadhka gaarka ah (4), kala duwanaanshaha kaydsan (520) iyo koodka B-kaliya (22), 546 code looma isticmaali karo qaybta 3. Sidaa darteed, xadka sare ee adag waa 17,576 - 546 = 17,030.
+Xuduudda sare way sii adkaanaysaa haddii mid laga jaro ururinta luqadaha lagu qeexay 639-2 iyo kuwa aan weli lagu qeexin ISO 639-5
+Luuqadaha wadareed.
+Qalabka koodhka luqadda wadajirka ah waa tilmaame matalaya koox afaf gaar ah oo aan loo arkin inay yihiin hal luqad qaab kasta oo la isticmaalo."
+Iyadoo ISO 639-2 ay ku jiraan aqoonsiyada saddexda xaraf ee luqadaha wadajirka ah, koodhadhkan ayaa laga saaray ISO 639-3. Sidaa darteed ISO 639-3 ma aha heerka sare ee ISO 639-2.
+TS EN ISO 639-5 waxay qeexaysaa 3-xaraf kood wadareed oo loogu talagalay qoysaska iyo kooxaha luqadda, oo ay ku jiraan koodhka luqadda wadajirka ah ee ISO 639-2.
+Tixraac.
+&lt;a href="https%3A//www.iso.org/standard/39534.html"&gt;Ururka Caalamiga ah ee Habaynta. 1 Febraayo 2007. Waxaa laga kaydiyay asalka 6 Juun 2024. La soo celiyay 6 Juun 2025.&lt;/a&gt;
+&lt;a href="http%3A//www.iso.org/iso/home/standards_development/list_of_iso_technical_committees/maintenance_agencies.htm"&gt;ISO. Laga kaydiyay asalka 8 Oktoobar 2012. La soo celiyay 12 Janaayo 2014.&lt;/a&gt;
+&lt;a href="https%3A//iso639-3.sil.org/about/types%23Ancient"&gt;SIL Caalami. Laga kaydiyay asalka 12 Juun 2018. La soo celiyay 11 Juun 2018.&lt;/a&gt;
+&lt;a href="http%3A//www-01.sil.org/iso639-3/scope.asp%23I"&gt;SIL Caalami. Laga kaydiyay asalka 20 Oktoobar 2014. La soo celiyay 18 Maajo 2014.&lt;/a&gt;

@@ -1,0 +1,11 @@
+title:
+Cod
+
+url:
+https://so.wikipedia.org/wiki?curid=12596
+
+text:
+Cod
+Cod ama Shanqadh (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: Sound) waa mowjado &lt;a href="awood"&gt;awood&lt;/a&gt; gariireysa taas oo la &lt;a href="Maqal"&gt;maqli&lt;/a&gt; karo.
+Shanqadhu waa mowjado iskucufan oo dhexmari kara &lt;a href="hawo"&gt;hawada&lt;/a&gt; iyo &lt;a href="biyo"&gt;biyaha&lt;/a&gt; ilaa &lt;a href="Dheg"&gt;dhegaha&lt;/a&gt; wax laga maqlo. 
+Codka iyo shanqadha bani-aadamku maqli karo waxay u dhexaysaa mowjadaha 20 Hz ilaa 20,000 Hz.

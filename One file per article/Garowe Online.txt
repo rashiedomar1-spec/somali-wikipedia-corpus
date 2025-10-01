@@ -1,0 +1,32 @@
+title:
+Garowe Online
+
+url:
+https://so.wikipedia.org/wiki?curid=17598
+
+text:
+Garowe Online waa wakaalad wararka si madax banaan ku shaqeeya ku salaysan ee Puntland , Soomaaliya .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: garoweonline.com
+- **Nooca site**: News Site
+- **Diyaar ku ah**: Soomaali , Ingiriis
+- **La bilaabay isticmaalka**: 2004
+- **Alexa garaado**: 1,311,564 (Sebteembar 2015 [update] ) [ 1 ]
+- **Hada**: firfircoon
+
+
+# Tables
+
+## Garoowe
+| Cinwaanka | garoweonline.com |
+| --- | --- |
+| Nooca site | News Site |
+| Diyaar ku ah | Soomaali , Ingiriis |
+| La bilaabay isticmaalka | 2004 |
+| Alexa garaado | 1,311,564 (Sebteembar 2015 [update] ) [ 1 ] |
+| Hada | firfircoon |

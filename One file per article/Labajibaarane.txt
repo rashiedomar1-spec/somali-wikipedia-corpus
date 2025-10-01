@@ -1,0 +1,45 @@
+title:
+Labajibaarane
+
+url:
+https://so.wikipedia.org/wiki?curid=8390
+
+text:
+Jometeriya xisaabta Labajibaarane waxa uu leeyahay qaab laba jibaaran waxa uu leeyahay 4 dhinac iyo afar xaglood oo quman, afarta dhinac kasta waa isla egyihiin.
+
+Si loo helo bedka waxaad arkaysaa in Sal iyo Joog ba isla egyihiin
+
+Si aan uhelno wareega waxaa meeshaan kaaga muuqata in ay isla egyihiin dhamaan dhinacyada
+
+Bed = Dhinac 2 {\displaystyle {\mbox{Dhinac}}^{2}\,}
+
+Wareeg = Dhinac ⋅ 4 {\displaystyle {\mbox{Dhinac}}\cdot 4\,}
+
+
+# Infobox
+
+- **Type**: Labajibaarane
+- **Dhinacyada iyo Geesaha**: 4
+- **sumad shalafli**: {4}
+- **Wandharan**: Dihedral (D 4 )
+- **Bed**: t 2 (with t = edge length)
+- **Xagasha gudaha ( Darajada )**: 90°
+- **Barbarrole**: dual polygon of this shape
+- **Astaamaha**: tuurre , meeraan , Dhinacyole'ege , Isogonal , Isotoxal
+
+
+# Tables
+
+## Table 1
+| Labajibaarane |
+| --- |
+| Labajibaarane Waa Afar geesle Quman. |
+| Type | Labajibaarane |
+| Dhinacyada iyo Geesaha | 4 |
+| sumad shalafli | {4} |
+| Sumada kokistar |  |
+| Wandharan | Dihedral (D 4 ) |
+| Bed | t 2 (with t = edge length) |
+| Xagasha gudaha ( Darajada ) | 90° |
+| Barbarrole | dual polygon of this shape |
+| Astaamaha | tuurre , meeraan , Dhinacyole'ege , Isogonal , Isotoxal |

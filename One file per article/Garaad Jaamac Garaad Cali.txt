@@ -1,0 +1,36 @@
+title:
+Garaad Jaamac Garaad Cali
+
+url:
+https://so.wikipedia.org/wiki?curid=31389
+
+text:
+Garaad Jaamac Garaad Cali waa Madax Dhaqameedka ee dhaxalsugaha 21aad, ahna Garaadka Guud ee Qabiilka Reer-Darawiish . waxaa dhalay Garaadkii ka horreyey Garaad Cabdiqani, waxaa loogu caleemo saaray Magaalada Laascaanood taariikhdu markii ay ahayd 22 May 2006 [ 1 ] , Munaasabadda caleemo saarkiisa waxaa ka soo qayb galay dad aad u fara badan oo ay ku jiraan siyaasiyiin sarsare oo ka soo jeeda Dawladda Kumeel gaarka ah ee Soomaaliya,maamulka Puntland
+iyo dawlada Jamuuriyada  Somaliland.
+
+==Taariikh nololeed==garaadku waxa uu ku nool yahay haatan la joogo degmada saxdheer oo ka mid ah degmooyinka gobolka sool 
+waxa ay saaxiib dhow yihiin garaadada beelaha kala ah jamac siyaad iyo khayr cabdi
+
+Tixraac
+
+
+# Infobox
+
+- **Ku dhashay**: Sahdheer , Soomaliya
+- **Dhalasho**: Somali
+- **Shaqada**: Madax dhaqameedka 21aad
+- **Loo yaqaano**: Garaadka guudka 21aad ee reer darawiish
+- **Ilmaha**: 7 caruur 4wiil iyo 3gabdhood
+
+
+# Tables
+
+## Table 1
+| Garaad Jaamac Garaad Cali |
+| --- |
+|  |
+| Ku dhashay | Sahdheer , Soomaliya |
+| Dhalasho | Somali |
+| Shaqada | Madax dhaqameedka 21aad |
+| Loo yaqaano | Garaadka guudka 21aad ee reer darawiish |
+| Ilmaha | 7 caruur 4wiil iyo 3gabdhood |

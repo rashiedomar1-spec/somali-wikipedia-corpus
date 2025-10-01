@@ -1,0 +1,40 @@
+title:
+Taloreally
+
+url:
+https://so.wikipedia.org/wiki?curid=29899
+
+text:
+taloreally ama talo Waa TV ama muqaal baahiye madaxbanan oo baahiya muqaalo isugu jira noocyo badan, sida, cafimaadka, arimaha bulshada dhiirigalin, tariikhaha ,latalinta ardayda , iwm
+
+TARIIKH
+
+taloreally waa waxa markii uhoraysay aas aasay abdirashiid maxamed cismaan Oo ah oo ah khabiir somaliyeed
+Waxayna ahayd 2015
+
+Lakiin markasi hawada ma soogalin oo waxa ay ahayd markii fikradu ku dhalatay 
+Abdirashiid
+
+Waxa si rasmi ah hawada usoo gashay ama social media 2017 waxa ayna hada shaqaynaysaa 3 sano
+
+Taloreally waxay rajaynaysaa in uu kusoobiiro qofkasta oo dadka wax usoogudbin kara waxa nagala sooxariiri kartaa email taloreally@gmail.com
+
+
+# Infobox
+
+- **Shirkada**: TV/Social media
+- **La aasaasay**: 2015
+- **Xarunta**: Somalia
+- **Alaabta**: adeegyada mobilelada tariikhaha dalalka waxbarashada
+- **Website**: taloreally
+
+
+# Tables
+
+## taloreally
+| Shirkada | TV/Social media |
+| --- | --- |
+| La aasaasay | 2015 |
+| Xarunta | Somalia |
+| Alaabta | adeegyada mobilelada tariikhaha dalalka waxbarashada |
+| Website | taloreally |

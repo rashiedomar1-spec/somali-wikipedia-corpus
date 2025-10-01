@@ -1,0 +1,8 @@
+title:
+Waaqism
+
+url:
+https://so.wikipedia.org/wiki?curid=28530
+
+text:
+Waaqnimo waa naanaysta ka tirsan &lt;a href="waaqnimo"&gt;waaqnimo&lt;/a&gt; oo ah, diin lagu aasaasay &lt;a href="Hornka"&gt;Hornka&lt;/a&gt;. Waxaa caabudaa Oroomadda iyo Soomaalidda.

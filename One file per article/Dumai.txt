@@ -1,0 +1,56 @@
+title:
+Dumai
+
+url:
+https://so.wikipedia.org/wiki?curid=24594
+
+text:
+Dumai (Jawi: Dumay, Shiine: 苏迈), waa magaalada Riau ee jasiiradda Sumatra, Indonesia. Magaaladu waxay leedahay dhul ah 2,039.35 km² waxayna leedahay 316,668 qof deggan 2014. [2] Dumai waxay leedahay madaarka gudaha, taas oo ah Pangang Kampai Airport. Dumai waa xarun muhiim ah oo gaadiid iyo ganacsi, labadaba gobolka iyo caalamkaba, gaar ahaan Malaysia. Dumai waa hodan ku salaysan saliid (shidaalka iyo saliidda timirta). [3]
+
+
+# Infobox
+
+- **• Chinese**: 杜迈
+- **• Jawi**: دوماي
+- **Country**: Indonesia
+- **Province**: Riau
+- **• Mayor**: Zulkifli A.S.
+- **• Vice Mayor**: Eko Suharjo
+- **Area**: 2,039.35 km 2 (787.40 sq mi)
+- **• Dhammaan**: 316,668 [ 1 ]
+- **• Cufnaanta dadka**: 155.3/km 2 (402/sq mi)
+- **Aag saacadeed**: UTC+7 ( Indonesia Western Time )
+- **Area code**: (+62) 765
+- **Website**: http://www.dumaikota.go.id/
+
+
+# Tables
+
+## Table 1
+| Dumai Kota Dumai |
+| --- |
+| City |
+| Other transcription(s) |
+| • Chinese | 杜迈 |
+| • Jawi | دوماي |
+| Ramayana Department Store in Dumai |
+| Seal |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Indonesia_Sumatra" does not exist. |
+| Coordinates: 1°40′0″N 101°27′0″E ﻿ / ﻿ 1.66667°N 101.45000°E ﻿ / 1.66667; 101.45000 Coordinates : 1°40′0″N 101°27′0″E ﻿ / ﻿ 1.66667°N 101.45000°E ﻿ / 1.66667; 101.45000 |
+| Country | Indonesia |
+| Province | Riau |
+| Dowlada |
+| • Mayor | Zulkifli A.S. |
+| • Vice Mayor | Eko Suharjo |
+| Area | 2,039.35 km 2 (787.40 sq mi) |
+| Tirada dadka (2014) |
+| • Dhammaan | 316,668 [ 1 ] |
+| • Cufnaanta dadka | 155.3/km 2 (402/sq mi) |
+| Aag saacadeed | UTC+7 ( Indonesia Western Time ) |
+| Area code | (+62) 765 |
+| Website | http://www.dumaikota.go.id/ |
+
+
+
+# Coordinates
+1.66667; 101.45000

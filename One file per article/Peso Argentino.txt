@@ -1,0 +1,36 @@
+title:
+Peso Argentino
+
+url:
+https://so.wikipedia.org/wiki?curid=5121
+
+text:
+1 Peso Argentino = 100 Centavos / Senti. Lacagta Arjantiina (1983-1985).
+
+
+# Tables
+
+## Table 1
+| picha | Lacagta | Sano |
+| --- | --- | --- |
+|  | 1 centavo | 1983-1985 |
+|  | 5 centavos | 1983-1985 |
+|  | 10 centavos | 1983-1985 |
+|  | 50 centavos | 1983-1985 |
+|  | 1 peso | 1984-1985 |
+|  | 5 pesos | 1984-1985 |
+|  | 10 pesos | 1984-1985 |
+|  | 50 pesos | 1985 |
+
+## Table 2
+| picha | Lacagta | Sano | Axad |
+| --- | --- | --- | --- |
+|  | 1 Peso Argentino | 1983 | José de San Martín |
+|  | 5 Pesos Argentinos | 1983 | José de San Martín |
+|  | 10 Pesos Argentinos | 1983 | José de San Martín |
+|  | 50 Pesos Argentinos | 1983 | José de San Martín |
+|  | 100 Pesos Argentinos | 1983 | José de San Martín |
+|  | 500 Pesos Argentinos | 1983 | José de San Martín |
+|  | 1 000 Pesos Argentinos | 1983 | José de San Martín |
+|  | 5 000 Pesos Argentinos | 1984 | Juan B. Alberdi |
+|  | 10 000 Pesos Argentinos | 1985 | Manuel Belgrano |

@@ -1,0 +1,8 @@
+title:
+Coomaade
+
+url:
+https://so.wikipedia.org/wiki?curid=33247
+
+text:
+coomaade waa &lt;a href="shimbir"&gt;shimbir&lt;/a&gt; weyn oo &lt;a href="bakhticun"&gt;bakhticun&lt;/a&gt; ah, oo ku nool &lt;a href="Africa"&gt;Africa&lt;/a&gt;

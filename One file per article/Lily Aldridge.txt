@@ -1,0 +1,30 @@
+title:
+Lily Aldridge
+
+url:
+https://so.wikipedia.org/wiki?curid=33389
+
+text:
+Lily Maud Aldridge (born November 15, 1985) waa moodel Mareykan ah, ayay ka soo muuqatay Sports Illustrated Swimsuit Issue , oo ay weheliyaan Khrissy Teigen iyo Nina Agdal , oo loogu talagalay daboolka sannad-guurada 50aad ee 2014.
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1985-11-15 ) Nofeembar 15, 1985 ( 39jir) Santa Monika, Kalifornia
+- **Sanadaha Shaqada**: 2003–hada
+- **Wakiil**: IMG Models
+- **Xaasaska**: Kaleb Followill ( g. 2011)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Lily Aldridge |
+| --- |
+| Aldridge ee 2014 |
+| Ku dhashay | ( 1985-11-15 ) Nofeembar 15, 1985 ( 39jir) Santa Monika, Kalifornia |
+| Sanadaha Shaqada | 2003–hada |
+| Wakiil | IMG Models |
+| Xaasaska | Kaleb Followill ( g. 2011) |
+| Ilmaha | 2 |

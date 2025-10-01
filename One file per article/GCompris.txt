@@ -1,0 +1,13 @@
+title:
+GCompris
+
+url:
+https://so.wikipedia.org/wiki?curid=1983
+
+text:
+&lt;a href="http%3A//gcompris.net/-so-"&gt;GCompris &lt;/a&gt; ("J’ai compris", "Waan fahmay" afka &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt;) waa barnaamij kumbuyuutar oo loogu talagalay caruurta da’dooda u dhaxayso 2 ilaa 10-sano.
+Shaqooyinka qaarkood waxay u muuqdaan kuwo ciyaarkaliya ah, laakiin shaqo walba waxaa lagaleeyahay muraad waxbarasho.
+Qaybaha uu barnaamijka ka koobanyahay waxaa ka mid ah:
+Mudada hada la’joogo GCompris wuxuu ka koobmaa ilaa in ka badan 100 shaqo, horumarintiisa wey socotaa. GCompris waa barnaamij lacagla’aan ah. Waxaad kabadelikartaa wixii aad rabto waadna ka caawinkartaa sidii loo horumarinlahaa. Ugudambeyntii maxaa kuu diidaaya in aad la’qaybsato caruurta aduunka oo dhan.
+Soo dejiso (download) barnaamijka &lt;a href="http%3A//sourceforge.net/project/showfiles.php%3Fgroup_id%3D6865"&gt;gcompris&lt;/a&gt;.
+Qore: M.I. Mursal

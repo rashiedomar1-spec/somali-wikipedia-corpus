@@ -1,0 +1,58 @@
+title:
+Ceel Duur
+
+url:
+https://so.wikipedia.org/wiki?curid=19934
+
+text:
+Ceel Duur Waa degmo Dhacda woqooyiga Gobolka Galguduud ee Soomaaliya .
+
+Tixraac
+
+Xudur
+
+Waajid
+
+Tiyeeglow
+
+Rabdhuure
+
+Ceelgaras
+
+Ceelbarde
+
+Korkor
+
+Ceelboon
+
+Buurdhuxunle
+
+Garasweyne
+
+Teed
+
+Washaaqo
+
+Abal
+
+Ceelduur
+
+
+# Infobox
+
+- **Dalka**: Somalia
+- **gobolka**: Galguduud
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Ceel Duur |
+| --- |
+| Tuulo |
+|  |
+| Ceel Duur Location in Somalia. |
+| Dalka | Somalia |
+| gobolka | Galguduud |
+| Aag saacadeed | UTC+3 ( EAT ) |

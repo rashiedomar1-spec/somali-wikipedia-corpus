@@ -1,0 +1,74 @@
+title:
+Waddanka Poland Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35562
+
+text:
+Waddanka Poland Kubedka
+
+Kubedka Poland
+
+Poland
+
+* FIFA
+
+* UEFA
+
+2015 Germany 3-1 Poland
+
+2020 Italy 2-0 Poland
+
+2023 Poland 1-0 Germany
+
+1	GK	Wojciech Szczęsny	18 April 1990 (age 31)	62	0	Italy Juventus
+
+12	GK	Łukasz Skorupski	5 May 1991 (age 30)	5	0	Italy Bologna
+
+22	GK	Kamil Grabara	8 January 1999 (age 23)	0	0	Denmark Copenhagen
+
+2	DF	Matty Cash	7 August 1997 (age 24)	2	0	England Aston Villa
+
+3	DF	Paweł Dawidowicz	20 May 1995 (age 26)	8	0	Italy Hellas Verona
+
+4	DF	Tomasz Kędziora	11 June 1994 (age 27)	26	1	Ukraine Dynamo Kyiv
+
+5	DF	Jan Bednarek	12 April 1996 (age 25)	37	1	England Southampton
+
+6	DF	Michał Helik	9 September 1995 (age 26)	7	0	England Barnsley
+
+13	DF	Maciej Rybus	19 August 1989 (age 32)	66	2	Russia Lokomotiv Moscow
+
+14	DF	Robert Gumny	4 June 1998 (age 23)	2	0	Germany FC Augsburg
+
+15	DF	Tymoteusz Puchacz	23 January 1999 (age 23)	10	0	Turkey Trabzonspor
+
+18	DF	Bartosz Bereszyński	12 July 1992 (age 29)	39	0	Italy Sampdoria
+
+DF	Kamil Glik (vice-captain)	3 February 1988 (age 34)	90	6	Italy Benevento
+
+8	MF	Karol Linetty	2 February 1995 (age 27)	40	5	Italy Torino
+
+10	MF	Mateusz Klich	13 June 1990 (age 31)	38	2	England Leeds United
+
+16	MF	Jakub Moder	7 April 1999 (age 22)	18	2	England Brighton & Hove Albion
+
+17	MF	Damian Szymański	16 June 1995 (age 26)	7	1	Greece AEK Athens
+
+19	MF	Przemysław Frankowski	12 April 1995 (age 26)	22	1	France Lens
+
+20	MF	Piotr Zieliński	20 May 1994 (age 27)	66	7	Italy Napoli
+
+21	MF	Kamil Jóźwiak	22 April 1998 (age 23)	22	3	England Derby County
+
+MF	Grzegorz Krychowiak	29 January 1990 (age 32)	86	5	Russia Krasnodar
+
+MF	Przemysław Płacheta	23 March 1998 (age 23)	7	0	England Norwich City
+
+7	FW	Arkadiusz Milik	28 February 1994 (age 27)	61	16	France Marseille
+
+9	FW	Robert Lewandowski (captain)	21 August 1988 (age 33)	128	74	Germany Bayern Munich
+
+11	FW	Karol Świderski	23 January 1997 (age 25)	14	6	United States Charlotte FC
+
+23	FW	Krzysztof Piątek	1 July 1995 (age 26)	21	9	Italy Fiorentina

@@ -1,0 +1,8 @@
+title:
+Tower Bridge
+
+url:
+https://so.wikipedia.org/wiki?curid=34454
+
+text:
+&lt;a href="Tower%20Bridge"&gt;Tower Bridge&lt;/a&gt; - buundo ku taal &lt;a href="London"&gt;London&lt;/a&gt; (mararka qaarkood lagu wareero &lt;a href="Buundo"&gt;Buundo&lt;/a&gt; deriska la ah ee London, buundada London Bridge) waxay ka gudubtaa Thames ee u dhow &lt;a href="Tower%20of%20London"&gt;Tower of London&lt;/a&gt;, oo magaceeda laga soo qaatay.

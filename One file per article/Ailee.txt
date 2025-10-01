@@ -1,0 +1,53 @@
+title:
+Ailee
+
+url:
+https://so.wikipedia.org/wiki?curid=33104
+
+text:
+Amy Lee (wuxuu dhashay Maajo 30, 1989), oo xirfad ahaan loo yaqaan Ailee , waa fanaanad Koonfur Kuuriya Kuuriya-Mareykan ah.
+
+Xiriirinta dibedda
+
+Wheesung
+
+Baechigi
+
+Eric Nam
+
+Amber Liu
+
+Hyolyn
+
+
+# Infobox
+
+- **Magaca dhalashada**: Amy Lee
+- **Sidoo kale loo yaqaan**: Lee Ye-jin
+- **Dhashay**: ( 1989-05-30 ) Maajo 30, 1989 ( 36jir) Denver , Kolorado, Maraykanka.
+- **Nooca fanka**: K-pop J-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2011–hada
+- **Calaamadaha**: Muzo YMC JSJ Warner Japan WestSide Rocket3 The L1ve
+- **Falalka la xiriira**: Wheesung Baechigi Eric Nam Amber Liu Hyolyn
+- **Website**: Ailee
+
+
+# Tables
+
+## Table 1
+| Ailee |
+| --- |
+| Ailee ee 2019 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Amy Lee |
+| Sidoo kale loo yaqaan | Lee Ye-jin |
+| Dhashay | ( 1989-05-30 ) Maajo 30, 1989 ( 36jir) Denver , Kolorado, Maraykanka. |
+| Xirfad muusik |
+| Nooca fanka | K-pop J-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2011–hada |
+| Calaamadaha | Muzo YMC JSJ Warner Japan WestSide Rocket3 The L1ve |
+| Falalka la xiriira | Wheesung Baechigi Eric Nam Amber Liu Hyolyn |
+| Website | Ailee |
+|  |

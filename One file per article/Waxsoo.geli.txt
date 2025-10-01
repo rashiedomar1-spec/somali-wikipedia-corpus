@@ -1,0 +1,9 @@
+title:
+Waxsoo.geli
+
+url:
+https://so.wikipedia.org/wiki?curid=21894
+
+text:
+Deegaanka kalabayr waa deegaan dhaca gobolka bari waana halka looga leexdo bariga fog ee &lt;a href="Somaliya"&gt;Somaliya&lt;/a&gt;.
+Kalabayr waxaa la aasaasay sanadii 1978 waxana ay kakoobantahay afar xaafasood oo kala ah.

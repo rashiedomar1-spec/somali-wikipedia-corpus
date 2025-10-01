@@ -1,0 +1,30 @@
+title:
+Jennifer Lawrence
+
+url:
+https://so.wikipedia.org/wiki?curid=35032
+
+text:
+Jennifer Shrader Lawrence [ 1 ] (dhashay Agoosto 15, 1990) waa atariisho Mareykan ah. Waxay ahayd aktarada adduunka ugu mushaarka badan 2015 iyo 2016, iyadoo filimadeedu ay soo xareeyeen in ka badan $6 bilyan adduunka oo dhan ilaa maanta.  Waxay ka soo muuqatay liiska Time 100 ee 2013 iyo Forbes Celebrity 100 ee 2013 ilaa 2016.
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Jennifer Shrader Lawrence ( 1990-08-15 ) Agoosto 15, 1990 ( 35jir) Indian Hills, Kentucky
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2006–hada
+- **Xaasaska**: Cooke Maroney ( g. 2019)
+
+
+# Tables
+
+## Table 1
+| Jennifer Lawrence |
+| --- |
+| Lawrence ee 2017 |
+| Ku dhashay | Jennifer Shrader Lawrence ( 1990-08-15 ) Agoosto 15, 1990 ( 35jir) Indian Hills, Kentucky |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2006–hada |
+| Xaasaska | Cooke Maroney ( g. 2019) |

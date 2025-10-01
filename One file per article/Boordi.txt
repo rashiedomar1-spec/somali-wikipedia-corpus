@@ -1,0 +1,8 @@
+title:
+Boordi
+
+url:
+https://so.wikipedia.org/wiki?curid=6008
+
+text:
+Boordi waa geed ka baxo koonfurta dalka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt;, geedkaan af ingriiska waxaa lagu dhahaa (Cassia siamea).

@@ -1,0 +1,32 @@
+title:
+Bianka Balti
+
+url:
+https://so.wikipedia.org/wiki?curid=33392
+
+text:
+Bianka Balti ( Af-Talyaani: [ˈbjaŋka ˈbalti] ; dhashay 19 Maarso 1984) waa moodel talyaani ah. [ 1 ]
+
+Tixraacyada
+
+Christian Lucidi ( g. 2006; div. 2010)
+
+Matthew McRae ( g. 2016)
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1984-03-19 ) 19 Maarso 1984 ( 41jir) Lodi, Lombardy, Lombardy, Talyaaniga
+- **Xaasaska**: Christian Lucidi ( g. 2006; div. 2010) Matthew McRae ( g. 2016)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Bianka Balti |
+| --- |
+| Balti in 2010 |
+| Ku dhashay | ( 1984-03-19 ) 19 Maarso 1984 ( 41jir) Lodi, Lombardy, Lombardy, Talyaaniga |
+| Xaasaska | Christian Lucidi ( g. 2006; div. 2010) Matthew McRae ( g. 2016) |
+| Ilmaha | 2 |

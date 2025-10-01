@@ -1,0 +1,25 @@
+title:
+Photoplay
+
+url:
+https://so.wikipedia.org/wiki?curid=32603
+
+text:
+Photoplay wuxuu ka mid ahaa majaladihii ugu horreeyay ee taageera filimada Mareykanka.  Waxaa la aasaasay 1911 magaalada Chicago, isla sanadkaas uu J. Stuart Blackton aasaasay Motion Picture Story, joornaal sidoo kale loogu talagalay taageerayaasha.  Inta badan socodkeeda, Photoplay waxaa daabacay Macfadden Publications. 1921 Photoplay la aasaasay waxa loo arkaa abaalmarinta ugu weyn ee sannadlaha ah filim ugu weyn. Majalladdu waxay joojisay daabicitaankeedii 1980-kii.
+
+
+# Infobox
+
+- **Founded**: 1911–1980
+- **Country**: Mareykanka
+- **ISSN**: 0732-538X
+
+
+# Tables
+
+## Photoplay
+|   |
+| --- |
+| Founded | 1911–1980 |
+| Country | Mareykanka |
+| ISSN | 0732-538X |

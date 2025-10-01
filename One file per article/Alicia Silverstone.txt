@@ -1,0 +1,34 @@
+title:
+Alicia Silverstone
+
+url:
+https://so.wikipedia.org/wiki?curid=35063
+
+text:
+Alicia Silverstone ( / iː s i . ə / ə- LEE -see- Ə -_- SIL -ver ; [ 1 ] dhashay Oktoobar 4, 1976) [ 2 ] waa atariisho Maraykanka. [ 3 ] [ 4 ] [ 5 ] Waxay sameysay filimkeedii ugu horreeyay ee The Crush (1993), waxayna caan ka heshay markay 16 jir ahayd sanam dhalinyaro ah markii ay ka soo muuqatay muuqaalka muusigga ee heesta Aerosmith "Cryin'". Silverstone waxay sii waday inay xiddig u noqoto sida Cher Horowitz filimka majaajillada Clueless (1995), kaas oo ku kasbaday heshiis malaayiin doolar ah oo ay la gashay Columbia Pictures . Sannadkii 1997-kii, waxay jishay filimkii geesinimada badnaa ee Batman & Robin , doorka Batgirl .
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1976-10-04 ) Oktoobar 4, 1976 ( 48jir) San Francisco , California
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 1992–hada
+- **Xaasaska**: Christopher Jarecki ( g. 2005; f. 2018)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Alicia Silverstone |
+| --- |
+|  |
+| Ku dhashay | ( 1976-10-04 ) Oktoobar 4, 1976 ( 48jir) San Francisco , California |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 1992–hada |
+| Xaasaska | Christopher Jarecki ( g. 2005; f. 2018) |
+| Ilmaha | 1 |
+| Website |
+| thekindlife.com |

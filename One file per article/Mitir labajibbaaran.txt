@@ -1,0 +1,30 @@
+title:
+Mitir labajibbaaran
+
+url:
+https://so.wikipedia.org/wiki?curid=17027
+
+text:
+Mitir labajibbaaran (( Af-Ingiriis : Square Metre)) waa mid ka mid ah halbeegyada ugu muhiimsan halbeegyada cabiraadda bedeka, waxaa loo suntaa summadda (m²). Waxuu ka dhiganyahay m Labajibbaar dhererka geesaha ama dhinacyada hal Mitir .
+
+Wuxuu le'egyahay halka mitir ee labajibbaaran:
+
+1 Mitir labajibbaaran = 0.000001 Kiloomitir labajibbaaran = 0.0001 Higtaar
+
+
+# Tables
+
+## Table 1
+| Isku dhufasho | Magac | Summad |   | Isku dhufasho | Magac | Summad |
+| --- | --- | --- | --- | --- | --- | --- |
+| 10 0 | mitir labajibbaaran ( sintiyaar ) | m 2 | 10 0 | mitir labajibbaaran ( sintiyaar ) | m 2 |
+| 10 2 | square decametre ( bed ) | dam 2 | 10 −2 | square decimetre | dm 2 |
+| 10 4 | square hectometre ( Higtaar ) | hm 2 | 10 −4 | square centimetre | cm 2 |
+| 10 6 | square kilometre | km 2 | 10 −6 | square millimetre | mm 2 |
+| 10 12 | square megametre | Mm 2 | 10 −12 | square micrometre | µm 2 |
+| 10 18 | square gigametre | Gm 2 | 10 −18 | square nanometre | nm 2 |
+| 10 24 | square terametre | Tm 2 | 10 −24 | square picometre | pm 2 |
+| 10 30 | square petametre | Pm 2 | 10 −30 | square femtometre | fm 2 |
+| 10 36 | square exametre | Em 2 | 10 −36 | square attometre | am 2 |
+| 10 42 | square zettametre | Zm 2 | 10 −42 | square zeptometre | zm 2 |
+| 10 48 | square yottametre | Ym 2 | 10 −48 | square yoctometre | ym 2 |

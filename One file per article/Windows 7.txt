@@ -1,0 +1,13 @@
+title:
+Windows 7
+
+url:
+https://so.wikipedia.org/wiki?curid=4046
+
+text:
+Windows 7 waxaa haatan shirkada Microsoft ay soo saartay 22 Luulyo 2009, Barnaamij Cusub oo la yiraahdo Windows 7, iyadoo suuqyadana lagu sii daayay 22 Oktoobar 2009.
+Windows 7 waa nooc ka mid ah &lt;a href="Microsoft%20Windows"&gt;Microsoft Windows&lt;/a&gt;, &lt;a href="nidaamka%20hawlgalka"&gt;nidaamka hawlgalka&lt;/a&gt; ee kombuyuutarrada gaarka ah. Waa bedelka Windows Vista, oo ah sii deynta lixaad ee nidaamka hawlgalka Windows. Sida laga soo xigtay Microsoft, Windows 7 waxay wanaajisaa xawaaraha, isku halaynta, iyo laqabsiga &lt;a href="Windows%20Vista"&gt;Windows Vista&lt;/a&gt;.
+=Taarikhda=
+Nooca &lt;a href="beta"&gt;beta&lt;/a&gt; ee Windows 7 ayaa la sii daayay &lt;a href="Janaayo"&gt;Janaayo&lt;/a&gt; 9, 2009, musharaxa sii daayayna wuxuu sii daayay May 5. Nuqulkii ugu dambeeyay ee Windows 7 waxaa loo diray soosaarayaasha &lt;a href="PC"&gt;PC&lt;/a&gt; Julaay 22, 2009, si ay u helaan seddex bilood oo ay ku beddelaan. oo ay ku daraan &lt;a href="kombiyuutar"&gt;kombiyuutar&lt;/a&gt;adooda. Windows 7 waxaa loo sii daayay dadweynaha Oktoobar 22, 2009. Siideynta asalka ah ee Windows 7 waa la taageeray ilaa Abriil 9, 2013, ka dib, Windows 7 isticmaale kasta wuxuu u baahan yahay inuu rakibo Xidhmada Adeegga 1 si aan u helo cusbooneysiinta amniga iyo taageerada kadib taariikhdaas. Iyada oo la rakibay Adeegga Xidhmada 1, &lt;a href="Microsoft"&gt;Microsoft&lt;/a&gt; waxay soo afjartay taageerada caadiga ah ee Windows 7 Janaayo 13, 2015 ka dibna waxay joojisay bixinta cusbooneysiinta amniga Windows 7 Janaayo 14, 2020. Jannaayo 22, 2020 Adeegyada Ciyaaraha Internetka ee Microsoft waxay joojiyeen inay ka shaqeeyaan Windows 7. Amniga La dheereeyay Cusbooneysiinta (ESU) waa barnaamij u oggolaanaya in lagu helo cusboonaysiinta amniga Windows 7 ilaa Janaayo 10, 2023, si kastaba ha ahaatee, bilaash maaha.
+=Tixraacyada=
+&lt;a href="Windows%20Vista"&gt;Windows Vista&lt;/a&gt; – &lt;a href="Windows%207"&gt;Windows 7&lt;/a&gt; – &lt;a href="Windows%208"&gt;Windows 8&lt;/a&gt;

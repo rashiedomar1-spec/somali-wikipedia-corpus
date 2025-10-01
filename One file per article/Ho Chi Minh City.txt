@@ -1,0 +1,108 @@
+title:
+Ho Chi Minh City
+
+url:
+https://so.wikipedia.org/wiki?curid=8774
+
+text:
+Coordinates : 10°46′36.8″N 106°42′02.9″E ﻿ / ﻿ 10.776889°N 106.700806°E ﻿ / 10.776889; 106.700806
+
+Magaalada Ho Chi Minh (oo hore loo yiqiin Saigon ( Af-Vietnamese : Thành phố Hồ Chí Minh) waa caasimada gobolka Dong Nam Bo ee wadanka Vietnam .
+
+
+# Infobox
+
+- **Country**: Vietnam
+- **Region**: Southeast
+- **Founded**: 1698
+- **Founded by**: Nguyễn Hữu Cảnh
+- **Named for**: Ho Chi Minh
+- **Degmooyinka**: 16 degmo, 5 degmo oo miyi ah iyo 1 magaalo
+- **• Nuuca**: Municipality
+- **• Xoghayaha CPV**: Nguyễn Văn Nên
+- **• Guddoomiyaha Golaha Shacabka**: Nguyễn Thị Lệ
+- **• Guddoomiyaha Guddiga Dadweynaha**: Phan Văn Mãi
+- **Area [ 3 ]**: 2,095.39 km 2 (809.03 sq mi)
+- **• Metro**: 30,595 km 2 (11,813 sq mi)
+- **Joogga**: 19 m (63 ft)
+- **• Municipality (Special)**: 9,389,700
+- **• Rank**: 1aad
+- **• Cufnaanta dadka**: 4,481/km 2 (11,610/sq mi)
+- **• Urban Template:R**: 7,297,900
+- **• Rural Template:R**: 2,091,900
+- **• Metro**: 21,281,639 ( 1st )
+- **• Metro density**: 697.2/km 2 (1,806/sq mi)
+- **Magac kale**: Saigonese
+- **• Municipality**: US$ 63.07 billion (2022) [ 5 ]
+- **Aag saacadeed**: UTC+07:00 ( ICT )
+- **Postal code**: 70xxx–74xxx
+- **Area codes**: 28
+- **ISO 3166 code**: VN-SG
+- **License plate**: 41, 50–59
+- **HDI (2020)**: 0.795 ( 2nd ) [ 6 ]
+- **International airports**: Tan Son Nhat International Airport (SGN)
+- **Rapid transit system**: Ho Chi Minh City Metro
+- **Website**: hochiminhcity.gov.vn
+
+
+# Tables
+
+## Table 1
+| Ho Chi Minh City Thành phố Hồ Chí Minh Saigon ( Sài Gòn ) |
+| --- |
+| Municipality (Special) |
+| Panorama with Landmark 81 Notre-Dame Cathedral Basilica of Saigon Hoolka Magaalada Ho Chi Minh Saigon Opera House Qasriga Madaxbanaanida |
+| File:Emblem of Saigon.svg Seal |
+| Nicknames: Thành phố mang tên Bác ( Template:Lit ) The Pearl of Far East (historical) Paris of the Orient (historical) [ 1 ] |
+| Motto(s): Paulatim crescam (historical) [ 2 ] Meaning: Little by little we grow |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Vietnam" does not exist. |
+| Coordinates: 10°46′32″N 106°42′07″E ﻿ / ﻿ 10.77556°N 106.70194°E ﻿ / 10.77556; 106.70194 Coordinates : 10°46′32″N 106°42′07″E ﻿ / ﻿ 10.77556°N 106.70194°E ﻿ / 10.77556; 106.70194 {{#coordinates:}}: cannot have more than one primary tag per page |
+| Country | Vietnam |
+| Region | Southeast |
+| Founded | 1698 |
+| Founded by | Nguyễn Hữu Cảnh |
+| Named for | Ho Chi Minh |
+| Degmooyinka | 16 degmo, 5 degmo oo miyi ah iyo 1 magaalo |
+| Dowlada |
+| • Nuuca | Municipality |
+| • Xoghayaha CPV | Nguyễn Văn Nên |
+| • Guddoomiyaha Golaha Shacabka | Nguyễn Thị Lệ |
+| • Guddoomiyaha Guddiga Dadweynaha | Phan Văn Mãi |
+| Area [ 3 ] | 2,095.39 km 2 (809.03 sq mi) |
+| • Metro | 30,595 km 2 (11,813 sq mi) |
+| Joogga | 19 m (63 ft) |
+| Tirada dadka (2021) [ 4 ] : {{{1}}} |
+| • Municipality (Special) | 9,389,700 |
+| • Rank | 1aad |
+| • Cufnaanta dadka | 4,481/km 2 (11,610/sq mi) |
+| • Urban Template:R | 7,297,900 |
+| • Rural Template:R | 2,091,900 |
+| • Metro | 21,281,639 ( 1st ) |
+| • Metro density | 697.2/km 2 (1,806/sq mi) |
+| Magac kale | Saigonese |
+| GRDP (Nominal) |
+| • Municipality | US$ 63.07 billion (2022) [ 5 ] |
+| • Metro | US$ 133.1 billion (2023) |
+| Aag saacadeed | UTC+07:00 ( ICT ) |
+| Postal code | 70xxx–74xxx |
+| Area codes | 28 |
+| ISO 3166 code | VN-SG |
+| License plate | 41, 50–59 |
+| HDI (2020) | 0.795 ( 2nd ) [ 6 ] |
+| International airports | Tan Son Nhat International Airport (SGN) |
+| Rapid transit system | Ho Chi Minh City Metro |
+| Website | hochiminhcity.gov.vn |
+
+
+
+# Image captions
+- Panorama with Landmark 81
+- Notre-Dame Cathedral Basilica of Saigon
+- Hoolka Magaalada Ho Chi Minh
+- Saigon Opera House
+- Qasriga Madaxbanaanida
+
+
+# Coordinates
+10.776889; 106.700806

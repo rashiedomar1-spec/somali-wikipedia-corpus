@@ -1,0 +1,27 @@
+title:
+Ainslee's Magazine
+
+url:
+https://so.wikipedia.org/wiki?curid=32702
+
+text:
+Ainslee's Magazine wuxuu ahaa mid suugaaneed Mareykan ah oo la daabaco laga soo bilaabo 1897 ilaa Disembar 1926. Waxaa asal ahaan loo daabacay joornaal maad ah oo lagu magacaabo The Yellow Kid, oo ku saleysan dabeecada majaajilista caanka ah. Waxaa loo beddelay Ainslee's sanadka soo socda.
+
+
+# Infobox
+
+- **Publisher**: Ainslee magazine Co.
+- **Founded**: 1897–1926
+- **Language**: Ingiriis
+- **City**: New York City
+
+
+# Tables
+
+## Ainslee's Magazine
+|   |
+| --- |
+| Publisher | Ainslee magazine Co. |
+| Founded | 1897–1926 |
+| Language | Ingiriis |
+| City | New York City |

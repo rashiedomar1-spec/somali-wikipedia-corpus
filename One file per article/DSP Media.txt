@@ -1,0 +1,41 @@
+title:
+DSP Media
+
+url:
+https://so.wikipedia.org/wiki?curid=32903
+
+text:
+DSP Media (Hangul: DSP 미디어), waa shirkad madadaalada Koonfur Kuuriya oo la aasaasay 1991 waxaana aasaasay Lee Ho-yeon. Shirkaddu waxay u shaqeysaa calaamadda diiwaanka, wakaaladda hibada, shirkadda soo saarista muusikada, maareynta dhacdooyinka iyo shirkadda soo saarista riwaayadaha, iyo guriga daabacaadda muusikada.
+
+
+# Infobox
+
+- **Magaca rasmiga**: DSP 미디어
+- **Hore loo yaqaanay**: Daesung Enterprise (1991–1999) DSP Entertainment (2000-2006) DSP Enti (2006–2007)
+- **Nooca**: Gaar ah
+- **Shirkada**: Madaadalo
+- **Nooc**: K-pop
+- **La aasaasay**: Oktoobar 1991 ( 1991-10 )
+- **Aasaasaha**: Lee Ho-yeon
+- **Xarunta**: Degmada Mapo, Seoul , Koonfur Kuuriya
+- **Dadka muhiimka ah**: Choi Mi-kyung (milkiilaha)
+- **Lahaashaha**: Lee Ho-yeon
+- **Website**: dspmedia.co.kr
+
+
+# Tables
+
+## DSP Media
+|   |
+| --- |
+| Magaca rasmiga | DSP 미디어 |
+| Hore loo yaqaanay | Daesung Enterprise (1991–1999) DSP Entertainment (2000-2006) DSP Enti (2006–2007) |
+| Nooca | Gaar ah |
+| Shirkada | Madaadalo |
+| Nooc | K-pop |
+| La aasaasay | Oktoobar 1991 ( 1991-10 ) |
+| Aasaasaha | Lee Ho-yeon |
+| Xarunta | Degmada Mapo, Seoul , Koonfur Kuuriya |
+| Dadka muhiimka ah | Choi Mi-kyung (milkiilaha) |
+| Lahaashaha | Lee Ho-yeon |
+| Website | dspmedia.co.kr |

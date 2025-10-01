@@ -1,0 +1,8 @@
+title:
+Popeye
+
+url:
+https://so.wikipedia.org/wiki?curid=17239
+
+text:
+Popeye

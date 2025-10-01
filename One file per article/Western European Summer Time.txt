@@ -1,0 +1,20 @@
+title:
+Western European Summer Time
+
+url:
+https://so.wikipedia.org/wiki?curid=23848
+
+text:
+Waqtiga Xagaaga ee Jiilaalka Europe (WEST)
+
+Waqtiga Xagaaga ee Jiilaalka Europe (WEST) waa barnaamijka wakhtiga kaydka qoraxda ee xilliga kulaylaha, 1 saac ka hor Iskudhafka Universal Time. Waxaa loo isticmaalaa: Islands Canary, Portugal (oo ay ku jirto Madeira laakiin ma ahan Azores), Ireland, Boqortooyada Ingiriiska, ingiriisyada boqortooyada Ingiriiska, jasiiradaha Faroe
+Waqtiga xagaaga ee Galbeedka Yurub waxaa lagu yaqaanaa wadamada ay khuseyso sida:
+
+British Summer Time (BST) ee Boqortooyada Ingiriiska.
+Irish Standard Time (IST) (Amighteánach na hÉireann (ACÉ)) ee Ireland. Xitaa mararka qaarkood si khalad ah ayaa loo yaqaan "Irish Summer Time" (Am Samhraidh na hÉireann).
+
+Nidaamku wuxuu ka dhacaa Axaddii ugu dambaysay bishii Maarso ilaa Axaddii ugu dambaysay bishii Oktoobar sannad kasta. Labada bilowga iyo dhammaadka barnaamijyada, isbedelka saacadu wuxuu dhacayaa 01:00 UTC. Inta lagu jiro jiilaalka, Waqti Galbeedka Yurub (WET, UTC + 0) ayaa loo isticmaalaa.
+
+Taariikhda bilawga iyo dhammaadka ee qorshaha waa asimmetrical marka la eego saacadaha iftiinka maalinlaha: waqtiga wakhti-sannadeedka ee sanadka oo la mid ah iftiinka qoraxda ilaa dhammaadka Oktoobar waa bartamihii Febraayo, ka hor inta aan la bilaabin xilliga xagaaga. Isku-dhafiddu waxay ka tarjumaysaa heerkul ka badan dherarka iftiinka.
+
+Ireland waxay ilaalinaysaa Waqtiga caadiga ah inta lagu Joro bilaha xagaaga iyo isbedelada UTC + 0 xilliyada jiilaalka. Waqtiga qaboobaha xilliga qaboobaha ee Irland wuxuu bilaabmaa Axadda ugu dambeysa bisha Oktoobar wuxuuna ku dhamaadaa Axadda ugu dambeysa Maarso, natiijadu waxay la mid tahay sidii ay u aragto xilliga xagaaga.

@@ -1,0 +1,8 @@
+title:
+Xaar Xaarka
+
+url:
+https://so.wikipedia.org/wiki?curid=6913
+
+text:
+Xaar Xaarka waa &lt;a href="Tuulo"&gt;Tuulo&lt;/a&gt; ku taalo Gobolka &lt;a href="Hiiraan"&gt;Hiiraan&lt;/a&gt;, waxey u dhaxaysa magaalada &lt;a href="Beledweyne"&gt;Beledweyne&lt;/a&gt; iyo degmada &lt;a href="Maxaas"&gt;Maxaas&lt;/a&gt;

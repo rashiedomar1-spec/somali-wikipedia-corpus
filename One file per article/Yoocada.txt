@@ -1,0 +1,34 @@
+title:
+Yoocada
+
+url:
+https://so.wikipedia.org/wiki?curid=41952
+
+text:
+Yoocada waa deegaan  ku taala xuduudka bariga ee dawladda Waqooyibari dhinaca xagalka bari ; waxay ka mid taahay gobolka Sool .
+
+
+# Infobox
+
+- **wadanka**: Waqooyibari
+- **Gobolka**: Sool
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Yoocada |
+| --- |
+| Town |
+|  |
+| Yoocada Location in Somalia. |
+| Coordinates: 8°31′49.9″N 48°09′55.4″E ﻿ / ﻿ 8.530528°N 48.165389°E ﻿ / 8.530528; 48.165389 Coordinates : 8°31′49.9″N 48°09′55.4″E ﻿ / ﻿ 8.530528°N 48.165389°E ﻿ / 8.530528; 48.165389 |
+| wadanka | Waqooyibari |
+| Gobolka | Sool |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+8.530528; 48.165389

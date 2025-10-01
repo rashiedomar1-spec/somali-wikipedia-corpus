@@ -1,0 +1,68 @@
+title:
+Faraweyne
+
+url:
+https://so.wikipedia.org/wiki?curid=19819
+
+text:
+Faraweyne waa degmo ka tirsan Gobolaka Maroodi Jeex ee Dalka Somaliland .
+
+Xigasho
+
+Waa degmada u wayn maroodi jex marka gabilay laga imaado by fuaad jaakule ]]
+
+Faraweyne
+
+Hargeysa
+
+Salaxleey
+
+Laasgeel
+
+Faraweyne
+
+Daarasalaam
+
+Cadaadley
+
+Sabawanaag
+
+Balli Mataan
+
+Dacarta
+
+Habariheshay
+
+Allaybaday
+
+Abaarso
+
+Arabsiyo
+
+Baligubadle
+
+Dhaboolaq
+
+[[Dacar Budhuq ama degmada laasgeel
+
+Wajaale
+
+
+# Infobox
+
+- **Dalka**: Somaliland
+- **Gobol**: Maroodi Jeex
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Faraweyne |
+| --- |
+| Degmo |
+| Seal |
+| Faraweyne Location in Somaliland Show map of Somaliland Faraweyne Faraweyne (Africa) Show map of Africa |
+| Dalka | Somaliland |
+| Gobol | Maroodi Jeex |
+| Aag saacadeed | UTC+3 ( EAT ) |

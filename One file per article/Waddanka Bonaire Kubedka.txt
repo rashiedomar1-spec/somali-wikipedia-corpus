@@ -1,0 +1,54 @@
+title:
+Waddanka Bonaire Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=35678
+
+text:
+Waddanka Bonaire Kubedka
+
+FIFA
+
+CONCACAF
+
+1	GK	Rishison Frans	28 March 1990 (age 31)	10	0	Bonaire Real Rincon
+
+12	GK	Jurven Clara	31 March 1999 (age 22)	0	0	Bonaire SV Vespo
+
+22	GK	Marnick Cicila	14 January 1998 (age 24)	0	0	Bonaire SV Atlétiko Flamingo
+
+2	DF	Leroy Van Dongen	13 December 1992 (age 29)	4	0	Bonaire Real Rincon
+
+3	DF	Rutger Thode	5 October 1999 (age 22)	0	0	Bonaire SV Vespo
+
+4	DF	Rudolph Kastaneer	2 August 1991 (age 30)	2	0	Aruba SV Estrella
+
+5	DF	Igmard Gijsbertha	26 October 1985 (age 36)	13	0	Bonaire Real Rincon
+
+15	DF	Romeo Thomas	30 December 1993 (age 28)	0	0	Bonaire SV Vitesse
+
+16	DF	Leomar Janga	4 November 1994 (age 27)	2	0	Bonaire SV Atlétiko Flamingo
+
+17	DF	Julián Offerman	11 November 1995 (age 26)	0	0	Bonaire SV Atlétiko Flamingo
+
+20	DF	Keanu Hunt	7 July 1997 (age 24)	2	0	Bonaire SV Vitesse
+
+6	MF	Lacey Pauletta	29 March 1988 (age 33)	11	1	Bonaire Real Rincon
+
+7	MF	Robert Frans	21 March 1991 (age 30)	5	0	Bonaire Real Rincon
+
+11	MF	Derrick Lugo	14 January 2000 (age 22)	2	0	Bonaire SV Estrellas
+
+13	MF	Alsy Anthony	31 July 2001 (age 20)	0	0	Bonaire SV Juventus
+
+18	MF	Yannick Bekman	13 May 1997 (age 24)	1	0	Bonaire SV Atlétiko Flamingo
+
+19	MF	Jurven Koffy	28 September 1997 (age 24)	3	0	Bonaire SV Atlétiko Flamingo
+
+21	MF	Marnix Eustachia	8 August 2001 (age 20)	3	0	Bonaire SV Juventus
+
+8	FW	Jerson Agostien	1 November 1994 (age 27)	3	0	Bonaire Real Rincon
+
+9	FW	Guillermo Montero	12 January 1997 (age 25)	3	0	Netherlands Kozakken Boys
+
+10	FW	Jermaine Windster	29 April 1994 (age 27)	5	2	Bonaire Real Rincon

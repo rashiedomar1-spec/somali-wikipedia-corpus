@@ -1,0 +1,36 @@
+title:
+Yuju
+
+url:
+https://so.wikipedia.org/wiki?curid=33189
+
+text:
+Choi Yu-na (dhashay Oktoobar 4, 1997), [ 1 ] waxaa si fiican loogu yaqaan magaceeda masraxa Yuju , waa fanaanad u dhalatay Koonfur Kuuriya.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: Choi Yu-na ( 1997-10-04 ) Oktoobar 4, 1997 ( 27jir) Deogyang-gu, Goyang, Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2015–hada
+- **Calaamadaha**: Source Music
+- **Falalka la xiriira**: GFriend
+
+
+# Tables
+
+## Table 1
+| Yuju |
+| --- |
+| Yuju ee 2024 |
+| Ku dhashay | Choi Yu-na ( 1997-10-04 ) Oktoobar 4, 1997 ( 27jir) Deogyang-gu, Goyang, Koonfur Kuuriya |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2015–hada |
+| Calaamadaha | Source Music |
+| Falalka la xiriira | GFriend |
+|  |

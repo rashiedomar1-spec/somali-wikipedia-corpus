@@ -1,0 +1,31 @@
+title:
+Be Love
+
+url:
+https://so.wikipedia.org/wiki?curid=32698
+
+text:
+Be Love waa joornaal bille ah oo Jabaaniis ah (bil kasta bishii Maajo 1982-2018) ee lagu bartilmaameedsado haweenka ay daabacdo Kodansha. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Publisher**: Kodansha
+- **Founded**: 1980
+- **City**: Tokyo
+- **Circulation**: 98,650
+- **Website**: Official website
+
+
+# Tables
+
+## BE LOVE
+|   |
+| --- |
+| Publisher | Kodansha |
+| Founded | 1980 |
+| City | Tokyo |
+| Circulation | 98,650 |
+| Website | Official website |

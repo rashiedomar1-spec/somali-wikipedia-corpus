@@ -1,0 +1,30 @@
+title:
+Madaxweyneyaashii Puntland
+
+url:
+https://so.wikipedia.org/wiki?curid=17149
+
+text:
+Tani waa liiska Madaxweynayaasha Puntland , Dawladda waa huwanaanshaha qayb ka mid ah Soomaaliya . Madaxweynaha Puntland waa madaxa fulinta ee Dawladda: hawlaha Madaxweynaha sida labada madax ka ah gobolka iyo madaxa dawladda. Ma jiro Ra'iisul Wasaaraha.
+
+Madaxweynayaasha Puntland (1998-joogo)
+
+fiiri
+
+Madaxweyneyaashii Khatumo
+
+
+# Tables
+
+## Table 1
+| Xilka qabtay | Sawir | Jagada | Xisbi | Faallo |
+| --- | --- | --- | --- | --- |
+| 23 Luuliyo 1998 - 30 Juun 2001 |  | Abdullahi Yusuf Ahmed , Madaxweyne | SSDF/n-p | MJ |
+| 1 Luuliyo 2001 - 14 Nofeembar 2001 |  | Yuusuf Xaaji Nuur , Ku-simaha Madaxweynaha | n-p | MJ |
+| 14 Nofeembar 2001 - 8 Maajo 2002 |  | Jaamac Cali Jaamac , Interim President | n-p | MJ |
+| 8 Maajo 2002 - Oktoobar 2004 |  | Abdullahi Yusuf Ahmed , Madaxweyne | n-p | MJ |
+| Maajo 2003 January 2006 |  | Maxamed Cabdi Xaashi , Madaxweyne | n-p | Qayad |
+| 8 Janaayo 2005 - 8 Janaayo 2009 |  | Maxamuud Muuse Xirsi Cadde , Madaxweyne | n-p | MJ |
+| 8 Janaayo 2009 - 8 Janaayo 2014 |  | Cabdiraxmaan Faroole , Madaxweyne | Horseed | MJ |
+| 8 Janaayo 2014 Ilaa iyo hadda xilka haya |  | Cabdiweli Gaas , Madaxweyne | UDAD | MJ |
+| 8 Janaayo 2019 Ilaa iyo hadda xilka haya |  | Saeed Deni , Madaxweyne | UDAD | MJ |

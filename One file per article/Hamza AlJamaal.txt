@@ -1,0 +1,22 @@
+title:
+Hamza AlJamaal
+
+url:
+https://so.wikipedia.org/wiki?curid=39457
+
+text:
+Hamza Al , Jamaal Hamza El-Gamal (dhashay 2 Maarso 1970 ) waa laacib adag oo reer Masar ah. [ 1 ] Media related to Hamza AlJamaal at Wikimedia Commons
+
+
+# Infobox
+
+- **Ku dhashay**: 2 Maarso 1970 ( 1970-03-02 )
+
+
+# Tables
+
+## Table 1
+| Hamza AlJamaal حمزة الجمل |
+| --- |
+| Macluumaad gaar ah |  |
+| Ku dhashay | 2 Maarso 1970 ( 1970-03-02 ) |

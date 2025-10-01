@@ -1,0 +1,20 @@
+title:
+Qoriyooley
+
+url:
+https://so.wikipedia.org/wiki?curid=3554
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;127330&lt;/parentid&gt;
+ &lt;timestamp&gt;2015-05-28T13:52:49Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;AbshirBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;Bot: Badal qurxin ah&lt;/comment&gt;
+ &lt;origin&gt;143832&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+&lt;a href="Qoryooley"&gt;Qoryooley&lt;/a&gt; wa degmo ku taala shabelada hoose wana degmo u dhex maro wabiga shabelle

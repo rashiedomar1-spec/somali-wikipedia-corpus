@@ -1,0 +1,18 @@
+title:
+Memory card
+
+url:
+https://so.wikipedia.org/wiki?curid=8290
+
+text:
+Memory card ama (Kaarka xasuusta), kaydiye, waa kaar elektroonic ah &lt;a href="qalabka%20kaydinta%20maclumatka"&gt;qalabka kaydinta maclumatka&lt;/a&gt; waxana loo isticmala kaydinta waxyabaha digtalka ah. badana waxa lagu isticmala qalabyo kala duwan oo ay ku jiraan &lt;a href="digital%20camera%28humaag%20tireed%29"&gt;digital camera(humaag tireed)&lt;/a&gt;, &lt;a href="mobileda%20gacanta"&gt;mobileda gacanta&lt;/a&gt;, &lt;a href="kumbuyatarka%20gacanta"&gt;kumbuyatarka gacanta&lt;/a&gt; iyo &lt;a href="cood%20shide"&gt;MP3 players&lt;/a&gt;, aad ayeey u yaryar yiin waxayna awoodan in ay maclumatka hayaan bile koronto .
+taariikhda oo kombulet ah.
+&lt;a href="PC%20Card"&gt;PC Card&lt;/a&gt;s (PCMCIA)waxa ahaa nocyadi ugu hereyay ee kaydisha (qaab card ahaneed) waxanu soo baxay 1990s,laakin hadda badanaa waxa lagu isticmala shirkadaha application ah si ay ula xiriraan qalabka ah I/O sidaa &lt;a href="modem"&gt;modem&lt;/a&gt;s. 1990s,tiro kaydiyal ah oo ka yaryar PC Card soo baxay, ay ku jiraan &lt;a href="CompactFlash"&gt;CompactFlash&lt;/a&gt;, &lt;a href="SmartMedia"&gt;SmartMedia&lt;/a&gt;, iyo &lt;a href="Miniature%20Card"&gt;Miniature Card&lt;/a&gt;. 
+shirkadaha aadka u hormaryay kaydisha ayaa waxa ugu cadcad shirkada sony
+Since 2010 new products of Sony (previously only using Memory Stick) and Olympus (previously only using XD-Card) are offered with an additional SD-Card slot. Effectively the &lt;a href="format%20war"&gt;format war&lt;/a&gt; has turned in SD-Card's favor.
+Video game consoles.
+&lt;a href="Video%20game%20console"&gt;Video game console&lt;/a&gt;s use memory cards to hold &lt;a href="saved%20game"&gt;saved game&lt;/a&gt; data. &lt;a href="Game%20cartridge"&gt;Cartridge&lt;/a&gt;-based systems primarily used &lt;a href="battery-backed%20RAM"&gt;battery-backed RAM&lt;/a&gt; within each individual cartridge to hold saves for that game. The &lt;a href="Neo%20Geo%20AES"&gt;Neo Geo AES&lt;/a&gt;, released in 1990 by &lt;a href="SNK%20Playmore"&gt;SNK&lt;/a&gt;, was the first video game console able to use a memory card. AES memory cards were also compatible with Neo-Geo MVS arcade cabinets, allowing players to migrate saves between home and arcade systems and vice versa. Memory cards became commonplace when home consoles moved to read-only &lt;a href="optical%20disc"&gt;optical disc&lt;/a&gt;s for storing the game program, beginning with systems such as the &lt;a href="TurboGrafx-CD"&gt;TurboGrafx-CD&lt;/a&gt; and &lt;a href="Mega-CD"&gt;Mega-CD&lt;/a&gt;.
+Until the &lt;a href="sixth%20generation%20of%20video%20game%20consoles"&gt;sixth generation of video game consoles&lt;/a&gt;, memory cards were based on &lt;a href="proprietary%20format"&gt;proprietary format&lt;/a&gt;s; later systems have used established industry hardware formats for memory cards.
+Home consoles now commonly use &lt;a href="hard%20disk%20drive"&gt;hard disk drive&lt;/a&gt; storage for saved games. though most portable gaming systems still rely on custom memory cartridges to store program data, due to their low power consumption, smaller physical size and reduced mechanical complexity.
+References.
+&lt;a href="http%3A//www.carderror.com"&gt;Card Error References&lt;/a&gt;

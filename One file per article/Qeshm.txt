@@ -1,0 +1,12 @@
+title:
+Qeshm
+
+url:
+https://so.wikipedia.org/wiki?curid=14752
+
+text:
+Coordinates : 26°41′43″N 55°37′06″E ﻿ / ﻿ 26.69528°N 55.61833°E ﻿ / 26.69528; 55.61833 Qeshm waa jasiirad laga leeyahy wadanka iiraan
+
+
+# Coordinates
+26.69528; 55.61833

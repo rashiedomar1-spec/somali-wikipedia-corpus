@@ -1,0 +1,17 @@
+title:
+Qarni
+
+url:
+https://so.wikipedia.org/wiki?curid=2391
+
+text:
+Qarni waxaa lagu soo koobaa 100 sano .
+
+
+# Tables
+
+## Strict vs Popular usage
+| Year | 2 BC | 1 BC | 1 | 2 | ... | 99 | 100 | 101 | 102 | ... | 199 | 200 | 201 | 202 | ... | 1899 | 1900 | 1901 | 1902 | ... | 1999 | 2000 | 2001 | 2002 | ... | 2024 | ... | 2099 | 2100 | 2101 | 2102 | ... |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Si Adag | 1st century BC | Qarnigii 1aad | Qarnigii 2aad | Qarnigii 3aad | ... | Qarnigii 19aad | Qarnigii labaatanaad | Qarnigii 21aad | Qarnigii 22aad | ... |
+| Caan Ah | 1st century BC | Qarnigii 1aad | Qarnigii 2aad | Qarnigii 3aad | ... | Qarnigii 19aad | Qarnigii labaatanaad | Qarnigii 21aad | Qarnigii 22aad | ... |

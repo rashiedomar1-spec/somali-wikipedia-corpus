@@ -1,0 +1,17 @@
+title:
+SSC (dhulka Darawiish)
+
+url:
+https://so.wikipedia.org/wiki?curid=41837
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2025-07-17T18:55:32Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Girligaanshub&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Girligaanshub moved page &lt;a href="SSC%20%28dhulka%20Darawiish%29"&gt;SSC (dhulka Darawiish)&lt;/a&gt; to &lt;a href="SSC%20%28Waqooyi%29"&gt;SSC (Waqooyi)&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;277151&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

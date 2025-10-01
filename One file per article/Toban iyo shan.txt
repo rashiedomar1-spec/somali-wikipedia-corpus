@@ -1,0 +1,9 @@
+title:
+Toban iyo shan
+
+url:
+https://so.wikipedia.org/wiki?curid=13328
+
+text:
+Toban iyo Shan
+Toban iyo Shan meelaha qaar loogu dhawaaqo Shan iyo Toban waa &lt;a href="lambar"&gt;lambar&lt;/a&gt; &lt;a href="tiro"&gt;tiro&lt;/a&gt; ka mid ah &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta taasi oo u qoranta &lt;a href="15"&gt;15&lt;/a&gt;.

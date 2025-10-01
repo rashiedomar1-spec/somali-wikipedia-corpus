@@ -1,0 +1,40 @@
+title:
+Eelo
+
+url:
+https://so.wikipedia.org/wiki?curid=18829
+
+text:
+Haku khaldin " Deero "
+
+Haku khaldin " Deero "
+
+Capreolinae Cervinae
+
+Eelo ( Af Ingiriis : Deer ; Af Carabi : لاسعانود ‎) waa nooc ka mida duur joogta naasaleyda ah, gaar ahaan deerada, waaa noolaha kaliya ee geesaha ku leh gano ama ilko, geesaha ayaa ka samaysan laf adag, oo ka samaysan dabaqado iyo dhuux xooggan, eelada ayaa aad u noocyo badan, waxayna ku dheeraysaa la dagaalanka colkeeda, iyo dheeraynta markii loo baahdo,
+
+waxaa jira 60 nooc ka mida eelada dunida,
+
+Eelada ayaa ku kala duwan muga iyo jirka,
+
+
+# Tables
+
+## Table 1
+| Eelo |
+| --- |
+|  |
+| Dhowr nooc oo ka mid ah qoyska qoyska goodirka: eelo cas, sika eel, barasingha, reindeerta, iyo deero daba cad. |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Faylam: | Chordate |
+| Gacalka: | Naasley |
+| Inferagacalka: | Eutheria |
+| Dirka: | Artiodactyla |
+| Subdirka: | Ruminantia |
+| Inferadirka: | Qoys Biciid |
+| Bahka: | Cervidae Georg August Goldfuss, 1820 |
+| Qaraabada |
+| Capreolinae Cervinae |
+|  |
+| meelaha ku dhaqan tahay qoyska goodirka |

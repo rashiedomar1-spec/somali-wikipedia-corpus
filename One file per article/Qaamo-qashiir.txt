@@ -1,0 +1,8 @@
+title:
+Qaamo-qashiir
+
+url:
+https://so.wikipedia.org/wiki?curid=5137
+
+text:
+Qaamo-qashiir waa cudur ku dhaca qaamanka waxaana keena feyrus la dhaho mumps &lt;a href="virus"&gt;virus&lt;/a&gt;.

@@ -1,0 +1,78 @@
+title:
+Troms
+
+url:
+https://so.wikipedia.org/wiki?curid=27330
+
+text:
+Troms wuxuu ahaa gobol ku yaali jiray Waqooyiga Norway, waxaa bishii 1 janaayo 2020 lagu soo daray gobolka kale ee (Finnmark), waxaana la aasaasay gobol cusub oo la dhaho Troms iyo Finnmark . Troms waxay xuduud la lahaan jirtay gobolka lagu biiray ee Finnmark oo waqooyi bari ka xigta iyo gobolka Nordland oo koonfur galbeed ka xigta. Gobolka Norrbotten Län ee dalka Iswiidhan wuxuu ka xigaa dhanka koonfureed, waxayna xuduud gaaban la leedahay gobolka Lapland ee Finland , galbeedka waxaa ka xigta badda norway.
+
+
+# Infobox
+
+- **Dalka**: Norway
+- **Degmo**: Troms
+- **Gobol**: Northern Norway
+- **lambarka aqoonsiga degmada**: NO-19
+- **La Aasaasay**: 1866
+- **ku ekaay ilaa**: 1 Jan 2020
+- **Xarunta maamulka**: Tromsø
+- **• Gudoomiyaha**: Elisabeth Aspaker Høyre (2017–ilaa hadda)
+- **• Duqa degmada**: Knut Werner Hansen Ap (2011–ilaa hadda)
+- **Area**: 25,877 km 2 (9,991 sq mi)
+- **• Land**: 24,884 km 2 (9,608 sq mi)
+- **Area rank**: Template:No. 4 ee Norway, 8.18% ee dhulka Norwey
+- **• Dhammaan**: 166,375
+- **• Rank**: 15 (3.33% ee dalka)
+- **• Cufnaanta dadka**: 6/km 2 (20/sq mi)
+- **• isbedel (10 sano)**: 2.0 %
+- **Aag saacadeed**: UTC+01 ( CET )
+- **• Xagaa ( DST )**: UTC+02 ( CEST )
+- **foomka luqada rasmiga ah**: Dhexdhexaad
+- **Dakhliga (qofkiiba)**: 133,300 NOK
+- **GDP (qofkiiba)**: 211,955 NOK (2001)
+- **GDP darajo qaran**: 15 (2.11% ee dalka)
+- **Website**: www.tromsfylke.no
+
+
+# Tables
+
+## Table 1
+| Troms fylke Romssa fylka |
+| --- |
+| Degmo |
+| Arnøyhøgda , Laukslettinden , Tjuvtinden and Rødhetta as seen over Skattørsundet in March 2012 |
+| Flag Coat of arms |
+| Troms fylke Troms isla Norway |
+| Coordinates: 69°49′04″N 18°46′55″E ﻿ / ﻿ 69.8178°N 18.7819°E ﻿ / 69.8178; 18.7819 Coordinates : 69°49′04″N 18°46′55″E ﻿ / ﻿ 69.8178°N 18.7819°E ﻿ / 69.8178; 18.7819 |
+| Dalka | Norway |
+| Degmo | Troms |
+| Gobol | Northern Norway |
+| lambarka aqoonsiga degmada | NO-19 |
+| La Aasaasay | 1866 |
+| ku ekaay ilaa | 1 Jan 2020 |
+| Xarunta maamulka | Tromsø |
+| Dowlada |
+| • Gudoomiyaha | Elisabeth Aspaker Høyre (2017–ilaa hadda) |
+| • Duqa degmada | Knut Werner Hansen Ap (2011–ilaa hadda) |
+| Area | 25,877 km 2 (9,991 sq mi) |
+| • Land | 24,884 km 2 (9,608 sq mi) |
+| Area rank | Template:No. 4 ee Norway, 8.18% ee dhulka Norwey |
+| Tirada dadka (30 Sebteembar 2019) |
+| • Dhammaan | 166,375 |
+| • Rank | 15 (3.33% ee dalka) |
+| • Cufnaanta dadka | 6/km 2 (20/sq mi) |
+| • isbedel (10 sano) | 2.0 % |
+| Aag saacadeed | UTC+01 ( CET ) |
+| • Xagaa ( DST ) | UTC+02 ( CEST ) |
+| foomka luqada rasmiga ah | Dhexdhexaad |
+| Dakhliga (qofkiiba) | 133,300 NOK |
+| GDP (qofkiiba) | 211,955 NOK (2001) |
+| GDP darajo qaran | 15 (2.11% ee dalka) |
+| Website | www.tromsfylke.no |
+| Data from Statistics Norway |
+
+
+
+# Coordinates
+69.8178; 18.7819

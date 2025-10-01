@@ -1,0 +1,18 @@
+title:
+Nuura Fatxi
+
+url:
+https://so.wikipedia.org/wiki?curid=33401
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;216336&lt;/parentid&gt;
+ &lt;timestamp&gt;2021-10-21T16:41:36Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Lia15Lo&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;220683&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Nuura Fatxi (dhashay 6 Febraayo 1992) waa dheesha Kanada, moodel, atariisho, fanaan, iyo soo saare oo caan ku ah ka shaqaynta &lt;a href="Bollywood"&gt;warshadaha aflaanta Hindiga&lt;/a&gt;. Waxay ka soo muuqatay filimkii Bollywood-ka ee "Satyameva Jayate" kaas oo lagu arkay heesta dib-u-curinta ee heesta "Dilbar" kaas oo ka tallaabay YouTube-ka 20 milyan oo daawasho 24-kii saac ee ugu horreeyey ee la sii daayay, taasoo ka dhigaysa heestii ugu horraysay ee Hindi ah oo tiro intaas le’eg ka samaysata Hindiya. Waxay sidoo kale iskaashi la sameysay kooxda hip-hop-ka &lt;a href="Marooko"&gt;Marooko&lt;/a&gt; Fnaïre si loo sii daayo heesta Carabi ah. Fatxi wuxuu noqday fanaankii ugu horreeyey ee Afrikaan-Carab ah oo heesta "Dilbar" ay ka gudubtay hal bilyan oo daawasho ee YouTube.

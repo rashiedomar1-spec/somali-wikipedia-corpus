@@ -1,0 +1,30 @@
+title:
+Fatima Al-Banawi
+
+url:
+https://so.wikipedia.org/wiki?curid=34844
+
+text:
+Fatima Al-Banawi (فاطمة البنوي; [ˈfaːtˤma alˈbanawi] ) waa filim-qaade iyo atariisho u dhalatay Sucuudiga. [ 1 ] Waxaa aad loogu yaqaanaa agaasimaha iyo jilaayada taxanayaasha iyo filimada caanka ah ee talefishinada Barakah Meets Barakah , A Blink of an Eye iyo Paranormal .
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: Fatima Al-Banawi Jeddah , Sacuudi Carabiya
+- **Heerka Aqoonta**: Jaamacadda Effat Jaamacadda Harvard
+- **Sanadaha Shaqada**: 2015 –hada
+
+
+# Tables
+
+## Table 1
+| Fatima Al-Banawi |
+| --- |
+|  |
+| Ku dhashay | Fatima Al-Banawi Jeddah , Sacuudi Carabiya |
+| Heerka Aqoonta | Jaamacadda Effat Jaamacadda Harvard |
+| Sanadaha Shaqada | 2015 –hada |
+| Website |
+| www.fatimaalbanawi.com |

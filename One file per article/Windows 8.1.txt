@@ -1,0 +1,10 @@
+title:
+Windows 8.1
+
+url:
+https://so.wikipedia.org/wiki?curid=36621
+
+text:
+&lt;a href="Windows%208.1"&gt;Windows 8.1&lt;/a&gt; waa nooca &lt;a href="Microsoft%20Windows"&gt;Microsoft Windows&lt;/a&gt; iyo nooca labaad ee &lt;a href="Windows%208.x"&gt;Windows 8.x&lt;/a&gt;. Waxaa la sii daayay Oktoobar 17, 2013, isla maalintaas sida &lt;a href="Windows%20Server%202012%20R2"&gt;Windows Server 2012 R2&lt;/a&gt;. Waa nooc cusub oo khadka Windows NT 6.x ah, maadaama ay beddeshay lambarka nooca 6.2 ilaa 6.3. Waa cusbooneysiin bilaash ah oo loogu talagalay Windows 8 kaas oo laga heli karo Dukaanka Windows. Markii Windows 10 la sii daayay, Windows 8.1 waxaa loo cusboonaysiin karaa &lt;a href="Windows%2010"&gt;Windows 10&lt;/a&gt; bilaash.
+=Tixraacyada=
+&lt;a href="Windows%208"&gt;Windows 8&lt;/a&gt; – &lt;a href="Windows%208.1"&gt;Windows 8.1&lt;/a&gt; – &lt;a href="Windows%2010"&gt;Windows 10&lt;/a&gt;

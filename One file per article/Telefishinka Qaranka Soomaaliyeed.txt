@@ -1,0 +1,31 @@
+title:
+Telefishinka Qaranka Soomaaliyeed
+
+url:
+https://so.wikipedia.org/wiki?curid=17603
+
+text:
+Telefishinka Qaranka Soomaaliyeed ( Af Ingiriis : Somali National Television , SNTV) waa saldhigga TV-ga qaranka ee Soomaaliya .
+
+Telefishinka Qaranka Soomaaliyeed waa Idaacadda adeegga dadweynaha ee Soomaaliya. Xarunteeduna tahay magaalada Muqdisho, ee caasimada dalka, ay mas'uuliyadda ugu weyn waa in ay bixiso baahinta adeegga dadweynaha dalka oo dhan. SNTV waxaa nidaaminaya Wasaaradda Warfaafinta, Boostada & Isgaarsiinta ee Golaha Soomaali ah Wasiirada.
+
+
+# Infobox
+
+- **La aasaasay**: 1983
+- **Xarunta**: Muqdisho , Soomaaliya
+- **Meelaha loo adeegsaday**: Soomaaliya & dibadda (satellite)
+- **Lahaashaha**: Dawladda federaalka Soomaaliya
+- **Website**: https://sntv.so/
+
+
+# Tables
+
+## Telefishinka Qaranka Soomaaliyeed
+|   |
+| --- |
+| La aasaasay | 1983 |
+| Xarunta | Muqdisho , Soomaaliya |
+| Meelaha loo adeegsaday | Soomaaliya & dibadda (satellite) |
+| Lahaashaha | Dawladda federaalka Soomaaliya |
+| Website | https://sntv.so/ |

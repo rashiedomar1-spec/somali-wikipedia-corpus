@@ -1,0 +1,58 @@
+title:
+Pointe-Noire
+
+url:
+https://so.wikipedia.org/wiki?curid=32102
+
+text:
+Pointe-Noire ( Template:Lang-kg [ 3 ] [ 4 ] )
+
+waa magaalada labaad ee ugu weyn jamhuuriyada Congo, ka dib caasimada Brazzaville , iyo waax madaxbanaan tan iyo 2004. Taariikhdaas ka hor waxay ahayd caasimada  Gobolka Kouilou (hadda waax gaar ah).  Waxay ku taal dhul-madaxeed u dhexeeya Pointe-Noire Bay iyo Badweynta Atlantik . Pointe-Noire waa xarunta ugu weyn ee ganacsiga dalka waxaana ku nool dad gaaraya 715,334 (2007), [5] oo ku sii fideysa in ka badan 1 milyan markii dhamaan magaalooyinka waaweyn la tixgeliyo.
+Waa magaloolo ka mid ah dalka kongo
+
+
+# Infobox
+
+- **Country**: Republic of the Congo
+- **Department**: Pointe-Noire Department
+- **Commune**: Pointe-Noire
+- **Founded**: 1883
+- **• Mayor**: Jean-François Kando ( PCT )
+- **Area**: 43.7 km 2 (16.9 sq mi)
+- **Joogga**: 14 m (46 ft)
+- **• Dhammaan**: 715,334
+- **• Cufnaanta dadka**: 16,000/km 2 (42,000/sq mi)
+- **Furaha**: 242
+- **HDI (2018)**: 0.650 [ 2 ] medium · 2nd of 12
+- **Website**: www.pointenoireinformation.com
+
+
+# Tables
+
+## Table 1
+| Pointe-Noire Ndjindji |
+| --- |
+| Department |
+| Pointe-Noire |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Republic of the Congo" does not exist. |
+| Coordinates: 04°46′43″S 11°51′49″E ﻿ / ﻿ 4.77861°S 11.86361°E ﻿ / -4.77861; 11.86361 |
+| Country | Republic of the Congo |
+| Department | Pointe-Noire Department |
+| Commune | Pointe-Noire |
+| Founded | 1883 |
+| Dowlada |
+| • Mayor | Jean-François Kando ( PCT ) |
+| Area | 43.7 km 2 (16.9 sq mi) |
+| Joogga | 14 m (46 ft) |
+| Tirada dadka (2007 [ 1 ] ) |
+| • Dhammaan | 715,334 |
+| • Cufnaanta dadka | 16,000/km 2 (42,000/sq mi) |
+| Furaha | 242 |
+| HDI (2018) | 0.650 [ 2 ] medium · 2nd of 12 |
+| Website | www.pointenoireinformation.com |
+
+
+
+# Coordinates
+-4.77861; 11.86361

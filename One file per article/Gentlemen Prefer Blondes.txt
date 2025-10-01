@@ -1,0 +1,50 @@
+title:
+Gentlemen Prefer Blondes
+
+url:
+https://so.wikipedia.org/wiki?curid=32599
+
+text:
+Gentlemen Prefer Blondes waa 1953 filim Mareykan ah oo majaajillo majaajillo ah kuna saleysan ciyaartii 1949 oo isku magac ah.  Waxaa daadihinayey Howard Hawks iyo xidigaha kala ah Jane Russell iyo Marilyn Monroe , oo ay weheliyaan Charles Coburn, Elliott Reid, Tommy Noonan, George Winslow, Taylor Holmes iyo Norma Varden oo doorka kaalmeynta ah ka ciyaarayay.
+
+Tixraacyo
+
+
+# Infobox
+
+- **Directed by**: Howard Hawks
+- **Screenplay by**: Charles Lederer
+- **Produced by**: Sol C. Siegel
+- **Starring**: Jane Russell Marilyn Monroe
+- **Cinematography**: Harry J. Wild
+- **Edited by**: Hugh S. Fowler
+- **Music by**: Hoagy Carmichael Jule Styne Eliot Daniel Lionel Newman
+- **Distributed by**: 20th Century Fox
+- **Release date**: Luulyo 1, 1953
+- **Running time**: 91 daqiiqado
+- **Country**: Mareykanka
+- **Languages**: Ingiriis Faransiis
+- **Budget**: $2.3 milyan [ 1 ]
+- **Box office**: $5.3 milyan [ 2 ]
+
+
+# Tables
+
+## Table 1
+| Gentlemen Prefer Blondes |
+| --- |
+|  |
+| Directed by | Howard Hawks |
+| Screenplay by | Charles Lederer |
+| Produced by | Sol C. Siegel |
+| Starring | Jane Russell Marilyn Monroe |
+| Cinematography | Harry J. Wild |
+| Edited by | Hugh S. Fowler |
+| Music by | Hoagy Carmichael Jule Styne Eliot Daniel Lionel Newman |
+| Distributed by | 20th Century Fox |
+| Release date | Luulyo 1, 1953 |
+| Running time | 91 daqiiqado |
+| Country | Mareykanka |
+| Languages | Ingiriis Faransiis |
+| Budget | $2.3 milyan [ 1 ] |
+| Box office | $5.3 milyan [ 2 ] |

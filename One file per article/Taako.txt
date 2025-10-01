@@ -1,0 +1,11 @@
+title:
+Taako
+
+url:
+https://so.wikipedia.org/wiki?curid=12519
+
+text:
+Taako
+Taako waa &lt;a href="halbeeg"&gt;halbeeg&lt;/a&gt; cabir oo &lt;a href="Soomaali"&gt;Soomaali&lt;/a&gt;dii hore isticmaali jirtey. 
+Taako waxaa loo isticmaalaa cabirka &lt;a href="dherer"&gt;dherer&lt;/a&gt;ka. 
+Taako waxay u dhiganta 10 &lt;a href="sentimitir"&gt;sentimitir&lt;/a&gt; ama 0.010 &lt;a href="mitir"&gt;mitir&lt;/a&gt;.

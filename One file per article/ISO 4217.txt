@@ -1,0 +1,405 @@
+title:
+ISO 4217
+
+url:
+https://so.wikipedia.org/wiki?curid=9786
+
+text:
+ISO 4217 waa halbeeg caalami ah oo qeexaya koodh saddex xaraf ah (sidoo kale loo yaqaan Koodhka lacagta ) ) si loo qeexo magacyada lacagaha , sida ay dejisay Ururka Caalamiga ah ee Halbeega (ISO). Liiska koodka ISO 4217 waa habka caadiga ah ee bangiyada iyo ganacsiga , adduunka oo dhan, si loo qeexo lacagaha kala duwan. Wadamo badan, code-yada lacagaha caadiga ah ayaa si aad ah loo yaqaan, dadweynaha guud ahaan, in sarifka lacagaha lagu qoro wargeysyada ama lagu dhejiyo bangiyada ay isticmaalaan kaliya codesyada si ay u qeexaan lacagaha kala duwan, halkii ay ka tarjumi lahaayeen magacyada lacagta ama calaamadaha lacagta . Koodhka ISO 4217 waxaa loo isticmaalaa tigidhada diyaaradaha iyo tigidhada tareenka caalamiga ah si meesha looga saaro hubanti la'aan kasta oo ku saabsan qiimaha .
+
+Taariikhda
+
+Sannadkii 1973, Guddiga Farsamada ee ISO 68 wuxuu go'aansaday inuu horumariyo koodhadhka matalaadda lacagaha iyo lacagaha loo isticmaalo codsi kasta oo ganacsi, ganacsi ama bangi. Kalfadhiga 17-aad (February 1978), kooxda khubarada UN / ECE ee la xidhiidha waxay isku raaceen in saddexda xaraf ee koodhka xarfaha ee heerka caalamiga ah ee ISO 4217, "Koodhadhka matalaadda lacagaha iyo lacagaha", ay ku habboon yihiin isticmaalka ganacsiga caalamiga ah. 
+Muddo ka dib, lacago cusub ayaa la abuurayaa waxaana la joojiyay lacagihii hore. Isbeddellada noocan oo kale ah waxay inta badan ka yimaadaan samaynta waddamo cusub, heshiisyada u dhexeeya waddamada lacagaha la wadaago ama ururrada lacagta, ama dib-u-noqoshada lacag jirta sababtoo ah sicir-bararka xad-dhaafka ah. Natiijo ahaan, liiska koodka waa in la cusbooneysiiyaa waqti ka waqti. Wakaaladda dayactirka ee ISO 4217 ayaa mas'uul ka ah ilaalinta liiska codsiyada.
+
+Noocyada koodhadhka
+
+Lacagaha dalka
+
+Marka laga hadlayo lacagaha qaranka, labada xaraf ee ugu horreeya ee koodhka alfa waa labada xaraf ee ISO 3166-1 alfa-2 code-ka waddanka iyo kan saddexaadna inta badan waa bilowga qaybta ugu weyn ee lacagta.  Markaa koodhka lacagta Japan waaJPY : "JP" ee Japan iyo "Y" ee yen . Tani waxay meesha ka saaraysaa dhibaatadii ay keeneen magacyada dollarka , farans-ka , peso , iyo pound-ka ee laga isticmaalo wadamo badan, kuwaas oo mid walba uu leeyahay qiimo aad u kala duwan. In kasta oo inta badan koodka ISO uu u eg yahay soo gaabinta lacagta magaca Ingiriisiga oo buuxa, tani had iyo jeer maaha kiiska, sida lacagaha sida Diinaarka Algeria , Aruban florin , Cayman dollar , renminbi , sterling , iyo franc Swiss ayaa loo qoondeeyay codes kuwaas oo aan si dhow ula mid ahayn magacyada lacagta rasmiga ah.
+Xaaladaha qaarkood, xarafka saddexaad ee koodhka alfa ma aha xarafka hore ee magaca unugga lacagta. Waxaa jiri kara dhowr sababood oo tan:
+Waxaa loo arkaa inay muhiim tahay in koodhka lacag cusub uu noqdo mid aad u sarreeya haddii ay suurtagal tahay. Tusaale ahaan waa habaynta koodhkaEUR ilaa euro. ISO 4217 wax ka beddelka 94, kaas oo abuuray koodhkan, wuxuu dhigayaa "qalabka koodhka 'EU' waxaa u xafiday Hay'adda Dayactirka ISO 3166 si loogu isticmaalo ISO 4217 halkaasoo 'R' lagu dhejiyay si loo sameeyo koodka mnemonic la aqbali karo." Halkan R wuxuu ka yimid xarafka saddexaad ee ereyga "euro".
+Lacagta laga hadlayaa waxay beddeshay lacag kale oo isku magac ah, dib-u-qiimaynta awgeed. Si ay labada lacagood u yeeshaan kood kala duwan, xaraf saddexaad oo kala duwan waa in loo doortaa code-ka lacagta cusub. Xaaladaha qaarkood, xarafka saddexaad waa bilowga "cusub" ee luqadda dalkaas, si loo kala saaro lacag duug ah oo dib loo qiimeeyo; koodhka ayaa mararka qaarkood dhaafa isticmaalka ereyga "cusub" laftiisa (tusaale ahaan, koodka Peso Mexico waaMXN , oo ka tarjumaysa dib-u-qiimaynta 1993). Xalka kale ee lacagta dib loo qiimeeyay oo la mid ah magacii hore waa in la doorto xaraf saddexaad taas oo keenta kood 3-xaraf ah oo leh muhiimad mnemonic ah. Tusaale ahaan, Ruble Ruush ka bedelayRUR kuRUB ka dib dib-u-qiimaynta, halkaas oo B ka yimid xarafka saddexaad ee ereyga "ruble".
+===Lacagaha X (lacagta, biraha qaaliga ah, kuwa ka sarreeya, kuwa kale)
+wax ka beddel===
+Marka lagu daro koodhadhka lacagaha qaranka ee firfircoon ee ISO 4217 waxay bixisaa codes loogu talagalay lacagaha "supranational", ujeeddooyin habraac ah, iyo waxyaabo badan oo "la mid ah" lacagaha:
+
+Koodhadhka biraha qaaliga ah ee dahabka (XAU), silver (XAG), palladium (XPD), iyo platinum (XPT) ayaa la sameeyay iyadoo la horgeynayo calaamadda kiimikada ee elementka oo leh xarafka "X". Kuwan "cutubyada lacagta" waxaa lagu qeexaa inay yihiin hal troy ounce oo birta la cayimay.
+Koodhka XTS waxa loo hayaa in lagu isticmaalo imtixaanka.
+Koodhka XXX waxa loo isticmaalaa in lagu muujiyo "wax kala beddelasho" oo aan ku jirin lacag.
+Waxa kale oo jira xeerar qeexaya qaar ka mid ah qalabyada lacageed ee loo isticmaalo maaliyadda caalamiga ah, tusaale ahaan XDR waa astaanta sawirka gaarka ah ee ay bixiso Sanduuqa Lacagta Adduunka ee IMF .
+Koodhadhka lacagaha ugu sarreeya , sida doollarka Bari ee Kariibiyaanka , faranka CFP , faranka CFA ee BEAC, iyo faranka CFA ee BCEAO. Kuwii ka horreeyay euro, Unugga Lacagta Yurub (ECU), ayaa lahaa code XEU.
+Isticmaalka xarafka bilowga ah "X" ee ujeeddooyinkan waxaa fududeeyay qaanuunka ISO 3166 ee ah in aan kood rasmi ah oo waddan oo ka bilaabma X waligiis loo qoondayn doonin.
+Ku darida Midowga Yurub (oo tilmaamaysa Midowga Yurub ) ee ISO 3166-1 liiska kood ee kaydsan ayaa u oggolaanaya euro in lagu calaamadiyo sida EUR halkii loo qoondeyn lahaa kood ka bilaabma X, inkastoo ay tahay lacag ka sarreysa.
+
+Koodhadhka tirada
+
+ISO 4217 sidoo kale waxay u qoondaysaa kood lambar saddex-god ah lacag kasta. Koodhkan nambarada ah ayaa badanaa la mid ah koodhka nambarada ee loo qoondeeyay waddanka u dhigma ee ISO 3166-1 . Tusaale ahaan, USD ( Dollarka Maraykanka ) waxay leedahay kood lambareed 840 oo sidoo kale ah ISO 3166-1 code ee "US" (Mareykanka)
+
+Liiska koodka lacagta ISO 4217
+
+Koodhadhka firfircoon
+
+Kuwa soo socdaa waa liiska koodka firfircoon ee magacyada lacagta rasmiga ah ee ISO 4217 ilaa 1da Janaayo 2024. Halbeegga qiyamka waxaa loo yaqaan "code alfabetic", "code number", "cutubka yar", iyo "qayb"
+
+Koodhadhka aan rasmiga ahayn
+
+Kuwa soo socdaa waa kood firfircoon oo aan rasmi ahayn oo ku dayanaya qaabka ISO 4217.
+
+Aan lahayn koodka lacagta
+
+Tiro dhulal ah kuma jiraan ISO 4217, sababtoo ah lacagahooda waa: (a) midkiiba waa lacag madax banaan laakiin waa kala duwanaanshiyaha lacag kale, (b) hindise sharci ah oo kaliya oo loo soo saaray sidii warqado xusuus ah iyo/ama qadaadiic, ama (c) lacag dawlad aan la aqoonsan ama qayb ahaan la aqoonsan yahay . Lacagahan ayaa kala ah:
+Alderney pound (1:1 lagu dhajiyay pound-ka)
+Doolarka jasiiradaha Cook (1:1 ayaa lagu qiimeeyay dollarka New Zealand)
+Faroese króna (1:1 ayaa lagu dhejiyay krone Danishka)
+Pound Guernsey (1:1 lagu dhejiyay pound-ka Sterling)
+Isle of Man pound (1:1 lagu dhejiyay pound-ka)
+Pound Jersey (1:1 lagu dhejiyay pound-ka Sterling)
+Doolarka Kiribati (1:1 ayaa lagu qiimeeyay Doolarka Australia)
+Maltese scudo (1:0.24 ayaa lagu qiimeeyay euro [ 4 ] )
+Shilinka Somaliland (Xaaladda wax soo saarka waxa loo arkaa de jure qayb ka mid ah Soomaaliya , sarifka lacagta ma go'an)
+Ruble Transnistrian (xaaladda arrinta waxaa loo arkaa inay tahay qayb ka mid ah Moldova )
+Doolarka Tuvaluan (1:1 ayaa lagu qiimeeyay Doolarka Australia)
+Koodhadhka soo socda ee aan ISO ahayn ayaa, si kastaba ha ahaatee, mararka qaarkood ganacsi ahaan loo isticmaalo
+
+Koodhadhka lacagta duugga ah
+
+Tiro lacag ah ayaa ahaa ISO 4217 codes lacageed iyo magacyo lacag ah ilaa laga beddelayo euro ama lacago kale.
+Ogsoonow in magacyada lacagta ee hoos lagu isticmaalo laga yaabo inaysan u dhigmin magacyada lacagta lagu isticmaalo heerka ISO laftiisa, laakiin koodhku way iswaafaqayaan
+
+Faahfaahinta lacagta
+
+Qaybaha unugyada yaryar
+
+Daabacaadda 2008 (7aad) ee ISO 4217 waxay leedahay waxyaalahan soo socda oo ku saabsan unugyada lacagta yar:
+Shuruudo ayaa mararka qaarkood soo baxa qiyamka lagu muujinayo qaybo yar oo lacag ah. Marka tani dhacdo, waa lagama maarmaan in la ogaado xiriirka tobanlaha ah ee ka dhexeeya lacagta ay khusayso iyo qaybteeda yar. Haddaba xogtan ayaa lagu daray heerkan caalamiga ah waxaana lagu muujiyey tiirka cinwaankiisu yahay "Unugga Yar" ee Jadwalka A.1 iyo A.2; "0" macnaheedu waa in aanay jirin unug yar oo lacagtaas ah, halka "1", "2" iyo "3" ay tilmaamayaan saamiga 10:1, 100:1 iyo1000 :1 siday u kala horreeyaan. Magacyada unugyada yaryar lama sheegin.
+Tusaalooyinka saamiga100 :1 iyo1000 :1 waxa ku jira dollarka Maraykanka iyo dinaarka Bahraini , kaas oo tiirka cinwaankiisu yahay "Minor unit" uu muujinayo "2" iyo "3", siday u kala horreeyaan. Laga bilaabo 2021 , laba lacagood ayaa leh saamiyo aan tobanle ahayn, ouguiya Mauritania iyo ariary Malagasy ; labada xaaladoodba saamigu waa 5:1. Kuwan, tiirka "cutubka yar" wuxuu muujinayaa lambarka "2". Lacagaha qaar, sida faranka Burundi , dhab ahaantii ma haystaan ​​wax lacag ah oo yar. Kuwani waxay muujinayaan lambarka "0", sida lacagaha aan cutubyadooda yar-yar la isticmaalin qiimaha dayacan awgeed.
+
+Booska koodka qaabaynta qaddarka
+
+Heerka ISO 4217 ma nidaamiyo kala dheereynta, horgalayaasha ama ku dhejinta isticmaalka koodhka lacagta. Hagaha qaabka Xafiiska Daabacaada Midowga Yurub wuxuu caddaynayaa in qoraallada ay soo saareen ama loo soo mariyey Komishanka ee Ingiriisiga , Irishka , Latvia , iyo Malta , koodka ISO 4217 waa in lagu raaco "meel adag" ( meel aan jabin ) iyo qaddarka: 
+lacag dhan 30 Euro
+iyo qoraalada Bulgaariya , Croatian , Czech , Danish , Dutch , Istooniyaan , Finnish , Faransiis , Jarmal , Greek , Hungarian , Talyaani , Lithuanian , Polish , Bortuqiis , Romanian , Slovak , Slovene , Isbaanish , iyo Iswidhishka amarka waa rogaal celis; Qadarka waxaa raacaya meel aan jabin iyo koodka ISO 4217:
+wuxuu ahaa 30 Euro
+Sida lagu muujiyay, nidaamka laguma go'aamiyo lacagta laakiin waxaa lagu go'aamiyaa luqadda hooyo ee macnaha guud.
+
+USD, USN: laba lambar oo lacagta Maraykanka
+
+Doolarka Maraykanku dhab ahaantii wuxuu leeyahay saddex lambar oo loo qoondeeyay: USD, USS (isku maalin) iyo USN (maalinta xigta). Marka loo eego tallada UN/CEFACT 9, cutubyada 8-9 ECE/TRADE/203, 1996, oo laga heli karo online Archived 2010-06-26 ee Mashiinka Wayback :
+8. Codsiyada halka agabka lacageed ee laxidhiidha lacag (tusaale ahaan lacagaha) aan loo baahnayn in la cayimo iyo halka aqoonsiga goobta ee tilmaamaya lacagta la isticmaalo, labada xaraf ee ugu horeeya (bidix) ayaa ku filan in lagu aqoonsado lacag-tusaale: US Dollarka Maraykanka guud ahaan, ujeeddooyin aan la cayimin halka aqoonsiga goobta ee tilmaamaya lacagtu uu joogo. (Aqoonsigu wuxuu noqon karaa goob hore loo daabacay oo cinwaankeedu yahay dukumeenti toosan ama codsi la mid ah oo lagu heshiiyey gudbinta xogta elektaroonigga ah.)
+9. Codsiyada ay jirto baahi loo qabo in la kala saaro noocyada kala duwan ee lacagaha, ama meelaha lacagaha looga baahan yahay sida jawiga bangiyada, ama meesha aysan jirin aqoonsi goobeed, saddexaad (xaq u) dabeecadda koodka alifbeetada waa tilmaame, gaar ahaan mnemonic, oo laga soo qaatay magaca qaybta lacagta weyn ama sanduuqa - tusaale ahaan: USD guud ahaan, ujeedooyin aan la cayimin; USN ee lacagta Maraykanka dollarka maalinta xigta, iyo USS ee miisaaniyadaha kuwaas oo isla markiiba diyaar u ah wareejinta Kaydka Federaalka, ka saarista lacag caddaan ah ama ku wareejinta sida lacagaha (lacag-maalinta isla-maalinta ah). Maaddaama aysan jirin baahi loo qabo kala soociddan codsiyada ganacsiga caalamiga ah, code-yada lacagaha laguma darin Lifaaqa soo-jeedinta hadda.
+
+Tixraacyo
+
+"Bitcoins ka ganacsiga"
+
+"Amarka Boqortooyada Malta - goobta rasmiga ah"
+
+"Lloyds TSB Suuqyada Shirkadaha - Lacagaha Wadamada iyo Koodhadhka"
+
+"Masiirka Lacagta Warqadda"
+
+Mareegaha kale
+
+Liiska rasmiga ah ee ISO 4217 alifbeetada iyo koodhadhka nambarada Archived Agoosto 19, 2008 // Wayback Machine
+
+ISO 4217 Wakaaladda dayactirka
+
+Liis dheer oo lacagaha caalamiga ah iyo foomka soo gaabinta
+
+Raadinta Koodhadhka Lacagta
+
+Booska ISO code ama lacagta saxeexa euro
+
+Liis kale oo nambaro iyo alifbeetada ISO 4217 ah
+
+Liis da'weyn oo ah ISO 4217 codes alifbeetada oo ka kooban qaar ka mid ah taariikhda ISO 4217
+
+
+# Tables
+
+## Table 1
+| Koodhka | Tirada | E [ 1 ] | Lacagta | Goobaha lacagtan lagu isticmaalo |
+| --- | --- | --- | --- | --- |
+| AED | 784 | 2 | United Arab Emirates dirham | United Arab Emirates |
+| AFN | 971 | 2 | Afghan afghani | Afghanistan |
+| ALL | 008 | 2 | Albanian lek | Albania |
+| AMD | 051 | 2 | Armenian dram | Armenia |
+| ANG | 532 | 2 | Netherlands Antillean guilder | Netherlands Antilles |
+| AOA | 973 | 2 | Angolan kwanza | Angola |
+| ARS | 032 | 2 | Argentine peso | Argentina |
+| AUD | 036 | 2 | Australian dollar | Australia , Australian Antarctic Territory , Christmas Island , Cocos (Keeling) Islands , Heard and McDonald Islands , Kiribati , Nauru , Norfolk Island , Tuvalu |
+| AWG | 533 | 2 | Aruban florin | Aruba |
+| AZN | 944 | 2 | Azerbaijani manat | Azerbaijan |
+| BAM | 977 | 2 | Bosnia and Herzegovina convertible mark | Bosnia and Herzegovina |
+| BBD | 052 | 2 | Barbados dollar | Barbados |
+| BDT | 050 | 2 | Bangladeshi taka | Bangladesh |
+| BGN | 975 | 2 | Bulgarian lev | Bulgaria |
+| BHD | 048 | 3 | Bahraini dinar | Bahrain |
+| BIF | 108 | 0 | Burundian franc | Burundi |
+| BMD | 060 | 2 | Bermudian dollar (aka Bermuda dollar) | Bermuda |
+| BND | 096 | 2 | Brunei dollar | Brunei , Singapore |
+| BOB | 068 | 2 | Boliviano | Bolivia |
+| BOV | 984 | 2 | Bolivian Mvdol (funds code) | Bolivia |
+| BRL | 986 | 2 | Brazilian real | Brazil |
+| BSD | 044 | 2 | Bahamian dollar | Bahamas |
+| BTN | 064 | 2 | Bhutanese ngultrum | Bhutan |
+| BWP | 072 | 2 | Botswana pula | Botswana |
+| BYR | 974 | 0 | Belarusian ruble | Belarus |
+| BZD | 084 | 2 | Belize dollar | Belize |
+| CAD | 124 | 2 | Canadian dollar | Canada |
+| CDF | 976 | 2 | Congolese franc | Democratic Republic of Congo |
+| CHE | 947 | 2 | WIR Bank ( complementary currency ) | Switzerland |
+| CHF | 756 | 2 | Swiss franc | Switzerland , Liechtenstein |
+| CHW | 948 | 2 | WIR Bank ( complementary currency ) | Switzerland |
+| CLF | 990 | 0 | Unidad de Fomento (funds code) | Chile |
+| CLP | 152 | 0 | Chilean peso | Chile |
+| CNY | 156 | 2 | Chinese yuan | China (Mainland) |
+| COP | 170 | 2 | Colombian peso | Colombia |
+| COU | 970 | 2 | Unidad de Valor Real | Colombia |
+| CRC | 188 | 2 | Costa Rican colon | Costa Rica |
+| CUP | 192 | 2 | Cuban peso | Cuba |
+| CVE | 132 | 0 | Cape Verde escudo | Cape Verde |
+| CZK | 203 | 2 | Czech koruna | Czech Republic |
+| DJF | 262 | 0 | Djiboutian franc | Djibouti |
+| DKK | 208 | 2 | Danish krone | Denmark , Faroe Islands , Greenland |
+| DOP | 214 | 2 | Dominican peso | Dominican Republic |
+| DZD | 012 | 2 | Algerian dinar | Algeria |
+| EEK | 233 | 2 | Estonian kroon | Estonia |
+| EGP | 818 | 2 | Egyptian pound | Egypt |
+| ERN | 232 | 2 | Eritrean nakfa | Eritrea |
+| ETB | 230 | 2 | Ethiopian birr | Ethiopia |
+| EUR | 978 | 2 | Euro | Austria , Belgium , Croatia , Cyprus , Estonia , Finland , France , Germany , Greece , Ireland , Italy , Latvia , Lithuania , Luxembourg , Malta , Netherlands , Portugal , Slovakia , Slovenia , Spain ; Andorra , Monaco , San Marino , Vatican City ; Kosovo , Montenegro |
+| FJD | 242 | 2 | Fiji dollar | Fiji |
+| FKP | 238 | 2 | Falkland Islands pound | Falkland Islands |
+| GBP | 826 | 2 | Pound sterling | United Kingdom , Crown Dependencies (the Isle of Man and the Channel Islands ), certain British Overseas Territories ( South Georgia and the South Sandwich Islands , British Antarctic Territory and British Indian Ocean Territory ) |
+| GEL | 981 | 2 | Georgian lari | Georgia |
+| GHS | 936 | 2 | Ghanaian cedi | Ghana |
+| GIP | 292 | 2 | Gibraltar pound | Gibraltar |
+| GMD | 270 | 2 | Gambian dalasi | Gambia |
+| GNF | 324 | 0 | Guinean franc | Guinea |
+| GTQ | 320 | 2 | Guatemalan quetzal | Guatemala |
+| GYD | 328 | 2 | Guyanese dollar | Guyana |
+| HKD | 344 | 2 | Hong Kong dollar | Hong Kong Special Administrative Region , Macau Special Administrative Region |
+| HNL | 340 | 2 | Honduran lempira | Honduras |
+| HTG | 332 | 2 | Haitian gourde | Haiti |
+| HUF | 348 | 2 | Hungarian forint | Hungary |
+| IDR | 360 | 0 | Indonesian rupiah | Indonesia |
+| ILS | 376 | 2 | Israeli new sheqel | Israel , Palestine |
+| INR | 356 | 2 | Indian rupee | Bhutan , India , Nepal |
+| IQD | 368 | 3 | Iraqi dinar | Iraq |
+| IRR | 364 | 0 | Iranian rial | Iran |
+| ISK | 352 | 0 | Icelandic króna | Iceland |
+| JMD | 388 | 2 | Jamaican dollar | Jamaica |
+| JOD | 400 | 3 | Jordanian dinar | Jordan |
+| JPY | 392 | 0 | Japanese yen | Japan |
+| KES | 404 | 2 | Kenyan shilling | Kenya |
+| KGS | 417 | 2 | Kyrgyzstani som | Kyrgyzstan |
+| KHR | 116 | 0 | Cambodian riel | Cambodia |
+| KMF | 174 | 0 | Comoro franc | Comoros |
+| KPW | 408 | 0 | North Korean won | North Korea |
+| KRW | 410 | 0 | South Korean won | South Korea |
+| KWD | 414 | 3 | Kuwaiti dinar | Kuwait |
+| KYD | 136 | 2 | Cayman Islands dollar | Cayman Islands |
+| KZT | 398 | 2 | Kazakhstani tenge | Kazakhstan |
+| LAK | 418 | 0 | Lao kip | Laos |
+| LBP | 422 | 0 | Lebanese pound | Lebanon |
+| LKR | 144 | 2 | Sri Lanka rupee | Sri Lanka |
+| LRD | 430 | 2 | Liberian dollar | Liberia |
+| LSL | 426 | 2 | Lesotho loti | Lesotho |
+| LVL | 428 | 2 | Latvian lats | Latvia |
+| LYD | 434 | 3 | Libyan dinar | Libya |
+| MAD | 504 | 2 | Moroccan dirham | Morocco , Western Sahara |
+| MDL | 498 | 2 | Moldovan leu | Moldova (except Transnistria ) |
+| MGA | 969 | 2 | Malagasy ariary | Madagascar |
+| MKD | 807 | 2 | Macedonian denar | Republic of North Macedonia |
+| MMK | 104 | 0 | Myanma kyat | Myanmar |
+| MNT | 496 | 2 | Mongolian tugrik | Mongolia |
+| MOP | 446 | 1 | Macanese pataca | Macau Special Administrative Region |
+| MRU | 478 | 2 | Mauritanian ouguiya | Mauritania |
+| MUR | 480 | 2 | Mauritian rupee | Mauritius |
+| MVR | 462 | 2 | Maldivian rufiyaa | Maldives |
+| MWK | 454 | 2 | Malawian kwacha | Malawi |
+| MXN | 484 | 2 | Mexican peso | Mexico |
+| MXV | 979 | 2 | Mexican Unidad de Inversion (UDI) (funds code) | Mexico |
+| MYR | 458 | 2 | Malaysian ringgit | Malaysia |
+| MZN | 943 | 2 | Mozambican metical | Mozambique |
+| NAD | 516 | 2 | Namibian dollar | Namibia |
+| NGN | 566 | 2 | Nigerian naira | Nigeria |
+| NIO | 558 | 2 | Cordoba oro | Nicaragua |
+| NOK | 578 | 2 | Norwegian krone | Norway , Bouvet Island , Queen Maud Land , Peter I Island |
+| NPR | 524 | 2 | Nepalese rupee | Nepal |
+| NZD | 554 | 2 | New Zealand dollar | Cook Islands , New Zealand , Niue , Pitcairn , Tokelau |
+| OMR | 512 | 3 | Omani rial | Oman |
+| PAB | 590 | 2 | Panamanian balboa | Panama |
+| PEN | 604 | 2 | Peruvian nuevo sol | Peru |
+| PGK | 598 | 2 | Papua New Guinean kina | Papua New Guinea |
+| PHP | 608 | 2 | Philippine peso | Philippines |
+| PKR | 586 | 2 | Pakistani rupee | Pakistan |
+| PLN | 985 | 2 | Polish złoty | Poland |
+| PYG | 600 | 0 | Paraguayan guaraní | Paraguay |
+| QAR | 634 | 2 | Qatari rial | Qatar |
+| RON | 946 | 2 | Romanian new leu | Romania |
+| RSD | 941 | 2 | Serbian dinar | Serbia |
+| RUB | 643 | 2 | Russian rouble | Russia , Abkhazia , South Ossetia |
+| RWF | 646 | 0 | Rwandan franc | Rwanda |
+| SAR | 682 | 2 | Saudi riyal | Saudi Arabia |
+| SBD | 090 | 2 | Solomon Islands dollar | Solomon Islands |
+| SCR | 690 | 2 | Seychelles rupee | Seychelles |
+| SDG | 938 | 2 | Sudanese pound | Sudan |
+| SEK | 752 | 2 | Swedish krona /kronor | Sweden |
+| SGD | 702 | 2 | Singapore dollar | Singapore , Brunei |
+| SHP | 654 | 2 | Saint Helena pound | Saint Helena |
+| SLL | 694 | 0 | Sierra Leonean leone | Sierra Leone |
+| SOS | 706 | 2 | Somali shilling | Somalia (except Somaliland ) |
+| SRD | 968 | 2 | Surinamese dollar | Suriname |
+| STD | 678 | 0 | São Tomé and Príncipe dobra | São Tomé and Príncipe |
+| SYP | 760 | 2 | Syrian pound | Syria |
+| SZL | 748 | 2 | Lilangeni | Swaziland |
+| THB | 764 | 2 | Thai baht | Thailand |
+| TJS | 972 | 2 | Tajikistani somoni | Tajikistan |
+| TMT | 934 | 2 | Turkmenistani manat | Turkmenistan |
+| TND | 788 | 3 | Tunisian dinar | Tunisia |
+| TOP | 776 | 2 | Tongan paʻanga | Tonga |
+| TRY | 949 | 2 | Turkish lira | Turkey , Northern Cyprus |
+| TTD | 780 | 2 | Trinidad and Tobago dollar | Trinidad and Tobago |
+| TWD | 901 | 1 | New Taiwan dollar | Taiwan and other islands that are under the effective control of the Republic of China (ROC) |
+| TZS | 834 | 2 | Tanzanian shilling | Tanzania |
+| UAH | 980 | 2 | Ukrainian hryvnia | Ukraine |
+| UGX | 800 | 0 | Ugandan shilling | Uganda |
+| USD | 840 | 2 | United States dollar | American Samoa , British Indian Ocean Territory , Ecuador , El Salvador , Guam , Haiti , Marshall Islands , Micronesia , Northern Mariana Islands , Palau , Panama , Puerto Rico , Timor-Leste , Turks and Caicos Islands , United States , Virgin Islands , Bermuda (as well as Bermudian Dollar ) |
+| USN | 997 | 2 | United States dollar (next day) (funds code) | United States |
+| UYU | 858 | 2 | Uruguayan peso | Uruguay |
+| UZS | 860 | 2 | Uzbekistan som | Uzbekistan |
+| VEF | 937 | 2 | Venezuelan bolívar fuerte | Venezuela |
+| VND | 704 | 0 | Vietnamese đồng | Vietnam |
+| VUV | 548 | 0 | Vanuatu vatu | Vanuatu |
+| WST | 882 | 2 | Samoan tala | Samoa |
+| XAF | 950 | 0 | CFA franc BEAC | Cameroon , Central African Republic , Republic of the Congo , Chad , Equatorial Guinea , Gabon |
+| XAG | 961 | — | Silver (one troy ounce ) |  |
+| XAU | 959 | — | Gold (one troy ounce ) |  |
+| XBA | 955 | — | European Composite Unit | (EURCO) (bond market unit) |
+| XBB | 956 | — | European Monetary Unit | (E.M.U.-6) (bond market unit) |
+| XBC | 957 | — | European Unit of Account 9 | (E.U.A.-9) (bond market unit) |
+| XBD | 958 | — | European Unit of Account 17 | (E.U.A.-17) (bond market unit) |
+| XCD | 951 | 2 | East Caribbean dollar | Anguilla , Antigua and Barbuda , Dominica , Grenada , Montserrat , Saint Kitts and Nevis , Saint Lucia , Saint Vincent and the Grenadines |
+| XDR | 960 | — | Special Drawing Rights | International Monetary Fund |
+| XFU | Nil | — | UIC franc (special settlement currency) | International Union of Railways |
+| XOF | 952 | 0 | CFA Franc BCEAO | Benin , Burkina Faso , Côte d'Ivoire , Guinea-Bissau , Mali , Niger , Senegal , Togo |
+| XPD | 964 | — | Palladium | (one troy ounce ) |
+| XPF | 953 | 0 | CFP franc | French Polynesia , New Caledonia , Wallis and Futuna |
+| XPT | 962 | — | Platinum | (one troy ounce ) |
+| XTS | 963 | — |  | Code reserved for testing purposes |
+| XXX | 999 | — |  | No currency |
+| YER | 886 | 0 | Yemeni rial | Yemen |
+| ZAR | 710 | 2 | South African rand | South Africa |
+| ZMK | 894 | 0 | Zambian kwacha | Zambia |
+| ZWL | 932 | 2 | Zimbabwe dollar | Zimbabwe |
+
+## Table 2
+| Kood | Num | E [ 1 ] | Lacagta | Goobaha lacagtan lagu isticmaalo | Xusuusin |
+| --- | --- | --- | --- | --- | --- |
+| BTC | Nil | 8 [ 2 ] | Bitcoin | Global (internet-based, anonymous electronic money ) | Loo isticmaalo goobaha ganacsiga ee Bitcoin, iyo waraaqaha mashruuca Bitcoin ee rasmiga ah [ 2 ] [ 3 ] |
+
+## Table 3
+| Koodhka | Tirada | E [ 1 ] | Lacagta | Ka | ilaa -01-01 | Waxaa bedelay |
+| --- | --- | --- | --- | --- | --- | --- |
+| ADF | … | 2 | Andorran franc (1:1 lacagta faransiiska) | ? | 1999 | EUR |
+| ADP | 020 | 0 | Andorran peseta (1:1 ku dhufo Spanish peseta ) | ? | 1999 |
+| ATS | 040 | 2 | Austrian schilling | 1945 | 1999 |
+| BEF | 056 | 1 | Belgian franc (Ururka lacagta ee LUF) | 1832 | 1999 |
+| CUC | 931 | 2 | Cuban convertible peso | 1994 | 2022 | CUP |
+| CYP | 196 | 2 | Cypriot pound | 1879 | 2008 |
+| DEM | 276 | 2 | German mark | 1948 | 1999 |
+| ESP | 724 | 0 | Spanish peseta | 1869 | 1999 |
+| FIM | 246 | 2 | Finnish markka | 1860 | 1999 |
+| FRF | 250 | 2 | French franc | 1960 | 1999 |
+| GRD | 300 | 0 | Greek drachma | 1954 | 2001 |
+| HRK | 191 | 2 | Croatian kuna | 1992 | 2023 |
+| IEP | 372 | 2 | Irish pound (ku qor afka Irishka) | 1938 | 1999 |
+| ITL | 380 | 0 | Italian lira | 1861 | 1999 |
+| LTL | 440 | 2 | Lithuanian litas | 1992 | 2015 |
+| LUF | 442 | 1 | Luxembourg franc midowga lacagta leh ( BEF) | 1944 | 1999 |
+| MCF | … | 1 | Monegasque franc (midowga lacagta lehFRF) | 1960 | 1999 |
+| MTL | 470 | 2 | Maltese lira | 1968 [ 4 ] | 2008 |
+| NLG | 528 | 2 | Netherlands guilder | 1810s | 1999 |
+| PTE | 620 | 0 | Portuguese escudo | 1911-05-22 | 1999 |
+| SIT | 705 | 1 | Slovenian tolar | 1991-10-08 | 2007 |
+| SKK | 703 | 1 | Slovak koruna | 1993-02-08 | 2009 |
+| SML | … | 0 | San Marinese lira (Ururka lacagta ee ITL iyo VAL) | 1864 | 1999 |
+| VAL | … | 0 | Vatican lira (Ururka lacagta ee ITL iyo SML | 1929 | 1999 |
+| XEU | 954 | . | European Currency Unit (1 XEU = 1 EUR) | ? | 1999 |
+
+## Table 4
+| Code | Num | E [ 1 ] | Currency | From | Until | Replaced by |
+| --- | --- | --- | --- | --- | --- | --- |
+| AFA | 004 |  | Afghan afghani | 1925 | 2003 | AFN |
+| AON | 024 | 0 | Angolan new kwanza | 1990 | 1995 | AOR |
+| AOR | 982 | 0 | Angolan kwanza readjustado | 1995 | 1999 | AOA |
+| ARL | … | 2 | Argentine peso ley | 1970-01-01 | 1983-05-05 | ARP |
+| ARP | … | 2 | Argentine peso argentino | 1983-06-06 | 1985-06-14 | ARA |
+| ARA | … | 2 | Argentine austral | 1985-06-15 | 1991-12-31 | ARS |
+| AZM | 031 | 0 | Azerbaijani manat | 1992-08-15 | 2006-01-01 | AZN |
+| BDT |  | 1 | Bangladeshi Taka | February 1972 | Still in use | — |
+| BGL | 100 | 2 | Bulgarian lev A/99 | 1962 | 1999-07-05 | BGN |
+| BOP | … | 2 | Bolivian peso | 1963-01-01 | 1987-01-01 | BOB |
+| BRB | … | 2 | Brazilian cruzeiro novo | 1967 | 1986 | BRC |
+| BRC | … | 2 | Brazilian cruzado | 1986 | 1989 | BRN |
+| BRE | … | 2 | Brazilian cruzeiro | 1990 | 1993 | BRR |
+| BRN | … | 2 | Brazilian cruzado novo | 1989-01-15 | 1990-03-15 | BRE |
+| BRR | … | 2 | Brazilian cruzeiro real | 1993-08-01 | 1994 | BRL |
+| CSD | 891 | 2 | Serbian dinar | 2003-07-03 | 2006 | RSD |
+| CSK | 200 |  | Czechoslovak koruna | ? | 1993-02-08 | CZK and SKK |
+| DDM | 278 |  | East German Mark ee ah GDR (Bari Jarmalka) | 1948-06-21 | 1990-07-01 | DEM |
+| ECS | 218 | 0 | Ecuadorian sucre | ? | 2000 | USD |
+| ECV | 983 | . | Ecuador Unidad de Valor Constante (code sanduuqa) (la joojiyay) | 1993 | 2000-01-09 | — |
+| GQE | … |  | Equatorial Guinean ekwele | 1975 | 1985 | XAF |
+| ESA | 996 |  | Spanish peseta (account A) | ? | ? | ESP |
+| ESB | 995 |  | peseta Isbaanishka (koontada B) | ? | ? | ESP |
+| GNE | … |  | Guinean syli | 1971 | 1985 | GNF |
+| GHC | 288 | 0 | Ghanaian cedi | 1967 | 2007-07-01 | GHS |
+| GWP | 624 |  | Guinea-Bissau peso | 1975 | 1997 | XOF |
+| ILP | … | 3, 2 | Israeli lira | 1948 | 1980 | ILR |
+| ILR | … | 2 | Israeli shekel | 1980-02-24 | 1985-12-31 | ILS |
+| ISJ | … | 0 | Icelandic old krona | ? | 1981 | ISK |
+| LAJ | … |  | Lao kip | ? | 1979 | LAK |
+| MAF | … | – | Moroccan franc | 1921 | 1960–1976 | MADeu |
+| MGF | 450 |  | Malagasy franc | 1963-07-01 | 2005-01-01 | MGA |
+| MKN | … |  | Old Macedonian denar A/93 | ? | 1993 | MKD |
+| MLF | … |  | Mali franc | ? | 1984 | XOF |
+| MVQ | … |  | Maldivian rupee | ? | 1981 | MVR |
+| MXP | … |  | Mexican peso | ? | 1993 | MXN |
+| MZM | 508 | 0 | Mozambican metical | 1980 | 2006-06-30 | MZN |
+| NFD | … | 2 | Newfoundland dollar | 1865 | 1949 | CAD |
+| PEH | … |  | Peruvian sol | 1863 | 1985-02-01 | PEI |
+| PEI | … |  | Peruvian inti | 1985-02-01 | 1991-10-01 | PEN |
+| PLZ | 616 |  | Polish zloty A/94 | ? | 1995 | PLN |
+| ROL | 642 |  | Romanian leu A/05 | ? | 2005 | RON |
+| RUR | 810 |  | Russian rouble A/97 | 1992 | 1997-12-31 | RUB |
+| SDD | 736 |  | Sudanese dinar | 1992-06-08 | 2007-01-10 | SDG |
+| SRG | 740 |  | Suriname guilder | ? | 2004 | SRD |
+| SUR | … |  | Soviet Union rouble | 1961 | 1991 | RUR |
+| SVC | 222 | 2 | Salvadoran colón | 1892 | 2001 | USD |
+| TJR | 762 |  | Tajikistani ruble | 1995-05-10 | 2000-10-30 | TJS |
+| TMM | 795 | 0 | Turkmenistani manat | 1993-11-01 | 2008-12-31 | TMT |
+| TRL | 792 | 0 | Turkish lira A/05 | ? | 2005 | TRY |
+| UAK | 804 |  | Ukrainian karbovanets | ? | 1996-09-02 | UAH |
+| UGS | … |  | Ugandan shilling A/87 | ? | 1987 | UGX |
+| USS | 998 | 2 | Doolarka Maraykanka (isku maalin) (koodhka lacagaha) |  |  | — |
+| UYN | … |  | Uruguay old peso | ? | 1993-03-01 | UYU |
+| VEB | 862 | 2 | Venezuelan bolívar | ? | 2008-01-01 | VEF |
+| XFO | … |  | Gold franc (lacagta dejinta gaarka ah) | ? | 2003 | XDR |
+| YDD | 720 |  | South Yemeni dinar | ? | 1996-06-11 | YER |
+| YUD | … | 2 | Yugoslav dinar | 1966-01-01 | 1989-12-31 | YUN |
+| YUN | … | 2 | Yugoslav dinar | 1990-01-01 | 1992-06-30 | YUR |
+| YUR | … | 2 | Yugoslav dinar | 1992-07-01 | 1993-09-30 | YUO |
+| YUO | … | 2 | Yugoslav dinar | 1993-10-01 | 1993-12-31 | YUG |
+| YUG | … | 2 | Yugoslav dinar | 1994-01-01 | 1994-01-23 | YUM |
+| YUM | 891 | 2 | Yugoslav dinar | 1994-01-24 | 2003-07-02 | CSD |
+| ZAL | 991 | . | Koonfur Afrika financial rand (code sanduuqa) (la joojiyay) | 1985-09-01 | 1995-03-13 | — |
+| ZRN | 180 | 2 | Zaïrean new zaïre | 1993 | 1997 | CDF |
+| ZRZ | … | 3 | Zaïrean zaïre | 1967 | 1993 | ZRN |
+| ZWC | … | 2 | Rhodesian dollar | 1970-02-17 | 1980 | ZWD |
+| ZWD | 716 | 2 | Zimbabwean dollar A/06 | 1980-04-18 | 2006-07-31 | ZWN |
+| ZWN | 942 | 2 | Zimbabwean dollar A/08 | 2006-08-01 | 2008-07-31 | ZWR |
+| ZWR | 935 | 2 | Zimbabwean dollar A/09 | 2008-08-01 | 2009-02-02 | ZWL |

@@ -1,0 +1,8 @@
+title:
+1976
+
+url:
+https://so.wikipedia.org/wiki?curid=2203
+
+text:
+&lt;a href="1975"&gt;1975&lt;/a&gt; - 1976 - &lt;a href="1977"&gt;1977&lt;/a&gt;

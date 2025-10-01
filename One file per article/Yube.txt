@@ -1,0 +1,44 @@
+title:
+Yube
+
+url:
+https://so.wikipedia.org/wiki?curid=6535
+
+text:
+Yube waa degmo ku taalo gobolka Sanaag ee dalka Somalia .Magaalada Yubbe waa tuulo ku taalla gobolka Sanaag ee waqooyi-bari Soomaaliya. Waxay caan ku tahay taariikhda deegaanka, dhaqanka, iyo doorkeeda deegaanka ee gobolka Sanaag. Yubbe waxay leedahay dhul buuraley ah, waxaana ku dhow buuraha Golis, taas oo ka dhigaysa meel leh cimilo qabow marka loo eego magaalooyinka kale ee gobolka.
+
+,
+
+Yube
+
+Ciidanka Qalabka Sida ee Somaliland Yube Somaliland
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Region**: Sanaag
+- **District**: Erigavo
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Yubbe |
+| --- |
+| Town |
+| Residential area in Yubbe. |
+|  |
+| Nickname(s): Land of the Grandfathers (أرض الأجــداد) |
+| Yubbe Location in Somalia. |
+| Coordinates: 10°44′51″N 47°55′09″E ﻿ / ﻿ 10.74750°N 47.91917°E ﻿ / 10.74750; 47.91917 Coordinates : 10°44′51″N 47°55′09″E ﻿ / ﻿ 10.74750°N 47.91917°E ﻿ / 10.74750; 47.91917 |
+| Country | Somaliland |
+| Region | Sanaag |
+| District | Erigavo |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+10.74750; 47.91917

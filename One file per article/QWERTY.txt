@@ -1,0 +1,11 @@
+title:
+QWERTY
+
+url:
+https://so.wikipedia.org/wiki?curid=18371
+
+text:
+QWERTY waa naqshada keybordhka ee ugu casrisan wakhti xaadirkan, kaasi oo loo isticmaalo waxqorista koombuyuterka.
+Magaca QWERTY waxaa laga soo xigtay xarfaha sare ee bidix oo la isku daray: Q, W, E, R, T, iyo Y.
+=Qoraalo Kale=
+=Tixraac=

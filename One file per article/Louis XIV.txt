@@ -1,0 +1,41 @@
+title:
+Louis XIV
+
+url:
+https://so.wikipedia.org/wiki?curid=36575
+
+text:
+Louis XIV Waxa uu ku dhashay Saint German gudaha [[5 Sebtembar 1638 wuxuuna ku dhintay Versailles 1 Sebtembar 1715.
+Waxa uu boqor ka ahaa Faransiiska iyo Navarre, muddo 72 sano ah, isagoo heysta xukunkii ugu dheeraa taariikhda, xukunkiisa waxaa astaan ​​u ah dagaallo iyo astaamiyad xooggan.
+
+http://www.royal.gov.fr [ dead link ]
+
+
+# Infobox
+
+- **ka horeeyay**: Louis XIII
+- **Ku xigay**: Louis XV
+- **Dhashay**: Sebtembar 5, 1638
+- **Dhintay**: Sebtembar 1, 1715
+
+
+# Tables
+
+## Table 1
+| Louis Dieudonné bourbon |
+| --- |
+|  |
+|  |
+| Boqorka Faransiiska |
+| Ambassador to Welcome |
+| Xafiiska May 14, 1643 – Sebtembar 1, 1715 |
+| ka horeeyay | Louis XIII |
+| Ku xigay | Louis XV |
+|  |
+| Faahfaahin shaqsiyadeed |
+| Dhashay | Sebtembar 5, 1638 |
+| Dhintay | Sebtembar 1, 1715 |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Louis XIV |
+| --- | --- |

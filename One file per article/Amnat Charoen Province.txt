@@ -1,0 +1,43 @@
+title:
+Amnat Charoen Province
+
+url:
+https://so.wikipedia.org/wiki?curid=25713
+
+text:
+Amnat Charoen (Thai: อำนาจเจัง เพื่อน ออนาจเจิง), waa magaalo ku taal Thailand, caasimadda gobolka Amnat Charoen. Waxay qabataa qaybo ka mid ah degmada Bung ee degmada Mueang Amnat Charoen. Magaaladu waa 590 km east-northeast of Bangkok
+
+
+# Infobox
+
+- **Country**: Thailand
+- **Province**: Amnat Charoen Province
+- **District**: Mueang Amnat Charoen district
+- **Area**: 15 sq mi (38 km 2 )
+- **• Dhammaan**: 26,118
+- **Aag saacadeed**: UTC+7 ( ICT )
+- **Website**: http://amnatmu.go.th/
+
+
+# Tables
+
+## Table 1
+| Amnat Charoen อำนาจเจริญ |
+| --- |
+| Town |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Thailand" does not exist. |
+| Coordinates: 15°51′N 104°38′E ﻿ / ﻿ 15.850°N 104.633°E ﻿ / 15.850; 104.633 |
+| Country | Thailand |
+| Province | Amnat Charoen Province |
+| District | Mueang Amnat Charoen district |
+| Area | 15 sq mi (38 km 2 ) |
+| Tirada dadka (2009) [ 1 ] |
+| • Dhammaan | 26,118 |
+| Aag saacadeed | UTC+7 ( ICT ) |
+| Website | http://amnatmu.go.th/ |
+
+
+
+# Coordinates
+15.850; 104.633

@@ -1,0 +1,8 @@
+title:
+Nagykáta
+
+url:
+https://so.wikipedia.org/wiki?curid=34192
+
+text:
+&lt;a href="Nagyk%C3%A1ta"&gt;Nagykáta&lt;/a&gt; - magaalo ku taal &lt;a href="Hungary"&gt;Hungary&lt;/a&gt;, oo ku taal Degmada Cayayaanka, oo ah fadhiga dawladda Gobolka Nagykáta.

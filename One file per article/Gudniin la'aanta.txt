@@ -1,0 +1,8 @@
+title:
+Gudniin la'aanta
+
+url:
+https://so.wikipedia.org/wiki?curid=27474
+
+text:
+Gudniin la'aanta wa marka maqaarka &lt;a href="gus"&gt;gus&lt;/a&gt;ka wili la jarin.

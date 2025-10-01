@@ -1,0 +1,10 @@
+title:
+Talaado
+
+url:
+https://so.wikipedia.org/wiki?curid=2058
+
+text:
+Talaado waa maalin usbuuceed, waxeyna u dhaxaysaa &lt;a href="Isniin"&gt;Isniin&lt;/a&gt;ta iyo &lt;a href="arbaco"&gt;Arbacada&lt;/a&gt;.
+Talaado waa maalinta afaraad ee usbuuca dhicana istandharka ISO 8601 waxay ka tahay maalinta labaad ee usbuuca.
+luqada Ingiriiska waxaa lagu yiraahdaa Tuesday, mida Finnishakana Tiistai

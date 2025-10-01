@@ -1,0 +1,41 @@
+title:
+Tirignoometeri
+
+url:
+https://so.wikipedia.org/wiki?curid=11687
+
+text:
+Tirignoometeri ( Af Ingiriis : Trigonometry ; Talyaani : Trigonometria; Af Carabi : لاسعانود ‎) waa xaqiiqooyin iyo xeerar ka dhexeeya saddex-xagallada dhinacyadooda iyo xaglahooda. Waxa kale oo tirignoometeriga lagu isticmaalaa warshadaha, sahminta dhulka iyo sayniskaba.
+
+Xiddigta innoogu dhawi waxay inoo jirtaa 4.1 sanad ilays (sanad ilays waa fogaanta ilaysku socdo muddo sanad ah iyadoo uu sekenkiiba gooynayo 186,000 mayl). Markaa 4.1 sanad ilays wuxuu la mid yahay, haddii aan kiiloomitir ku sheegno 38,400,000,000 km.
+Haddaba sideebaa loo qiyaasay fogaanta intaa le'eg? Waxaa lagu soo saaray qaybta xisaabta loo yaqaan trignoometeri.
+
+Saddexagallo Xagal Qumman
+
+Sida la ogyahay saddexda dhinac ee saddexagalka xagasha qummani ay xiriir leeyihiin , taasoo ahayd in shakaalka dhinaca u dheer oo labdajibaarani uu le'eg yahay wadarta labajibbarrada ee labada dhinac ee kale.
+
+S 2 = a 2 + b 2
+
+Jidkaan wuxuu inoo suura gelinayaa in aynu dhinaca maqan raadin karno haddii aynu haysanno labada dhinac ee kale.
+
+Haddii dhawr saddexagal oo xagal qumani ay xagal fiiqan iska le'eg yihiin, markaa dhammaan waa in ay isku qaab noqdaan. Waxaa la yiraahdaa saddexagallo isu eg. Waayo hore ayaynu uqaadanay, in haddii laba saddexagal is xaglo le'ekaadaan ay markaa isu egyihiin. Sidaa daraadeed laba saddexagal xaglo qumman oo kasta haddii ay isu egyihiin, saamiyada laba dhinac ee midkood waa inuu le'ekaadaa saamiga dhinacyada kale ee kuwaas la gudboon. Tusaale ahaan shaxanka File:Saddex-Xagal.JPG
+
+Waxaan aragnaa in saamiyaashu iswada le'eg yihiin. Dhamaantood waa dhinaca ka soo horjeeda xagasha fiiqan 30 ° ah oo loo qaybshay shakaalka.
+
+waana qaabkaan:
+
+1) Shakaal = dhinaca ugu dheer ee xagasha qumman ka horjeeda.
+
+2) Deris = dhinaca xiga xagasha fiiqan ee lagu siiyo.
+
+3) Horjeede = dhinaca xagasha fiiqan ee lagu siiyo ka soo horjeeda.
+
+Aragtiinka Baytagoras
+
+Saamiyada tirignoometeriga
+
+B C A C {\displaystyle {\frac {BC}{AC}}} = F E D F {\displaystyle {\frac {FE}{DF}}} = I H G I {\displaystyle {\frac {IH}{GI}}}
+
+ama 1 2 {\displaystyle {\frac {1}{2}}} = 1.6 3.2 {\displaystyle {\frac {1.6}{3.2}}} = 3 6 {\displaystyle {\frac {3}{6}}}
+
+1 2 {\displaystyle {\frac {1}{2}}} = 1 2 {\displaystyle {\frac {1}{2}}} = 1 2 {\displaystyle {\frac {1}{2}}}

@@ -1,0 +1,8 @@
+title:
+Dodo
+
+url:
+https://so.wikipedia.org/wiki?curid=18850
+
+text:
+Dodo waa shimbir u eg &lt;a href="Dooro"&gt;Dooro&lt;/a&gt; caga-weynta balse aad uga weynaa oo waa hore &lt;a href="Dabar%20go%27"&gt;Dabar go'ay&lt;/a&gt;.

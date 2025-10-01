@@ -1,0 +1,55 @@
+title:
+Jorja Smith
+
+url:
+https://so.wikipedia.org/wiki?curid=34789
+
+text:
+Jorja Alice Smith (dhashay 11 Juun 1997) waa heesaa Ingiriis ah. waxay qoraysay heeso ilaa da'da 11. Sannadkii 2012, saaxiibkii Smith ayaa daboolka ka qaaday YouTube , taas oo keentay in ay hesho soo saaraha rikoodhka Guy Moot.
+
+Xiriirinta dibedda
+
+FAMM
+
+Ezra Collective
+
+Joel Compass
+
+Maverick Sabre
+
+WorldCat Identities
+
+VIAF : 8104151965346100470002
+
+LCCN : no2018018959
+
+ISNI : 0000 0004 6709 6983
+
+BNF : cb17810528g (data)
+
+MusicBrainz : d62614aa-ef2c-44cd-8a7b-91292755a1d0
+
+
+# Infobox
+
+- **Magaca dhalashada**: Jorja Alice Smith
+- **Dhashay**: ( 1997-06-11 ) 11 Juun 1997 ( 28jir)
+- **Sanadaha Shaqada**: 2016–hada
+- **Calaamadaha**: FAMM
+- **Falalka la xiriira**: Ezra Collective Joel Compass Maverick Sabre
+- **Website**: jorjasmith.com
+
+
+# Tables
+
+## Table 1
+| Jorja Smith |
+| --- |
+| Smith ee 2018 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Jorja Alice Smith |
+| Dhashay | ( 1997-06-11 ) 11 Juun 1997 ( 28jir) |
+| Sanadaha Shaqada | 2016–hada |
+| Calaamadaha | FAMM |
+| Falalka la xiriira | Ezra Collective Joel Compass Maverick Sabre |
+| Website | jorjasmith.com |

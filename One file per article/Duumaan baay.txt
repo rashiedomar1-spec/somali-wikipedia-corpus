@@ -1,0 +1,46 @@
+title:
+Duumaan baay
+
+url:
+https://so.wikipedia.org/wiki?curid=36487
+
+text:
+Al-ashraf  abuu nasri duumaan baay (afka carabiga; الأشرف أبو النصر طومان باي) waa kii ugu dambeeyay boqorada mamaaliikta, waxa lagu daldalay albaabka zuweyla hortiisa 922H\1517
+
+ka hor xilka
+
+Qabashada xilka
+
+Iska caabinta cusmaaniyiinta
+
+Dilkii duumaan baay
+
+
+# Infobox
+
+- **Xilka**: 17 Oktoober 1516 – 15 Abriil 1517
+- **Coronation**: 1516, qaahiro
+- **Ka horeeyay**: Qaansuu alguuri
+- **Ku xigay**: Cusmaaniyiinta
+- **Dhashay**: 1476
+- **Dhintey**: Abril 15, 1517 (40–41jir) Qaahiro , dawladii cusmaaniyiinta
+- **Saldanad**: Dawladii Mamaaliikta
+- **Diinta**: Sunni Islam
+
+
+# Tables
+
+## Table 1
+| Ashraf duuman bay |
+| --- |
+| Sawirka duumaan baay ee Paolo Giovio |
+| Suldaanka mamaaliikta ee masar iyo shaam |
+| Xilka | 17 Oktoober 1516 – 15 Abriil 1517 |
+| Coronation | 1516, qaahiro |
+| Ka horeeyay | Qaansuu alguuri |
+| Ku xigay | Cusmaaniyiinta |
+|  |
+| Dhashay | 1476 |
+| Dhintey | Abril 15, 1517 (40–41jir) Qaahiro , dawladii cusmaaniyiinta |
+| Saldanad | Dawladii Mamaaliikta |
+| Diinta | Sunni Islam |

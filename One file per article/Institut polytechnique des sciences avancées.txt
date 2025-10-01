@@ -1,0 +1,8 @@
+title:
+Institut polytechnique des sciences avancées
+
+url:
+https://so.wikipedia.org/wiki?curid=17177
+
+text:
+Institut polytechnique des sciences avancées waxa ay ku taala magaalada &lt;a href="Toulouse"&gt;Toulouse&lt;/a&gt;, &lt;a href="Lyon"&gt;Lyon&lt;/a&gt;, &lt;a href="Marseille"&gt;Marseille&lt;/a&gt; iyo &lt;a href="Ivry-sur-Seine"&gt;Ivry-sur-Seine&lt;/a&gt;, &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt;.

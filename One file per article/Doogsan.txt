@@ -1,0 +1,43 @@
+title:
+Doogsan
+
+url:
+https://so.wikipedia.org/wiki?curid=32588
+
+text:
+Waa degmo ka tirsan gobalka Mudug
+
+Tixraac
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Region**: Mudug
+- **District**: Doogsan
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Doogsan |
+| --- |
+| Town |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somalia |
+| Region | Mudug |
+| District | Doogsan |
+| Dowlada |
+| Aag saacadeed | UTC+3 ( EAT ) |

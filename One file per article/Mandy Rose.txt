@@ -1,0 +1,33 @@
+title:
+Mandy Rose
+
+url:
+https://so.wikipedia.org/wiki?curid=34758
+
+text:
+Amanda Rose Saccomanno (dhashay Luuliyo 18, 1990) [ 1 ] [ 2 ] waa legdan Maraykan ah.
+
+
+# Infobox
+
+- **Birth name**: Amanda Rose Saccomanno
+- **Born**: ( 1990-07-18 ) Luuliyo 18, 1990 ( 35jir)
+- **Ring name(s)**: Mandy Rose
+- **Billed from**: Yorktown Heights, New York
+- **Trained by**: Booker T
+- **Debut**: Agoosto 25, 2015 ( 2015-08-25 )
+
+
+# Tables
+
+## Table 1
+| Mandy Rose |
+| --- |
+| Rose ee 2016 |
+| Birth name | Amanda Rose Saccomanno |
+| Born | ( 1990-07-18 ) Luuliyo 18, 1990 ( 35jir) |
+| Professional wrestling career |
+| Ring name(s) | Mandy Rose |
+| Billed from | Yorktown Heights, New York |
+| Trained by | Booker T |
+| Debut | Agoosto 25, 2015 ( 2015-08-25 ) |

@@ -1,0 +1,29 @@
+title:
+Gunbur
+
+url:
+https://so.wikipedia.org/wiki?curid=8647
+
+text:
+Gunbur ama Baramiid waa joomateri ay masaaxad saleedkiisu tahay saddexagal ama labajibbaarane, masaaxada dhinacyadiisuna yihiin dhowr saddexagal oo ku kulma cirif qur ah.
+
+Bedka xaddidan: wadarta bedadka masaaxada salka iyo masaaxada dhinacyada. 
+Bedka Dhinacyada isku beegan ee Baramiid Quman:-
+
+Kaba soo qaad (p) Waa wareega salka, (h) Jooga iskasoo horjeeda ee dhinacyada, (B) Bedka salka (d) asigoo madaxa laga jaray
+
+Mugga Baramiid kasta cabirkiisu waa 1 3 B h {\displaystyle {\frac {1}{3}}Bh} (B) Waa Bedka Salka (h) waa Jooga Gunburka
+
+Mugga Baramiidka Kala dhiman ama qabyada gabaleedka ah waa
+
+Halka (h) Jooga iyo B 1 Bedka selka koowaad iyo B 2
+
+Kaba soo qaad Wareega Salka (P) Joogga dhinacyeda isku beegan (h) waxa uu noqonayaa bedka Dhinacyada isku beegan ee Gunbur quman sidaan 1 2 × P × h {\displaystyle {\frac {1}{2}}\times P\times h}
+
+Dhinacyada iska soo horjeeda = Tirada guud ee dhinacyada salka
+
+Tirada xarfaka ku suntan = Tirada madxaha ee salka
+
+Jooga Gunbur = Xariiqa lasamaynaya salka xagal Quman kuna xiran madaxa
+
+Bedka Gunburka salka midka uga eg d 2 h 2 × B {\displaystyle {\frac {d^{2}}{h^{2}}}\times B}

@@ -1,0 +1,57 @@
+title:
+Niini Dance
+
+url:
+https://so.wikipedia.org/wiki?curid=34093
+
+text:
+Niini Dance (dhashay Nadiifa ) [ 1 ] waa fannaanad iyo raaber Soomaaliyeed, ku caan baxay heesaheeda, " Balaq Balaq ", " Labo Koob Caano ", " Quraacda Kari " iyo " 5ta Somali ".
+
+Nolosha shaqsiyeed
+
+Niini Dance waxay ku nooshahay Muqdisho waxayna u dhashay hal wiil.
+
+Filmografi
+
+Telefishanka
+
+Raab
+
+Fanka Soomaalida
+
+
+# Infobox
+
+- **Ku dhashay**: Nadiifa Soomaaliya
+- **Naanees**: Nadiifa NiiNi Nuurto
+- **Ilmaha**: 1
+- **Nooca fanka**: Raab Fanka Soomaalida
+- **shaqada**: Raaber
+- **Falalka la xiriira**: Sharma Boy
+
+
+# Tables
+
+## Table 1
+| Niini Dance |
+| --- |
+| Ku dhashay | Nadiifa Soomaaliya |
+| Naanees | Nadiifa NiiNi Nuurto |
+| Ilmaha | 1 |
+| Niini Dance Nooca fanka Raab Fanka Soomaalida shaqada Raaber Falalka la xiriira Sharma Boy | Niini Dance | Nooca fanka | Raab Fanka Soomaalida | shaqada | Raaber | Falalka la xiriira | Sharma Boy |
+| Niini Dance |
+| Nooca fanka | Raab Fanka Soomaalida |
+| shaqada | Raaber |
+| Falalka la xiriira | Sharma Boy |
+
+## Table 2
+| Niini Dance |
+| --- |
+| Nooca fanka | Raab Fanka Soomaalida |
+| shaqada | Raaber |
+| Falalka la xiriira | Sharma Boy |
+
+## Table 3
+| Sanad | Magac | Xusuusin |
+| --- | --- | --- |
+| 2020 | Barnaamijka Qaraaxo | Barnaamij si toos ah talefishin uga baxa bisha Ramadaan ee Astaan |

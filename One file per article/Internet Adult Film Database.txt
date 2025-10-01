@@ -1,0 +1,36 @@
+title:
+Internet Adult Film Database
+
+url:
+https://so.wikipedia.org/wiki?curid=15141
+
+text:
+Internet Adult Film Database (IAFD) waa database internet ah macluumaad ku saabsan, Mareykanka , ka ganacsan ah: jilayaasha, atariishada, agaasimayaasha iyo filimada websedyada. Waxaa la mid ah si Database Movie internetka, ee in ay tahay mid dadweynaha u furan oo waa la baadhi. Films saaray warshadaha oo aan American websedyada waxaa laga helaa on database-ka haddii ay ku sii daayo Mareykanka waa la heli karo iyo filim ay khusayso waxaa lagu soo bandhigayaa sida kali ku macluumaadka ku saabsan sii daynta Mareykanka, ma mid ka mid ah asal ahaan.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: www.iafd.com
+- **Ganacsi?**: Haa
+- **Nooca site**: Adult site, Movie database
+- **Diyaar ku ah**: Ingiriis
+- **Content license**: Lahaansho
+- **La bilaabay isticmaalka**: 1995
+- **Alexa garaado**: 7,395 (Abriil 2014 [update] ) [ 1 ]
+- **Hada**: Firfircoon
+
+
+# Tables
+
+## Internet Adult Film Database
+| Cinwaanka | www.iafd.com |
+| --- | --- |
+| Ganacsi? | Haa |
+| Nooca site | Adult site, Movie database |
+| Diyaar ku ah | Ingiriis |
+| Content license | Lahaansho |
+| La bilaabay isticmaalka | 1995 |
+| Alexa garaado | 7,395 (Abriil 2014 [update] ) [ 1 ] |
+| Hada | Firfircoon |

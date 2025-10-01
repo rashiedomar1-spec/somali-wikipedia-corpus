@@ -1,0 +1,10 @@
+title:
+Mitsubishi
+
+url:
+https://so.wikipedia.org/wiki?curid=4069
+
+text:
+Mitsubishi waa shirkad sameysa baabuurta oo laga leeyahay jabaan.
+sido kale fiiri.
+&lt;a href="Baabuur"&gt;Baabuur&lt;/a&gt;

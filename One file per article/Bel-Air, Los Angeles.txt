@@ -1,0 +1,43 @@
+title:
+Bel-Air, Los Angeles
+
+url:
+https://so.wikipedia.org/wiki?curid=40295
+
+text:
+Bel Air (ama Bel-Air )  waa xaafad la deggan yahay oo ku taal Los Angeles Westside , oo ku taal buuraha Santa Monica ee gobolka California ee Mareykanka . Waxaa la aasaasay 1923, waa hoyga Beerta Hannah Carter Japan iyo Jaamacadda Yuhuudda Mareykanka .
+
+Si wada jir ah Beverly Hills iyo Holmby Hills , Bel Air waxay sameysaa saddexagalka Platinum ee xaafadaha Los Angeles.  Oo ay la socdaan Beverly Hills iyo Los Angeles ee Brentwood , Bel Air sidoo kale waa qayb ka mid ah aagga qiimaha sarreeya ee Westside loo yaqaan "saddexda Bs."
+
+Taariikhda
+
+Beesha waxaa la aasaasay 1923 Alphonzo Bell . Bell ayaa hanti beer ku leh Santa Fe Springs, California , halkaas oo saliid laga helay. Waxa uu gatay beer weyn oo guri ku yaal waxa hadda loo yaqaan Bel Air Road. Waxa uu qaybiyay oo uu horumariyay hantida oo leh guryo badan oo la dego, isaga oo ka shaqaynaya qorshaha guud ee uu hogaaminayo naqshadeeyaha muuqaalka Mark Daniels . [8] Waxa kale oo uu dhisay Naadiga Bel-Air Bay ee Pacific Palisades iyo Bel-Air Country Club . Xaaskiisu waxay waddooyinka u dooratay magacyo Talyaani ah. Waxay sidoo kale aasaastay Naadiga Beerta ee Bel-Air 1931. [9]
+
+
+# Infobox
+
+- **dalka**: maraykanka
+- **maamulka**: California
+- **degmada**: Los Angeles
+- **Aag saacadeed**: Pacific
+
+
+# Tables
+
+## Table 1
+| Bel Air |
+| --- |
+| xaafad ku taal Los Angeles |
+| The Bel Air west gate at Sunset and Bellagio |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/United States Los Angeles Western" does not exist. |
+| Coordinates: 34°05′00″N 118°26′52″W ﻿ / ﻿ 34.08333°N 118.44778°W ﻿ / 34.08333; -118.44778 |
+| dalka | maraykanka |
+| maamulka | California |
+| degmada | Los Angeles |
+| Aag saacadeed | Pacific |
+
+
+
+# Coordinates
+34.08333; -118.44778

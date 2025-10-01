@@ -1,0 +1,9 @@
+title:
+Dhasheeg Waamo
+
+url:
+https://so.wikipedia.org/wiki?curid=6755
+
+text:
+Dhasheeg Waamo waa tuulo baadiyo ah, waxeena ku taalaa gobolka &lt;a href="Jubbada%20Dhexe"&gt;Jubbada Dhexe&lt;/a&gt;.
+tuuladaan waxa maro &lt;a href="Wabiga%20Jubba"&gt;Wabiga Jubba&lt;/a&gt;, waxee u dhowdahay magaalada &lt;a href="Bu%E2%80%99aale"&gt;Bu’aale&lt;/a&gt;

@@ -1,0 +1,55 @@
+title:
+National Hockey League
+
+url:
+https://so.wikipedia.org/wiki?curid=40300
+
+text:
+National Hockey League (NHL) waa ururka xeegada barafka oo ku taal Gobolada Midoobay ee Mareykanka iyo Kanada . Leegada waxay leedahay soddon iyo laba kooxood - shan iyo labaatanka Mareykanka ee todobo oo Kanada ah. NHL waa ugu weyn xeegada barafka taariikhda dhulka. Kooxaha u ciyaaro Stanley Cup. Koob wax ugu da'da weyn waqooyiga Ameerika. Leegada ayaa ka bilaabmay 1917kii.
+
+Kooxood
+
+Arizona Coyotes (1972-2024) waa koox aan firfircoonayn.
+
+
+# Tables
+
+## Shirweynaha Bariga (Eastern Conference)
+| Division | Kook | Magaalo | Garoon | Awoodda | La aasaasay |
+| --- | --- | --- | --- | --- | --- |
+| Atlaantik (Atlantic Division) | Montreal Canadiens | Montreal, Quebec | Bell Centre | 21,287 | 1917-18 |
+| Ottawa Senators | Ottawa, Ontario | Canadian Tire Center | 17,373 | 1992-93 |
+| Toronto Maple Leafs Toronto Arenas (1917-19) Toronto St. Patricks (1919-27) | Toronto, Ontario | Scotiabank Arena | 18,819 | 1917-18 |
+| Boston Bruins | Boston, Massachusetts | TD Garden | 17,565 | 1924-25 |
+| Buffalo Sabres | Buffalo, New York | KeyBank Center | 19,070 | 1970-1971 |
+| Detroit Red Wings Detroit Cougars (1926-1930) Detroit Falcons (1930-1932) | Detroit, Michigan | Little Caesars Arena | 19,515 | 1926-1927 |
+| Tampa Bay Lightning | Tampa, Florida | Amalie Arena | 19,204 | 1992-1993 |
+| Florida Panthers | Sunrise, Florida | FLA Live Arena | 19,250 | 1993-1994 |
+| Nawaaxigeeda (Metropolitan Division) | New York Rangers | New York, New York | Madison Square Garden | 18,006 | 1926-1927 |
+| New Jersey Devils Kansas City Scouts (1974-76) Colorado Rockies (1976-82) | Newark, New Jersey | Prudential Center | 17,625 | 1982-1983 |
+| New York Islanders | Uniondale, New York | UBS Arena | 17,113 | 1972-1973 |
+| Philadelphia Flyers | Philadelphia, Pennsylvania | Wells Fargo Center | 19,545 | 1967-1968 |
+| Pittsburgh Penguins | Pittsburgh, Pennsylvania | PPG Paints Arena | 18,387 | 1967-1968 |
+| Columbus Blue Jackets | Columbus, Ohio | Nationwide Arena | 18,144 | 2000-2001 |
+| Washington Capitals | Caasimada Washington | Capital One Arena | 18,506 | 1974-1975 |
+| Carolina Hurricanes New England Whalers (1972-79) Hartford Whalers (1979-97) | Raleigh, Waqooyi Karolina | PNC Arena | 18,680 | 1972-73 (WHA) / 1979-1980 (NHL) |
+
+## Shirweynaha Galbeed (Western Conference)
+| Division | Kook | Magaalo | Garoon | Awoodda | La aasaasay |
+| --- | --- | --- | --- | --- | --- |
+| Dhexe (Central Division) | Winnipeg Jets Atlanta Thrashers (1999-2011) | Winnipeg, Manitoba | Canada Life Centre | 15,015 | 2011-2012 |
+| Minnesota Wild | Saint Paul, Minnesota | Xcel Energy Center | 19,350 | 2000-2001 |
+| Chicago Blackhawks Chicago Black Hawks (1926-1986) | Chicago, Illinois | United Center | 19,717 | 1926-1927 |
+| Colorado Avalanche Quebec Nordiques (1972-95) | Denver, Colorado | Ball Arena | 18,007 | 1972-73 (WHA) / 1979-1980 (NHL) |
+| St. Louis Blues | Saint Louis, Missouri | Enterprise Center | 19,250 | 1967-1968 |
+| Nashville Predators | Nashville, Tennessee | Bridgestone Arena | 17,113 | 1998-1999 |
+| Dallas Stars Minnesota North Stars (1967-93) | Dallas, Texas | American Airlines Center | 18,532 | 1993-1994 |
+| Utah | Salt Lake City, Utah | Delta Center | 14,000 | 2024-25 |
+| Baasifiga (Pacific Division) | Edmonton Oilers Alberta Oilers (1972-73) | Edmonton, Alberta | Rogers Place | 18,641 | 1972-73 (WHA) / 1979-1980 (NHL) |
+| Calgary Flames | Calgary, Alberta | Scotiabank Saddledome | 19,289 | 1980-1981 |
+| Vancouver Canucks | Vancouver, British Columbia | Rogers Arena | 18,910 | 1970-1971 |
+| San Jose Sharks | San Jose, Kalifornia | SAP Center | 17,562 | 1991-92 |
+| Vegas Golden Knights | Las Vegas, Nevada | T-Mobile Arena | 17,368 | 2017-2018 |
+| Los Angeles Kings | Los Angeles, California | Crypto.com Arena | 18,118 | 1967-1968 |
+| Anaheim Ducks Anaheim Mighty Ducks (1993-2006) | Anaheim, Kalifornia | Honda Center | 17,174 | 1993-1994 |
+| Seattle Kraken | Seattle, Washington | Climate Pledge Arena | 17,400 | 2021-2022 |

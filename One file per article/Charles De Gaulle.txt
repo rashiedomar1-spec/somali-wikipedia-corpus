@@ -1,0 +1,8 @@
+title:
+Charles De Gaulle
+
+url:
+https://so.wikipedia.org/wiki?curid=3708
+
+text:
+Charles De Gaulle (&lt;a href="Lille"&gt;Lille&lt;/a&gt; 22 Nofeembar &lt;a href="1890"&gt;1890&lt;/a&gt; - Colombey-les-Deux-Églises 9 Nofeembar &lt;a href="1970"&gt;1970&lt;/a&gt;), &lt;a href="madaxweyne"&gt;madaxweyne&lt;/a&gt; &lt;a href="Faransiiska"&gt;Faransiiska&lt;/a&gt; (&lt;a href="1958"&gt;1958&lt;/a&gt;-&lt;a href="1969"&gt;1969&lt;/a&gt;).

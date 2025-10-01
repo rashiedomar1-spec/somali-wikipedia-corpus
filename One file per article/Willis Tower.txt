@@ -1,0 +1,9 @@
+title:
+Willis Tower
+
+url:
+https://so.wikipedia.org/wiki?curid=12537
+
+text:
+Willis Tower oona horay loo dhihi jiray (&lt;a href="Chicago"&gt;Chicago&lt;/a&gt;), waa dabaqa aduunka uugu dheer, oo dhirirkiisu yahay 527 meter . Waxoona ku yaalaa magaalada &lt;a href="Chicago"&gt;Chicago&lt;/a&gt; ee dalka &lt;a href="United%20States"&gt;United States&lt;/a&gt;. Burj khalifa waxaa la bilaabay, &lt;a href="1970"&gt;1970&lt;/a&gt;.
+waxaana la dhameeyay &lt;a href="1973"&gt;1973&lt;/a&gt; oona la &lt;a href="1974"&gt;1974&lt;/a&gt;.

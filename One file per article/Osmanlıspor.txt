@@ -1,0 +1,48 @@
+title:
+Osmanlıspor
+
+url:
+https://so.wikipedia.org/wiki?curid=21131
+
+text:
+Osmanlıspor Futbol Kulübü ( Af Turki : 'os.mɑn.lɯ.spoɾ ) Waa koox-banooni oo ka dhisan magaalada Ankara ee caasimadda dalka Turkiga .
+
+Tixraac
+
+Eeg waliba
+
+Osmanlıspor
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Osmanlıspor Futbol Kulübü
+- **Naaneys**: Osmanlılar (The Ottomans)
+- **La aasaasay**: 2014
+- **Garoon**: Osmanlı Stadyumu Ankara , Turkey
+- **Garoonka Awoodda**: 19,626
+- **Gudoomiyaha**: Sadık Dik
+- **Maamulaha**: Mustafa Reşit Akçay
+- **Horyaalka**: TFF 2. Lig
+- **2021/22**: 9. (TFF 2. Lig)
+- **Website**: Club home page
+
+
+# Tables
+
+## Osmanlıspor FK
+| Magaca oo dhameestiran | Osmanlıspor Futbol Kulübü |
+| --- | --- |
+| Naaneys | Osmanlılar (The Ottomans) |
+| La aasaasay | 2014 |
+| Garoon | Osmanlı Stadyumu Ankara , Turkey |
+| Garoonka Awoodda | 19,626 |
+| Gudoomiyaha | Sadık Dik |
+| Maamulaha | Mustafa Reşit Akçay |
+| Horyaalka | TFF 2. Lig |
+| 2021/22 | 9. (TFF 2. Lig) |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab | Guriga midab | Marti midab |
+| Guriga midab | Marti midab |
+|  |

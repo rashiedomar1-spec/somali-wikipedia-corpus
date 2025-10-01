@@ -1,0 +1,74 @@
+title:
+Sibidhi
+
+url:
+https://so.wikipedia.org/wiki?curid=17649
+
+text:
+Kani waa maqaal ku saabsan midabka cowlka. Haku khaldin midabka kale cowlaan iyo xayawaanka cawl
+
+Kani waa maqaal ku saabsan midabka cowlka. Haku khaldin midabka kale cowlaan iyo xayawaanka cawl
+
+Sibidhi ( Af Ingiriis : Grey ; Af Carabi : لاسعانود ‎) waa midab fudud oo giriftan ahaan u dhaxeeya madoowga iyo cadaanka . Midabkan waxaa lagu tilmaamaa dhexdhexaad, taasi oo macnaheedu yahay waa midab "bilaa midab ah". [ 2 ] Waa midabka daruuraha cirka , dambaska iyo curiyaha liidhka . [ 3 ] Sida lagu sheegay taariikhda midabada, midabka cowliga waxaa markii ugu horeeysay la isticmaali jirey sanadkii 700 C.D (Ciise Dabadii). [ 4 ] [ 5 ]
+
+Noocyo Badan
+
+Midabka Cowlka Dabiici
+
+Muuqaalada Cowlka
+
+Ceeryamo
+
+Dambaska foolkaanaha
+
+Mitiyoor
+
+Yey cowl ah
+
+Astaan kale
+
+Markab dagaal cowl ah
+
+Ileys
+
+Ileyska Ili Qabatayga
+
+Qaanso Roob
+
+Midab ugu muhiimsan
+
+Mugdi
+
+Arag La'aan
+
+Light and Color
+
+Color
+
+
+# Infobox
+
+- **Qoraalka midabka**: #808080
+- **sRGB B ( cs , cg , bl )**: (128, 128, 128)
+- **CMYK H ( bx , bs , h , m )**: (0, 0, 0, 50)
+- **HSV       ( m , j, c )**: (0°, 0%, 50%)
+- **Source**: HTML/CSS [ 1 ]
+
+
+# Tables
+
+## Table 1
+| Grey/Gray |
+| --- |
+|  |
+| Midab Xidhiidhiye |
+| Qoraalka midabka | #808080 |
+| sRGB B ( cs , cg , bl ) | (128, 128, 128) |
+| CMYK H ( bx , bs , h , m ) | (0, 0, 0, 50) |
+| HSV       ( m , j, c ) | (0°, 0%, 50%) |
+| Source | HTML/CSS [ 1 ] |
+| B : Lagu hagaajiyey [0–255] (byte) H : Lagu hagaajiyey [0–100] (boqol) |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Sibidhi |
+| --- | --- |

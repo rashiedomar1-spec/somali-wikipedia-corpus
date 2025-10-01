@@ -1,0 +1,36 @@
+title:
+Wisil
+
+url:
+https://so.wikipedia.org/wiki?curid=4550
+
+text:
+Waa degmo dhacda koofurta mudug waxay u dhexeysaa hobyo iyo gaalkacyo ,
+
+Magaalada wisil waxey ka koobantahay afar  xaafadood oo kala ah:
+1)Quraxley
+2)Tusbaxley
+3)Horseed
+iyo xaawo taako Waa magaalo aad u bilicsan waxaa marta wadada isku xirta gaalkacyo iyo hobyo.waxaa dagan SACAD  GALMUDUG
+
+Galmudug
+
+
+# Infobox
+
+- **Country**: Somalia Galmudug
+- **Region**: Mudug
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Wisil |
+| --- |
+| Town |
+|  |
+| Wisil Location in Somalia. |
+| Country | Somalia Galmudug |
+| Region | Mudug |
+| Aag saacadeed | UTC+3 ( EAT ) |

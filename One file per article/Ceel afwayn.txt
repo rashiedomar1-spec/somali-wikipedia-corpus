@@ -1,0 +1,54 @@
+title:
+Ceel afwayn
+
+url:
+https://so.wikipedia.org/wiki?curid=17498
+
+text:
+Celafweyn wa magalo kutaala gobolka Sanaag ee Somaliland .
+
+ceelafweyn degmo taariikhi ah oo ku taariihki ah oo ku taala gobolka sanaag waana degmada ugu facaweyn gobolka sanaag waxaayna leedahay taariikh aad u dheer oo taagnayd ka awoow ka awoow
+Waxa dega beelaha Muuse abokor habarjeclo 80% iyo Sacadyoonis habaryoonis 20%,Ceel Afweyn waxa Aasaasay beesha biciide gaar ahaan beesha facaweyn ee  boho Faarax. [ 1 ]
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Region**: Sanaag
+- **Waxa la aasaasay 1936,waxa aasaasay dhalinyarro wax kusoo baratay markaa magaalada muqdisho oo iskugu jira habarjeclo iyo habaryoonis.**: 1936
+- **• Nuuca**: mayor
+- **• mayor**: Mayor:Mohamed Aden Digaale
+Deputy Mayor:H.E Mohamed Jama Liban (Hindi)
+- **Area**: 28 km 2 (11 sq mi)
+- **• Land**: 3 km 2 (1 sq mi)
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +25263
+- **Website**: www.ceelafweyn.com
+
+
+# Tables
+
+## Table 1
+| Ceel-afweyn عيل افوين Elafweyn |
+| --- |
+| Town |
+|  |
+| Ceel-afweyn Location in Somalia |
+| Coordinates: 9°55′1″N 47°15′1″E ﻿ / ﻿ 9.91694°N 47.25028°E ﻿ / 9.91694; 47.25028 Coordinates : 9°55′1″N 47°15′1″E ﻿ / ﻿ 9.91694°N 47.25028°E ﻿ / 9.91694; 47.25028 |
+| Country | Somaliland |
+| Region | Sanaag |
+| Waxa la aasaasay 1936,waxa aasaasay dhalinyarro wax kusoo baratay markaa magaalada muqdisho oo iskugu jira habarjeclo iyo habaryoonis. | 1936 |
+| Dowlada |
+| • Nuuca | mayor |
+| • mayor | Mayor:Mohamed Aden Digaale
+Deputy Mayor:H.E Mohamed Jama Liban (Hindi) |
+| Area | 28 km 2 (11 sq mi) |
+| • Land | 3 km 2 (1 sq mi) |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +25263 |
+| Website | www.ceelafweyn.com |
+
+
+
+# Coordinates
+9.91694; 47.25028

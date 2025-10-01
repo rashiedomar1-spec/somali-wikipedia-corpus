@@ -1,0 +1,119 @@
+title:
+FTSE100
+
+url:
+https://so.wikipedia.org/wiki?curid=24241
+
+text:
+FTSE100
+
+The FTSE oo sidoo kale loo yaqaan 'FTSE 100 Index', FTSE 100, FTSE, ama, si aan rasmi ahayn, "Footsie" / faintbe /, waa qayb ka mid ah 100 shirkadood oo ku qoran liiska suuqyada London badinta. Waxaa loo arkaa inay tahay miisaaniyad barwaaqo oo ganacsiyada ay maamusho Sharciga shirkadaha UK. Tirakoobka waxaa haya kooxda FTSE, oo ah koox hoosaad ka ah Kooxda Stock Exchange Group.
+
+lISKA FTSE100 UK
+
+
+# Tables
+
+## Table 1
+| Company | Ticker | FTSE sector [ 1 ] |
+| --- | --- | --- |
+| 3i | III | Financial Services |
+| Admiral Group | ADM | Nonlife Insurance |
+| Anglo American plc | AAL | Mining |
+| Antofagasta | ANTO | Mining |
+| Ashtead Group | AHT | Support Services |
+| Associated British Foods | ABF | Food Producers |
+| AstraZeneca | AZN | Pharmaceuticals & Biotechnology |
+| Aviva | AV. | Life Insurance |
+| BAE Systems | BA. | Aerospace & Defense |
+| Barclays | BARC | Banks |
+| Barratt Developments | BDEV | Household Goods & Home Construction |
+| Berkeley Group Holdings | BKG | Household Goods & Home Construction |
+| BHP | BLT | Mining |
+| BP | BP. | Oil & Gas Producers |
+| British American Tobacco | BATS | Tobacco |
+| British Land | BLND | Real Estate Investment Trusts |
+| BT Group | BT.A | Fixed Line Telecommunications |
+| Bunzl | BNZL | Support Services |
+| Burberry | BRBY | Personal Goods |
+| Carnival Corporation & plc | CCL | Travel & Leisure |
+| Centrica | CNA | Gas, Water & Multi-utilities |
+| Coca-Cola HBC AG | CCH | Beverages |
+| Compass Group | CPG | Support Services |
+| CRH plc | CRH | Construction & Materials |
+| Croda International | CRDA | Chemicals |
+| DCC plc | DCC | Support Services |
+| Diageo | DGE | Beverages |
+| Direct Line Group | DLG | Nonlife Insurance |
+| easyJet | EZJ | Travel & Leisure |
+| Evraz | EVR | Industrial Metals & Mining |
+| Experian | EXPN | Support Services |
+| Ferguson plc | FERG | Support Services |
+| Fresnillo plc | FRES | Mining |
+| GlaxoSmithKline | GSK | Pharmaceuticals & Biotechnology |
+| Glencore | GLEN | Mining |
+| GVC Holdings | GVC | Travel & Leisure |
+| Halma | HLMA | Electronic & Electrical Equipment |
+| Hargreaves Lansdown | HL. | Financial Services |
+| HSBC | HSBA | Banks |
+| Imperial Brands | IMB | Tobacco |
+| Informa | INF | Media |
+| InterContinental Hotels Group | IHG | Travel & Leisure |
+| International Airlines Group | IAG | Travel & Leisure |
+| Intertek | ITRK | Support Services |
+| ITV plc | ITV | Media |
+| Johnson Matthey | JMAT | Chemicals |
+| Just Eat | JE. | General Retailers |
+| Kingfisher plc | KGF | General Retailers |
+| Land Securities | LAND | Real Estate Investment Trusts |
+| Legal & General | LGEN | Life Insurance |
+| Lloyds Banking Group | LLOY | Banks |
+| London Stock Exchange Group | LSE | Financial Services |
+| Marks & Spencer | MKS | General Retailers |
+| Melrose Industries | MRO | Automobiles & Parts |
+| Micro Focus | MCRO | Software & Computer Services |
+| Mondi | MNDI | Forestry & Paper |
+| Morrisons | MRW | Food & Drug Retailers |
+| National Grid plc | NG. | Gas, Water & Multiutilities |
+| Next plc | NXT | General Retailers |
+| NMC Health | NMC | Health Care Equipment & Services |
+| Ocado | OCDO | Food & Drug Retailers |
+| Paddy Power Betfair | PPB | Travel & Leisure |
+| Pearson plc | PSON | Media |
+| Persimmon plc | PSN | Household Goods & Home Construction |
+| Prudential plc | PRU | Life Insurance |
+| Randgold Resources | RRS | Mining |
+| Reckitt Benckiser | RB. | Household Goods & Home Construction |
+| RELX Group | REL | Media |
+| Rentokil Initial | RTO | Support Services |
+| Rio Tinto Group | RIO | Mining |
+| Rightmove | RMV | Media |
+| Rolls-Royce Holdings | RR. | Aerospace & Defense |
+| Royal Bank of Scotland Group | RBS | Banks |
+| Royal Dutch Shell | RDSA | Oil & Gas Producers |
+| Royal Mail | RMG | Industrial transportation |
+| RSA Insurance Group | RSA | Nonlife Insurance |
+| Sage Group | SGE | Software & Computer Services |
+| Sainsbury's | SBRY | Food & Drug Retailers |
+| Schroders | SDR | Financial Services |
+| Scottish Mortgage Investment Trust | SMT | Equity Investment Instruments |
+| Segro | SGRO | Real Estate Investment Trusts |
+| Severn Trent | SVT | Gas, Water & Multiutilities |
+| Shire plc | SHP | Pharmaceuticals & Biotechnology |
+| Sky plc | SKY | Media |
+| Smith & Nephew | SN. | Health Care Equipment & Services |
+| Smith, D.S. | SMDS | General Industrials |
+| Smiths Group | SMIN | General Industrials |
+| Smurfit Kappa | SKG | General Industrials |
+| SSE plc | SSE | Electricity |
+| Standard Chartered | STAN | Banks |
+| Standard Life Aberdeen | SLA | Financial Services |
+| St. James's Place plc | STJ | Life Insurance |
+| Taylor Wimpey | TW. | Household Goods & Home Construction |
+| Tesco | TSCO | Food & Drug Retailers |
+| TUI Group | TUI | Travel & Leisure |
+| Unilever | ULVR | Personal Goods |
+| United Utilities | UU. | Gas, Water & Multiutilities |
+| Vodafone Group | VOD | Mobile Telecommunications |
+| Whitbread | WTB | Retail hospitality |
+| WPP plc | WPP | Media |

@@ -1,0 +1,8 @@
+title:
+Sydney Harbour Bridge
+
+url:
+https://so.wikipedia.org/wiki?curid=34464
+
+text:
+&lt;a href="Sydney%20Harbour%20Bridge"&gt;Sydney Harbour Bridge&lt;/a&gt; - Buundada Sydney Harbor, &lt;a href="Buundo"&gt;Buundo&lt;/a&gt; ee dul marta Port Jackson, &lt;a href="Sydney"&gt;Sydney&lt;/a&gt;, &lt;a href="Australia"&gt;Australia&lt;/a&gt;. Buundadan oo la dhammaystiray sannadkii &lt;a href="1932"&gt;1932&lt;/a&gt;-kii, ayaa dhererkeedu dhan yahay 1,149 mitir, halka ugu sarreysana ay ka sarreyso 134 mitir heerka gacan-biyoodka.

@@ -1,0 +1,42 @@
+title:
+Beerweyso
+
+url:
+https://so.wikipedia.org/wiki?curid=28533
+
+text:
+Beerweyso... waa degmo kutaala koonfurta gobolka sanaag waa degaan ku haboon dhaqashada xoolaha oo leh cows aad u dhaadher sido kale wa dhul beeraha laga beeri karo waxa dega habarjeclo , muuse abokor , biciide , beesha. baho
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Sanaag
+- **Degmo**: beerweyso
+- **• Duqa-magaalada**: faatax xuseen cilmi
+- **Joogga**: 870 m (2,850 ft)
+- **• Dhammaan**: 5,345
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| Beerweyso Berweiso بيرويسو |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Sanaag |
+| Degmo | beerweyso |
+| Dowlada |
+| • Duqa-magaalada | faatax xuseen cilmi |
+| Joogga | 870 m (2,850 ft) |
+| Tirada dadka |
+| • Dhammaan | 5,345 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

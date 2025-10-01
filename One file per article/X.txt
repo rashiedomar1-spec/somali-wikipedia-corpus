@@ -1,0 +1,45 @@
+title:
+X
+
+url:
+https://so.wikipedia.org/wiki?curid=13329
+
+text:
+Iskudhufasho ( ingiriis : multiply) astaanta calaamada u ah ( x ) waa hab la iskugu dhufto lambarada tirada xisaabta . Iskudhufashadu waxay ka mid tahay afarta hab ee aasaaska xisaabta . 
+Si ka duwan iskugeynta , kalagoynta iyo iskuqaybinta ayaa Iskudhufashadu waa isku-jeer laabka lambarada la isku dhufanayo. Tusaale ahaan, 2 lagu dhuftey (x) 3 wadarta iyo jawaabtu waa labo jeer laabka lambarka 3 oo ah ( 3 + 3 = 6 ). Sidoo kale, lambarka 6 haddii lagu dhufto 8 wadarta iyo jawaabtu waa lix-jeer laabka lambarka 8 taasi oo u dhiganta 8 + 8 + 8 + 8 + 8 + 8 = 48.
+
+Labo tiro marka la isku dhufto wixii ka soo baxa waxaa loo yaqaanaa Wadar .
+
+Tusaale ahaa:
+
+Ku dhufasho (calaamad "×") xisaab ahaan waa taranka tiro ee tiro kale.
+
+3 × 4 = 3 + 3 + 3 + 3 = 12 , {\displaystyle 3\times 4=3+3+3+3=12,\!\,}
+
+3 × 4 = 4 + 4 + 4 = 12. {\displaystyle 3\times 4=4+4+4=12.\!\,}
+
+lambarka eber ( 0 ) tiro kasta oo lagu dhufto wadarta iyo jawaabta soo baxaysaa waa eber (0). Sidaas darteed sharciga iskudhufashada lambarka eber waa jawaab ah eber. 
+Dhinaca kale, lambarka kow ( 1 ) tiro kasta oo lagu dhufto wax isbedel ah kuma imanayo, sidaas darteed lambar kow waa ismabedelaha iskudhufasho.
+
+
+# Tables
+
+## Table 1
+| 3 x 5 = 15 |
+| --- |
+
+## Aasaaska Tirada Iskudhufashada
+| Tirada La iskudhufanayo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 x | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 2 x | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 |
+| 3 x | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 | 36 |
+| 4 x | 4 | 8 | 12 | 16 | 20 | 24 | 28 | 32 | 36 | 40 | 44 | 48 |
+| 5 x | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 |
+| 6 x | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 | 72 |
+| 7 x | 7 | 14 | 21 | 28 | 35 | 42 | 49 | 56 | 63 | 70 | 77 | 84 |
+| 8 x | 8 | 16 | 24 | 32 | 40 | 48 | 56 | 64 | 72 | 80 | 88 | 96 |
+| 9 x | 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 | 99 | 108 |
+| 10 x | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |
+| 11 x | 11 | 22 | 33 | 44 | 55 | 66 | 77 | 88 | 99 | 110 | 121 | 132 |
+| 12 x | 12 | 24 | 36 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 132 | 144 |

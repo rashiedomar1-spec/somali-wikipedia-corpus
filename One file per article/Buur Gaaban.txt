@@ -1,0 +1,36 @@
+title:
+Buur Gaaban
+
+url:
+https://so.wikipedia.org/wiki?curid=7053
+
+text:
+Buur Gaaban Waa Tuulo ku taal Gobolka Bari ee Dalka Soomaaliya, Buur gaaban waa Deegaan Xeebeed ka mid ah deegaanada ku teedsan Bada cas , ilaa 45 kiiloomitir ayeey dhnak bariga ka xigtaa Magaalada Boosaaso ee Xarunta gobolka Bari ee Puntland Soomaaliya .
+
+Deegaankan xilli hore ayaa la degay, waxaana la degnaa mudo dheer oo qarni dhaafsiisan. Wxay deris dhow latahay Magaalada Bacaad oo ay wax aan badnayn isu jiraan.
+
+Puntland
+
+
+# Infobox
+
+- **Dalka**: Soomaaliya Puntland
+- **Gobol**: Bari
+- **Magaalo**: Bosaso
+- **La Asaasay**: 1821
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Buur gaabo Buur gabo |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Dalka | Soomaaliya Puntland |
+| Gobol | Bari |
+| Magaalo | Bosaso |
+| La Asaasay | 1821 |
+| Aag saacadeed | UTC+3 ( EAT ) |

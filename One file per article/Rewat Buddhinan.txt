@@ -1,0 +1,35 @@
+title:
+Rewat Buddhinan
+
+url:
+https://so.wikipedia.org/wiki?curid=31549
+
+text:
+Rewat Buddhinan ( Thai : เรวัต พุทธินันทน์; Sebtember 5, 1948 - Oktoobar 27, 1996), lagu naanayso Ter (เต๋อ Toe ), wuxuu ahaa fanaan , soo saare iyo xubin aasaasi ka ah kooxda fanka ee Thai, The Impossibles. Wuxuu hormuud u ahaa heesaha popka Thai iyo soo saarista muusikada rock intii u dhaxeysay 1970-yadii, iyo aasaasihii GMM Grammy , oo ah shirkad madadaalo oo ku taala Thailand. Saameyntiisa darteed, Buddhinan waxaa loo tixgeliyaa inuu u keenay waa cusub soo saarista muusikada Thailand.
+
+
+# Infobox
+
+- **Sidoo kale loo yaqaan**: Ter
+- **Dhashay**: ( 1948-09-05 ) 5 Sebteembar 1948 Bangkok , Thailand
+- **Dhintay**: 27. Oktoobar 1996 ( 1996-10-27 ) (da'da 48jir) Bangkok, Thailand
+- **Nooca fanka**: Pop , Soft Rock
+- **shaqada**: fanaan , qoraaga heesaha , soo saaraha duubista
+- **Qalabka**: codka
+- **Sanadaha Shaqada**: 1983–1996
+- **Falalka la xiriira**: The Impossibles
+
+
+# Tables
+
+## Table 1
+| Rewat Buddhinan |
+| --- |
+| Sidoo kale loo yaqaan | Ter |
+| Dhashay | ( 1948-09-05 ) 5 Sebteembar 1948 Bangkok , Thailand |
+| Dhintay | 27. Oktoobar 1996 ( 1996-10-27 ) (da'da 48jir) Bangkok, Thailand |
+| Nooca fanka | Pop , Soft Rock |
+| shaqada | fanaan , qoraaga heesaha , soo saaraha duubista |
+| Qalabka | codka |
+| Sanadaha Shaqada | 1983–1996 |
+| Falalka la xiriira | The Impossibles |

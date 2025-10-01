@@ -1,0 +1,8 @@
+title:
+Jubalander
+
+url:
+https://so.wikipedia.org/wiki?curid=35234
+
+text:
+Jubalander waa qof ka soo jeedo maamul goboleedka &lt;a href="Jubaland"&gt;Jubaland&lt;/a&gt;

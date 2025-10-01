@@ -1,0 +1,19 @@
+title:
+Hormadiid
+
+url:
+https://so.wikipedia.org/wiki?curid=40621
+
+text:
+Hormadiid waxay ahaayeen dawlad ee taxnaa dhamaadka qarniga 19aad ilaa dagaaladii suldaanada ee 1925.
+
+
+# Tables
+
+## Table 1
+| Hormadiid |
+| --- |
+| "Confederation" waa erayga Ingiriisi oo macnihiisu yahay midow "Confederation" waa erayga Ingiriisi oo macnihiisu yahay midow |
+| La soo xulay |
+| - | Dawlad dhistay | ~1870 |
+| - | Dawlad way burburtay | 1925 |

@@ -1,0 +1,27 @@
+title:
+Love
+
+url:
+https://so.wikipedia.org/wiki?curid=33483
+
+text:
+Love waa joornaal Ingiriis ah oo sanadkiiba mar laba-jibaarana waxaa aasaasay Katie Grand ee 2009.
+
+
+# Infobox
+
+- **Publisher**: Catherine Russell
+- **Editor-in-chief**: Katie Grand
+- **Circulation**: 100,000
+- **Website**: thelovemagazine.co.uk
+
+
+# Tables
+
+## Love
+| Rita Ora ee Love |
+| --- |
+| Publisher | Catherine Russell |
+| Editor-in-chief | Katie Grand |
+| Circulation | 100,000 |
+| Website | thelovemagazine.co.uk |

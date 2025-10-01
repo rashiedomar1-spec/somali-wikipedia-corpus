@@ -1,0 +1,8 @@
+title:
+Android software development
+
+url:
+https://so.wikipedia.org/wiki?curid=8265
+
+text:
+Qalab kaambiyuutareedka lagu horumariyo Andarooyd(Andaroyt). Waa softiweerka ama qalab kaambiyuutareedka loo isticmaalo habka dhisidda ama horumarinta ablikayshinnada ku shaqeeya nidaamka Androyd. Androyd waxa lu shaqeeya 71% moobillada suuqa yaalla iyo kuwa la iibsadeyba. Shirkadda &lt;a href="google"&gt;google&lt;/a&gt; waxa at sheegtay in ablikayshinnada androidka lagu dhisi karo luuqadaha kaambiyuutareed sida &lt;a href="Java%20%28luuqada%20borograaminta%29"&gt;Java&lt;/a&gt;, &lt;a href="https%3A//en.m.wikipedia.org/wiki/Kotlin_%28programming_language%29"&gt;kotlin&lt;/a&gt;, &lt;a href="https%3A//en.m.wikipedia.org/wiki/CSS"&gt;CSS&lt;/a&gt; iyada oo la isticmaalayo bundad softiweereed oo ay ku jiraan qalabyada ay muhiimka tahay in lagu dhiso abiska ku shaqeeya nidaamka Androydka. Marka la dhiso ablikayshin ku shaqeeya habka androyd, waxa lagu faafiya mareegta Google Play Store, halkaas oo ay kala degaan dadka daneynaya ablikayshinkaas.

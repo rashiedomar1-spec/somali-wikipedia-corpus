@@ -1,0 +1,40 @@
+title:
+Vogue
+
+url:
+https://so.wikipedia.org/wiki?curid=32523
+
+text:
+Vogue waa joornaal Mareykan ah oo qaab bille ah iyo qaab nololeed u daboola mowduucyo badan, oo ay ku jiraan moodada, quruxda, dhaqanka, nolosha, iyo runway. Iyada oo ku saleysan magaalada New York, waxay u bilaabatay sidii wargeys toddobaadle ah 1892, ka hor intaanay noqon joornaal bille ah sanado kadib.
+
+British Vogue , oo la bilaabay 1916, ayaa ahaa daabacaaddii ugu horreysay ee caalami ah, halka qaybta Talyaaniga Vogue Italia loogu yeero majaladda ugu casrisan adduunka. [ 2 ] Laga bilaabo maanta, waxaa jira 26 nuqul oo caalami ah.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Founder(s)**: Arthur Baldwin Turnure
+- **Publisher**: Condé Nast
+- **Editor**: Dame Anna Wintour
+- **Language**: Af-Ingiriisi
+- **City**: New York
+- **Country**: Mareykanka
+- **ISSN**: 0042-8000
+- **Website**: www.vogue.com
+
+
+# Tables
+
+## Vogue
+|   |
+| --- |
+|  |
+| Founder(s) | Arthur Baldwin Turnure |
+| Publisher | Condé Nast |
+| Editor | Dame Anna Wintour |
+| Language | Af-Ingiriisi |
+| City | New York |
+| Country | Mareykanka |
+| ISSN | 0042-8000 |
+| Website | www.vogue.com |

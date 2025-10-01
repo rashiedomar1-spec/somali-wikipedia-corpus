@@ -1,0 +1,46 @@
+title:
+Estée Lauder
+
+url:
+https://so.wikipedia.org/wiki?curid=35354
+
+text:
+The Estée Lauder Companies Inc. ( / t eɪ ˈ l ɔː d ər / loo qaabeeyey sida ESTĒE LAUDER ) waa shirkad caalami ah oo Mareykan ah oo soo saarta daryeelka maqaarka, qurxiyo, udgoonka iyo alaabta daryeelka timaha, oo fadhigeedu yahay Midtown Manhattan , Magaalada New York . [ 2 ]
+
+Tix
+
+
+# Infobox
+
+- **Nooca**: Dadweynaha
+- **ISIN**: US5184391044
+- **Shirkada**: Qalabka la isku qurxiyo
+- **La aasaasay**: 1946 ; 79 sano ka hor ( 1946 )
+- **Aasaasaha**: Estée Lauder Joseph Lauder
+- **Xarunta**: New York , Gobolada Isku Tegay ee Ameerika
+- **Dadka muhiimka ah**: William P. Lauder Fabrizio Freda
+- **Alaabta**: Daryeelka maqaarka, qurxinta, udgoonka iyo daryeelka timaha
+- **Dakhliga**: 17,737,000,000 Dollarka Maraykanka [ 1 ] (2022)
+- **Dakhliga shaqeeya**: US$606 milyan (2020)
+- **Dakhliga saafiga**: 2,390,000,000 Dollarka Maraykanka [ 1 ] (2022)
+- **Tirada inta ka shaqeeso**: 48,000 (2020)
+- **Website**: www.elcompanies.com
+
+
+# Tables
+
+## The Estée Lauder Companies Inc.
+| Nooca | Dadweynaha |
+| --- | --- |
+| ISIN | US5184391044 |
+| Shirkada | Qalabka la isku qurxiyo |
+| La aasaasay | 1946 ; 79 sano ka hor ( 1946 ) |
+| Aasaasaha | Estée Lauder Joseph Lauder |
+| Xarunta | New York , Gobolada Isku Tegay ee Ameerika |
+| Dadka muhiimka ah | William P. Lauder Fabrizio Freda |
+| Alaabta | Daryeelka maqaarka, qurxinta, udgoonka iyo daryeelka timaha |
+| Dakhliga | 17,737,000,000 Dollarka Maraykanka [ 1 ] (2022) |
+| Dakhliga shaqeeya | US$606 milyan (2020) |
+| Dakhliga saafiga | 2,390,000,000 Dollarka Maraykanka [ 1 ] (2022) |
+| Tirada inta ka shaqeeso | 48,000 (2020) |
+| Website | www.elcompanies.com |

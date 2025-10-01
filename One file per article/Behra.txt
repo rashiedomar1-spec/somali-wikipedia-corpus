@@ -1,0 +1,27 @@
+title:
+Behra
+
+url:
+https://so.wikipedia.org/wiki?curid=4625
+
+text:
+Behra waa xayawaan sida Sagaarada oo kale, waxeena ku nool yihiin waqooyiga Soomaaliya iyo jabuuti [ 1 ] .
+
+Tixraac
+
+
+# Tables
+
+## Table 1
+| Behra |
+| --- |
+|  |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Xayawaan |
+| Gacalka: | Naasley |
+| Dirka: | Artiodatyla |
+| Bahka: | Bovidae |
+| Duulka: | Dorcatragus |
+| Noocyada: | D. megalotis |
+|  |
+| Meeshu ku noolyahay |

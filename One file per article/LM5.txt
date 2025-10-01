@@ -1,0 +1,67 @@
+title:
+LM5
+
+url:
+https://so.wikipedia.org/wiki?curid=30323
+
+text:
+LM5 waa album shanaad oo istuudiyaha ah oo ay sameeyeen kooxda gabdhaha ee Ingiriiska ' Little Mix '.
+
+heeso
+
+Pop
+
+R&B
+
+dance-pop
+
+Syco
+
+Columbia
+
+"The National Manthem"
+
+"Woman Like Me" (iyo Nicki Minaj )
+
+"Think About Us"
+
+"Strip" (iyo Sharaya J )
+
+"Monster in Me"
+
+"Joan of Arc"
+
+"Love a Girl Right"
+
+"American Boy"
+
+"Told You So"
+
+"Wasabi"
+
+"More than Words" (iyo Kamille )
+
+"Motivate"
+
+"Notice"
+
+"The Cure"
+
+
+# Infobox
+
+- **Nooca fanka**: Pop R&B dance-pop
+- **Calaamadaha**: Syco Columbia
+- **Website**: little-mix.com
+
+
+# Tables
+
+## Table 1
+| Glory Days |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Nooca fanka | Pop R&B dance-pop |
+| Calaamadaha | Syco Columbia |
+| Website | little-mix.com |

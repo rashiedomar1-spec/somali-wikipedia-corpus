@@ -1,0 +1,10 @@
+title:
+Tilaabo
+
+url:
+https://so.wikipedia.org/wiki?curid=12520
+
+text:
+Tilaabo () waa &lt;a href="halbeeg"&gt;halbeeg&lt;/a&gt; cabir oo &lt;a href="Soomaali"&gt;Soomaali&lt;/a&gt;dii hore isticmaali jirtey. 
+Tilaabo waa &lt;a href="dherer"&gt;dherer&lt;/a&gt;ka u dhaxaysa labo lugood ee bani'aadamka markuu socdo, waxaa loo isticmaalaa cabirka &lt;a href="dherer"&gt;dherer&lt;/a&gt;ka. 
+Tilaabada saxda ah waxay u dhiganta 0.75 &lt;a href="mitir"&gt;mitir&lt;/a&gt;.

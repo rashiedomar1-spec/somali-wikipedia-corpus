@@ -1,0 +1,35 @@
+title:
+Gobolka Carta
+
+url:
+https://so.wikipedia.org/wiki?curid=28419
+
+text:
+Gobolka Carta waa mid ka mid ah lixda gobol ee Jabuuti . Waxay ku taallaa koonfurta-bartamaha dalka, oo xuduud la leh Gobolka Tajuura ee waqooyiga, iyo gobolka Jabuuti ee waqooyi-bari iyo Gobolka Dikhil iyo Gobolka Cali Sabiix ee koonfurta, waddanka Somaliland wuxuu ku yaalaa bariga. Caasimada Gobolka Carta waa Carta .
+
+
+# Infobox
+
+- **Dalka**: Djibouti
+- **Caasimada**: Carta
+- **Area**: 1,800 km 2 (700 sq mi)
+- **• Dhammaan**: 60,966
+- **• Cufnaanta dadka**: 34/km 2 (90/sq mi)
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Gobolka Carta |
+| --- |
+| Gobolka |
+|  |
+| Gobolka Carta |
+| Dalka | Djibouti |
+| Caasimada | Carta |
+| Area | 1,800 km 2 (700 sq mi) |
+| Tirada dadka (2015) |
+| • Dhammaan | 60,966 |
+| • Cufnaanta dadka | 34/km 2 (90/sq mi) |
+| Aag saacadeed | UTC+3 ( EAT ) |

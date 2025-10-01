@@ -1,0 +1,30 @@
+title:
+Cali Cadde
+
+url:
+https://so.wikipedia.org/wiki?curid=11033
+
+text:
+Cali Cadde waa magaalo xeebeed oo ku taalo gobolka Cali Sabiix ee dalka Jabuuti .
+Ali Adde taariikhda dib dhowr qarniyo, iyo waa mid ka mid ah magaalooyinka ugu qadiimsan ee Jabuuti ka dib markii Tajuura iyo Obokh. Sida ay sheeko hore duug ah, dhul-maanta of Ali Adde ee qariyeen by geedaha, oo leh Wadi a gudbaya goobta. Cali Cadde waxa uu leeyahay culeys duug ah oo u dhow Danan Wadi ah, taasoo la dhisay by Ciidamada Faransiis ee qarnigii 19aad.
+
+
+# Infobox
+
+- **Gobol Jabuuti**: Gobolka Cali Sabiix
+- **• Dhammaan**: 3,123
+- **Aag saacadeed**: UTC+3 ( EAT (Bariga Afrika)
+
+
+# Tables
+
+## Table 1
+| Cali Cadde |
+| --- |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Djibouti" does not exist. |
+| Gobol Jabuuti | Gobolka Cali Sabiix |
+| Tirada dadka (2012) |
+| • Dhammaan | 3,123 |
+| Aag saacadeed | UTC+3 ( EAT (Bariga Afrika) |

@@ -1,0 +1,29 @@
+title:
+Garaad Cabdiqani
+
+url:
+https://so.wikipedia.org/wiki?curid=31464
+
+text:
+Garaad Cabdiqani wuxuu ahaa garaadka guud ee dhanka beelaha qabiilka reer darawiish 1985kii ilaa 2006kii.
+
+Tixraac
+
+
+# Infobox
+
+- **Ku dhashay**: Sahdheer , Soomaliya
+- **Dhalasho**: Soomaali
+- **Shaqada**: Madax dhaqameed
+- **Loo yaqaano**: Garaadka guud ee reer darawiish
+
+
+# Tables
+
+## Table 1
+| Garaad Abdiqani |
+| --- |
+| Ku dhashay | Sahdheer , Soomaliya |
+| Dhalasho | Soomaali |
+| Shaqada | Madax dhaqameed |
+| Loo yaqaano | Garaadka guud ee reer darawiish |

@@ -1,0 +1,10 @@
+title:
+Kintirka
+
+url:
+https://so.wikipedia.org/wiki?curid=18026
+
+text:
+Kintir (kintirka, kintirro - kintirrada) Xubin yar oo 
+jilicsan oo u eg dhoorka digaagga oo ku taal 
+xubinta taranka dheddigga &lt;a href="dad"&gt;dad&lt;/a&gt;ka iyo &lt;a href="xayawaan"&gt;xayawaan&lt;/a&gt;ka. Wuxuu ku yaal gumaarka, kana korreya daloolka &lt;a href="kaadimareen"&gt;kaadimareen&lt;/a&gt;ka. Wuxuuna ku shaqo leeyahay dareenka macaansiga galmada.

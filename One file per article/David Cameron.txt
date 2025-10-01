@@ -1,0 +1,31 @@
+title:
+David Cameron
+
+url:
+https://so.wikipedia.org/wiki?curid=7741
+
+text:
+David William Donald Cameron waa raisal wasaaraha Britan lagaa bilaabo 11, May 2010. David Cameron waxa uu ku dhashay magaaladdaa London . David Cameron wuxuu waxbarashadiisa ka bilaabay Heatherdown Preparatory School iyo markaasna Eton College. Sagal bil ka dib wuxuu aaday jaamacadda Oxford wuxuu ka qaatay shahaado bachelor Philosophy, Politics iyo Economics.
+
+
+# Infobox
+
+- **Dhashay:**: 9 Oktoobar 1966
+- **Ku dhashay:**: London, Britan
+- **Diintiisa:**: Kaniisada Ingiriiska (Church of England)
+- **Dhalasho:**: Britan
+
+
+# Tables
+
+## Table 1
+| David Cameron |
+| --- |
+| Dhashay: | 9 Oktoobar 1966 |
+| Ku dhashay: | London, Britan |
+| Diintiisa: | Kaniisada Ingiriiska (Church of England) |
+| Dhalasho: | Britan |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: David Cameron |
+| --- | --- |

@@ -1,0 +1,8 @@
+title:
+Breda (Netherlands)
+
+url:
+https://so.wikipedia.org/wiki?curid=4020
+
+text:
+Breda waa magaalad oo kuyaalo gobolka &lt;a href="Waqooyiga%20Brabant"&gt;Waqooyiga Brabant&lt;/a&gt; oo kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt;.

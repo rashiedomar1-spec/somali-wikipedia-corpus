@@ -1,0 +1,70 @@
+title:
+Gegada Diyaarada Istanbul Atatürk
+
+url:
+https://so.wikipedia.org/wiki?curid=20333
+
+text:
+Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Turkey Istanbul" does not exist. Location within Istanbul
+
+Istanbul Atatürk Airport ( Af Turki : İstanbul Atatürk Havalimanı ) Waa Garoonka Diyaaradaha Caalamiga ee magaalada Istanbul ee dalka Turkiga . waxaana astaan u ah ( IATA : IST , ICAO : LTBA ).
+
+Tixraac
+
+AtlasGlobal
+
+Onur Air
+
+Turkish Airlines
+
+
+# Infobox
+
+- **Nuuca Garoonka**: Public
+- **Milkiilaha**: General Directorate of State Airports
+- **Agaasimaha**: TAV Airports
+- **Adeegyada**: Istanbul , Turkey
+- **Ku yaal**: Yeşilköy
+- **Duulimaadada kala ah**: AtlasGlobal Onur Air Turkish Airlines
+- **Joogga Heerka badda**: 163 ft / 50 m
+- **Isuduwe**: 40°58′34″N 028°48′51″E ﻿ / ﻿ 40.97611°N 28.81417°E ﻿ / 40.97611; 28.81417 Coordinates : 40°58′34″N 028°48′51″E ﻿ / ﻿ 40.97611°N 28.81417°E ﻿ / 40.97611; 28.81417
+- **Website**: ataturkairport.com
+- **Total passengers**: 61,322,729
+- **International passengers**: 41,947,327
+
+
+# Tables
+
+## Table 1
+| Istanbul Atatürk Airport İstanbul Atatürk Havalimanı |
+| --- |
+|  |
+|  |
+| IATA : IST – ICAO : LTBA |
+| Macluumaad Guud |
+| Nuuca Garoonka | Public |
+| Milkiilaha | General Directorate of State Airports |
+| Agaasimaha | TAV Airports |
+| Adeegyada | Istanbul , Turkey |
+| Ku yaal | Yeşilköy |
+| Duulimaadada kala ah | AtlasGlobal Onur Air Turkish Airlines |
+| Joogga Heerka badda | 163 ft / 50 m |
+| Isuduwe | 40°58′34″N 028°48′51″E ﻿ / ﻿ 40.97611°N 28.81417°E ﻿ / 40.97611; 28.81417 Coordinates : 40°58′34″N 028°48′51″E ﻿ / ﻿ 40.97611°N 28.81417°E ﻿ / 40.97611; 28.81417 |
+| Website | ataturkairport.com |
+| Maabka |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Turkey Istanbul" does not exist. Location within Istanbul |
+| Macluumaad |
+| Jihada | Dhererka | Nuuca dhabaha |
+| m | ft |
+| 17L/35R | 3,000 | 9,843 | Concrete |
+| 17R/35L | 3,000 | 9,843 | Concrete |
+| 05/23 | 2,580 | 8,465 | Grooved Asphalt |
+| Statistics (2015) |
+| Total passengers | 61,322,729 |
+| International passengers | 41,947,327 |
+| Source: AIP Turkey [ 1 ] |
+
+
+
+# Coordinates
+40.97611; 28.81417

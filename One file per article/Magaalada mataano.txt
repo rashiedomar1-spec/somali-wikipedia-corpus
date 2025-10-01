@@ -1,0 +1,339 @@
+title:
+Magaalada mataano
+
+url:
+https://so.wikipedia.org/wiki?curid=24826
+
+text:
+&lt;a href="Amsterdam"&gt;Amsterdam&lt;/a&gt;, &lt;a href="Kingdom%20of%20the%20Netherlands"&gt;Netherlands&lt;/a&gt;
+ &lt;a href="Barcelona"&gt;Barcelona&lt;/a&gt;, &lt;a href="Spain"&gt;Spain&lt;/a&gt;
+ &lt;a href="Beijing"&gt;Beijing&lt;/a&gt;, &lt;a href="China"&gt;China&lt;/a&gt; (1989)
+ &lt;a href="Berlin"&gt;Berlin&lt;/a&gt;, &lt;a href="Germany"&gt;Germany&lt;/a&gt;
+ &lt;a href="Bordeaux"&gt;Bordeaux&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Cairo"&gt;Cairo&lt;/a&gt;, &lt;a href="Egypt"&gt;Egypt&lt;/a&gt;
+ &lt;a href="Casablanca"&gt;Casablanca&lt;/a&gt;, &lt;a href="Morocco"&gt;Morocco&lt;/a&gt;
+ &lt;a href="Dakar"&gt;Dakar&lt;/a&gt;, &lt;a href="Senegal"&gt;Senegal&lt;/a&gt;
+ &lt;a href="Dubai"&gt;Dubai&lt;/a&gt;, &lt;a href="United%20Arab%20Emirates"&gt;United Arab Emirates&lt;/a&gt;
+ &lt;a href="El%20Aaiun"&gt;El Aaiun&lt;/a&gt;, &lt;a href="Western%20Sahara"&gt;Western Sahara&lt;/a&gt;
+ &lt;a href="Geneva"&gt;Geneva&lt;/a&gt;, &lt;a href="Switzerland"&gt;Switzerland&lt;/a&gt;
+ &lt;a href="London"&gt;London&lt;/a&gt;, &lt;a href="United%20Kingdom"&gt;United Kingdom&lt;/a&gt;
+ &lt;a href="Montreal"&gt;Montreal&lt;/a&gt;, &lt;a href="Quebec"&gt;Quebec&lt;/a&gt;, &lt;a href="Canada"&gt;Canada&lt;/a&gt;
+ &lt;a href="Moscow"&gt;Moscow&lt;/a&gt;, &lt;a href="Russia"&gt;Russia&lt;/a&gt;
+ &lt;a href="Paris"&gt;Paris&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Pyongyang"&gt;Pyongyang&lt;/a&gt;, &lt;a href="North%20Korea"&gt;North Korea&lt;/a&gt;
+ &lt;a href="Rome"&gt;Rome&lt;/a&gt;, &lt;a href="Italy"&gt;Italy&lt;/a&gt;
+ &lt;a href="Santiago"&gt;Santiago&lt;/a&gt;, &lt;a href="Chile"&gt;Chile&lt;/a&gt;
+ &lt;a href="S%C3%A3o%20Paulo"&gt;São Paulo&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt;
+ &lt;a href="Shanghai"&gt;Shanghai&lt;/a&gt;, &lt;a href="China"&gt;China&lt;/a&gt;
+ &lt;a href="Tripoli"&gt;Tripoli&lt;/a&gt;, &lt;a href="Libya"&gt;Libya&lt;/a&gt;
+ &lt;a href="Tunis"&gt;Tunis&lt;/a&gt;, &lt;a href="Tunisia"&gt;Tunisia&lt;/a&gt;
+ &lt;a href="Brest%2C%20France"&gt;Brest&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt; (1995)
+ &lt;a href="Grenoble"&gt;Grenoble&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Istanbul"&gt;Istanbul&lt;/a&gt;, &lt;a href="Turkey"&gt;Turkey&lt;/a&gt;
+ &lt;a href="Sousse"&gt;Sousse&lt;/a&gt;, &lt;a href="Tunisia"&gt;Tunisia&lt;/a&gt;
+ &lt;a href="Tifariti"&gt;Tifariti&lt;/a&gt;, &lt;a href="Western%20Sahara"&gt;Western Sahara&lt;/a&gt;
+ &lt;a href="Bordeaux"&gt;Bordeaux&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Dakar"&gt;Dakar&lt;/a&gt;, &lt;a href="Senegal"&gt;Senegal&lt;/a&gt;
+ &lt;a href="Durban"&gt;Durban&lt;/a&gt;, &lt;a href="South%20Africa"&gt;South Africa&lt;/a&gt;
+ &lt;a href="Elche"&gt;Elche&lt;/a&gt;, &lt;a href="Spain"&gt;Spain&lt;/a&gt;
+ &lt;a href="Gda%C5%84sk"&gt;Gdańsk&lt;/a&gt;, &lt;a href="Poland"&gt;Poland&lt;/a&gt;
+ &lt;a href="Havana"&gt;Havana&lt;/a&gt;, &lt;a href="Cuba"&gt;Cuba&lt;/a&gt;
+ &lt;a href="Oujda"&gt;Oujda&lt;/a&gt;, &lt;a href="Morocco"&gt;Morocco&lt;/a&gt;
+ &lt;a href="Sfax"&gt;Sfax&lt;/a&gt;, &lt;a href="Tunisia"&gt;Tunisia&lt;/a&gt;
+ &lt;a href="Zarqa"&gt;Zarqa&lt;/a&gt;, &lt;a href="Jordan"&gt;Jordan&lt;/a&gt;
+ &lt;a href="Belo%20Horizonte"&gt;Belo Horizonte&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt;
+ &lt;a href="Houston"&gt;Houston&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt; (2003)
+ &lt;a href="Porto"&gt;Porto&lt;/a&gt;, &lt;a href="Portugal"&gt;Portugal&lt;/a&gt;
+ &lt;a href="Salvador%2C%20Bahia"&gt;Salvador&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt;
+ &lt;a href="S%C3%A3o%20Paulo"&gt;São Paulo&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt;
+ &lt;a href="Tahoua"&gt;Tahoua&lt;/a&gt;, &lt;a href="Niger"&gt;Niger&lt;/a&gt;
+ &lt;a href="Atlanta"&gt;Atlanta&lt;/a&gt;, &lt;a href="Georgia%20%28U.S.%20state%29"&gt;Georgia&lt;/a&gt;, USA
+ &lt;a href="Taipei"&gt;Taipei&lt;/a&gt;, &lt;a href="Republic%20of%20China"&gt;Republic of China&lt;/a&gt;
+ &lt;a href="Burbank%2C%20California"&gt;Burbank&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="V%C3%A4ster%C3%A5s"&gt;Västerås&lt;/a&gt;, &lt;a href="Sweden"&gt;Sweden&lt;/a&gt;
+ &lt;a href="Zhejiang"&gt;Zhejiang Province&lt;/a&gt;, &lt;a href="China"&gt;China&lt;/a&gt;
+ &lt;a href="Tamale%2C%20Ghana"&gt;Tamale&lt;/a&gt;, &lt;a href="Ghana"&gt;Ghana&lt;/a&gt; (2003)
+ &lt;a href="Taipei"&gt;Taipei&lt;/a&gt;, &lt;a href="Republic%20of%20China"&gt;Republic of China&lt;/a&gt;
+Cameroon.
+ &lt;a href="Dordrecht"&gt;Dordrecht&lt;/a&gt;, &lt;a href="Kingdom%20of%20the%20Netherlands"&gt;Netherlands&lt;/a&gt;
+ &lt;a href="Dakar"&gt;Dakar&lt;/a&gt;, &lt;a href="Senegal"&gt;Senegal&lt;/a&gt;
+ &lt;a href="Newark%2C%20New%20Jersey"&gt;Newark&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Philadelphia"&gt;Philadelphia&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt; (1986)
+ &lt;a href="Saint-Brieuc"&gt;Saint-Brieuc&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="St.%20John%27s%2C%20Antigua%20and%20Barbuda"&gt;Saint John's&lt;/a&gt;, &lt;a href="Antigua%20and%20Barbuda"&gt;Antigua and Barbuda&lt;/a&gt;
+ &lt;a href="Seattle"&gt;Seattle&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Loures"&gt;Loures&lt;/a&gt;, &lt;a href="Portugal"&gt;Portugal&lt;/a&gt; (1993)
+ &lt;a href="Fortaleza"&gt;Fortaleza&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt;
+ &lt;a href="Funchal"&gt;Funchal&lt;/a&gt;, &lt;a href="Portugal"&gt;Portugal&lt;/a&gt;
+ &lt;a href="La%20Paz"&gt;La Paz&lt;/a&gt; - &lt;a href="Mexico"&gt;Mexico&lt;/a&gt;
+ &lt;a href="Rimini"&gt;Rimini&lt;/a&gt;, &lt;a href="Talyaaniga"&gt;Talyaaniga&lt;/a&gt;
+ &lt;a href="Vitoria-Gasteiz"&gt;Vitoria-Gasteiz&lt;/a&gt;, &lt;a href="Spain"&gt;Spain&lt;/a&gt;
+ &lt;a href="Guadalajara"&gt;Guadalajara&lt;/a&gt;, &lt;a href="Mexico"&gt;Mexico&lt;/a&gt;
+ &lt;a href="Johannesburg"&gt;Johannesburg&lt;/a&gt;, &lt;a href="South%20Africa"&gt;South Africa&lt;/a&gt;
+ &lt;a href="Lyon"&gt;Lyon&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Denver"&gt;Denver&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt; (1995)
+ &lt;a href="Cleveland"&gt;Cleveland&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt; (2004)
+ &lt;a href="Gongyi"&gt;Gongyi&lt;/a&gt;, &lt;a href="China"&gt;China&lt;/a&gt;
+ &lt;a href="Villeurbanne"&gt;Villeurbanne&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Corvallis%2C%20Oregon"&gt;Corvallis&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Taipei"&gt;Taipei&lt;/a&gt;, &lt;a href="Republic%20of%20China"&gt;Republic of China&lt;/a&gt;
+ &lt;a href="Chicago"&gt;Chicago&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Columbia%2C%20South%20Carolina"&gt;Columbia&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Johannesburg"&gt;Johannesburg&lt;/a&gt;, &lt;a href="South%20Africa"&gt;South Africa&lt;/a&gt;
+ &lt;a href="Washington%2C%20D.C."&gt;Washington&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+&lt;a href="Cheyenne%2C%20Wyoming"&gt;Cheyenne, Wyoming&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt; 
+ &lt;a href="Fada%20N%27gourma"&gt;Fada N'gourma&lt;/a&gt;, &lt;a href="Burkina%20Faso"&gt;Burkina Faso&lt;/a&gt; (2003)
+ &lt;a href="Louisville%2C%20Kentucky"&gt;Louisville&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt; (1979)
+ &lt;a href="Commune%20II%20%28Niamey%29"&gt;Niamey Commune II&lt;/a&gt;, &lt;a href="Niger"&gt;Niger&lt;/a&gt; (2008)
+ &lt;a href="Greenwich"&gt;Greenwich&lt;/a&gt;, &lt;a href="United%20Kingdom"&gt;United Kingdom&lt;/a&gt;
+ &lt;a href="Newburyport%2C%20Massachusetts"&gt;Newburyport&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Amesbury%2C%20Massachusetts"&gt;Amesbury&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Cheltenham"&gt;Cheltenham&lt;/a&gt;, &lt;a href="United%20Kingdom"&gt;United Kingdom&lt;/a&gt;
+&lt;a href="Seattle"&gt;Seattle&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Denver"&gt;Denver&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Raleigh%2C%20North%20Carolina"&gt;Raleigh&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="East%20Orange%2C%20New%20Jersey"&gt;East Orange,&lt;/a&gt; &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Amherst%2C%20Massachusetts"&gt;Amherst&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Austin%2C%20Texas"&gt;Austin&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Taipei"&gt;Taipei&lt;/a&gt;, &lt;a href="Republic%20of%20China"&gt;Republic of China&lt;/a&gt;
+ &lt;a href="Dayton%2C%20Ohio"&gt;Dayton&lt;/a&gt;, &lt;a href="Ohio"&gt;Ohio&lt;/a&gt;, USA
+ &lt;a href="Baltimore"&gt;Baltimore&lt;/a&gt;, &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Belgrade"&gt;Belgrade&lt;/a&gt;, &lt;a href="Serbia"&gt;Serbia&lt;/a&gt;
+ &lt;a href="Belo%20Horizonte"&gt;Belo Horizonte&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt; (2003)
+ &lt;a href="Madrid"&gt;Madrid&lt;/a&gt;, &lt;a href="Spain"&gt;Spain&lt;/a&gt;
+ &lt;a href="Sarajevo"&gt;Sarajevo&lt;/a&gt;, &lt;a href="Bosnia%20and%20Herzegovina"&gt;Bosnia and Herzegovina&lt;/a&gt; (1976)
+ &lt;a href="Montreal"&gt;Montreal&lt;/a&gt;, &lt;a href="Quebec"&gt;Quebec&lt;/a&gt;, &lt;a href="Canada"&gt;Canada&lt;/a&gt;
+ &lt;a href="Suzhou"&gt;Suzhou&lt;/a&gt;, &lt;a href="China"&gt;China&lt;/a&gt;
+ &lt;a href="Vorkuta"&gt;Vorkuta&lt;/a&gt;, &lt;a href="Russia"&gt;Russia&lt;/a&gt;
+ &lt;a href="Yerevan"&gt;Yerevan&lt;/a&gt;, &lt;a href="Armenia"&gt;Armenia&lt;/a&gt;
+ &lt;a href="Levallois-Perret"&gt;Levallois-Perret&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Montlu%C3%A7on"&gt;Montluçon&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Vacoas-Phoenix"&gt;Vacoas-Phoenix&lt;/a&gt;, &lt;a href="Mauritius"&gt;Mauritius&lt;/a&gt;
+ &lt;a href="Quatre%20Bornes"&gt;Quatre Bornes&lt;/a&gt;, &lt;a href="Mauritius"&gt;Mauritius&lt;/a&gt;
+ &lt;a href="Saint-Beno%C3%AEt%2C%20R%C3%A9union"&gt;Saint-Benoît&lt;/a&gt;, &lt;a href="La%20R%C3%A9union"&gt;Réunion&lt;/a&gt;
+ &lt;a href="Sainte-Suzanne%2C%20R%C3%A9union"&gt;Sainte-Suzanne&lt;/a&gt;, &lt;a href="La%20R%C3%A9union"&gt;Réunion&lt;/a&gt;
+ &lt;a href="Naples"&gt;Naples&lt;/a&gt;, &lt;a href="Italy"&gt;Italy&lt;/a&gt;
+ &lt;a href="Taipei"&gt;Taipei&lt;/a&gt;, &lt;a href="Republic%20of%20China"&gt;Republic of China&lt;/a&gt;
+ &lt;a href="Angers"&gt;Angers&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt; (since MQ 1974)
+ &lt;a href="Bobo-Dioulasso"&gt;Bobo Dioulasso&lt;/a&gt;, &lt;a href="Burkina%20Faso"&gt;Burkina Faso&lt;/a&gt;
+ &lt;a href="Dakar"&gt;Dakar&lt;/a&gt;, &lt;a href="Senegal"&gt;Senegal&lt;/a&gt;
+ &lt;a href="Leipzig"&gt;Leipzig&lt;/a&gt;, &lt;a href="Germany"&gt;Germany&lt;/a&gt;
+ &lt;a href="Rochester%2C%20New%20York"&gt;Rochester,&lt;/a&gt; &lt;a href="United%20States"&gt;United States&lt;/a&gt; (since 1975)
+ &lt;a href="S%C3%A3o%20Paulo"&gt;São Paulo&lt;/a&gt;, &lt;a href="Brazil"&gt;Brazil&lt;/a&gt;
+ &lt;a href="Berkeley%2C%20California"&gt;Berkeley,&lt;/a&gt; &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Thionville"&gt;Thionville&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Mortagne-au-Perche"&gt;Mortagne-au-Perche&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Angoul%C3%AAme"&gt;Angoulême&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt; (since 1984)
+ &lt;a href="Richmond%2C%20Virginia"&gt;Richmond,&lt;/a&gt; &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Chemnitz"&gt;Chemnitz&lt;/a&gt;, &lt;a href="Germany"&gt;Germany&lt;/a&gt;
+ &lt;a href="Hay-on-Wye"&gt;Hay-on-Wye&lt;/a&gt;, &lt;a href="United%20Kingdom"&gt;United Kingdom&lt;/a&gt;
+ &lt;a href="Istanbul"&gt;Istanbul&lt;/a&gt;, &lt;a href="Turkey"&gt;Turkey&lt;/a&gt;
+ &lt;a href="Kairouan"&gt;Kairouan&lt;/a&gt;, &lt;a href="Tunisia"&gt;Tunisia&lt;/a&gt;
+ &lt;a href="Marrakesh"&gt;Marrakech&lt;/a&gt;, &lt;a href="Morocco"&gt;Morocco&lt;/a&gt;
+ &lt;a href="Saintes%2C%20Charente-Maritime"&gt;Saintes&lt;/a&gt;, &lt;a href="France"&gt;France&lt;/a&gt;
+ &lt;a href="Tempe%2C%20Arizona"&gt;Tempe,&lt;/a&gt; &lt;a href="United%20States"&gt;United States&lt;/a&gt;
+ &lt;a href="Tifariti"&gt;Tifariti&lt;/a&gt;, &lt;a href="Western%20Sahara"&gt;Western Sahara&lt;/a&gt;
+ &lt;a href="Ahmedabad"&gt;Ahmedabad&lt;/a&gt;, India
+ &lt;a href="Doha"&gt;Doha&lt;/a&gt;, Qatar
+ &lt;a href="Foshan"&gt;Foshan&lt;/a&gt;, &lt;a href="Guangdong"&gt;Guangdong&lt;/a&gt;, China
+ &lt;a href="Franceville"&gt;Franceville&lt;/a&gt;, Gabon
+ &lt;a href="Jaipur"&gt;Jaipur&lt;/a&gt;, India
+ &lt;a href="Karachi"&gt;Karachi&lt;/a&gt;, Pakistan
+ &lt;a href="La%20Possession"&gt;La Possession&lt;/a&gt;, Réunion
+ &lt;a href="Le%20Port%2C%20R%C3%A9union"&gt;Le Port&lt;/a&gt;, Réunion
+ &lt;a href="Quebec%20City"&gt;Quebec City&lt;/a&gt;, Canada
+ &lt;a href="Saint-Malo"&gt;Saint-Malo&lt;/a&gt;, France
+ &lt;a href="Surat"&gt;Surat&lt;/a&gt;, &lt;a href="Gujarat"&gt;Gujarat&lt;/a&gt;, India
+ &lt;a href="Saint-Pierre%2C%20R%C3%A9union"&gt;Saint-Pierre, Réunion&lt;/a&gt;
+ &lt;a href="Quartier%20Militaire"&gt;Quartier Militaire&lt;/a&gt;, Mauritius
+ &lt;a href="Castel%20Gandolfo"&gt;Castel Gandolfo&lt;/a&gt;, Italy
+ &lt;a href="Pune"&gt;Pune&lt;/a&gt;, India
+ &lt;a href="Antsirab%C3%A9"&gt;Antsirabé&lt;/a&gt;, Madagascar
+ &lt;a href="Sainte-Suzanne%2C%20R%C3%A9union"&gt;Sainte-Suzanne, Réunion&lt;/a&gt;
+ &lt;a href="Saint-Beno%C3%AEt%2C%20R%C3%A9union"&gt;Saint-Benoît, Réunion&lt;/a&gt;
+ &lt;a href="Ambalavao"&gt;Ambalavao&lt;/a&gt;, Madagascar
+&lt;a href="Sintra"&gt;Sintra&lt;/a&gt;, Portugal
+&lt;a href="Algiers"&gt;Algiers&lt;/a&gt;, Algeria
+&lt;a href="Bordeaux"&gt;Bordeaux&lt;/a&gt;, France
+Chicago, United States
+Shanghai, China
+&lt;a href="Vierzon"&gt;Vierzon&lt;/a&gt;, France
+&lt;a href="La%20Rochelle"&gt;La Rochelle&lt;/a&gt;, France 
+&lt;a href="Montpellier"&gt;Montpellier&lt;/a&gt;, France, since 1961
+&lt;a href="Strasbourg"&gt;Strasbourg&lt;/a&gt;, France, since 1961
+&lt;a href="Florence"&gt;Florence&lt;/a&gt;, Italy, (since 1961)"
+&lt;a href="Kairouan"&gt;Kairouan&lt;/a&gt;, Tunisia, since 1965
+&lt;a href="Saint-Louis%2C%20Senegal"&gt;Saint Louis&lt;/a&gt;, Senegal, since 1979
+&lt;a href="Coimbra"&gt;Coimbra&lt;/a&gt;, Portugal
+&lt;a href="Bobo-Dioulasso"&gt;Bobo Dioulasso&lt;/a&gt;, Burkina Faso, since 2003
+&lt;a href="Lahore"&gt;Lahore&lt;/a&gt;, Pakistan
+&lt;a href="Suwon"&gt;Suwon&lt;/a&gt;, South Korea, since 2003
+&lt;a href="%C4%B0zmir"&gt;İzmir&lt;/a&gt;, Turkey, since 1995
+&lt;a href="Puebla%2C%20Puebla"&gt;Puebla&lt;/a&gt;, Mexico
+&lt;a href="Jerusalem"&gt;Jerusalem&lt;/a&gt;, Palestine(Israel) since 1981
+&lt;a href="Timbuktu"&gt;Timbuktu&lt;/a&gt;, Mali
+&lt;a href="Mashhad"&gt;Mashhad&lt;/a&gt;, Iran, since October 2011
+&lt;a href="Cenon"&gt;Cenon&lt;/a&gt;, France
+&lt;a href="Reims"&gt;Reims&lt;/a&gt;, France, since 2011
+&lt;a href="N%C3%AEmes"&gt;Nîmes&lt;/a&gt;, France, since 2005
+&lt;a href="Almaty"&gt;Almaty&lt;/a&gt;, Kazakhstan
+&lt;a href="Ghent"&gt;Ghent&lt;/a&gt;, Belgium
+ &lt;a href="Trowbridge"&gt;Trowbridge&lt;/a&gt;, England, UK (2006)
+&lt;a href="Jouy%20le%20Moutier"&gt;Jouy le Moutier&lt;/a&gt;, France
+&lt;a href="Cairo"&gt;Cairo&lt;/a&gt;, Egypt
+&lt;a href="Faro%2C%20Portugal"&gt;Faro, Portugal&lt;/a&gt; (1954)
+&lt;a href="Granada"&gt;Granada&lt;/a&gt;, Spain
+&lt;a href="P%C3%AD%C3%B1ar"&gt;Píñar&lt;/a&gt;, Spain
+&lt;a href="Santa%20Fe%2C%20Argentina"&gt;Santa Fe&lt;/a&gt;, Argentina
+&lt;a href="Terrassa"&gt;Terrassa&lt;/a&gt;, Spain, since June 19th, 2002
+ &lt;a href="Bristol"&gt;Bristol&lt;/a&gt;, England, UK (1990)
+&lt;a href="Lisbon"&gt;Lisbon&lt;/a&gt;, Portugal
+&lt;a href="Loures"&gt;Loures&lt;/a&gt;, Portugal (1996)
+&lt;a href="Johannesburg"&gt;Johannesburg&lt;/a&gt;, South Africa
+ &lt;a href="Chesterfield%2C%20Derbyshire"&gt;Chesterfield&lt;/a&gt;, England, UK
+&lt;a href="Elverum"&gt;Elverum&lt;/a&gt;, Norway
+&lt;a href="Johannesburg"&gt;Johannesburg&lt;/a&gt;, South Africa
+&lt;a href="San%20Antonio"&gt;San Antonio&lt;/a&gt;, &lt;a href="Texas"&gt;Texas&lt;/a&gt; U.S.A.,
+&lt;a href="Tamale%2C%20Ghana"&gt;Tamale&lt;/a&gt;, Ghana (2008)
+&lt;a href="Bras%C3%ADlia"&gt;Brasília&lt;/a&gt;, Brazil.
+&lt;a href="Detroit"&gt;Detroit&lt;/a&gt;, United States.
+&lt;a href="Toronto"&gt;Toronto&lt;/a&gt;, Ontario, Canada.
+&lt;a href="Atlanta%2C%20Georgia"&gt;Atlanta, Georgia&lt;/a&gt;, USA
+&lt;a href="Gary%2C%20Indiana"&gt;Gary, Indiana&lt;/a&gt;, USA
+&lt;a href="Cleveland%2C%20Ohio"&gt;Cleveland, Ohio&lt;/a&gt;, USA
+&lt;a href="Compton%2C%20Ca"&gt;Compton, Ca&lt;/a&gt;lifornia, United States (2010)
+&lt;a href="Austin%2C%20Texas"&gt;Austin&lt;/a&gt;, USA
+&lt;a href="Gresham%2C%20Oregon"&gt;Gresham&lt;/a&gt;, USA
+&lt;a href="Dresden"&gt;Dresden&lt;/a&gt;, Germany (1975)
+&lt;a href="Windhoek"&gt;Windhoek&lt;/a&gt;, Namibia
+&lt;a href="Kinshasa"&gt;Kinshasa&lt;/a&gt;, Democratic Republic of the Congo
+&lt;a href="Dakar"&gt;Dakar&lt;/a&gt;, Senegal
+&lt;a href="Rheims"&gt;Rheims&lt;/a&gt;, France
+&lt;a href="Brazzaville"&gt;Brazzaville&lt;/a&gt;, Republic of the Congo
+&lt;a href="Brussels"&gt;Brussels&lt;/a&gt;, Belgium "(since 2002)"
+&lt;a href="Johannesburg"&gt;Johannesburg&lt;/a&gt;, South Africa
+&lt;a href="San%20Bernardino%2C%20California"&gt;San Bernardino&lt;/a&gt;, USA
+ &lt;a href="Algiers"&gt;Algiers&lt;/a&gt;, Algeria
+ &lt;a href="Fortaleza"&gt;Fortaleza&lt;/a&gt;, Brazil
+ &lt;a href="Taipei"&gt;Taipei&lt;/a&gt;, &lt;a href="Republic%20of%20China"&gt;Republic of China&lt;/a&gt;
+&lt;a href="Lisbon"&gt;Lisbon&lt;/a&gt;, &lt;a href="Portugal"&gt;Portugal&lt;/a&gt;
+&lt;a href="Kingstown"&gt;Kingstown&lt;/a&gt;, &lt;a href="Saint%20Vincent%20and%20the%20Grenadines"&gt;Saint Vincent and the Grenadines&lt;/a&gt;
+ &lt;a href="Kingston%20upon%20Hull"&gt;Hull&lt;/a&gt;, England, UK
+&lt;a href="Kansas%20City%2C%20Missouri"&gt;Kansas City&lt;/a&gt;, United States
+&lt;a href="New%20Haven%2C%20Connecticut"&gt;New Haven&lt;/a&gt;, United States
+&lt;a href="Wilkinsburg%2C%20Pennsylvania"&gt;Wilkinsburg&lt;/a&gt;, United States
+ &lt;a href="Henley-on-Thames"&gt;Henley-on-Thames&lt;/a&gt;,&lt;a href="UK"&gt;UK&lt;/a&gt;
+&lt;a href="Doha"&gt;Doha&lt;/a&gt;, &lt;a href="Qatar"&gt;Qatar&lt;/a&gt;
+&lt;a href="Minneapolis"&gt;Minneapolis&lt;/a&gt;, &lt;a href="USA"&gt;USA&lt;/a&gt;
+&lt;a href="Gothenburg"&gt;Gothenburg&lt;/a&gt;, &lt;a href="Sweden"&gt;Sweden&lt;/a&gt;
+&lt;a href="Jeddah"&gt;Jeddah&lt;/a&gt;, &lt;a href="Saudi%20Arabia"&gt;Saudi Arabia&lt;/a&gt;
+&lt;a href="almaty"&gt;almaty&lt;/a&gt;, &lt;a href="Kasakhstan"&gt;Kasakhstan&lt;/a&gt;
+&lt;a href="Ankara"&gt;Ankara&lt;/a&gt;, Turkey
+&lt;a href="Istanbul"&gt;Istanbul&lt;/a&gt;, &lt;a href="Turkiga"&gt;Turkiga&lt;/a&gt;
+&lt;a href="Eindhoven"&gt;Eindhoven&lt;/a&gt;, Netherlands
+&lt;a href="Cairo"&gt;Cairo&lt;/a&gt;, Egypt
+&lt;a href="Istanbul"&gt;Istanbul&lt;/a&gt;, Turkey
+&lt;a href="St.%20Petersburg"&gt;St. Petersburg&lt;/a&gt;, Russia
+&lt;a href="Wuhan"&gt;Wuhan&lt;/a&gt;, China
+&lt;a href="Fort%20Worth%2C%20Texas"&gt;Fort Worth&lt;/a&gt;, United States (2004)
+&lt;a href="Durham%2C%20North%20Carolina"&gt;Durham&lt;/a&gt;, United States
+&lt;a href="Kansas%20City%2C%20Missouri"&gt;Kansas City, Missouri&lt;/a&gt;, United States
+&lt;a href="Vallejo%2C%20California"&gt;Vallejo, California&lt;/a&gt;, United States
+&lt;a href="Samsun"&gt;Samsun&lt;/a&gt;, Turkey
+&lt;a href="Hamburg"&gt;Hamburg&lt;/a&gt;, Germany
+&lt;a href="Link%C3%B6ping"&gt;Linköping&lt;/a&gt;, Sweden
+&lt;a href="Kitchener%2C%20Canada"&gt;Kitchener, Canada&lt;/a&gt;
+&lt;a href="Tampere"&gt;Tampere&lt;/a&gt;, Finland
+&lt;a href="Tifariti"&gt;Tifariti&lt;/a&gt;, Western Sahara
+&lt;a href="Wuerzburg"&gt;Wuerzburg&lt;/a&gt;, Germany
+&lt;a href="Tifariti"&gt;Tifariti&lt;/a&gt;, Western Sahara
+&lt;a href="Toledo%2C%20Ohio"&gt;Toledo&lt;/a&gt;, United States (2001)
+&lt;a href="Eckernfoerde"&gt;Eckernfoerde&lt;/a&gt;, Germany
+&lt;a href="Shenzhen"&gt;Shenzhen&lt;/a&gt;, China, since 1993
+&lt;a href="Delft"&gt;Delft&lt;/a&gt;, Netherlands
+&lt;a href="Stuttgart"&gt;Stuttgart&lt;/a&gt;, Germany
+&lt;a href="M%C3%BCnster"&gt;Münster&lt;/a&gt;, Germany
+&lt;a href="Saint-%C3%89tienne"&gt;Saint-Étienne&lt;/a&gt;, France
+&lt;a href="Seto%2C%20Aichi"&gt;Seto&lt;/a&gt;, Japan
+&lt;a href="Grenoble"&gt;Grenoble&lt;/a&gt;, France
+&lt;a href="Makhachkala"&gt;Makhachkala&lt;/a&gt;, Russia
+&lt;a href="Marburg"&gt;Marburg&lt;/a&gt;, Germany
+&lt;a href="Serpukhovsky%20District"&gt;Serpukhovsky District&lt;/a&gt;, Russia
+&lt;a href="Cologne"&gt;Cologne&lt;/a&gt;, Germany
+&lt;a href="Prague"&gt;Prague&lt;/a&gt;, Czech Republic
+&lt;a href="Kuwait%20City"&gt;Kuwait City&lt;/a&gt;, Kuwait
+&lt;a href="Doha"&gt;Doha&lt;/a&gt;, Qatar
+&lt;a href="Muscat%2C%20Oman"&gt;Muscat, Oman&lt;/a&gt;
+&lt;a href="Amman"&gt;Amman&lt;/a&gt;, Jordan
+&lt;a href="Beirut"&gt;Beirut&lt;/a&gt;, Lebanon
+&lt;a href="Rabat"&gt;Rabat&lt;/a&gt;, Morocco
+&lt;a href="Istanbul"&gt;Istanbul&lt;/a&gt;, Turkey
+ &lt;a href="Hudson%2C%20New%20York"&gt;Hudson&lt;/a&gt;, United States
+ &lt;a href="Ashkelon"&gt;Ashkelon&lt;/a&gt;, Israel
+ &lt;a href="Sanya"&gt;Sanya&lt;/a&gt;, China
+ &lt;a href="Tumwater"&gt;Tumwater&lt;/a&gt;, United States
+&lt;a href="Motril"&gt;Motril&lt;/a&gt;, &lt;a href="Granada"&gt;Granada&lt;/a&gt;, &lt;a href="Andaluc%C3%ADa"&gt;Andalucía&lt;/a&gt;, Spain
+&lt;a href="Pu%C3%A7ol"&gt;Puçol&lt;/a&gt;, &lt;a href="Valencia%2C%20Spain"&gt;Valencia&lt;/a&gt;, &lt;a href="Comunidad%20Valenciana"&gt;Comunidad Valenciana&lt;/a&gt;, Spain ("since 1 September 2002")
+&lt;a href="Quarrata"&gt;Quarrata&lt;/a&gt;, &lt;a href="Pistoia"&gt;Pistoia&lt;/a&gt;, &lt;a href="Toscana"&gt;Toscana&lt;/a&gt;, Italy
+&lt;a href="Batna%20City"&gt;Batna&lt;/a&gt;, &lt;a href="Batna%20Province"&gt;Batna Province&lt;/a&gt;, Algeria
+&lt;a href="Benal%C3%BAa%20de%20las%20Villas"&gt;Benalúa de las Villas&lt;/a&gt;, &lt;a href="Granada"&gt;Granada&lt;/a&gt;, &lt;a href="Andaluc%C3%ADa"&gt;Andalucía&lt;/a&gt;, Spain
+&lt;a href="Capraia%20e%20Limite"&gt;Capraia e Limite&lt;/a&gt;, &lt;a href="Firenze"&gt;Firenze&lt;/a&gt;, &lt;a href="Toscana"&gt;Toscana&lt;/a&gt;, Italy
+&lt;a href="Campi%20Bisenzio"&gt;Campi Bisenzio&lt;/a&gt;, Firenze, Toscana, Italy
+&lt;a href="Pozuelo%20de%20Alarc%C3%B3n"&gt;Pozuelo de Alarcón&lt;/a&gt;, Madrid, Spain
+&lt;a href="Prato"&gt;Prato&lt;/a&gt;, Prato, Toscana, Italy
+&lt;a href="La%20Rinconada"&gt;La Rinconada&lt;/a&gt;, &lt;a href="Sevilla"&gt;Sevilla&lt;/a&gt;, Andalucía, Spain
+&lt;a href="Montemurlo"&gt;Montemurlo&lt;/a&gt;, Prato, Toscana, Italy
+&lt;a href="Monteroni%20d%27Arbia"&gt;Monteroni d'Arbia&lt;/a&gt;, &lt;a href="Siena"&gt;Siena&lt;/a&gt;, Toscana, Italy
+&lt;a href="Montevarchi"&gt;Montevarchi&lt;/a&gt;, &lt;a href="Arezzo"&gt;Arezzo&lt;/a&gt;, Toscana, Italy
+&lt;a href="Novelda"&gt;Novelda&lt;/a&gt;, &lt;a href="Alicante"&gt;Alicante&lt;/a&gt;, &lt;a href="Comunidad%20Valenciana"&gt;Comunidad Valenciana&lt;/a&gt;, Spain
+&lt;a href="San%20Piero%20a%20Sieve"&gt;San Piero a Sieve&lt;/a&gt;, Firenze, Toscana, Italy
+&lt;a href="Sagunto"&gt;Sagunto&lt;/a&gt;, &lt;a href="Valencia%2C%20Spain"&gt;Valencia&lt;/a&gt;, Comunidad Valenciana, Spain
+&lt;a href="Tolosa%2C%20Spain"&gt;Tolosa&lt;/a&gt;, &lt;a href="Guip%C3%BAzcoa"&gt;Guipúzcoa&lt;/a&gt;, &lt;a href="Pa%C3%ADs%20Vasco"&gt;País Vasco&lt;/a&gt;, Spain
+&lt;a href="Le%20Mans"&gt;Le Mans&lt;/a&gt;, Sarthe, France ("since 10 January 1982")
+&lt;a href="Coslada"&gt;Coslada&lt;/a&gt;, Madrid, Spain
+&lt;a href="Llanera%2C%20Asturias"&gt;Llanera, Asturias&lt;/a&gt;, Spain
+&lt;a href="Peligros"&gt;Peligros&lt;/a&gt;, &lt;a href="Granada"&gt;Granada&lt;/a&gt;, &lt;a href="Andaluc%C3%ADa"&gt;Andalucía&lt;/a&gt;, Spain
+&lt;a href="Ponte%20Buggianese"&gt;Ponte Buggianese&lt;/a&gt;, &lt;a href="Pistoia"&gt;Pistoia&lt;/a&gt;, &lt;a href="Toscana"&gt;Toscana&lt;/a&gt;, Italy
+&lt;a href="Agliana"&gt;Agliana&lt;/a&gt;, &lt;a href="Pistoia"&gt;Pistoia&lt;/a&gt;, &lt;a href="Toscana"&gt;Toscana&lt;/a&gt;, Italy
+&lt;a href="Aldaia"&gt;Aldaia&lt;/a&gt;, &lt;a href="Valencia%2C%20Spain"&gt;Valencia&lt;/a&gt;, &lt;a href="Comunidad%20Valenciana"&gt;Comunidad Valenciana&lt;/a&gt;, Spain
+&lt;a href="Arusha"&gt;Arusha&lt;/a&gt;, &lt;a href="Arusha%20Region"&gt;Arusha Region&lt;/a&gt;, Tanzania ("since 21 December 2009")
+&lt;a href="Caron%C3%AD%20Municipality"&gt;Caroní&lt;/a&gt;, &lt;a href="Bol%C3%ADvar%20%28state%29"&gt;Bolívar&lt;/a&gt;, Venezuela ("since 25 July 2011")
+&lt;a href="Ist%C3%A1n"&gt;Istán&lt;/a&gt;, &lt;a href="M%C3%A1laga"&gt;Málaga&lt;/a&gt;, &lt;a href="Andaluc%C3%ADa"&gt;Andalucía&lt;/a&gt;, Spain
+&lt;a href="Libertador%20Bolivarian%20Municipality"&gt;Libertador&lt;/a&gt;, &lt;a href="Venezuelan%20Capital%20District"&gt;Capital District&lt;/a&gt;, Venezuela
+&lt;a href="Loro%20Ciuffenna"&gt;Loro Ciuffenna&lt;/a&gt;, &lt;a href="Arezzo"&gt;Arezzo&lt;/a&gt;, Toscana, Italy
+&lt;a href="Mascara%2C%20Algeria"&gt;Mascara&lt;/a&gt;, &lt;a href="Mascara%20Province"&gt;Mascara Province&lt;/a&gt;, Algeria ("since 9 June 2008")
+&lt;a href="Mbeya"&gt;Mbeya&lt;/a&gt;, &lt;a href="Mbeya%20Region"&gt;Mbeya Region&lt;/a&gt;, Tanzania ("since 21 December 2009")
+&lt;a href="Mwanza"&gt;Mwanza&lt;/a&gt;, &lt;a href="Mwanza%20Region"&gt;Mwanza Region&lt;/a&gt;, Tanzania ("since 21 December 2009")
+&lt;a href="Los%20Palacios%20y%20Villafranca"&gt;Los Palacios y Villafranca&lt;/a&gt;, &lt;a href="Sevilla%20%28province%29"&gt;Sevilla&lt;/a&gt;, Spain
+&lt;a href="Pontassieve"&gt;Pontassieve&lt;/a&gt;, &lt;a href="Firenze"&gt;Firenze&lt;/a&gt;, &lt;a href="Toscana"&gt;Toscana&lt;/a&gt;, Italy
+&lt;a href="Signa"&gt;Signa&lt;/a&gt;, Firenze, Toscana, Italy
+&lt;a href="Sumbawanga"&gt;Sumbawanga&lt;/a&gt;, &lt;a href="Rukwa%20Region"&gt;Rukwa Region&lt;/a&gt;, Tanzania ("since 21 December 2009")
+&lt;a href="Tanga%2C%20Tanzania"&gt;Tanga&lt;/a&gt;, &lt;a href="Tanga%20Region"&gt;Tanga Region&lt;/a&gt;, Tanzania ("since 21 December 2009")
+&lt;a href="Balmaseda"&gt;Balmaseda&lt;/a&gt;, &lt;a href="Biscay"&gt;Vizcaya&lt;/a&gt;, &lt;a href="Pa%C3%ADs%20Vasco"&gt;País Vasco&lt;/a&gt;, Spain
+&lt;a href="Venta%20de%20Ba%C3%B1os"&gt;Venta de Baños&lt;/a&gt;, &lt;a href="Palencia"&gt;Palencia&lt;/a&gt;, &lt;a href="Castilla%20y%20Le%C3%B3n"&gt;Castilla y León&lt;/a&gt;, Spain
+&lt;a href="Sevilla"&gt;Sevilla&lt;/a&gt;, Sevilla, Spain
+&lt;a href="Sheffield"&gt;Sheffield&lt;/a&gt;, &lt;a href="South%20Yorkshire"&gt;South Yorkshire&lt;/a&gt;, England, United Kingdom
+&lt;a href="Baia%20Mare"&gt;Baia Mare&lt;/a&gt;, Romania
+&lt;a href="Bor%2C%20Serbia"&gt;Bor, Serbia&lt;/a&gt;
+Detroit, Michigan, United States
+&lt;a href="Funchal"&gt;Funchal&lt;/a&gt;, Portugal
+&lt;a href="Cork%20City"&gt;Cork City&lt;/a&gt;, Republic of Ireland
+&lt;a href="Izhevsk"&gt;Izhevsk&lt;/a&gt;, Russia
+&lt;a href="Dushanbe"&gt;Dushanbe&lt;/a&gt;, Tajikistan
+Los Angeles, United States
+&lt;a href="Harbin"&gt;Harbin&lt;/a&gt;, China
+&lt;a href="Lubumbashi"&gt;Lubumbashi&lt;/a&gt;, Democratic Republic of the Congo
+&lt;a href="Bentol"&gt;Bentol&lt;/a&gt;, Liberia
+&lt;a href="Blantyre%2C%20Malawi"&gt;Blantyre, Malawi&lt;/a&gt;
+&lt;a href="Walvis%20Bay"&gt;Walvis Bay&lt;/a&gt;, Namibia
+&lt;a href="Porto"&gt;Porto&lt;/a&gt;, Portugal
+&lt;a href="Makhachkala"&gt;Makhachkala&lt;/a&gt;, Russia
+&lt;a href="Aldershot"&gt;Aldershot&lt;/a&gt;, United Kingdom
+ &lt;a href="Aberdeen"&gt;Aberdeen&lt;/a&gt;, Scotland, UK (1986)
+&lt;a href="Durban"&gt;Durban&lt;/a&gt;, South Africa
+&lt;a href="Polokwane"&gt;Polokwane&lt;/a&gt;, South Africa
+ &lt;a href="Nottingham"&gt;Nottingham&lt;/a&gt;, England, UK (1986)
+&lt;a href="Haarlem"&gt;Haarlem&lt;/a&gt;, Netherlands (1992)
+&lt;a href="Portland%2C%20Oregon"&gt;Portland&lt;/a&gt;, United States (1991)
+Zimbabwe.
+Masvingo and Kernen, Germany, since 1990.

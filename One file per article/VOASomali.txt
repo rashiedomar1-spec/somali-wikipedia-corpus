@@ -1,0 +1,10 @@
+title:
+VOASomali
+
+url:
+https://so.wikipedia.org/wiki?curid=5988
+
+text:
+VOASomali waa raadio idaacadeed, waxaana laga dhageestaa dalka soomaaliya iyo deegaanada soomaalida degto. Magaca VOA waxaa loola jeedaa codka mareykanka waxeena sii deesaa idaacad ku baxda afka soomaaliga. raadiyahaan waxaa la dhageesan karaa nusaac ama halsaac oo affar jeer ah maalintii. Raadiyahaan xaruntiisa waxee ku taalaa &lt;a href="Caasimada%20Washington"&gt;Washington&lt;/a&gt; ee dalka &lt;a href="Mareykanka"&gt;Mareykanka&lt;/a&gt;.
+bogga internetka ee VOA.
+&lt;a href="https%3A//web.archive.org/web/20100921065854/http%3A//www.voanews.com/somali/news/"&gt;Voasomali&lt;/a&gt;

@@ -1,0 +1,54 @@
+title:
+Saacadda Afrikada Bari
+
+url:
+https://so.wikipedia.org/wiki?curid=12495
+
+text:
+Saacadda Afrikada Bari , ama SAB , waa time zone used in eastern Africa . aaggu waa saddex saacadood ka hor UTC ( UTC + 3 ),iyo sidoo kale isla sida Eastern European Time Time taas oo la mid ah Arabia Standard Time ,ref> "Nuqul Archive" . World Time Zones.Org. Waxaa laga kaydiyay the original 10 February 2011 . Soo qaatay 29 April 2012 . Barameter aan la aqoon |ciwaan= ignored ( caawin ) </ref> w:es:Tiempo de África Oriental Maaddaama Waqtigan Soontani uu inta badan ku yaal gobolka equator , ma jiro isbeddel weyn oo dhererka maalinlaha ah ee sanadka oo dhan, sidaas darteed [[wakhtiga badbaadinta wakhtiga] lama arag. [ 1 ]
+
+w:it:UTC+3 East Africa Time is used by the following countries:
+
+Madaaskar
+
+Somalia
+
+Itoobiya
+
+Kenya
+
+Sudan
+
+Tansaaniya
+
+Comoros
+
+Jabuuti
+
+Eratareya
+
+Koonfur Suudaan
+
+Ugaandha
+
+==Sido kale fiiri==
+
+* Dunida aag saacad
+
+* Somalia
+
+* Somaliland
+
+== References ==
+
+
+# Tables
+
+## Table 1
+|   | UTC−01:00 | Cape Verde Time (The islands of Cape Verde are to the west of the African mainland.) |
+| --- | --- | --- |
+|  | UTC±00:00 | Western European Time · Greenwich Mean Time |
+|  | UTC+01:00 | Central European Time · West Africa Time · Western European Summer Time . |
+|  | UTC+02:00 | Central Africa Time · Eastern European Time · South African Standard Time · West Africa Summer Time |
+|  | UTC+03:00 | East Africa Time |
+|  | UTC+04:00 | Mauritius Time · Seychelles Time |

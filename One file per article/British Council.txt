@@ -1,0 +1,21 @@
+title:
+British Council
+
+url:
+https://so.wikipedia.org/wiki?curid=33280
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;240365&lt;/parentid&gt;
+ &lt;timestamp&gt;2025-05-07T00:52:25Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;InternetArchiveBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5&lt;/comment&gt;
+ &lt;origin&gt;274689&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+https://www.britishcouncil.org/ 
+British Council
+urur dhaqameed ee Ingiriiska weyn, oo leh dhinacyo dhaqameed iyo luqad, urur waxbarasho.

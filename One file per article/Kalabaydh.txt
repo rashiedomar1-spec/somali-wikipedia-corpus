@@ -1,0 +1,46 @@
+title:
+Kalabaydh
+
+url:
+https://so.wikipedia.org/wiki?curid=7507
+
+text:
+Kalabaydh ( Af Ingiriis : Kalabayd ) waa magaalo  ku taala bartamaha waqooyi galbeed ee gobolka Sool , Waqooyibari , Soomaaliya . Magaalada Kalabayr waxaa ku dhaqan dad gaaraya ilaa 25,000 . [ 1 ]
+
+Faalo
+
+Isku socodka
+
+Waxbarashada
+
+Magaaladda Kalabayr waxaa ku yaal dugsiga hoose, dhexe iyo Sare iyo malcaamado quraan oo dhawr ah. Waxa kale oo dhawaan la rajaynayaa in laga furo xarumo waxbarasho oo horleh.
+
+Sidoo kale fiiri
+
+Xigash
+
+Tixraac
+
+Liiska magaalooyinka Soomaaliya dadka ku nool
+
+Liiska magaalooyinka Soomaaliya
+
+
+# Infobox
+
+- **Wadanka**: Somalia Waqooyibari
+- **Gobol**: Sool
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Kalabaydh |
+| --- |
+| Magaalo |
+|  |
+| Kalabaydh |
+| Wadanka | Somalia Waqooyibari |
+| Gobol | Sool |
+| Aag saacadeed | UTC+3 ( EAT ) |

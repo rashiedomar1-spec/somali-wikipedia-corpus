@@ -1,0 +1,37 @@
+title:
+Melon
+
+url:
+https://so.wikipedia.org/wiki?curid=33375
+
+text:
+Melon (멜론; Mellon ) waa dukaanka muusikada onlaynka oo Koonfur Kuuriya ah iyo adeegga qulqulka muusikada oo la soo saaray bishii Nofembar 2004, waxaana soo saaray SK Telecom. LOEN Entertainment (wuxuu noqday Kakao M ka dibna Kakao Entertainment) wuxuu noqday maamulaha shirkadda ee adeegga 2009. Sannadkii 2017, Kakao wuxuu ku daray Kakao Music ee Melon si uu u helo mid, adeeg muusig oo mideysan. [ 1 ]
+
+Melon waa adeegga rukunka muusigga ee ugu weyn Kuuriyada Koonfureed, oo leh in ka badan 28 milyan oo isticmaale. Melon waa adeegga qulqulka muusikada ugu caansan Koonfurta Kuuriya.  Xaqiiqdii, sahan lagu sameeyay dadka isticmaala taleefannada casriga ah ayaa lagu ogaaday inay ahaayeen codsiyada ugu badan ee ay adeegsadaan Kuuriya . [ 2 ] Xabxabka ayaa hadda laga heli karaa macruufka iOS iyo Android .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: www.melon.com
+- **Ganacsi?**: Haa
+- **Nooca site**: DMO
+- **Diiwaan-gelin**: Loo baahan yahay, loogu talagalay Koonfurta Kuuriya oo kaliya
+- **Diyaar ku ah**: Kuuriya
+- **Mulkiilaha**: Kakao Entertainment
+- **La bilaabay isticmaalka**: Nofeembar 2004 ( 2004-11 )
+
+
+# Tables
+
+## Melon
+|   |
+| --- |
+| Cinwaanka | www.melon.com |
+| Ganacsi? | Haa |
+| Nooca site | DMO |
+| Diiwaan-gelin | Loo baahan yahay, loogu talagalay Koonfurta Kuuriya oo kaliya |
+| Diyaar ku ah | Kuuriya |
+| Mulkiilaha | Kakao Entertainment |
+| La bilaabay isticmaalka | Nofeembar 2004 ( 2004-11 ) |

@@ -1,0 +1,20 @@
+title:
+Liiska magaalooyinka adduunka dad ahaan
+
+url:
+https://so.wikipedia.org/wiki?curid=4240
+
+text:
+Liiska magaalooyinka ugu dadka badan adduunka
+
+
+# Tables
+
+## Table 1
+| Boos | Magaalo shanghai | Tirada dadka 17.836.133 | Bed (km²) | Dal china |
+| --- | --- | --- | --- | --- |
+| 4 | Mumbai | 13,922,125 | 603 | Hindiya |
+| 1 | Shangahai | 13,831,900 | 1,928 | China |
+| 3 | Karachi | 12,991,000 | 3,527 | Baakistaan |
+| 4 | Delhi | 12,259,230 | 431.09 | Hindiya |
+| 5 | Istanbuul | 11,372,613 | 1,831 | Turki |

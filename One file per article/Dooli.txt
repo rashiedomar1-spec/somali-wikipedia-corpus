@@ -1,0 +1,10 @@
+title:
+Dooli
+
+url:
+https://so.wikipedia.org/wiki?curid=5653
+
+text:
+Dooliga waxaan waaye
+
+Mouse

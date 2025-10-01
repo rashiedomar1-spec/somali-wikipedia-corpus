@@ -1,0 +1,8 @@
+title:
+Saylaami
+
+url:
+https://so.wikipedia.org/wiki?curid=32361
+
+text:
+saylaami waa dhaqdhaqaaqa gacmaha oo fog.

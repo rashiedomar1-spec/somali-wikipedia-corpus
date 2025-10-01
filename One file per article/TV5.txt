@@ -1,0 +1,8 @@
+title:
+TV5
+
+url:
+https://so.wikipedia.org/wiki?curid=38590
+
+text:
+TV5 waa telefishin &lt;a href="Filibiin"&gt;Filibiin&lt;/a&gt; iyo shabakad raadiyo oo ay iska leedahay &lt;a href="MediaQuest%20Holdings"&gt;MediaQuest Holdings&lt;/a&gt; (&lt;a href="PLDT"&gt;PLDT&lt;/a&gt;). Waxaa la aasaasay 1960-kii &lt;a href="Chino%20Roces"&gt;Chino Roces&lt;/a&gt;. Xarunteedu waxay ku taal &lt;a href="Mandaluyong"&gt;Mandaluyong&lt;/a&gt;.

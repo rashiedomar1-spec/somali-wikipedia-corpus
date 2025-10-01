@@ -1,0 +1,26 @@
+title:
+Albaalmarinta Koonfur Kuuriya
+
+url:
+https://so.wikipedia.org/wiki?curid=32242
+
+text:
+South Korea Albaalmarinta Koonfur Kuuriya
+
+Abaalmarin la siiyo dadka kuuriyada koonfureed iyo quruumaha kale ee adduunka ee loogu talagalay kordhinta dhaqanka, koonfurta korea oo ah wadan ku yaal bariga asiya, ayaa laga yaabaa inay ka baxdo abaalmarintan oo ay ummadu siiso calaamadda shaqo wanaagsan ee cibaadada
+
+sido kale fiiri
+
+Koonfur Kuuriya
+
+
+# Tables
+
+## Table 1
+| Grade- Tiroka | Magac | Ribbon |
+| --- | --- | --- |
+| 1st | Geumgwan (금관) |  |
+| 2nd | Eungwan (은관) |  |
+| 3rd | Bogwan (보관) |  |
+| 4th | Okgwan (옥관) |  |
+| 5th | Hwagwan (화관) |  |

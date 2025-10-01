@@ -1,0 +1,53 @@
+title:
+Senary
+
+url:
+https://so.wikipedia.org/wiki?curid=13690
+
+text:
+Senary ( ingiriis : senary ama heximal) waa saldhiga 6aad ee lambarada xisaabta .
+
+Inta u badan ee jajabka tirada la xidhiidha Senary waa kuwo sahlan, waxaanay u dhacdaa sida tan:
+
+
+# Tables
+
+## Table 1
+| Saldhiga Desimal Miisaanka hore saldhiga lambarada: 2 , 5 Miisaanka hore ee kuwa ka hooseeya saldhiga lambarada: 3 Miisaanka hore ee kuwa ka sareeya saldhiga lambarada: 11 Saldhiga lambarada kale: 7 13 17 19 23 29 31 | Saldhiga Senary Miisaanka hore saldhiga lambarada: 2 , 3 Miisaanka hore ee kuwa ka hooseeya saldhiga lambarada: 5 Miisaanka hore ee kuwa ka sareeya saldhiga lambarada: 11 Saldhiga lambarada kale: 15 21 25 31 35 45 51 |
+| --- | --- |
+| Jajab | Miisaanka hore ee kala jebiyaha | Meesha u Taagan | Meesha u Taagan | Miisaanka hore ee kala jebiyaha | Jajab |
+| 1/2 | 2 | 0.5 | 0.3 | 2 | 1/2 |
+| 1/3 | 3 | 0. 3333... = 0. 3 | 0.2 | 3 | 1/3 |
+| 1/4 | 2 | 0.25 | 0.13 | 2 | 1/4 |
+| 1/5 | 5 | 0.2 | 0. 1111... = 0. 1 | 5 | 1/5 |
+| 1/6 | 2 , 3 | 0.1 6 | 0.1 | 2 , 3 | 1/10 |
+| 1/7 | 7 | 0. 142857 | 0. Template:Overline | 11 | 1/11 |
+| 1/8 | 2 | 0.125 | 0.043 | 2 | 1/12 |
+| 1/9 | 3 | 0. 1 | 0.04 | 3 | 1/13 |
+| 1/10 | 2 , 5 | 0.1 | 0.0 3 | 2 , 5 | 1/14 |
+| 1/11 | 11 | 0. 09 | 0. 0313452421 | 15 | 1/15 |
+| 1/12 | 2 , 3 | 0.08 3 | 0.03 | 2 , 3 | 1/20 |
+| 1/13 | 13 | 0. 076923 | 0. 024340531215 | 21 | 1/21 |
+| 1/14 | 2 , 7 | 0.0 714285 | 0.0 23 | 2 , 11 | 1/22 |
+| 1/15 | 3 , 5 | 0.0 6 | 0.0 2 | 3 , 5 | 1/23 |
+| 1/16 | 2 | 0.0625 | 0.0213 | 2 | 1/24 |
+| 1/17 | 17 | 0. 0588235294117647 | 0. 0204122453514331 | 25 | 1/25 |
+| 1/18 | 2 , 3 | 0.0 5 | 0.02 | 2 , 3 | 1/30 |
+| 1/19 | 19 | 0. 052631578947368421 | 0. Template:Overline | 31 | 1/31 |
+| 1/20 | 2 , 5 | 0.05 | 0.01 4 | 2 , 5 | 1/32 |
+| 1/21 | 3 , 7 | 0. 047619 | 0.0 14 | 3 , 11 | 1/33 |
+| 1/22 | 2 , 11 | 0.0 045 | 0.0 1345242103 | 2 , 15 | 1/34 |
+| 1/23 | 23 | 0. 0434782608695652173913 | 0.0 01322030441 | 35 | 1/35 |
+| 1/24 | 2 , 3 | 0.041 6 | 0.013 | 2 , 3 | 1/40 |
+| 1/25 | 5 | 0.04 | 0. 01235 | 5 | 1/41 |
+| 1/26 | 2 , 13 | 0.0 384615 | 0.0 121502434053 | 2 , 21 | 1/42 |
+| 1/27 | 3 | 0. 037 | 0.012 | 3 | 1/43 |
+| 1/28 | 2 , 7 | 0.03 571428 | 0.01 14 | 2 , 11 | 1/44 |
+| 1/29 | 29 | 0. 0344827586206896551724137931 | 0. 01124045443151 | 45 | 1/45 |
+| 1/30 | 2 , 3 , 5 | 0.0 3 | 0.0 Template:Overline | 2 , 3 , 5 | 1/50 |
+| 1/31 | 31 | 0. 032258064516129 | 0. 010545 | 51 | 1/51 |
+| 1/32 | 2 | 0.03125 | 0.01043 | 2 | 1/52 |
+| 1/33 | 3 , 11 | 0. 03 | 0.0 1031345242 | 3 , 15 | 1/53 |
+| 1/34 | 2 , 17 | 0.0 2941176470588235 | 0.0 1020412245351433 | 2 , 25 | 1/54 |
+| 1/35 | 5 , 7 | 0.0 285714 | 0. 01 | 5 , 11 | 1/55 |
+| 1/36 | 2 , 3 | 0.02 7 | 0.01 | 2 , 3 | 1/100 |

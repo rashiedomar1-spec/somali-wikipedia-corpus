@@ -1,0 +1,8 @@
+title:
+Operating system
+
+url:
+https://so.wikipedia.org/wiki?curid=8288
+
+text:
+Operating system ama Nidaamka shidida (OS) waa koox barnaamijyo kombuyuutar ah, oo ay ku jiraan darawalada qalabka, kernels, iyo &lt;a href="software"&gt;software&lt;/a&gt; kale oo u oggolaanaya dadka inay la falgalaan kombuyuutarka. Waxay maamushaa qalabka kombiyuutarka iyo agabka software-ka. Waxay bixisaa adeegyo guud oo loogu talagalay barnaamijyada kombiyuutarka. OS wuxuu noqon karaa mid yar (sida MenuetOS), ama weyn (sida &lt;a href="Microsoft%20Windows"&gt;Microsoft Windows&lt;/a&gt;). Nidaamyada shidida ee kala duwan ayaa loo isticmaali karaa ujeedooyin kala duwan. Qaarkood waxaa loo isticmaalaa waxyaabaha maalinlaha ah sida kombayutarka gaarka ah. Kuwo kale waa nidaamka shidida mobilada ama waxaa loo isticmaalaa shaqo khaas ah.

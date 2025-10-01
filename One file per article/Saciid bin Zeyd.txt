@@ -1,0 +1,45 @@
+title:
+Saciid bin Zeyd
+
+url:
+https://so.wikipedia.org/wiki?curid=4103
+
+text:
+Sacad Bin Zeyd R.C Waa sannadkii lixaad ee hijriyada kahor. Goobtuna waa magaallada Makka. Wuxuu Rasuulka (scw) ka sheeganayay dhibaatooyinkii iyo hagardaamooyinkii kaga imaanayay gaallada qureysh isaga iyo asxaabtiisa, isagoo uu Rasuulkuna (scw) waqtigaas ku howlanaa gaarsiinta iyo fidinta dacwada Islaamka.
+
+Noloshiisa
+
+Xigasho
+
+
+# Infobox
+
+- **aabihiisa:**: zeyd bin camar
+- **hooyadii**: faaduma binti bacja
+- **Dhashay:**: 600
+- **Ku dhashay:**: Makka
+- **Diintiisa:**: Islaam
+- **xaaska**: faadima binti khadaab
+- **ilmahiisa**: cabdulaahi, cabdiraxmaan, ibraahiim
+- **walaalihiis**: caatika binti zeyd
+- **Dhintay:**: 51H/671
+- **Ku dhintay:**: Madiina
+
+
+# Tables
+
+## Table 1
+| Saciid bin zeyd سعيد بن زيد |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: | zeyd bin camar |
+| hooyadii | faaduma binti bacja |
+| Dhashay: | 600 |
+| Ku dhashay: | Makka |
+| Diintiisa: | Islaam |
+| xaaska | faadima binti khadaab |
+| ilmahiisa | cabdulaahi, cabdiraxmaan, ibraahiim |
+| walaalihiis | caatika binti zeyd |
+| Dhintay: | 51H/671 |
+| Ku dhintay: | Madiina |

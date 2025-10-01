@@ -1,0 +1,58 @@
+title:
+Nokia
+
+url:
+https://so.wikipedia.org/wiki?curid=3999
+
+text:
+Nokia Corporation ama Nokia waa shirkad soosaarto taleefoonada ku sheqeeya xarunteedu waxa ay kutaalaa wadanka Finland gaar ahaan magaalda ee Esbo , Finland . Shirkada waxaa u shaqeeya shaqaale kabadan ilaa 105,000 qof waa mid kamida shirkadaha ugu horeeya dhanka.
+
+Aqoonsiga muuqaalka
+
+Sidoo kale eeg
+
+Lifaaq banaanka
+
+Astaanta Nokia oo loo adeegsaday sanadihii 1992 ilaa 2005.
+
+Astaanta Nokia oo loo adeegsaday sanadihii 2005 ilaa 2011.
+
+Astaanta Nokia oo loo adeegsaday tan iyo sanadihii 2013.
+
+MSFT
+
+Compaq Yahoo
+
+Yahoo
+
+
+# Infobox
+
+- **ISIN**: FI0009000681
+- **Shirkada**: mobile
+- **La aasaasay**: 12 May 1865
+- **Xarunta**: , Finland
+- **Dakhliga**: 24,910,000,000 Euro (2022)
+- **Dakhliga shaqeeya**: -1,100,000,000 Euro [ 1 ] (2016)
+- **Dakhliga saafiga**: -927,000,000 Euro [ 1 ] (2016)
+- **Dhamaan hantida**: 39,517,000,000 Euro [ 2 ] (31 Diseembar 2018)
+- **Tirada inta ka shaqeeso**: 103,083 [ 3 ] (2018)
+- **Website**: [[[:Template:Wdib]] ]
+
+
+# Tables
+
+## Nokia Corporation
+| Astaanta tan iyo 2023 |
+| --- |
+| 210px https://www.nokia.com/contact-us/ |
+| ISIN | FI0009000681 |
+| Shirkada | mobile |
+| La aasaasay | 12 May 1865 |
+| Xarunta | , Finland |
+| Dakhliga | 24,910,000,000 Euro (2022) |
+| Dakhliga shaqeeya | -1,100,000,000 Euro [ 1 ] (2016) |
+| Dakhliga saafiga | -927,000,000 Euro [ 1 ] (2016) |
+| Dhamaan hantida | 39,517,000,000 Euro [ 2 ] (31 Diseembar 2018) |
+| Tirada inta ka shaqeeso | 103,083 [ 3 ] (2018) |
+| Website | [[[:Template:Wdib]] ] |

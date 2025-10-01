@@ -1,0 +1,36 @@
+title:
+Umji
+
+url:
+https://so.wikipedia.org/wiki?curid=33187
+
+text:
+Kim Ye-won (dhashay Agoosto 19, 1998) si fiican loogu yaqaan magaceeda masraxa Umji , waa fanaanad Koonfur Kuuriya. Waxay xubin hore ka tahay kooxda gabdhaha GFriend .
+
+Xiriirinta dibedda
+
+
+# Infobox
+
+- **Ku dhashay**: Kim Ye-won ( 1998-08-19 ) Agoosto 19, 1998 ( 27jir) Incheon , Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2015–hada
+- **Calaamadaha**: Source Music
+- **Falalka la xiriira**: GFriend
+
+
+# Tables
+
+## Table 1
+| Umji |
+| --- |
+| Umji ee 2023 |
+| Ku dhashay | Kim Ye-won ( 1998-08-19 ) Agoosto 19, 1998 ( 27jir) Incheon , Koonfur Kuuriya |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2015–hada |
+| Calaamadaha | Source Music |
+| Falalka la xiriira | GFriend |
+|  |

@@ -1,0 +1,20 @@
+title:
+Isirayn
+
+url:
+https://so.wikipedia.org/wiki?curid=17054
+
+text:
+&lt;a href="Xisaab"&gt;Xisaab&lt;/a&gt; ahaan isirayn waa furfurid: "fansaar" hal tibix lambar formula_1 ururka tirsiimo formula_2formula_3 sidoo kale waxay yeelan kartaan dhowr tibix (formula_4).
+Tara kasta oo idil waxaa lagu muujin karaa dhibco. Tilmaan ahaan 6 waxaa lagu muujin karaa siyaabahaa 
+... ama :::: Tirooyinka u dhigmi kara laydi ahaan ayaa ah tirooyin leh isirro maratal tirada 12 = 6 X 2 = 3 X 4 
+Raadinta isirka ax + by + ay + bx
+Furfuris: ax + by + ay + bx = ax + bx + ay + by
+ Xeerka kala hormarinta isugaynta
+ = ( ax + bx) + ( ay + by)
+ Xeerka hormagalinta isugaynta
+ = x(a + b) + y (a + b)
+ Xeerka kala dhigga iskudhufashada ee isugaynta
+ = (a + b) (x + y)
+ Xeerka kala dhigga iskudhufashada ee isugeynta
+ Markaa ax + by + ay + bx = (a + b) (x + y)

@@ -1,0 +1,33 @@
+title:
+Dameer
+
+url:
+https://so.wikipedia.org/wiki?curid=4065
+
+text:
+Dameer waa xayawaan oo ku nool, Afrika iyo Aasiya .
+dameerada way kala duwanyihiin, waxaana ka mid ah.
+
+Dameer Farow
+
+Dameer somali
+
+
+# Tables
+
+## Table 1
+| Dameer |
+| --- |
+|  |
+| Dameer lagu sawiray Ingiriiska |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Qaybinta: | Chordata |
+| Gacalka: | Naasley |
+| Dirka: | Perissodactyla |
+| Bahka: | Equidae |
+| Duulka: | Equus |
+| Noocyada: | E. africanus |
+| Noocyada kala duwan: | E. a. asinus |
+| Trinomial name |
+| Equus africanus asinus Liniyus (1758) |

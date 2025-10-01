@@ -1,0 +1,22 @@
+title:
+Folkaano
+
+url:
+https://so.wikipedia.org/wiki?curid=18863
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;168669&lt;/parentid&gt;
+ &lt;timestamp&gt;2021-10-20T07:16:18Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Per excellence&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;/* Tixraac */&lt;/comment&gt;
+ &lt;origin&gt;220504&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Folkaano ama fulkaane (, ) waa buur dhuleed ama badeed, oo afkeedu sameeyo qarax uu ku ay ku xigto burqashada maadooyin shiilan oo sidii macdan la dhalaaliyay u shubmaysa, isla markaasna wata kulayl, qiiq, gaas, iyo qarax weyn oo ka horeeya intaas, kaasoo tuuraaya dhagaxaan iyo dhimbilo waaweyn oo holcaya.
+Qaybaha folkaanaha
+Qaraxa fulkaanaha.
+Qaraxa folkaano ayaa dhaca markii uu so burqado dhagaxa guduudan ee dhulka hoostiisa mara, wuxuuna soo galaa lakabyo dhulka u dhow, kaasoo soo raadiya dhuun jilicsan oo uu uga baxo dhulka dushiisa, dhagaxaas ayaa wata wax guban oo ay ka midyihiin macdan, qaraxa ayaa sameeyo dhimbilo duulaya oo meelo fog fog ku dhaca, iyo dhagaxaan buurta ka fuqay. dhalaalka ka soo shubmay buurta afkeeda ayaa dhul gaaban ama mid dheer jeexda kaasoo guba wax walboo ka hor yimaada, ka dibna qabooba oo adkaada isagoo midab madow leh.

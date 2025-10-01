@@ -1,0 +1,28 @@
+title:
+Gantaal
+
+url:
+https://so.wikipedia.org/wiki?curid=12415
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;232595&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-03-15T15:57:22Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;37.205.58.146&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;232596&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Gantaal.
+Gantaal (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: Missile) waa nooc ka mid ah hubka dheereeya ee ka duula goobta laga riday ilaa meesha lala rabo asagoo sii dhex maraya &lt;a href="cir"&gt;cir&lt;/a&gt;ka, kaas oo ujeedadiisu tahay in wax lagu burburiyo.
+Qaab dhismeedka Gantaaladu waa &lt;a href="afar"&gt;afar&lt;/a&gt;: bar-tilmaadeedka iyo hagitaanka, duulimaadka, nooca mashiinka saaran, iyo nooca madax-hub ee uu wado. 
+Inkastoo ay jiraan Gantaalo ayagu ismaamula, inta u badan waa mid la hago ilaa uu ka gaadhayo bar-tilmaameedkii lala rabay. 
+= Taariikhda Gantaalada =
+= Isticmaalka Gantaalada =
+= Khatarta Gantaalada =
+Gantaalada waxaa ka dhalan karta khatar aad u ballaaran taasoo laga yaabo in lagu rakibo hubka wax gumaada ee nuclier-ka meeshii lagu dhufto la iskuma hayo inay ka dhacayso burburkii ka dhacay jaban oo kale.
+= Saamaynta Gantaalada =
+Gantalada xanbaara hubka nuclier-ka wa hubka ugu culus e casrigan laga isticmaalo caalamka.
+Waxana lagu tilmama dawladii hesha hubkan inay la gor-gortami karto USA xataa aan la isku dayi karin in la weeraro oo loga baqayo hubkan

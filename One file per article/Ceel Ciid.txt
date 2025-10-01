@@ -1,0 +1,8 @@
+title:
+Ceel Ciid
+
+url:
+https://so.wikipedia.org/wiki?curid=2837
+
+text:
+Ceel Ciid waa &lt;a href="ceel"&gt;ceel&lt;/a&gt;ka biyoha ee ugu weyn &lt;a href="Gobolka%20Mudug"&gt;Gobolka Mudug&lt;/a&gt;, Wuxuuna ku yaalaa magaalada bartamaha &lt;a href="Galdogob"&gt;Galdogob&lt;/a&gt;.

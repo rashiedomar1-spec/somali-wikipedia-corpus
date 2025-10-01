@@ -1,0 +1,11 @@
+title:
+Eastern European Time
+
+url:
+https://so.wikipedia.org/wiki?curid=23849
+
+text:
+Waqtiga Bariga Yurub (EET) 
+&lt;a href="w%3Ait%3AUTC%2B3"&gt;w:it:UTC+3&lt;/a&gt;
+Waqtiga Bariga &lt;a href="Yurub"&gt;Yurub&lt;/a&gt; (EET) waa mid ka mid ah magacyada UTC + 02: 00 aagagga saacadaha, 2 saacadood ka hor Iskudhafka Universal Time. Aagga wuxuu isticmaalaa waqtiga badbaadinta maalintii, si uu u isticmaalo UTC + 03: 00 inta lagu jiro xagaaga.
+Dalal badan oo Afrikaan ah ayaa adeegsanaya UTC + 02: 00 oo sanadka oo dhan, oo loo yaqaan "Central Africa Time" (CAT), inkastoo Masar iyo Liibiya ay sidoo kale isticmaalaan ereyga Eastern European.

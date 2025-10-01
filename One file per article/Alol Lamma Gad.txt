@@ -1,0 +1,36 @@
+title:
+Alol Lamma Gad
+
+url:
+https://so.wikipedia.org/wiki?curid=20390
+
+text:
+Alol Lamma Gad waa tuulo dhacda koonfurgalbeed Gobolka Baay ee wadanka Soomaaliya . Waxaa lagu qiyaasay in tuuladan u dhowdahay magaalada Buurhakaba . [ 1 ]
+
+Xigahso
+
+Tixraac
+
+Administrative map of Bay Region - Buur Hakaba District
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Gobol**: Baay
+- **Degmo**: Buurhakaba
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Alol Lamma Gad |
+| --- |
+| Populated place |
+|  |
+| Alol Lamma Gad Meesha ka dhacdo Soomaaliya. |
+| Country | Somalia |
+| Gobol | Baay |
+| Degmo | Buurhakaba |
+| Aag saacadeed | UTC+3 ( EAT ) |

@@ -1,0 +1,64 @@
+title:
+Waddanka Columbia Kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=38843
+
+text:
+Waddanka Columbia Kubedka
+
+Dkarka columbia
+
+Germany Addidas
+
+FIFA
+
+CONMEBOL
+
+1	GK	Álvaro Montero	29 March 1995 (age 28)	4	0	Colombia Millonarios
+
+12	GK	Camilo Vargas	9 March 1989 (age 34)	13	0	Mexico Atlas
+
+22	GK	Kevin Mier	18 May 2000 (age 23)	0	0	Colombia Atlético Nacional
+
+2	DF	Yerson Mosquera	2 May 2001 (age 22)	0	0	United States Cincinnati
+
+3	DF	Jhon Lucumí	26 June 1998 (age 24)	10	0	Italy Bologna
+
+4	DF	Deiver Machado	2 September 1993 (age 29)	4	0	France Lens
+
+6	DF	Juan David Mosquera	5 September 2002 (age 20)	1	0	United States Portland Timbers
+
+13	DF	Yerry Mina	24 September 1994 (age 28)	39	7	England Everton
+
+14	DF	Andrés Salazar	15 January 2003 (age 20)	0	0	Colombia Atlético Nacional
+
+21	DF	Daniel Muñoz	25 May 1996 (age 27)	17	0	Belgium Genk
+
+23	DF	Davinson Sánchez	12 June 1996 (age 27)	52	1	England Tottenham Hotspur
+
+5	MF	Wilmar Barrios	16 October 1993 (age 29)	53	1	Russia Zenit Saint Petersburg
+
+8	MF	Jorge Carrascal	25 May 1998 (age 25)	5	1	Russia CSKA Moscow
+
+10	MF	Yáser Asprilla	19 November 2003 (age 19)	2	1	England Watford
+
+11	MF	Juan Cuadrado	26 May 1988 (age 35)	113	10	Italy Juventus
+
+15	MF	Mateus Uribe	21 March 1991 (age 32)	45	5	Qatar Al Sadd
+
+16	MF	Jefferson Lerma	25 October 1994 (age 28)	33	1	England Crystal Palace
+
+17	MF	Kevin Castaño	29 September 2000 (age 22)	3	0	Mexico Cruz Azul
+
+20	MF	Jhon Arias	21 September 1997 (age 25)	4	0	Brazil Fluminense
+
+7	FW	Luis Díaz	13 January 1997 (age 26)	37	8	England Liverpool
+
+9	FW	Diego Valoyes	22 September 1996 (age 26)	6	0	Argentina Talleres
+
+18	FW	Mateo Cassierra	13 April 1997 (age 26)	0	0	Russia Zenit Saint Petersburg
+
+19	FW	Rafael Santos Borré	15 September 1995 (age 27)	22	3	Germany Eintracht Frankfurt
+
+24	FW	Óscar Cortés	3 December 2003 (aged 19)	0	0	France Lens

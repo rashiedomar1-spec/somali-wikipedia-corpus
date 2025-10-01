@@ -1,0 +1,8 @@
+title:
+Senarclens
+
+url:
+https://so.wikipedia.org/wiki?curid=36587
+
+text:
+&lt;a href="Senarclens"&gt;Senarclens&lt;/a&gt; waa degmo ku taal Morges oo ku taal gobolka &lt;a href="Vaud"&gt;Vaud&lt;/a&gt; ee &lt;a href="Iswisarland"&gt;Iswisarland&lt;/a&gt;.

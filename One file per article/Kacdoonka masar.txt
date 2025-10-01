@@ -1,0 +1,8 @@
+title:
+Kacdoonka masar
+
+url:
+https://so.wikipedia.org/wiki?curid=6864
+
+text:
+Kacdoonka masar ee 25 Janaayo ee xukunka lagaga tuuray madaxwaynihii hore ee wadanka &lt;a href="masar"&gt;masar&lt;/a&gt; &lt;a href="Xusni%20Mubaarak"&gt;Xusni Mubaarak&lt;/a&gt;

@@ -1,0 +1,8 @@
+title:
+Computer Engineering
+
+url:
+https://so.wikipedia.org/wiki?curid=2482
+
+text:
+Computer Engineering (electronic and computer engineering) waa barashadda &lt;a href="Hardware"&gt;Hardware&lt;/a&gt; iyo &lt;a href="Software"&gt;Software&lt;/a&gt; ka. Computer Engineering waa qayka midah elekterik (fasamadda korontada).

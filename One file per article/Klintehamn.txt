@@ -1,0 +1,49 @@
+title:
+Klintehamn
+
+url:
+https://so.wikipedia.org/wiki?curid=36794
+
+text:
+Klintehamn waa xaafad ku taal degmada Gotland ee gobolka Gotland ee Iswiidhan .  Sannadkii 2010, 1,363 qof ayaa ku noolaa. [ 1 ]
+
+Template:Europe-stub
+
+
+# Infobox
+
+- **Dawladda**: Iswiidhan
+- **Gobolka (heerka koowaad)**: Gotland
+- **Gobolka**: Gobolka Gotland
+- **Degmada**: Degmada Gotland
+- **Area [ 2 ]**: 2.12 km 2 (0.82 sq mi)
+- **• Dhammaan**: 1,363
+- **• Cufnaanta dadka**: 643/km 2 (1,670/sq mi)
+- **Aag saacadeed**: UTC+1 ( CET )
+- **• Xagaa ( DST )**: UTC+2 ( CEST )
+
+
+# Tables
+
+## Table 1
+| Klintehamn |
+| --- |
+| {{{type}}} |
+|  |
+| Klintehamn |
+| Coordinates: 57°24′N 18°12′E ﻿ / ﻿ 57.400°N 18.200°E ﻿ / 57.400; 18.200 Coordinates : 57°24′N 18°12′E ﻿ / ﻿ 57.400°N 18.200°E ﻿ / 57.400; 18.200 |
+| Dawladda | Iswiidhan |
+| Gobolka (heerka koowaad) | Gotland |
+| Gobolka | Gobolka Gotland |
+| Degmada | Degmada Gotland |
+| Area [ 2 ] | 2.12 km 2 (0.82 sq mi) |
+| Tirada dadka (31 December 2010) [ 2 ] |
+| • Dhammaan | 1,363 |
+| • Cufnaanta dadka | 643/km 2 (1,670/sq mi) |
+| Aag saacadeed | UTC+1 ( CET ) |
+| • Xagaa ( DST ) | UTC+2 ( CEST ) |
+
+
+
+# Coordinates
+57.400; 18.200

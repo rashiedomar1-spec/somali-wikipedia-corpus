@@ -1,0 +1,28 @@
+title:
+Natalie Joyce
+
+url:
+https://so.wikipedia.org/wiki?curid=32778
+
+text:
+Natalie Joyce (waxay dhashay Natalie Marie Johnson; Nofeembar 6, 1902 - Nofeembar 9, 1992) waxay ahayd atirisho Mareykan ah. [ 1 ] [ 2 ]
+
+Tixraacyo
+
+
+# Infobox
+
+- **Ku dhashay**: Natalie Marie Johnson ( 1902-11-06 ) Nofeembar 6, 1902 Norfolk, Virginia
+- **Dhimasho**: Nofeembar 9, 1992 ( 1992-11-09 ) (da'da 90jir) San Diego, Kalifornia
+- **Qaraabada**: Olive Borden (inaadeer)
+
+
+# Tables
+
+## Table 1
+| Natalie Joyce |
+| --- |
+|  |
+| Ku dhashay | Natalie Marie Johnson ( 1902-11-06 ) Nofeembar 6, 1902 Norfolk, Virginia |
+| Dhimasho | Nofeembar 9, 1992 ( 1992-11-09 ) (da'da 90jir) San Diego, Kalifornia |
+| Qaraabada | Olive Borden (inaadeer) |

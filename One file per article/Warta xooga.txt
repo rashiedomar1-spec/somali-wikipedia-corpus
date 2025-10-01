@@ -1,0 +1,42 @@
+title:
+Warta xooga
+
+url:
+https://so.wikipedia.org/wiki?curid=28499
+
+text:
+waa degmo katirsan magalada burco una jurta 67km waxa dega beelaha muuse abokor reeryoonis maxamed yoonis allamagan waxay dhinaca waqooyi bari ka xigtaa magalada burco wa degmo ku haboon xoola dhaqashada iyo beeraha
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: togdheer
+- **Degmo**: warta xooga
+- **• Duqa-magaalada**: reer colow
+- **Joogga**: 0 m (0 ft)
+- **• Dhammaan**: 2,390
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| warta xooga warta xooga ورتا حوقا |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | togdheer |
+| Degmo | warta xooga |
+| Dowlada |
+| • Duqa-magaalada | reer colow |
+| Joogga | 0 m (0 ft) |
+| Tirada dadka |
+| • Dhammaan | 2,390 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

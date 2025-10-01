@@ -1,0 +1,44 @@
+title:
+Ugandan shilling
+
+url:
+https://so.wikipedia.org/wiki?curid=24274
+
+text:
+Shilinka (calaamad: USh, code: UGX) waa lacagta Uganda. Si rasmi ah ayaa loo qaybiyay cents ilaa 2013, shilku hadda ma laha qayb hoosaad.
+Shilkii ugu horreeyay ee Ugandha (UGS) wuxuu beddelay shilinka bariga Afrika sannadkii 1966-kii. Ka dib sicir barar sare, shilin cusub (UGX) ayaa la soo saaray 1987 qiime ahaan 100 shilin oo hore.
+Shilinka ayaa inta badan ah lacag suuq ah, wuxuuna sare u qaadaa macaamilka maaliyadeed ee ugu badan ee Uganda, oo leh suuq sarrifka ajnabiga oo aad u sarreeya oo leh faafitaan hooseeya. Doolarka Maraykanka ayaa sidoo kale loo aqbalay. Lacagta lafdhabarta ah iyo sii kordheysa lacagta euro ayaa sidoo kale loo isticmaalaa.
+Bank of Uganda ayaa jaray sicirka siyaasaddiisa 22% 1 Febraayo 2012 kadib markii sicir bararku hoos u dhacay 3 bilood oo isku xiga.
+
+
+# Infobox
+
+- **ISO 4217 fure**: UGX
+- **Bankiga dhexe**: Bank of Uganda
+- **Adeegsade**: Uganda
+- **Sicir barar**: 4.7%
+- **Sumad**: USh
+
+
+# Tables
+
+## Table 1
+| Ugandan shilling |
+| --- |
+| Shilingi ya Uganda Template:Sw icon |
+| The old 1,000-shilling note depicted a farmer on one side and grain storage on the reverse. The old 1,000-shilling note depicted a farmer on one side and grain storage on the reverse. | The old 1,000-shilling note depicted a farmer on one side and grain storage on the reverse. | The old 1,000-shilling note depicted a farmer on one side and grain storage on the reverse. |
+| The old 1,000-shilling note depicted a farmer on one side and grain storage on the reverse. |
+| The old 1,000-shilling note depicted a farmer on one side and grain storage on the reverse. |
+| ISO 4217 fure | UGX |
+| Bankiga dhexe | Bank of Uganda |
+| Website | [http:// Template:Website Template:Website ] |
+| Adeegsade | Uganda |
+| Sicir barar | 4.7% |
+| Ilaha warbixinta | The World Factbook , 2014 est. |
+| Qaybaha |  |
+| 1/100 | cent |
+| Sumad | USh |
+|  |  |
+| Toos loo. adeegsado | 50, 100, 200, 500 shillings |
+| Aan badanaa la adeegsan | 10 shillings |
+|  | 1,000, 2,000, 5,000, 10,000, 20,000, 50,000 shillings |

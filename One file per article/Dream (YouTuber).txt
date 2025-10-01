@@ -1,0 +1,26 @@
+title:
+Dream (YouTuber)
+
+url:
+https://so.wikipedia.org/wiki?curid=37101
+
+text:
+Clay [ 1 ] (wuxuu dhashay Agoosto 12, 1999),  oo loo yaqaan khadka tooska ah sida Dream , waa Mareykan YouTuber iyo Ciyaarta Fiidiyowga Twitch kaasoo caan ku ah ugu horrayn abuurista waxyaabaha Minecraft .
+
+Tixraac
+
+
+# Infobox
+
+- **Dhashay**: ( 1999-08-12 ) Agoosto 12, 1999 ( 26jir)
+- **Sannado firfircoon**: 2014–joogo
+
+
+# Tables
+
+## Table 1
+| Dream |
+| --- |
+| Dhashay | ( 1999-08-12 ) Agoosto 12, 1999 ( 26jir) |
+| YouTube information |
+| Sannado firfircoon | 2014–joogo |

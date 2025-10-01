@@ -1,0 +1,43 @@
+title:
+Saaxil
+
+url:
+https://so.wikipedia.org/wiki?curid=2534
+
+text:
+Coordinates : 8°23′46″N 47°41′29″E ﻿ / ﻿ 8.39611°N 47.69139°E ﻿ / 8.39611; 47.69139
+
+Saaxil waa mid kamida gobolada jamhuuriyada Somaliland . Gobolkaan waxaa caasimad u ah magaalada dekadda ah ee Berbera , gobolka waqooyi somaliland oo leh magaalooyin ay ka mid tahay Berbera leh madaarrada berbera iyo dp dekedaha maraakiibta adduunka ee maraakiibta caalamiga ah iyo saldhigyada milatari ee Uae waddooyinka dhanka Hargeysa caasimada somaliland,
+
+Sido Kale fiiri
+
+Faah faahin dheeraad ah
+
+Hargeysa
+
+somaliland
+
+
+# Infobox
+
+- **Dalka**: Somaliland
+- **Xarun**: Berbera
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Saaxil |
+| --- |
+| Gobol |
+| Coat of arms |
+| Saaxil Waxay Somaliland kaga taal. |
+| Dalka | Somaliland |
+| Xarun | Berbera |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+8.39611; 47.69139

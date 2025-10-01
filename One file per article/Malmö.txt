@@ -1,0 +1,8 @@
+title:
+Malmö
+
+url:
+https://so.wikipedia.org/wiki?curid=9014
+
+text:
+Malmö waa magaalad oo kuyaalo &lt;a href="Iswiidhan"&gt;Iswiidhan&lt;/a&gt;. Malmö waxay uu dhowdahay caasimada Denmark.

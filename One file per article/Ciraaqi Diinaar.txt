@@ -1,0 +1,39 @@
+title:
+Ciraaqi Diinaar
+
+url:
+https://so.wikipedia.org/wiki?curid=3612
+
+text:
+Ciraaqi Diinaar (IQD) waa Lacagta wadanka Ciraaq.
+
+Dinar (Arabic: [diːnɑːr]) (Arabic: دينار, [(calaamadda: IQD) waa lacagta Ciraaq, waxaana soo saaray Bangiga Dhexe ee Ciraaq waxaana loo qaybiyaa 1,000 filir (FSL ), inkasta oo sicir-bararka uu soo rogay feylka laga soo bilaabo 1990-kii.
+
+
+# Infobox
+
+- **ISO 4217 fure**: IQD
+- **Bankiga dhexe**: Central Bank of Iraq
+- **Adeegsade**: Iraq
+- **Sicir barar**: 1.79%
+- **Sumad**: د.ع
+
+
+# Tables
+
+## Table 1
+| Ciraaqi Diinaar |
+| --- |
+| دينار عراقي ( Af-Carabi ) دیناری عێراقی ( Af-Kurdishka ) |
+| ISO 4217 fure | IQD |
+| Bankiga dhexe | Central Bank of Iraq |
+| Website | [http:// www.cbi.iq www.cbi.iq ] |
+| Adeegsade | Iraq |
+| Sicir barar | 1.79% |
+| Ilaha warbixinta | Central Bank of Iraq , May 2015. |
+| Qaybaha |  |
+| 1 ⁄ 1,000 | fils |
+| Sumad | د.ع |
+|  |  |
+| Toos loo. adeegsado | 1,000, 5,000, 10,000, 25,000, 50,000 dinars |
+| Aan badanaa la adeegsan | 250, 500 dinars |

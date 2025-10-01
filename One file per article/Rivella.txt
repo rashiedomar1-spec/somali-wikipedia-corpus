@@ -1,0 +1,13 @@
+title:
+Rivella
+
+url:
+https://so.wikipedia.org/wiki?curid=32212
+
+text:
+Rivella
+-sharab
+https://www.rivella-group.com/en/brands/rivella
+cabitaan jilicsan oo laga helo Switzerland, cabitaan caan ka ah yurub, noocyo fara badan oo laga baxo, min yar yar ilaa dhalooyinka waaweyn ee rivella, cabitaan ka kooban fizz
+sido kale firii.
+&lt;a href="Switzerland"&gt;Switzerland&lt;/a&gt;

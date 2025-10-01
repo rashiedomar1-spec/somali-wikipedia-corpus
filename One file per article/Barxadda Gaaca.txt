@@ -1,0 +1,30 @@
+title:
+Barxadda Gaaca
+
+url:
+https://so.wikipedia.org/wiki?curid=21575
+
+text:
+Barxadda Gaaca waxay ku taal Ka soo horjeedka Xarunta Dowladda Hoose ee Magaalada Boosaaso , Jihada Galbeed ayeey Kaa qabaneysaa Marka la joogo Dhismaha Kowaad ee Dowladda Hoose ee Boosaaso, Barxadda Gaaca ( Gaaca Square ) Waa Fagaaraha Ugu ee Caansan Magaalada Boosaaso, Isla markaasna waa Fagaaraha keliya ee Magaaladu Leedahay. Bartamaha Barxadda waxaa ku yaal Aargada Magaalada,  waxay ku taal meel 4 Wado Isugu yimaadaan Waana Goobta kowaad ee dadweynuhu Isu Taggaan Xilliyada Fantasiyaha, Isu soobaxyada, Iidaha IWM.  
+Dhismayaasha caaradka ku haya Barxadda qaybtood waxay magac wadaag la yihiin Barxadda Sida Dabaqa Gaaca oo ka mida Saraha ku hareeraysan Barxadda. 
+Isgooyska Barxadda Gaaca waa kan ugu mashquulka badan Magaalada. waana mid ka mida Isgooysyada ugu mashquulka badan guud ahaan wadanka soomaaliya .
+
+
+# Infobox
+
+- **Wadanka**: Somalia
+- **Meesha**: Bartamaha Magaalada Boosaaso . Ka Soo Horjeedka Xarunta Kowaad ee Dowladda Hoose- Boosaaso
+- **Gacanta ku haya**: Dowladda Hoose ee Boosaaso
+
+
+# Tables
+
+## Table 1
+| Barxadda Gaaca |
+| --- |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Meesha ku taalo |
+| Wadanka | Somalia |
+| Meesha | Bartamaha Magaalada Boosaaso . Ka Soo Horjeedka Xarunta Kowaad ee Dowladda Hoose- Boosaaso |
+| Macluumaad kale |
+| Gacanta ku haya | Dowladda Hoose ee Boosaaso |

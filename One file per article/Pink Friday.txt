@@ -1,0 +1,62 @@
+title:
+Pink Friday
+
+url:
+https://so.wikipedia.org/wiki?curid=30421
+
+text:
+Pink Friday waa album istuudiyaha ugu horeeya ee ay soo saareyso fannaanka Trinidad-Ameerika Nicki Minaj . Waxaa la siidaayay Noofambar 22, 2010.
+
+heesaha hogaaminta
+
+Hip hop
+
+pop
+
+R&B
+
+Young Money
+
+Cash Money
+
+Universal Motown
+
+"Your Love" Juun 1, 2010
+
+"Check It Out" Sebtember 3, 2010
+
+"Right Thru Me" Sebtember 24, 2010
+
+"Moment 4 Life" Diseembar 7, 2010
+
+"Super Bass" April 5, 2011
+
+"Did It On'em" Abriil 7, 2011
+
+"Girls Fall Like Dominoes" Abriil 11, 2011
+
+"Fly" Ogast 30, 2011
+
+
+# Infobox
+
+- **Nooca fanka**: Hip hop pop R&B
+- **Calaamadaha**: Young Money Cash Money Universal Motown
+- **Falalka la xiriira**: Nicki Minaj
+- **Website**: nicki-minaj
+
+
+# Tables
+
+## Table 1
+| Pink Friday |
+| --- |
+| Nooca fanka | Hip hop pop R&B |
+| Calaamadaha | Young Money Cash Money Universal Motown |
+| Falalka la xiriira | Nicki Minaj |
+| Website | nicki-minaj |
+
+## Table 2
+| hogaamiya heesaha oo Pink Friday |
+| --- |
+| "Your Love" Juun 1, 2010 "Check It Out" Sebtember 3, 2010 "Right Thru Me" Sebtember 24, 2010 "Moment 4 Life" Diseembar 7, 2010 "Super Bass" April 5, 2011 "Did It On'em" Abriil 7, 2011 "Girls Fall Like Dominoes" Abriil 11, 2011 "Fly" Ogast 30, 2011 |

@@ -1,0 +1,38 @@
+title:
+Love, Marilyn
+
+url:
+https://so.wikipedia.org/wiki?curid=32638
+
+text:
+Love, Marilyn ( Jacayl, Marilyn ) waa 2012 filim dokumentari Mareykan oo ku saabsan qoraallada Marilyn Monroe .
+
+
+# Infobox
+
+- **Directed by**: Liz Garbus
+- **Screenplay by**: Liz Garbus
+- **Produced by**: Stanley F. Buchthal Liz Garbus Amy Hobby
+- **Starring**: Marilyn Monroe
+- **Cinematography**: Maryse Alberti
+- **Edited by**: Azin Samari
+- **Music by**: Philip Sheppard
+- **Production companies**: Diamond Girl Sol's Luncheonette Production StudioCanal
+- **Distributed by**: Home Box Office StudioCanal
+
+
+# Tables
+
+## Table 1
+| Love, Marilyn |
+| --- |
+|  |
+| Directed by | Liz Garbus |
+| Screenplay by | Liz Garbus |
+| Produced by | Stanley F. Buchthal Liz Garbus Amy Hobby |
+| Starring | Marilyn Monroe |
+| Cinematography | Maryse Alberti |
+| Edited by | Azin Samari |
+| Music by | Philip Sheppard |
+| Production companies | Diamond Girl Sol's Luncheonette Production StudioCanal |
+| Distributed by | Home Box Office StudioCanal |

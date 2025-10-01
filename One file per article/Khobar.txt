@@ -1,0 +1,11 @@
+title:
+Khobar
+
+url:
+https://so.wikipedia.org/wiki?curid=33207
+
+text:
+Khobar
+magaaloyinka saudia , bari saudi arabia , 
+Sido Kale fiiri.
+&lt;a href="Saudi%20arabia"&gt;Saudi arabia&lt;/a&gt;

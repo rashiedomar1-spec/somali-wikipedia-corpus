@@ -1,0 +1,73 @@
+title:
+Ximsa
+
+url:
+https://so.wikipedia.org/wiki?curid=36719
+
+text:
+Ximsa (afka carabiga; حمص ) waa magaalo ku taal suuriya , waana magaalada sedexaad ee ugu weyn xaga dadka marka laga yimaado dimishiq iyo xalab , galbeedka suuriya ayee dhcdaa, gobolka ximsa ayee magaalo madax u tahay, magaalada waxay isku xere weyn u tahay magaalooyinka suuriya, waxayna sidaas ku noqotay meel ganacsi oo fariid ah.
+
+Xigasho
+
+Cite error: <ref> tags exist for a group named "lower-alpha", but no corresponding <references group="lower-alpha"/> tag was found
+
+
+# Infobox
+
+- **Dalka**: Syria
+- **Gobolka**: Ximsa
+- **Degmo**: Ximsa
+- **Xaafad**: Ximsa
+- **La degay**: 2000 BCE
+- **• Gudoomiyaha golaha degmada**: Abdullah Al-Bawab
+- **Area**: 48 km 2 (19 sq mi)
+- **• Urban**: 76 km 2 (29 sq mi)
+- **• Metro**: 104 km 2 (40 sq mi)
+- **Joogga**: 501 m (1,644 ft)
+- **• City**: 775,404 <ref name="World Population Review"</ref>
+- **Magac kale**: Af Ingiriis : Homsi Af Carabi : لاسعانود ‎
+- **Aag saacadeed**: UTC+2 ( EET )
+- **• Xagaa ( DST )**: UTC+3 ( EEST )
+- **Furaha**: 031
+- **Geocode**: C2528
+- **Climate**: Csa
+
+
+# Tables
+
+## Table 1
+| Ximsa حِمْص ( Af-Carabi ) |
+| --- |
+| City |
+| Magaalada ximsa landmarks Martyrs' Square with the Old Clock • masjidka Khalid ibn Waliid • Al-Baath University • Khalid ibn al-Walid Stadium |  |  |  |  |
+|  |  |  |  |
+|  |
+|  |  |
+|  |
+| Nickname(s): Mother of the black stones ( أم الحجار السود ) [ 1 ] Al-'Adhiyyah ( الْعَذِيَّة ) [ lower-alpha 1 ] The city of Ibn al-Walid ( مدينة ابن الوليد ) |
+| Ximsa Location in Syria |
+| Coordinates: 34°43′51″N 36°42′34″E ﻿ / ﻿ 34.73083°N 36.70944°E ﻿ / 34.73083; 36.70944 Coordinates : 34°43′51″N 36°42′34″E ﻿ / ﻿ 34.73083°N 36.70944°E ﻿ / 34.73083; 36.70944 |
+| Dalka | Syria |
+| Gobolka | Ximsa |
+| Degmo | Ximsa |
+| Xaafad | Ximsa |
+| La degay | 2000 BCE |
+| Dowlada |
+| • Gudoomiyaha golaha degmada | Abdullah Al-Bawab |
+| Area | 48 km 2 (19 sq mi) |
+| • Urban | 76 km 2 (29 sq mi) |
+| • Metro | 104 km 2 (40 sq mi) |
+| Joogga | 501 m (1,644 ft) |
+| Tirada dadka (2017) |
+| • City | 775,404 <ref name="World Population Review"</ref> |
+| Magac kale | Af Ingiriis : Homsi Af Carabi : لاسعانود ‎ |
+| Aag saacadeed | UTC+2 ( EET ) |
+| • Xagaa ( DST ) | UTC+3 ( EEST ) |
+| Furaha | 031 |
+| Geocode | C2528 |
+| Climate | Csa |
+
+
+
+# Coordinates
+34.73083; 36.70944

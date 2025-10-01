@@ -1,0 +1,25 @@
+title:
+Yua Aida
+
+url:
+https://so.wikipedia.org/wiki?curid=33242
+
+text:
+Yua Aida waa atariisho Jabaan hore filim galmo .
+
+
+# Infobox
+
+- **Magaca Saxda**: あいだゆあ
+- **Ku dhashay**: ( 1984-08-12 ) 12 Agoosto 1984 ( 41jir) Toyohashi , Degmada Aichi , Jabaan
+- **Sanadaha Shaqada**: 2003–2007
+
+
+# Tables
+
+## Table 1
+| Yua Aida |
+| --- |
+| Magaca Saxda | あいだゆあ |
+| Ku dhashay | ( 1984-08-12 ) 12 Agoosto 1984 ( 41jir) Toyohashi , Degmada Aichi , Jabaan |
+| Sanadaha Shaqada | 2003–2007 |

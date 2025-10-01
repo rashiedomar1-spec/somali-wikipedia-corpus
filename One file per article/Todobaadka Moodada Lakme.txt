@@ -1,0 +1,25 @@
+title:
+Todobaadka Moodada Lakme
+
+url:
+https://so.wikipedia.org/wiki?curid=35816
+
+text:
+Todobaadka Moodada Lakme waa dhacdo moodada ah oo sanadkiiba mar la qabto oo ka dhacda Mumbai , Maharashtra , Hindiya . [ 1 ]
+
+Tixraac
+
+
+# Infobox
+
+- **Goobta**: Mumbai
+- **Muuqaal**: lakmefashionweek.co.in
+
+
+# Tables
+
+## Todobaadka Moodada Lakme
+| Nargis Fakhri oo joogta todobaadka moodada Lakme ee 2013 |
+| --- |
+| Goobta | Mumbai |
+| Muuqaal | lakmefashionweek.co.in |

@@ -1,0 +1,30 @@
+title:
+Garaad Cali Garaad Jaamac
+
+url:
+https://so.wikipedia.org/wiki?curid=37732
+
+text:
+Garaad Cali Garaad Jaamac waa  waa madax dhaqameed ahna garaadka guud ee 15aad ee qabiilka reer darawiish . Wuxuu ka dhaxley Garaad Aar  Dheel or ka dhaxley Garadka gaalo la dirirka Garad Diiriye Guure. [ 1 ] ,
+
+Tixraac
+
+
+# Infobox
+
+- **Ku dhashay**: Carro Ciideed
+- **Dhalasho**: Soomaali
+- **Shaqada**: boqorka reer Darawiish
+- **Loo yaqaano**: Garaadka guud ee reer darawiish ee 15aad
+
+
+# Tables
+
+## Table 1
+| Garaad Cali Garad Jaamac |
+| --- |
+|  |
+| Ku dhashay | Carro Ciideed |
+| Dhalasho | Soomaali |
+| Shaqada | boqorka reer Darawiish |
+| Loo yaqaano | Garaadka guud ee reer darawiish ee 15aad |

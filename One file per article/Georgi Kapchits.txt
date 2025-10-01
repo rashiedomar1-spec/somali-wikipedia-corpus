@@ -1,0 +1,27 @@
+title:
+Georgi Kapchits
+
+url:
+https://so.wikipedia.org/wiki?curid=7882
+
+text:
+Georgi Kapchits , waa khabiir ku takhasusay luuqadaha bariga Afrika sida Amxaariga iyo Af-Soomaaliga ama loo yaqaan Afro-Asiatic, waxa uu u dhashay Waddanka Ruushka . George Kapchits waxa uu dhashay sannadkii 1939. George waxa uu waxbarashadiisii sare ku qaatay dalka Ruushka isla markaana uu ka diyaariyay shahaadada sare ee PH.D Luuqadda Soomaaliga gaar ahaan suugaanta iyo hiddaha Soomaalida sida; murtida iyo maahmaahaha. George waxa uu ka soo hawlgalay idaacadda Moosko qaybtii Af-Soomaaliga intii u dhaxaysay sannadihii 1967 ilaa iyo 1994. George sidoo kale waxa uu ahaa bare Af-Soomaaliga ka dhiga jaamacadaha Moosko iyo Berliin. Markii ugu horraysay ee uu George booqdo carri Soomaaliyeed, waxay ahayd sannadkii 1989kii markaas oo uu booqday magaalada Muqdisho. Safarkii labaadna wuxuu ku tagay Magaalada Hargeysa sannadkii 2001. George wuxuu dhalay laba hablood.
+
+-- Abdi Aar ( talk ) 17:16, 27 Maarso 2015 (UTC) http://farshaxan.com/templates/George_bio.html Archived Maarso 5, 2016 // Wayback Machine [1]
+
+
+# Infobox
+
+- **Ku dhashay**: George Kapchits 1939 (Da'diisu waa 85–86)
+- **Dhalsho**: Russia
+- **Shaqada**: Khabiir Afafka Geeska Afrika: Somaliga iyo Amxariga
+
+
+# Tables
+
+## Table 1
+| George Kapchits |
+| --- |
+| Ku dhashay | George Kapchits 1939 (Da'diisu waa 85–86) |
+| Dhalsho | Russia |
+| Shaqada | Khabiir Afafka Geeska Afrika: Somaliga iyo Amxariga |

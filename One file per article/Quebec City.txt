@@ -1,0 +1,8 @@
+title:
+Quebec City
+
+url:
+https://so.wikipedia.org/wiki?curid=23567
+
+text:
+Quebec waa magaalo weyn oo ku taal gobolka &lt;a href="Kanada"&gt;Kanadian&lt;/a&gt; Quebec. Magaaladu waxay leedahay 531,902. Marka lagu daro meelaha ku hareeraysan, waxay leedahay dad ah 800,296.

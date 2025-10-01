@@ -1,0 +1,8 @@
+title:
+WikiLeaks
+
+url:
+https://so.wikipedia.org/wiki?curid=36296
+
+text:
+WikiLeaks, ururka warbaahinta iyo mareegta mareegaha oo u shaqaynaysay sidii guri nadiifin ah oo loogu talagalay macluumaadka sirta ah ama kuwa kale ee mudnaanta leh. WikiLeaks waxaa la aasaasay 2006 dii waxaana aasaasay barnaamijka kombuyuutarka &lt;a href="Australia"&gt;Australia&lt;/a&gt; iyo dhaqdhaqaaqayaasha &lt;a href="Julian%20Assange"&gt;Julian Assange&lt;/a&gt;.

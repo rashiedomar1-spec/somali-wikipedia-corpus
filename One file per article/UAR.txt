@@ -1,0 +1,44 @@
+title:
+UAR
+
+url:
+https://so.wikipedia.org/wiki?curid=35105
+
+text:
+Dawladii hore ee midowga shucuubta suuriya yemen iyo masar , halkaas oo quruumaha ay kala tageen tan iyo , yemen iyo suuriya dagaal ka socdo 2020
+
+Political union of Syria and Egypt (1958–1961)
+
+Unitary republic in Egypt (1961–1971)
+
+
+# Infobox
+
+- **Luqadaha rasmiga ah**: Arabic
+- **Dadka**: Egyptian
+- **Xukunka**: Unitary one-party socialist republic Political union of Syria and Egypt (1958–1961) Unitary republic in Egypt (1961–1971)
+- **Sharci dejinta**: National Assembly
+- **Lacagta**: Egyptian Pound
+- **Waqtiga**: EET ( UTC +2)
+- **Thiinada telka**: +20
+
+
+# Tables
+
+## Table 1
+| United Arab Republic الجمهورية العربية المتحدة ( Af-Carabi ) al-Jumhūriyyah al-'Arabīyah al-Muttaḥidah |
+| --- |
+|  |  |  |  |  |
+|  |  |
+|  |  |
+| Heesta qaranka: " Walla Zaman Ya Selahy " ( Af Ingiriis : "It has been a long time, O my weapon!" ) File:Former Egyptian National Anthem (1960–1979).ogg |
+| [[File: |center|300px|alt=United Arab Republic from 1958 to 1961 (Remained without Syria until 1971 when it was dissolved)|United Arab Republic from 1958 to 1961 (Remained without Syria until 1971 when it was dissolved)]] United Arab Republic from 1958 to 1961 (Remained without Syria until 1971 when it was dissolved) |
+| Magaalo madax Waa Magaalada ugu balaaran | Cairo |
+| Luqadaha rasmiga ah | Arabic |
+| Dadka | Egyptian |
+| Xukunka | Unitary one-party socialist republic Political union of Syria and Egypt (1958–1961) Unitary republic in Egypt (1961–1971) |
+| Sharci dejinta | National Assembly |
+| Lacagta | Egyptian Pound |
+| Waqtiga | EET ( UTC +2) |
+| - | Xagaa ( DST ) | EEST ( UTC +3) |
+| Thiinada telka | +20 |

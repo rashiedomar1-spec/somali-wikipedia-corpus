@@ -1,0 +1,42 @@
+title:
+Hrithik Roshan
+
+url:
+https://so.wikipedia.org/wiki?curid=11630
+
+text:
+Hrithik Roshan ( English pronunciation: / r ɪ t ɪ k ˈ r ɒ ʃ ə n / , dhashay 10 January 1974) [ 2 ] waa atoore jila filimaanta Hindiga .
+
+=Tixraax= Maxamed Hanad
+
+MHP
+
+mhp
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1974-01-10 ) 10 Janaayo 1974 ( 51jir) Mumbai , Maharashtra, Hindiya
+- **Dhalsho**: Hindi
+- **Qoomiyada**: Punjabi [ 1 ]
+- **Shaqada**: Atoore
+- **Sanadaha Shaqada**: 1980–1986 (asago ilmo ah) 1986–1995 (filim jiheeye) 2000–hada
+- **Xaasaska**: Sussanne Khan (2000–2014)(furay)
+- **Ilmaha**: 2
+- **Waalidka**: Rakesh Roshan Pinky Roshan
+
+
+# Tables
+
+## Table 1
+| Hrithik Roshan |
+| --- |
+| Mudane Roshan Noofember 2013 |
+| Ku dhashay | ( 1974-01-10 ) 10 Janaayo 1974 ( 51jir) Mumbai , Maharashtra, Hindiya |
+| Dhalsho | Hindi |
+| Qoomiyada | Punjabi [ 1 ] |
+| Shaqada | Atoore |
+| Sanadaha Shaqada | 1980–1986 (asago ilmo ah) 1986–1995 (filim jiheeye) 2000–hada |
+| Xaasaska | Sussanne Khan (2000–2014)(furay) |
+| Ilmaha | 2 |
+| Waalidka | Rakesh Roshan Pinky Roshan |

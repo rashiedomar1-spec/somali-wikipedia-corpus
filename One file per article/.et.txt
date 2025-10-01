@@ -1,0 +1,8 @@
+title:
+.et
+
+url:
+https://so.wikipedia.org/wiki?curid=12077
+
+text:
+.et waa furaha &lt;a href="Internet"&gt;Internet&lt;/a&gt;ka ee dalka ee &lt;a href="Itoobiya"&gt;Itoobiya&lt;/a&gt;.

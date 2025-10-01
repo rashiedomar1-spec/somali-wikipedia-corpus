@@ -1,0 +1,27 @@
+title:
+Barbara Palvin
+
+url:
+https://so.wikipedia.org/wiki?curid=33418
+
+text:
+Barbara Palvin (ˈbɒrbɒrɒ ˈpɒlvin|pron; dhashay 8 Oktoobar 1993) waa moodel Hungari. Waxay markii hore ka soo muuqatay Sports Illustrated Swimsuit Issue ee 2016.
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1993-10-08 ) 8 Oktoobar 1993 ( 31jir) Budapest , Hungari
+- **Shaqada**: Moodel
+- **Sanadaha Shaqada**: 2006–hada
+- **Wakiil**: IMG Models
+
+
+# Tables
+
+## Table 1
+| Barbara Palvin |
+| --- |
+| Ku dhashay | ( 1993-10-08 ) 8 Oktoobar 1993 ( 31jir) Budapest , Hungari |
+| Shaqada | Moodel |
+| Sanadaha Shaqada | 2006–hada |
+| Wakiil | IMG Models |

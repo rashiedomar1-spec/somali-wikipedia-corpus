@@ -1,0 +1,9 @@
+title:
+Mashinka Ukunta
+
+url:
+https://so.wikipedia.org/wiki?curid=34857
+
+text:
+Mashinka Ukunta
+Mashinka ukunta ee shimbiraha iyo digaagga, &lt;a href="Digaag"&gt;Digaag&lt;/a&gt;.

@@ -1,0 +1,164 @@
+title:
+Dabarroow
+
+url:
+https://so.wikipedia.org/wiki?curid=4930
+
+text:
+Dabarroow waa deegaan ku yaalo Gobolka Mudug , gaar ahaan koofur bari.
+
+Galmudug
+
+Camaara
+
+Afbarwaaqo
+
+Bacaadweyne
+
+Beere
+
+Bursaalax
+
+Bursebriye
+
+Cammaara
+
+Dowgaab
+
+Dhalwo
+
+Dhoobey
+
+Gaalkacyo
+
+Galdogob
+
+Galinsoor
+
+Gaan
+
+Xarardheere
+
+Harfo
+
+Xerojaale
+
+Hobyo
+
+Xinlabi
+
+Jiicdheere
+
+Jowle
+
+Jirriiban
+
+Afgumasoorey
+
+Abaarey
+
+Bajeela
+
+Bandiiradley
+
+Bardagool
+
+Beyra
+
+Bitaale
+
+Budbud
+
+Ceel Dibir
+
+Ceel Huur
+
+Colguula
+
+Dabarroow
+
+Dagaari
+
+Dajimaale
+
+Docol
+
+Duqaaqa
+
+Gacanfare
+
+Galbarwaaqo
+
+Gawaan Dheere
+
+Godad
+
+Golol
+
+Gowlalo
+
+Halabookhad
+
+Haraahur
+
+Hiilalaaye
+
+Hilmo
+
+Iidaan
+
+Laanwaaleey
+
+Laasa Cadale
+
+Mirsaale
+
+Qansaxle
+
+Qaranrow
+
+Qarqoora Dheer
+
+Qosoltire
+
+Rigoomane
+
+Roox
+
+Sabacad
+
+Saqiiro
+
+Saxaqurun
+
+Sedex Xigle
+
+Wanakir
+
+Wargalo
+
+Wisil
+
+Xero Dhagaxley
+
+Xiin Dawoco
+
+
+# Infobox
+
+- **Dalka**: Somalia Galmudug
+- **Gobolka**: Mudug
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Dabarow |
+| --- |
+| Degmo |
+|  |
+| Dabarow Location in Somalia. |
+| Dalka | Somalia Galmudug |
+| Gobolka | Mudug |
+| Aag saacadeed | UTC+3 ( EAT ) |

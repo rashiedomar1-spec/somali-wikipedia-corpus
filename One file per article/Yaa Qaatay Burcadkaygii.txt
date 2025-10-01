@@ -1,0 +1,29 @@
+title:
+Yaa Qaatay Burcadkaygii?
+
+url:
+https://so.wikipedia.org/wiki?curid=36054
+
+text:
+Yaa qaatay Burcadkaygii? Waa Buug  kuna hagaaya isbadalka ku yimahada shaqadaada iyo nolosha . Waxa la daabacay sebteembar 8, 1998, waa waxqabkii ugu iibinta wacna qoraaga Isbenser joonson isla markana wa dhiigi galin halqabka gacansiga.
+
+Joonson wuxuu u adeegsadaa burcadka tusaale ahaan waxa aad nolosha ka rabto, sida shaqo dhaali fiican leh, xidhiidh jacayl, hanti, ama jidh caafimaad qaba.Jawgu waa deegaanka aan ku noolnahay, sida goobta shaqada, asxaabta, qoyska.Buuggu waxa uu ka hadlayaa dhibaatooyinka burcadka aan waareyn noloshuna isbadaleyso, haddii aynu jecelnahay iyo haddii kaleba.
+
+Tixraac
+
+Ravin Rau. April 2021. Baos https://baos.pub/lessons-from-who-moved-my-cheese-by-dr-spencer-johnson-8862bf66acb5
+
+
+# Infobox
+
+- **Qoraa**: Isbenser Joonson
+- **Qoraalka asalka**: Yaa Qaatay Burcadkaygii? at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource
+
+
+# Tables
+
+## Yaa Qaatay Burcadkaygii?
+| Jaldiga Buuga Nuqulkiisa Af soomaaliga |
+| --- |
+| Qoraa | Isbenser Joonson |
+| Qoraalka asalka | Yaa Qaatay Burcadkaygii? at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource |

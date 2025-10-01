@@ -1,0 +1,8 @@
+title:
+Dortmund
+
+url:
+https://so.wikipedia.org/wiki?curid=8946
+
+text:
+Dortmund waa magaalad oo kuyaasho gobolka "North Rhine-Westphalia" ee dalka &lt;a href="Jarmalka"&gt;Jarmalka&lt;/a&gt;. Dortmund waxaa ku yaallo kooxda kubadda cagta ee weyn oo lla dhaho &lt;a href="Borussia%20Dortmund"&gt;Borussia Dortmund&lt;/a&gt;.

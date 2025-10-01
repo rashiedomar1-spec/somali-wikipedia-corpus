@@ -1,0 +1,42 @@
+title:
+Diraarada Eritriya
+
+url:
+https://so.wikipedia.org/wiki?curid=27365
+
+text:
+Eritriya Eritrea, oo loo soo gaabiyo Eriteriya, waa diyaarad qaran oo Eritrea ah. [1] Iyada oo ku saleysan Maddaarka Caalamiga ah ee Asmara, waxa ay si buuxda u leedahay dowladda Eritrea. [2] Adeegga la qorsheeyay ayaa la joojiyey tan iyo 2008-dii, iyada oo duulimaadyadu ay hawlgabatay oo keliya dhowr duulimaad oo ah duulimaadyo hajoog ah. [2] Duulimaadyadan ayaa dib loogu soo celiyay maareynta cusub sanadkii 2011 iyo 2011, Nasair, oo ah shirkad gaar loo leeyahay, ayaa waxay ku biirtay dowladdaha ay ku leedahay Eritrea, si ay u sameeyaan Nasir Eritrea. [3]
+
+Diyaarad Eritrean ah ayaa laga mamnuucay inay duulimaad la gasho Midowga Yurub tan iyo December 2012-kii.
+
+
+# Infobox
+
+- **La asaasay**: Maajo 1991 ( 1991-05 )
+- **Shaqada billowday**: Abriil 2003 ( 2003-04 )
+- **Xarunta duullimaadka**: Asmara International Airport
+- **Baaxadda kobaca**: 1
+- **Baraha**: 6
+- **Halkudhagga shirkadda**: Gateway to Africa
+- **Shirkadda leh**: Government of Eritrea (80%) Ethiopian Airlines (20%)
+- **Xarunta**: Asmara , Eritrea
+- **Website**: Eritrean Airlines
+
+
+# Tables
+
+## Eritrean Airlines
+| File:Eritrean Airlines logo.png |
+| --- |
+| IATA ICAO Magac Caalami B8 ERT ERITREAN | IATA | ICAO | Magac Caalami | B8 | ERT | ERITREAN |
+| IATA | ICAO | Magac Caalami |
+| B8 | ERT | ERITREAN |
+| La asaasay | Maajo 1991 ( 1991-05 ) |
+| Shaqada billowday | Abriil 2003 ( 2003-04 ) |
+| Xarunta duullimaadka | Asmara International Airport |
+| Baaxadda kobaca | 1 |
+| Baraha | 6 |
+| Halkudhagga shirkadda | Gateway to Africa |
+| Shirkadda leh | Government of Eritrea (80%) Ethiopian Airlines (20%) |
+| Xarunta | Asmara , Eritrea |
+| Website | Eritrean Airlines |

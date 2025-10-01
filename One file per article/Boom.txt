@@ -1,0 +1,41 @@
+title:
+Boom
+
+url:
+https://so.wikipedia.org/wiki?curid=30732
+
+text:
+Boom waa 2003 filim Hindi majaajillo madoow la sii daayay 19-kii Sebtember 2003. Waxay baartaa ku lug lahaanshaha adduunka moodada iyada oo la adeegsanayo dambiyada ka hooseeya adduunka.
+
+Waxaa Director ka ah Kaizad Gustad waxaana soo saaray Jackie Shroff xaaskiisa, Ayesha Shroff, filimkaan waxaa kujira Amitabh Bachchan , Jackie Shroff , Gulshan Grover , Padma Lakshmi , Madhu Sapre , Zeenat Aman iyo Katrina Kaif . Boom waa Katrina Kaif filimkeeda ugu horreeya [ 1 ] .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Directed by**: Kaizad Gustad
+- **Written by**: Kaizad Gustad
+- **Produced by**: Ayesha Shroff
+- **Starring**: Amitabh Bachchan Gulshan Grover Jackie Shroff Zeenat Aman Katrina Kaif Padma Lakshmi
+- **Music by**: Sandeep Chowta Tavlin Singh
+- **Release date**: 19 Sebtember 2003
+- **Running time**: 110 daqiiqo
+- **Country**: Hindiya
+- **Languages**: Hindi English
+
+
+# Tables
+
+## Table 1
+| Boom |
+| --- |
+| Directed by | Kaizad Gustad |
+| Written by | Kaizad Gustad |
+| Produced by | Ayesha Shroff |
+| Starring | Amitabh Bachchan Gulshan Grover Jackie Shroff Zeenat Aman Katrina Kaif Padma Lakshmi |
+| Music by | Sandeep Chowta Tavlin Singh |
+| Release date | 19 Sebtember 2003 |
+| Running time | 110 daqiiqo |
+| Country | Hindiya |
+| Languages | Hindi English |

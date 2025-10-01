@@ -1,0 +1,8 @@
+title:
+Egal A Garaad
+
+url:
+https://so.wikipedia.org/wiki?curid=29382
+
+text:
+Egal Ahmed Garaad waa tol &lt;a href="Bah%20Ali%20Gheri"&gt;Bah Ali Gheri&lt;/a&gt;.

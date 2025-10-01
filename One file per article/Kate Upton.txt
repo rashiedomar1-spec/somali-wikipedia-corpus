@@ -1,0 +1,36 @@
+title:
+Kate Upton
+
+url:
+https://so.wikipedia.org/wiki?curid=33381
+
+text:
+Katherine Elizabeth Upton [ 1 ] (dhashay Juun 10, 1992) [ 2 ] waa moodel iyo atariisho Mareykan ah.  Waxay markii ugu horreysay ka soo muuqatay Sports Illustrated Swimsuit Issue ee 2011, wuxuuna ahaa tusaalaha daboolida arrimaha 2012, 2013 iyo 2017.  Intaa waxaa dheer, waxay ahayd mawduuca daboolka 100-guuradii Vanity Fair .
+
+Tixraacyada
+
+Moodel
+
+atariisho
+
+
+# Infobox
+
+- **Ku dhashay**: Katherine Elizabeth Upton ( 1992-06-10 ) Juun 10, 1992 ( 33jir) St. Joseph, Michigan
+- **Shaqada**: Moodel atariisho
+- **Sanadaha Shaqada**: 2008–hada
+- **Xaasaska**: Justin Verlander ( g. 2017)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Kate Upton |
+| --- |
+| Upton ee 2017 |
+| Ku dhashay | Katherine Elizabeth Upton ( 1992-06-10 ) Juun 10, 1992 ( 33jir) St. Joseph, Michigan |
+| Shaqada | Moodel atariisho |
+| Sanadaha Shaqada | 2008–hada |
+| Xaasaska | Justin Verlander ( g. 2017) |
+| Ilmaha | 1 |

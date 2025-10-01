@@ -1,0 +1,9 @@
+title:
+Kubedka WAFU
+
+url:
+https://so.wikipedia.org/wiki?curid=35132
+
+text:
+Kubedka WAFU
+&lt;a href="WAFU"&gt;WAFU&lt;/a&gt;

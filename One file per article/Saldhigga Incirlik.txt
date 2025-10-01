@@ -1,0 +1,58 @@
+title:
+Saldhigga Incirlik
+
+url:
+https://so.wikipedia.org/wiki?curid=19554
+
+text:
+Saldhiga Cirka Insirlik ( Af Ingiriis : Incirlik Air Base ; Af Turki : İncirlik Hava Üssü ; Af Carabi : لاسعانود ‎) waa saldhig ciidamada cirka baaxadiisu waxyar ka weyntahay 3320 acres, [ 1 ] kaasi oo ku yaala xaafada İnsirlik ee magaalada Adana, Turkiga .
+
+Saldhigga Incirlik Waa saldhig militari Ciidamada Circa NATO ee ku yaala koonfurta dalka Turkiga.
+
+
+# Infobox
+
+- **Meesha dhacdo**: 37°00′07″N 035°25′33″E ﻿ / ﻿ 37.00194°N 35.42583°E ﻿ / 37.00194; 35.42583 ﻿ ( Incirlik Air Base )
+- **Maamulka**: Ciidanka Cirka Turkiga / Ciidanka Cirka Maraykanka
+- **La dhisay**: 1951
+- **Isticmaalka**: 1955–wakhti xaadirkan
+- **Xurmayn**: 39th Air Base Wing
+- **Joogga Heerka badda**: 240 ft / 73 m
+- **Website**: www.incirlik.af.mil
+
+
+# Tables
+
+## Table 1
+| Saldhiga Cirka Insirlik Incirlik Air Base İncirlik Hava Üssü |
+| --- |
+| Qeyb ka ah Ciidanka Cirka Maraykanka (USAFE-AFAFRICA) |
+| İncirlik , Adana , Turkey |
+| Diyaaradaha Xamuulka Dagaalka Maraykanka oo kacaysa |
+| Incirlik AB Location of Incirlik Air Base, Turkey |
+| Meesha dhacdo | 37°00′07″N 035°25′33″E ﻿ / ﻿ 37.00194°N 35.42583°E ﻿ / 37.00194; 35.42583 ﻿ ( Incirlik Air Base ) |
+| Sharaxaad Dheeraad ah |
+| Maamulka | Ciidanka Cirka Turkiga / Ciidanka Cirka Maraykanka |
+| Taariikhda Meesha |
+| La dhisay | 1951 |
+| Isticmaalka | 1955–wakhti xaadirkan |
+| Xasuus iyo Xurmayn |
+| Xurmayn | 39th Air Base Wing |
+
+## Table 2
+| Airfield information |
+| --- |
+| IATA : UAB – ICAO : LTAG |
+| Macluumaad Guud |
+| Joogga Heerka badda | 240 ft / 73 m |
+| Isuduwe |  |
+| Website | www.incirlik.af.mil |
+| Macluumaad |
+| Jihada | Dhererka | Nuuca dhabaha |
+| ft | m |
+| 05/23 | 10,000 | 3,048 | Concrete |
+
+
+
+# Coordinates
+37.00194; 35.42583

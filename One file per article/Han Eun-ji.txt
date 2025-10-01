@@ -1,0 +1,35 @@
+title:
+Han Eun-ji
+
+url:
+https://so.wikipedia.org/wiki?curid=35179
+
+text:
+Han Eun-ji ( Hangul : 한은지; Janaayo 13, 2000) oo loo yaqaan Mia (미아), waa heesaa Koonfur Kuuriya ah xubinna ka ah kooxda gabdhaha Everglow . [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Han Eun-ji 한은지
+- **Nooca fanka**: K-pop
+- **Occupations**: Idol
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2019–hada
+- **Falalka la xiriira**: Everglow
+
+
+# Tables
+
+## Table 1
+| Mia |
+| --- |
+| Han ee 2020 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Han Eun-ji 한은지 |
+| Nooca fanka | K-pop |
+| Occupations | Idol |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2019–hada |
+| Falalka la xiriira | Everglow |

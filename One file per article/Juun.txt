@@ -1,0 +1,8 @@
+title:
+Juun
+
+url:
+https://so.wikipedia.org/wiki?curid=2211
+
+text:
+Sanadka miilaadiga &lt;a href="bil"&gt;bishiisa&lt;/a&gt; lixaad, waxayna u dhaxaysaa bilaha &lt;a href="Maajo"&gt;Maajo&lt;/a&gt; iyo &lt;a href="Luuliyo"&gt;Luuliyo&lt;/a&gt;. Bisha &lt;a href="Juun"&gt;Juun&lt;/a&gt; waxay ka koobantahay 30 &lt;a href="maalin"&gt;maalmood&lt;/a&gt;.

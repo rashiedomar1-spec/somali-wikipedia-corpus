@@ -1,0 +1,43 @@
+title:
+Weerarkii Gagida Diyaaradaha Ataturki 2016
+
+url:
+https://so.wikipedia.org/wiki?curid=20239
+
+text:
+Waa weerar argagaxiso oo 28 Juun 2016 ka dhacay garoonka diyaaradaha ugu weyn dalka Turkiga ee Istanbul Atatürk Airport , waxaa Ku dhintay in ka badan 40 qof oo ay Ku jiraan 3dii dhagarqabe ee ka danbeysay fal dembiyeedkaasi.
+
+Tixraac
+
+
+# Infobox
+
+- **Location**: Gagida Ataturki , Istanbul , Turkiga
+- **Taariikh**: 28 June 2016 ~22:00 ( EEST )
+- **Beegsiga**: Rayid iyo Ilaalada gagida Ataturki
+- **Attack type**: Suicide bombings , mass shooting ,
+- **Weapons**: Kalashnikov rifles , explosives
+- **Dhimashada**: 48 (including 3 perpetrators)
+- **Non-fatal injuries**: More than 230 [ 1 ]
+- **Assailants**: Rakim Bulgarov [ 2 ] Vadim Osmanov Third unnamed suicide bomber
+- **Suspected perpetrators**: ISIS
+- **Number of participants**: Ugu yaraan 3 (all deceased)
+
+
+# Tables
+
+## Table 1
+| Weerarkii Gagida Diyaaradaha Ataturki 2016 |
+| --- |
+| Airside of Terminal 2, where the landside attack took place. |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Turkey Istanbul" does not exist. |
+| Location | Gagida Ataturki , Istanbul , Turkiga |
+| Taariikh | 28 June 2016 ~22:00 ( EEST ) |
+| Beegsiga | Rayid iyo Ilaalada gagida Ataturki |
+| Attack type | Suicide bombings , mass shooting , |
+| Weapons | Kalashnikov rifles , explosives |
+| Dhimashada | 48 (including 3 perpetrators) |
+| Non-fatal injuries | More than 230 [ 1 ] |
+| Assailants | Rakim Bulgarov [ 2 ] Vadim Osmanov Third unnamed suicide bomber |
+| Suspected perpetrators | ISIS |
+| Number of participants | Ugu yaraan 3 (all deceased) |

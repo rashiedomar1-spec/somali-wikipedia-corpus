@@ -1,0 +1,49 @@
+title:
+Last Dance
+
+url:
+https://so.wikipedia.org/wiki?curid=34866
+
+text:
+" Last Dance "  waa hees ay leeyihiin kooxda gabdhaha Kuuriyada Koonfureed (G)I-dle oo ay soo saareen GroovyRoom ayna qoreen Kriz iyo Soyeon, oo la sii daayay Abriil 29, 2021.
+
+K-pop
+
+Universe
+
+Warner Music
+
+Kriz
+
+Soyeon
+
+
+# Infobox
+
+- **Luuqad**: Kuuriyan
+- **La sii daayay**: Abriil 29, 2021 ( 2021-04-29 )
+- **Nooca**: K-pop
+- **Dhererka**: 3 : 04
+- **Summada**: Universe Warner Music
+- **Heesta qoraa**: Kriz Soyeon
+- **Soo saarayasha**: GroovyRoom
+
+
+# Tables
+
+## Table 1
+| "Last Dance" |
+| --- |
+| File:(G)I-DLE Last Dance.jpg |
+| by (G)I-dle |
+| Luuqad | Kuuriyan |
+| La sii daayay | Abriil 29, 2021 ( 2021-04-29 ) |
+| Nooca | K-pop |
+| Dhererka | 3 : 04 |
+| Summada | Universe Warner Music |
+| Heesta qoraa | Kriz Soyeon |
+| Soo saarayasha | GroovyRoom |
+|  |
+| Music video |
+| "Last Dance" on YouTube |
+|  |

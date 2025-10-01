@@ -1,0 +1,27 @@
+title:
+FIVB Niman Dunida Tiroka Kubedka Volley
+
+url:
+https://so.wikipedia.org/wiki?curid=35523
+
+text:
+Iiraan || AVC || 279 || || 13th
+
+}}
+
+
+# Tables
+
+## Table 1
+| Rank | Team | Region | Points | Δ | Previous finish |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Brazil | CSV | 427 |  | 2nd |
+| 2 | Poland | CEV | 384 |  | 1st |
+| 3 | United States | NORCECA | 365 |  | 3rd |
+| 4 | Russia | CEV | 317 |  | 6th |
+| 5 | Argentina | CSV | 291 |  | 15th |
+| 6 | Faransiiska | CEV | 291 |  | 7th |
+| 7 | Italy | CEV | 288 |  | 5th |
+| 8 | Iiraan || AVC || 279 || || 13th |
+| 9 | Japan | AVC | 269 |  | 17th |
+| 10 | Canada | NORCECA | 255 |  | Poland}} | [[European }} |

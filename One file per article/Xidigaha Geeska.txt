@@ -1,0 +1,40 @@
+title:
+Xidigaha Geeska
+
+url:
+https://so.wikipedia.org/wiki?curid=22833
+
+text:
+Xiddigaha Geeska waa koox faneed Soomaaliyeed oo reer Soomaaliland ah. [ 1 ] [ 2 ] Kooxdan waxa maalgelisay wasaaradda warfaafinta iyo hanuuninta qaranka Soomaaliland.taas
+
+Xubnaha
+
+Heesaha albumka
+
+Tixraac
+
+
+# Tables
+
+## Table 1
+| Magaca | Naanees | Ku soo biiray | ka tagay | Tixraac |
+| --- | --- | --- | --- | --- |
+| Mursal Muse |  | Xubin aasaasay(2012) | ilaa hadda |  |
+| Axmed Weli | Furinle | Xubin aasaasay (2012) | ilaa hadda |  |
+| Khadra Cabdi | Silimo | 2013 | 2018 |  |
+| Asma Axmed | Jacayl | Xubin aasaasay (2012) | ilaa hadda |  |
+| Maxamed Cabdi | BK | 2012 | 2016 |  |
+| Xamda Cabdi | Queen | 2012 | 2018 |  |
+| Nimcan Cabdiraxman | Hillaac | 2013 | 2016 |  |
+| Maxamed Axmed | Cirro | 2013 | ilaa hadda |  |
+| Yurub Maxamed | Geenyo | 2013 | 2017 |  |
+| Cabdihani Xashi |  | 2013 | ilaa hadda |  |
+| Cabdiraxman Caydid | Oday | 2013 | ilaa hadda |  |
+| Yusuf Adan | Jeego | 2014 | 2016 |  |
+| Ifrax Axmed | Hargaysa | 2014 | ilaa hadda |  |
+| Yusuf Adan | Jeego | 2014 | 2016 |  |
+| Ismacil | Danan | 2014 | 2016 |  |
+| Ikran Jamac |  | 2014 | 2015 |  |
+| Ifrax | Tolmoon | 2014 | 2016 |  |
+| Yusuf | Hanad | 2014 | 2015 |  |
+| Cabdirisaq | Anshax | 2014 | ilaa hadda |  |

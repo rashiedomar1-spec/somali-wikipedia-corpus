@@ -1,0 +1,23 @@
+title:
+Heerka 1 ee curiye
+
+url:
+https://so.wikipedia.org/wiki?curid=9057
+
+text:
+Qayb kamid ah heerka koowaad
+
+
+# Tables
+
+## Table 1
+| Curiye | Nuuca curiyaha | Elektronka uu ka samaysmo |
+| --- | --- | --- |
+| 1 | H | Hydrogen | Aan macdin ahayn | 1s 1 |
+| 2 | He | Helium | Gaas wanaagsan | 1s 2 |
+
+
+
+# Image captions
+- Hydrogen
+- Helium

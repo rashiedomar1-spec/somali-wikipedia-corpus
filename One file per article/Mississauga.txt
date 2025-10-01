@@ -1,0 +1,8 @@
+title:
+Mississauga
+
+url:
+https://so.wikipedia.org/wiki?curid=23570
+
+text:
+Mississauga waa magaalada labaad ee ugu weyn magaalada &lt;a href="Toronto"&gt;Toronto&lt;/a&gt;, iyo kan lixaad ee ugu weyn &lt;a href="Kanada"&gt;Kanada&lt;/a&gt;. Magaaladu waxay leedahay dad gaaraya 721,599.

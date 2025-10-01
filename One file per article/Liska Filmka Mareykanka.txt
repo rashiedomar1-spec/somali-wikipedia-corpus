@@ -1,0 +1,36 @@
+title:
+Liska Filmka Mareykanka
+
+url:
+https://so.wikipedia.org/wiki?curid=24305
+
+text:
+Liska Filmka Mareykanka
+
+1 Avatar $2,787,965,087	2009
+
+2 Titanic $2,187,463,944	1997
+
+3 Star Wars: The Force AwakenS $2,068,223,624	2015
+
+4 Avengers: Infinity War film $2,036,816,820	2018
+
+5 Wonder Woman $412,563,408
+
+6 Iron Man 3 $429,698,416	2013
+
+7 Captain America: Civil War $416,119,288	2016
+
+8 The Hunger Games $434,919,645	2012
+
+9 Jumanji: Welcome to the Jungle $404,515,480	2017
+
+10 Spider-Man $549,279,682	2002
+
+11 Jurassic Park $652,582,729	1993
+
+12 Transformers: Revenge of the Fallen $402,111,870	2011
+
+13 Frozen $400,738,009	2011
+
+14 Guardians of the Galaxy Vol. 2

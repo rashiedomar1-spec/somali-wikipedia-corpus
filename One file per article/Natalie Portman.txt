@@ -1,0 +1,31 @@
+title:
+Natalie Portman
+
+url:
+https://so.wikipedia.org/wiki?curid=35030
+
+text:
+Natalie Portman (dhashay Natalie Hershlag ( ( 1981-06-09 ) Juun 9, 1981)  waa atariisho Mareykan ah oo ku dhalatay Israaiil. Iyada oo xirfad ballaadhan ku soo jirtay aflaanta ilaa iyo dhallinyaradeedii, waxa ay jishay filimo kala duwan oo blockbusters ah iyo aflaan madax-bannaan, kuwaas oo ay ku heshay abaal-marinno badan, oo ay ku jiraan Abaalmarinta Akadeemiyada , Abaalmarinta Filimada Ingiriiska Akadeemiyada , iyo laba Abaalmarinnada Golden Globe .
+
+Tix
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1981-06-09 ) Juun 9, 1981 ( 44jir) Qudus
+- **Sanadaha Shaqada**: 1993–hada
+- **Xaasaska**: Benjamin Millepied ( g. 2012)
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Natalie Portman |
+| --- |
+| Portman ee 2015 |
+| Ku dhashay | ( 1981-06-09 ) Juun 9, 1981 ( 44jir) Qudus |
+| Sanadaha Shaqada | 1993–hada |
+| Xaasaska | Benjamin Millepied ( g. 2012) |
+| Ilmaha | 2 |
+| Saxiixa |  |

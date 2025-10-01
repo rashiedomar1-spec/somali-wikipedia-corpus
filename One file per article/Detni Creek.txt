@@ -1,0 +1,40 @@
+title:
+Detni Creek
+
+url:
+https://so.wikipedia.org/wiki?curid=37149
+
+text:
+Boggan waxa turjumay mishiinka tarjumaada.
+
+Webiga Detni Creek ee Kanada . [ 1 ] Waxay ku taalaa gobolka British Columbia , dhanka galbeed ee dalka, waxayna 3,600 km dhanka galbeed ka xigtaa magaalada Ottawa ee caasimadda dalka.  Detni Creek waa qayb ka mid ah wabiga Mackenzie.
+
+Tixraac
+
+
+# Infobox
+
+- **Dalka**: Template:Country data Kanada
+- **Lalawigan**: British Columbia
+- **Elevation**: 933 m (3,061 ft)
+- **Coordinates**: 56°01′59″N 126°00′13″W ﻿ / ﻿ 56.03307°N 126.00352°W ﻿ / 56.03307; -126.00352
+
+
+# Tables
+
+## Table 1
+| Detni Creek |
+| --- |
+| Webiga |
+| Dalka | Template:Country data Kanada |
+| Lalawigan | British Columbia |
+|  |
+| Elevation | 933 m (3,061 ft) |
+| Coordinates | 56°01′59″N 126°00′13″W ﻿ / ﻿ 56.03307°N 126.00352°W ﻿ / 56.03307; -126.00352 |
+|  |
+|  |
+
+
+
+# Coordinates
+56.03307; -126.00352

@@ -1,0 +1,33 @@
+title:
+Suleekha Cali
+
+url:
+https://so.wikipedia.org/wiki?curid=31394
+
+text:
+Sulekha Cali ( Af-Ingiriis : Sulekha Ali ) waa fanaanad Soomaaliyeed, waxay ku caan baxday heesteeda "Hooyo" iyo "Time and Time" [ 1 ] .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Dhashay**: Somalia
+- **Asal**: Somalia
+- **Nooca fanka**: Pop
+- **Sanadaha Shaqada**: 2000s-hada
+- **Website**: iamsulekha.com
+
+
+# Tables
+
+## Table 1
+| Sulekha Cali |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Dhashay | Somalia |
+| Asal | Somalia |
+| Nooca fanka | Pop |
+| Sanadaha Shaqada | 2000s-hada |
+| Website | iamsulekha.com |

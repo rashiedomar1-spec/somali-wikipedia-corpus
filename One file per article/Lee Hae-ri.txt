@@ -1,0 +1,36 @@
+title:
+Lee Hae-ri
+
+url:
+https://so.wikipedia.org/wiki?curid=33256
+
+text:
+Lee Hae-ri (dhashay 14 Febraayo 1985) waa fanaanad u dhalatay Koonfur Kuuriya iyo atariisho masraxa muusigga. Waxay xubin ka tahay Davichi ilaa 2008.
+
+
+# Infobox
+
+- **Magaca Saxda**: 이해리
+- **Ku dhashay**: Lee Hae-ri ( 1985-02-14 ) 14 Febraayo 1985 ( 40jir) Daegu , Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2008–hada
+- **Calaamadaha**: Wake One
+- **Falalka la xiriira**: Davichi
+
+
+# Tables
+
+## Table 1
+| Lee Hae-ri |
+| --- |
+| Lee Hae-ri oo ku sugan Madaarka Caalamiga ah ee Incheon bishii Maarso 2018 |
+| Magaca Saxda | 이해리 |
+| Ku dhashay | Lee Hae-ri ( 1985-02-14 ) 14 Febraayo 1985 ( 40jir) Daegu , Koonfur Kuuriya |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2008–hada |
+| Calaamadaha | Wake One |
+| Falalka la xiriira | Davichi |
+|  |

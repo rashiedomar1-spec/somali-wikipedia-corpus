@@ -1,0 +1,44 @@
+title:
+Yoo So-young
+
+url:
+https://so.wikipedia.org/wiki?curid=33990
+
+text:
+Yoo So-young ( Hangul : 유소영; dhashay Maarso 29, 1986) [ 1 ] waa atariisho Koonfur Kuuriya ah oo xubin hore ka ahayd kooxda gabdhaha After School , waxay xubin ka ahayd Janaayo 2009 ilaa ay ka qalin jabisay kooxda 29-kii Oktoobar, si ay u sii wadato xirfadda jilitaanka. [ 2 ] Waxay caan ku tahay doorarkeeda taageerada ee dramaada Kuuriya , oo ay ku jiraan Dream High 2 iyo High Society .
+
+Tix
+
+Iron
+
+Star Story
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1986-03-29 ) Maarso 29, 1986 ( 39jir) Koonfur Kuuriya
+- **Shaqada**: Atariisho
+- **Sanadaha Shaqada**: 2009–hada
+- **Wakiil**: Iron Star Story
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Calaamadaha**: Pledis
+- **Falalka la xiriira**: After School
+
+
+# Tables
+
+## Table 1
+| Yoo So-young |
+| --- |
+| Yoo ee 2009 |
+| Ku dhashay | ( 1986-03-29 ) Maarso 29, 1986 ( 39jir) Koonfur Kuuriya |
+| Shaqada | Atariisho |
+| Sanadaha Shaqada | 2009–hada |
+| Wakiil | Iron Star Story |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Calaamadaha | Pledis |
+| Falalka la xiriira | After School |
+|  |

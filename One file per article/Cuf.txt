@@ -1,0 +1,18 @@
+title:
+Cuf
+
+url:
+https://so.wikipedia.org/wiki?curid=4684
+
+text:
+Cuf ama jirmiga Waa wixii meel maran buuxiya, waxa ay kamid tahay 3 xaalad maaddo Waxaana loo sawiraa (m) waana halbeeg aan doorsoomin meel kasta oo lajoogo ama latago, Waxaana loo isticmaalaa sida Culeys ka oo kale iyadoon la eegin macanaga Fisigis ahaan ay xambaarsantahay.
+
+Waxaa jirta laba hab oo loo xisaabo Cufka
+
+Xeerka labaad ee Niyuutan ( inertial mass )haddii isku darka xooga ku faln walax aanu le’ekeyn eber, walaxdu waxa ay yeelanaysaa karaar saamigal quman ku ah laxaadka iskudarka xooga iyo jihaddiisa. Walaxda m awooda F ,Karaarta a Waxa ay kusiineysaa F / m . Waa halbeeg
+
+F ( N ) = m ( k g ) ∗ a ( m / s 2 ) {\displaystyle F(N)=m(kg)*a(m/s^{2})}
+
+Cuf is jiidadka (active gravitational mass) Walax m 1 haddii meel la dhigo Fogaan u jirta r walax kale ee cuf keedu yahay 'm 2 walaxdi hore saamayn ay ku yeelanaysaa F' waa soo jiidanaysaa sidaan ayaana tusaale u ah
+
+G Waa ma doorsoome cuf is jiidadka guud waxa ayna udhigantaa 6.67*10 −11 kg −1 .m 3 .s −2 .

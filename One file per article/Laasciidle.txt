@@ -1,0 +1,49 @@
+title:
+Laasciidle
+
+url:
+https://so.wikipedia.org/wiki?curid=6592
+
+text:
+lasidle (som. laasciidle [ 1 ] ) ( Af Soomaali : laasciidle , Af Carabi : لاسعانود ‎)  waa magaalo ku taala bariga magalada berbera dad ka ku nool waxay u badan yihiin xoolo dhaqato 
+magaalada waxaa ku yaala dugsi hoose, dhexe iyo mid sarre  waxa dega. Habarjeclo gaar ahaan muuse abokor iyo cumar kasii ahaan beelaha bahmajeelo iyo alamagan iyo beesha caraale ee cumar jibriil beelahan ayaa waxay dagaan oo kale degaanada  Ceel baxay, Raaribuul iyo beylah male , xidida,garbada,waxarikayeedhay waana deegaano ka mid ah degmooyinka gobolka Saaxil, gaar ahaanna kuwa ugu qadiimsan.
+
+Degmadan waa mid kamida degmooyinka ugu waaweyn gobolka saaxil degmadan waxay caan ku tahay xoolo dhaqashada,waxa kaloo laga soo guraa malmalka,beeyada iyo fooxa.
+
+deganka baragiga Saaxil  waa laba degmo xagal iyo Laasciidle degmada  waxa dega beelaha aan soo sheegey . Laasciidle waxa hoosyimadda   deegaanada xeebta dherersan odhan  sida laasmuuse,Ganbaxo,karin iyo ceeldaraad.karin ,ganbaxo iyo qaar kale oo badan.
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Saaxil
+- **Degmo**: Laasciidle
+- **• Nuuca**: Gobolka saaxil
+- **• Duqa-magaalada**: Maayirka alamagan ,maayirku xigeenka cumar caraale, xooghayaha bahmajeelo isixaaq
+- **Joogga**: 0 m (0 ft)
+- **• Dhammaan**: 50,000 oo ruux
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| laasciidle lasidle لآصعيدلي |
+| --- |
+| Magaalo |
+| File:SOMALILAND Flag |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Saaxil |
+| Degmo | Laasciidle |
+| Dowlada |
+| • Nuuca | Gobolka saaxil |
+| • Duqa-magaalada | Maayirka alamagan ,maayirku xigeenka cumar caraale, xooghayaha bahmajeelo isixaaq |
+| Joogga | 0 m (0 ft) |
+| Tirada dadka |
+| • Dhammaan | 50,000 oo ruux |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

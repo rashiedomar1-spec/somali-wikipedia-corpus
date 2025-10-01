@@ -1,0 +1,8 @@
+title:
+Qoone
+
+url:
+https://so.wikipedia.org/wiki?curid=6000
+
+text:
+Qoone waa &lt;a href="Miro"&gt;Miro&lt;/a&gt; qolof adag, waxoo ka baxaa dalka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt; gaar ahaan Hirshabele sate, waa miro la cuni karo.

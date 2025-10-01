@@ -1,0 +1,23 @@
+title:
+Holland America Line
+
+url:
+https://so.wikipedia.org/wiki?curid=23740
+
+text:
+o
+
+Statendam class (S class)
+
+See Also
+
+AIDA Cruisesp
+
+
+# Tables
+
+## Table 1
+| Vessel Name | In HAL Service | Gross Tonnage | Maximum Speed | Passenger Complement | Enclosed Passenger Decks | Flag | Notes | Image |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Template:MS | 1993 | 55,575 | 22 knots | 1,258 | 9 | Netherlands | April 2011 refit added Lanai and spa staterooms, Mix lounge and Showroom at Sea |  |
+| Template:MS | 1996 | 57,092 | 22 knots | 1,350 | 9 | Netherlands | April 2009 refit added Lanai, spa and verandah staterooms, Mix lounge, Showroom at Sea, the Retreat aft pool area with shallow pool and movie screen (moved up to Lido deck level), and duck tail for stability.  April 2011 refit updated Retreat area, removing wading pool in favor of several smaller hot/cool tubs. |  |

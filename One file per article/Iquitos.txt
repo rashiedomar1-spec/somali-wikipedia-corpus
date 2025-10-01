@@ -1,0 +1,12 @@
+title:
+Iquitos
+
+url:
+https://so.wikipedia.org/wiki?curid=38631
+
+text:
+Iquitos
+&lt;a href="Peru"&gt;Peru&lt;/a&gt;
+magaalo ku taal Peru oo ay degan yihiin dadyow, Peru waa qaran ku yaal gobollada koonfurta Ameerika,
+Sido Kale fiiri.
+&lt;a href="Liska%20Magalloyinka%20Waddanka%20Peru"&gt;Liska Magalloyinka Waddanka Peru&lt;/a&gt;

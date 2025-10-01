@@ -1,0 +1,8 @@
+title:
+Markab
+
+url:
+https://so.wikipedia.org/wiki?curid=5421
+
+text:
+Markabka waa nooc ka mid ah &lt;a href="gaadiid"&gt;gaadiid&lt;/a&gt;ka &lt;a href="bad"&gt;bad&lt;/a&gt;da.

@@ -1,0 +1,57 @@
+title:
+Wikimedia Foundation
+
+url:
+https://so.wikipedia.org/wiki?curid=3426
+
+text:
+Wikimedia Foundation waa asaas aan faa'iido doon ahayn oo Mareykan ah.  Xaruntooda ugu weyn waxay ku taal San Francisco, Mareykanka.  Aasaaska waxa uu wadaa mashruucyo badan fikradda Wiki iyo software MediaWiki. Wikipedia waa kan ugu caansan.
+
+Goobaha kale waxaa ka mid ah Wiktionary, Wikiquote, Wikisource, Wikinews, Wikibooks, Wikiversity, Wikimedia Commons, Wikifunctions, Wikidata, Wikivoyage iyo Meta-Wiki. Mu'asasadu waxay maamushaa Wikis kale oo aad ugu dhow hawlaha Mu'asasada lafteeda.  Waxaa ka mid ah Wikimedia Foundation wiki, MediaWiki wiki, Wikipedia Test, Wikimedia Incubator, Bugzilla, iyo wikimania wiki.
+
+Sidoo kale fiiri
+
+Tixraac
+
+San Francisco , California , U.S. / Los Angeles , Kalifornia, U.S. (ka diiwaangashan)
+
+US$ 75.8 milyan (2015)
+
+52.5 million (2014)
+
+US$ 52.6 million (2015)
+
+45.9 million (2014)
+
+Wikipedia
+
+
+# Infobox
+
+- **Aasaasay**: Juun 20, 2003;  22 sano ka hor
+- **Nooca**: 501(c)(3), urur u adeega bulshada
+- **Focus**: Bilaash, lacag la'aan, barnaamijyo ku salaysan internetka
+- **Meesha**: San Francisco , California , U.S. / Los Angeles , Kalifornia, U.S. (ka diiwaangashan)
+- **Area served**: Caalamka oo dhan
+- **Nidaam**: Wikipedia , WikiQaamuus , wikisource, Wikibooks, Wikisource, Wikimedia Commons , Wikispecies, Wikinews, Wikiversity, Wikidata, Wikivoyage, Wikimedia Incubator, Meta-Wiki
+- **Dadka sare**: Christophe Henner, gudoomiye sare [ 1 ] Katherine Maher, Executive Director
+- **Dhaqaale**: US$ 75.8 milyan (2015) 52.5 million (2014)
+- **Isticmaalka**: US$ 52.6 million (2015) 45.9 million (2014)
+- **Website**: wikimediafoundation.org
+
+
+# Tables
+
+## Wikimedia Foundation, Inc.
+|   |
+| --- |
+| Aasaasay | Juun 20, 2003;  22 sano ka hor |
+| Nooca | 501(c)(3), urur u adeega bulshada |
+| Focus | Bilaash, lacag la'aan, barnaamijyo ku salaysan internetka |
+| Meesha | San Francisco , California , U.S. / Los Angeles , Kalifornia, U.S. (ka diiwaangashan) |
+| Area served | Caalamka oo dhan |
+| Nidaam | Wikipedia , WikiQaamuus , wikisource, Wikibooks, Wikisource, Wikimedia Commons , Wikispecies, Wikinews, Wikiversity, Wikidata, Wikivoyage, Wikimedia Incubator, Meta-Wiki |
+| Dadka sare | Christophe Henner, gudoomiye sare [ 1 ] Katherine Maher, Executive Director |
+| Dhaqaale | US$ 75.8 milyan (2015) 52.5 million (2014) |
+| Isticmaalka | US$ 52.6 million (2015) 45.9 million (2014) |
+| Website | wikimediafoundation.org |

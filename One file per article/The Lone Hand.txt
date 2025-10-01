@@ -1,0 +1,27 @@
+title:
+The Lone Hand
+
+url:
+https://so.wikipedia.org/wiki?curid=32706
+
+text:
+The Lone Hand waxay ahayd majallad bille ah oo Australia ah oo suugaanta iyo gabayada ah oo la daabici jiray intii u dhaxeysay 1907 iyo 1928. Joornaalka wuxuu fadhigiisu ahaa magaalada Sydney .
+
+
+# Infobox
+
+- **Founder(s)**: J. F. Archibald Frank Fox
+- **Founded**: 1907–1928
+- **City**: Sydney
+- **Country**: Australia
+
+
+# Tables
+
+## The Lone Hand
+|   |
+| --- |
+| Founder(s) | J. F. Archibald Frank Fox |
+| Founded | 1907–1928 |
+| City | Sydney |
+| Country | Australia |

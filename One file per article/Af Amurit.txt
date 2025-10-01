@@ -1,0 +1,42 @@
+title:
+Af Amurit
+
+url:
+https://so.wikipedia.org/wiki?curid=18194
+
+text:
+Afka Amuuriga ( Af Ingiriis : Amorite language ; Af Carabi : لاسعانود ‎) sidoo kale loo yaqaano amoritka waa af ka mid ah sametiga ama saamiyada woqooyi galbeed ee dabar go'day, waxaa ku hadli jiray amuuriyiintii daganayd suuriya si guud miilaadiga ka hor.
+
+Semitik Semitik Galbeed Semitik Dhexe Semitik Waqooyi Galbeed Amorite
+
+Semitik Galbeed Semitik Dhexe Semitik Waqooyi Galbeed Amorite
+
+Semitik Dhexe Semitik Waqooyi Galbeed Amorite
+
+Semitik Waqooyi Galbeed Amorite
+
+Amorite
+
+
+# Infobox
+
+- **Dhalad u ah**: Levant
+- **Qoomiyada**: Amorites
+- **Extinct**: 2nd millennium BC
+- **Qoyska luqada**: Semitik Semitik Galbeed Semitik Dhexe Semitik Waqooyi Galbeed Amorite
+- **Dialects**: Ugaritic ?
+- **ISO 639-3**: None
+
+
+# Tables
+
+## Table 1
+| Amorite |
+| --- |
+| Dhalad u ah | Levant |
+| Qoomiyada | Amorites |
+| Extinct | 2nd millennium BC |
+| Qoyska luqada | Semitik Semitik Galbeed Semitik Dhexe Semitik Waqooyi Galbeed Amorite |
+| Dialects | Ugaritic ? |
+| Koodka luqada |
+| ISO 639-3 | None |

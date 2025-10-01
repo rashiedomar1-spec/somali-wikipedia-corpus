@@ -1,0 +1,29 @@
+title:
+Manami Hashimoto
+
+url:
+https://so.wikipedia.org/wiki?curid=33349
+
+text:
+Manami Hosokawa [ 1 ] oo loo yaqaan Manami Hashimoto , waa moodel soo jiidasho iyo atariisho reer Jabaan.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Magaca Saxda**: 橋本 マナミ
+- **Ku dhashay**: Manami Hosokawa ( 1984-08-08 ) Agoosto 8, 1984 ( 41jir) Yamagata, Yamagata , Jabaan
+- **Sanadaha Shaqada**: 1997–hada
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Manami Hashimoto |
+| --- |
+| Magaca Saxda | 橋本 マナミ |
+| Ku dhashay | Manami Hosokawa ( 1984-08-08 ) Agoosto 8, 1984 ( 41jir) Yamagata, Yamagata , Jabaan |
+| Sanadaha Shaqada | 1997–hada |
+| Ilmaha | 1 |

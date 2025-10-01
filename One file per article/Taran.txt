@@ -1,0 +1,56 @@
+title:
+Taran
+
+url:
+https://so.wikipedia.org/wiki?curid=11384
+
+text:
+Taran Xisaab ahaan ( Af-Ingiriis : Product) waa natiijada Iskudhufasho laba walxoox. Kala hormarinta ay imaanayso tirooyin maangal ah ama kakan ee howlgalka iskudhufashada kumana lahan wax saamayn ah qiimaha taranta. Tani waa gaar ahaansho loola jeedo howsha iskudhufas bhada ee Kala-hormarinta.
+
+Si kooban Taran waa wixi ka soo baxa laba tiro oo la isku dhufto sida 2*2= 4 markaa afar waa Taranta 2*2.
+
+Taran laba tiro
+
+Taran laba tiro tirsiimo
+
+Dhig tirooyin kubbado ah qaab ah laydi tirooyinka sadaradiisa r {\displaystyle r} tiri qotimadiisa s {\displaystyle s} wuxuu ku siinayaa :
+
+r ⋅ s = ∑ i = 1 s r = ∑ j = 1 r s {\displaystyle r\cdot s=\sum _{i=1}^{s}r=\sum _{j=1}^{r}s}
+
+kubbad.
+
+Taran laba tiro tirsiimo
+
+⋅ − + − + − + − + {\displaystyle {\begin{array}{|c|c  c|}\hline \cdot &-&+\\\hline -&+&-\\+&-&+\\\hline \end{array}}}
+
+Haddii si kale loo dhigo:
+
+Taranta laba jajab
+
+Taranta laba jajab waa jajab sareeyihiisu la midyahay taranta laba jajab fudud hooseeyihiisu wuxuu la midyahay taranta hooseeyahay laba jajab, sida lagu muujiyay habkaan soo socda:
+
+z n ⋅ z ′ n ′ = z ⋅ z ′ n ⋅ n ′ {\displaystyle {\frac {z}{n}}\cdot {\frac {z'}{n'}}={\frac {z\cdot z'}{n\cdot n'}}}
+
+Taranta laba taxane
+
+Si ay u noqoto laba taxaneyaal
+
+A = ( a i , j ) i = 1 … s ; j = 1 … r ∈ R s × r {\displaystyle A=(a_{i,j})_{i=1\ldots s;j=1\ldots r}\in \mathbb {R} ^{s\times r}} و B = ( b j , k ) j = 1 … r ; k = 1 … t ∈ R r × t {\displaystyle B=(b_{j,k})_{j=1\ldots r;k=1\ldots t}\in \mathbb {R} ^{r\times t}}
+
+Tarantoodu waa:
+
+B ⋅ A = ( ∑ j = 1 r a i , j ⋅ b j , k ) i = 1 … s ; k = 1 … t ∈ R s × t {\displaystyle B\cdot A=\left(\sum _{j=1}^{r}a_{i,j}\cdot b_{j,k}\right)_{i=1\ldots s;k=1\ldots t}\;\in \mathbb {R} ^{s\times t}}
+
+Website dibedda ah
+
+Tranta laba tiro tabaneyaal ah waxay la midtahay tiro togan.
+
+Taranta tiro taban iyo tiro togan waxay la midtahay tiro taban.
+
+Taranta tiro togan iyo tiro taban waxay la midtahay tiro taban.
+
+Taranta laba tiro oo togan waxay la midtahay tiro togan.
+
+Taran ee websiteka mathworld
+
+portal Xisaab

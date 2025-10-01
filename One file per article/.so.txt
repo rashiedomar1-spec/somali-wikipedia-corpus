@@ -1,0 +1,10 @@
+title:
+.so
+
+url:
+https://so.wikipedia.org/wiki?curid=5913
+
+text:
+.so waa furaha &lt;a href="Internet"&gt;Internet&lt;/a&gt;ka ee dalka ee &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt;.
+Furaha Internetka soomaaliya. 
+(Af-soomaali: Soomaaliya - العربية: الصومال English: Somalia)

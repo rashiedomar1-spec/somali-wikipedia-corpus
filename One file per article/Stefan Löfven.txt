@@ -1,0 +1,31 @@
+title:
+Stefan Löfven
+
+url:
+https://so.wikipedia.org/wiki?curid=31961
+
+text:
+Stefan Löfven (dhashay Luuliyo 21, 1957) waa siyaasi Iswiidhan ah oo jagada Iswiidhanlka qabtay tan iyo 2014.
+
+Tixraac
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1957-07-21 ) Luuliyo 21, 1957 ( 68jir) Stockholm , Iswiidhan
+
+
+# Tables
+
+## Table 1
+| Stefan Löfven |
+| --- |
+|  |
+| Macluumaad gaar ah |  |
+| Ku dhashay | ( 1957-07-21 ) Luuliyo 21, 1957 ( 68jir) Stockholm , Iswiidhan |
+| Saxiixa |  |
+
+## Table 2
+| Hoggaanka Dalka |
+| --- |
+| xilka kaga horeeyey Fredrik Reinfeldt | Ra'iisul wasaare Iswiidhan 2014–2021 | Xilka  kala wareegay Magdalena Andersson |

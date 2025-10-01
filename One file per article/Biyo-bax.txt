@@ -1,0 +1,8 @@
+title:
+Biyo-bax
+
+url:
+https://so.wikipedia.org/wiki?curid=22317
+
+text:
+Biyo-bax waa waqtiga &lt;a href="shahwada"&gt;shahwada&lt;/a&gt; guska kacsan ka baxdo.

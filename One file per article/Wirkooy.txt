@@ -1,0 +1,8 @@
+title:
+Wirkooy
+
+url:
+https://so.wikipedia.org/wiki?curid=6920
+
+text:
+Wirkooy waa degmo ku taalo gobolka &lt;a href="Jubbada%20Hoose"&gt;Jubbada Hoose&lt;/a&gt;

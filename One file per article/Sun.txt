@@ -1,0 +1,10 @@
+title:
+Sun
+
+url:
+https://so.wikipedia.org/wiki?curid=12427
+
+text:
+= Sun =
+= Taariikhda Sunta =
+= Isticmaalka Sunta =

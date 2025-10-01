@@ -1,0 +1,76 @@
+title:
+ISO 3166.
+
+url:
+https://so.wikipedia.org/wiki?curid=42021
+
+text:
+ISO 3166 waa halbee ay daabacday Ururka Caalamiga ah ee Halbeega (ISO) kaas oo qeexaya koodhadhka magacyada wadamada, dhulalka ku tiirsan, meelaha gaarka ah ee danaha juqraafiyeed, iyo qayb-hoosaadyadooda aasaasiga ah (tusaale, gobolada ama &lt;a href="Maamulgoboleedka%20Soomaaliya"&gt;Maamul Goboleedyada&lt;/a&gt; Federal xubin ka ah). Magaca rasmiga ah ee halbeeggu waa Xeerarka matalaadda magacyada dalalka iyo qayb-hoosaadkooda.
+Qaybaha.
+Waxay ka kooban tahay saddex qaybood:
+TS EN ISO 3166-1 Xeerarka matalaadda magacyada wadamada iyo qayb-hoosaadkooda - Qeybta 1: Koodhka dalka, wuxuu qeexayaa koodhadhka magacyada wadamada, dhulalka ku tiirsan, iyo meelaha gaarka ah ee danaha juqraafiyeed Waxay qeexaysaa saddex qaybood oo kood waddan:
+TS EN ISO 3166-1 alpha-2 - Koodh waddan oo laba-xaraf ah kuwaas oo ah kuwa ugu ballaaran ee loo adeegsado saddexda, oo si weyn loogu isticmaalo koodhka waddanka ee heerka sare ee internetka (marka laga reebo dhawr).
+TS EN ISO 3166-1 alfa-3 - Koodhadhka waddanka ee saddex-xaraf ah oo u oggolaanaya xiriir muuqaal oo ka dhexeeya koodhadhka iyo magacyada waddanka marka loo eego koodhadhka alfa-2
+TS EN ISO 3166-1 nambarada - Koodhadhka saddex-god ee waddanka oo la mid ah kuwa ay soo saartay oo ay ilaaliso Qaybta Tirakoobka Qaramada Midoobay, iyadoo laga faa'iideysanayo qoraalka (nidaamka qoraalka) madaxbannaanida, oo markaa faa'iido u leh dadka ama nidaamyada isticmaalaya qoraallada aan Latinka ahayn.
+TS EN ISO 3166-2 Xeerarka matalaadda magacyada wadamada iyo qeyb-hoosaadkooda - Qeybta 2: Koodhka qeyb-hoosaadka dalka, wuxuu qeexayaa koodhadhka magacyada xaafad-hoosaadyada (sida gobollada, gobollada, waaxaha, gobollada) ee dhammaan waddamada lagu calaamadeeyay ISO 3166-1
+TS EN ISO 3166-3 Xeerarka matalaadda magacyada wadamada iyo qayb-hoosaadkooda - Qeybta 3: Koodhka magacyada wadamada hore loo isticmaali jiray, wuxuu qeexayaa koodhadhka magacyada wadamada laga tirtiray TS EN ISO 3166-1 tan iyo markii ugu horeysay ee la daabacay 1974.
+Qoraalada.
+Daabacaaddii koowaad ee ISO 3166, oo ay ku jiraan furayaasha alifbeetada oo keliya, ayaa la daabacay 1974. Daabacaadda labaad, oo la daabacay 1981, ayaa sidoo kale lagu daray code-yada waddanka, daabacadaha saddexaad iyo afraad ee la daabacay 1988 iyo 1993 siday u kala horreeyaan. Daabacaadii shanaad, oo la daabacay intii u dhaxaysay 1997 iyo 1999, waxa la balaadhiyay saddex qaybood oo lagu daray xeer hoosaadyada iyo dalalkii hore.
+ISO 3166 Wakaaladda dayactirka.
+Heerka ISO 3166 waxaa ilaalinaya Hay'adda Dayactirka ISO 3166 (ISO 3166/MA), oo ku taal xafiiska dhexe ee ISO ee Geneva. Asal ahaan waxay ku taal Deutsches Institut für Normung (DIN) ee Berlin. Shaqadeeda ugu muhiimsan waa:
+In lagu daro oo la baabi'iyo magacyada dalka iyo in loo qoondeeyo curiyeyaasha koodka iyaga;
+Si aad u daabacdo liisaska magacyada dalka iyo walxaha code;
+Si aad u ilaaliso liiska tixraaca ee dhammaan walxaha code-ka dalka iyo walxaha code-hoosaadka ee la isticmaalay iyo muddada isticmaalkooda;
+Si loo soo saaro wargeysyada ku dhawaaqaya isbeddelada shaxda code;
+Si aad ugala taliso isticmaaleyaasha codsiga ISO 3166
+Xubnaha.
+Waxaa jira shan iyo toban khabiir oo leh xuquuqda codbixinta ee ISO 3166/MA. Sagaal waa wakiilada ururada heerka qaran:
+Ururka française de normalization (AFNOR) – &lt;a href="France"&gt;France&lt;/a&gt;
+Machadka Heerarka Qaranka Mareykanka (ANSI) – Mareykanka
+Machadka Heerarka Ingiriiska (BSI) – &lt;a href="Boqortooyada%20Ingiriiska"&gt;Boqortooyada Ingiriiska&lt;/a&gt;
+Deutsches Institut für Normung (DIN) - &lt;a href="Jarmalka"&gt;Jarmalka&lt;/a&gt;
+Guddiga Heerarka Warshadaha ee Jabbaan (JISC) – &lt;a href="Japan"&gt;Japan&lt;/a&gt;
+Heerarka &lt;a href="Australia"&gt;Australia&lt;/a&gt; (SA) – Australia
+Xafiiska Heerarka Kenya (KEBS) – Kenya
+Maamulka Habaynta Shiinaha (SAC) - &lt;a href="Shiinaha"&gt;Shiinaha&lt;/a&gt;
+Machadka Heerarka Iswidhishka (SIS) – &lt;a href="Iswiidhan"&gt;Iswiidhan&lt;/a&gt;
+Lixda kale waa wakiillo ka socda hay'adaha waaweyn ee &lt;a href="Qaramada%20Midoobay"&gt;Qaramada Midoobay&lt;/a&gt; ama ururrada kale ee caalamiga ah kuwaas oo dhammaan adeegsada ISO 3166-1:
+Wakaalada Tamarta Atoomikada Caalamiga ah (IAEA)
+Ururka Duulimaadyada Rayidka Caalamiga ah (ICAO)
+Ururka Isgaarsiinta Caalamiga ah (ITU)
+Shirkadda Internetka ee Magacyada iyo Nambarada La Magacabay (ICANN)
+Ururka Boostada Caalamiga ah (UPU)
+Guddiga Dhaqaalaha ee Qaramada Midoobay ee Yurub (UNECE)
+ISO 3166/MA waxay leedahay xubno dheeraad ah oo xiriir la leh kuwaas oo aan ka qaybgelin codadka laakiin, iyada oo loo marayo khibradooda, saameyn weyn ku leh habka go'aan qaadashada ee wakaalada dayactirka.
+Koodhadhka ka bilaabma "X.
+Koodhadhka waddanka ee ka bilaabma "X" waxaa loo isticmaalaa isticmaalka gaarka ah ee gaarka ah (la hayo), waligoodna koodka rasmiga ah. In kasta oo ay jiraan ereyada "caadada gaarka ah", isticmaalka waxaa ku jiri kara heerar kale oo dadweyne. ISO waxay xaqiijinaysaa in aan kood waddan oo ka bilaabma X waligiis la habayn doonin.[a] Tusaalooyinka koodka X waxaa ka mid ah:
+Nidaamyada ISO 3166 ee NATO ee ku salaysan (STANAG 1059, daabacaadda 9aad) waxay isticmaalaan "X" codes ee wadamada jimicsiga khayaaliga ah ee u dhexeeya XXB ee "Brownland" ilaa XXY ee "Yellowland", iyo sidoo kale amarrada waaweyn sida XXE ee SHAPE ama XXS ee SACLANT.
+X lacagaha lagu qeexay ISO 4217.
+Sidoo kale fiiri.
+Ururka Caalamiga ah ee Habaynta - Ururka horumarinta heerarka caalamiga ah
+Heerarka ISO
+ISO 3166
+TS EN ISO 3166-1 - Halbeegga ISO ee koodhadhka waddanka
+TS EN ISO 3166-1 alpha-2 - Xeerarka waddanka oo laba xaraf ah ayaa lagu qeexay TS EN ISO 3166-1
+TS EN ISO 3166-1 alpha-3 - Xeerarka dalka ee saddex xaraf ah oo lagu qeexay TS EN ISO 3166-1
+TS EN ISO 3166-1 lambar - Saddex lambar oo lambar ah si loo aqoonsado waddamada
+TS EN ISO 3166-2 - Xeer hoosaadka dalka heerka ISO
+TS EN ISO 3166-3 - Koodhka magacyada wadamada hore loo isticmaali jiray
+Liiska koodhka dalka ISO 3166
+Koodhka dalka - Koodhka aqoonsiga wadamada
+Koodhka diiwaan gelinta baabuurta caalamiga ah - Xeerarka loo isticmaalo in lagu aqoonsado halka baabuurku ka diiwaan gashan yahay
+Liisaska dawladaha madax-banaan iyo dhulalka ku tiirsan
+Dawlad madaxbanaan - Dawlad leh awoodda ugu sareysa dhul
+Liiska dawladaha madax banaan
+Liiska dowladaha laxiriira - Lamaane yar oo rasmi ah, xiriir xor ah oo lala yeesho dowlad caadi ahaan ka weyn
+Liiska gobolada dhabta ah
+Dhulka ku tiirsan – Dhul aan laheen madax-bannaani siyaasadeed oo buuxda dal madax-bannaan
+Qaramada Midoobay – Urur-goboleedka IGAD
+Dawladaha xubnaha ka ah Qaramada Midoobay
+Liiska Qaramada Midoobay ee dhulalka aan ismaamulin - Nooca dhulka uu qeexay Axdiga Qaramada Midoobay
+Qoraallo sharraxaad ah.
+XK ee Kosovo waa hal dhinac "user loo qoondeeyey code" ee ma aha ISO 3166 koodka waddan ee caadiga ah.
+Tixraacyo.
+..&lt;a href="https%3A//www.iso.org/iso-3166-country-codes.html"&gt;Ururka Caalamiga ah ee Heerarka (ISO).&lt;/a&gt;
+Xiriirinta dibadda.
+&lt;a href="https%3A//www.iso.org/iso-3166-country-codes.html"&gt;ISO 3166 Wakaaladda dayactirka&lt;/a&gt; Ururka Caalamiga ah ee Habaynta (ISO)

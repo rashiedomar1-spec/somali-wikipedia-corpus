@@ -1,0 +1,15 @@
+title:
+Urur kooban
+
+url:
+https://so.wikipedia.org/wiki?curid=16156
+
+text:
+&lt;a href="Xisaab"&gt;Xisaab&lt;/a&gt; ahaan, waxay ahaanaysaa &lt;a href="Urur%20%28xisaab%29"&gt;urur&lt;/a&gt; uun urur kooban haddii laga helo xiriirka &lt;a href="Midmid"&gt;Midmid&lt;/a&gt; ku dhexjirta iyo Urur kale leh qaabka {1, 2, ..., "n"} kolka "n" waana &lt;a href="Tiro%20tirsiimo"&gt;Tiro tirsiimo&lt;/a&gt;. Tusaale ahaan, Ururta
+formula_1
+waana urur kooban tirada shanta qaybood. Waxaa loo ogolyahay qiime ahaan in ay ka koobnaato "n" = 0 Sidaa darteed maxaa yeelaay &lt;a href="Uurur%20madhan"&gt;urur madhan&lt;/a&gt; waana ururu kooban. 
+Qeexista eryaga loo adeegsado.
+Waxaa la yiraah Urur kastoo S, waa koobantahay haddii la helo &lt;a href="Midmid"&gt;Midmid&lt;/a&gt;
+formula_2
+marka n &lt;a href="Tiro%20tirsiimo"&gt;Tiro tirsiimo&lt;/a&gt; Ogaal guud. Haddii urur uun kooban, waxaa loo qarayaa &lt;a href="susun"&gt;susun&lt;/a&gt; sidaan:
+formula_3

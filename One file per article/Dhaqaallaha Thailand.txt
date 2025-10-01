@@ -1,0 +1,59 @@
+title:
+Dhaqaallaha Thailand
+
+url:
+https://so.wikipedia.org/wiki?curid=38562
+
+text:
+Dhaqaallaha Thailand
+
+UN Tiroka
+
+764
+
+Xubin
+
+Asean
+
+Waddanmha ibb Dhofinka
+
+Waddanmaha Dhoofinka
+
+Asean
+
+United States
+
+China
+
+China
+
+Asean
+
+Japan
+
+
+# Infobox
+
+- **Lacagta**: Baht dollarka
+- **Xiriir ganacsi ururrada**: Qaramada Midoobay ,
+- **GDP**: 574 Billion Dollarka  (2023)
+- **GDP Kobaca**: 1-2%
+- **Muruq maal**: 38 Milyan daadka Shaqo
+- **Shirkada ugu waa-way ee badeecadaha soo dhoofiya**: ,
+
+
+# Tables
+
+## Table 1
+| Dhqaalaha Thailand |
+| --- |
+| Lacagta | Baht dollarka |
+| Xiriir ganacsi ururrada | Qaramada Midoobay , |
+| Tirakoob |
+| GDP | 574 Billion Dollarka  (2023) |
+| GDP Kobaca | 1-2% |
+| Muruq maal | 38 Milyan daadka Shaqo |
+| Dibadda uga baxa/ Soona Gala |
+| Shirkada ugu waa-way ee badeecadaha soo dhoofiya | , |
+| Dhaqaalaha Guud |
+| Halka laga soo xigtay Sitka: Laanta sirdoonka mareykanka ee arrimaha dibadda Dhamaan hababka, hadii aan wax badel ah ka imaan, ee Doolar |

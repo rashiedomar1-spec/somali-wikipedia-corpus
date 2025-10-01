@@ -1,0 +1,9 @@
+title:
+Taabagalka
+
+url:
+https://so.wikipedia.org/wiki?curid=34358
+
+text:
+Taabagalka waxaa af ingiriis lagu dhahaa „implementation”.
+Masiixiyiinta runta ah waxay ku dadaalaan inay &lt;a href="Kitaabka%20quduska"&gt;Kitaabka&lt;/a&gt; ku dhaqmaan.

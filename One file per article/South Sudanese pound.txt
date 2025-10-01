@@ -1,0 +1,35 @@
+title:
+South Sudanese pound
+
+url:
+https://so.wikipedia.org/wiki?curid=24235
+
+text:
+Koonfurta Suudaan
+South Sudanese pound
+
+Koonfurta Suudaan waa lacagta rasmiga ah ee Jamhuuriyadda Koonfurta Suudaan. Waxaa loo qaybiyaa 100 bacrimin. Waxaa ansixiyay golaha sharci dejinta koonfurta Suudaan ka hor inta aan la gaarin 9-kii Julaay 2011 oo ka yimid Sudan. [5] Waxaa la soo saaray 18kii Luuliyo 2011, waxaana lagu bedelay suufkii Suudaan ee kuxiga [6]
+
+
+# Infobox
+
+- **ISO 4217 fure**: SSP
+- **Bankiga dhexe**: Bank of South Sudan [ 1 ]
+- **Adeegsade**: South Sudan
+- **Sicir barar**: 476%
+
+
+# Tables
+
+## Table 1
+| South Sudanese pound |
+| --- |
+| ISO 4217 fure | SSP |
+| Bankiga dhexe | Bank of South Sudan [ 1 ] |
+| Adeegsade | South Sudan |
+| Sicir barar | 476% |
+| Ilaha warbixinta | https://www.cia.gov/library/publications/the-world-factbook/geos/od.html 2016 |
+| Qaybaha |  |
+| 1/100 | piaster |
+|  | 10, 20, 50 piasters, 1, 2 pounds [ 2 ] [ 3 ] |
+|  | 5, 10, 25  piasters, [ 4 ] 1, 5, 10, 20, 25, 50, 100, 500 pounds |

@@ -1,0 +1,30 @@
+title:
+Vs.
+
+url:
+https://so.wikipedia.org/wiki?curid=32930
+
+text:
+Vs. waa majaladda haweenka.
+
+
+# Infobox
+
+- **Founder(s)**: Jakob F. Stubkjær iyo Vibe Dabelsteen
+- **Launched**: 2005
+- **Language**: Ingiriis
+- **City**: Magaalada New York
+- **Country**: Mareykanka
+- **Website**: vsmag.com
+
+
+# Tables
+
+## Vs.
+| Founder(s) | Jakob F. Stubkjær iyo Vibe Dabelsteen |
+| --- | --- |
+| Launched | 2005 |
+| Language | Ingiriis |
+| City | Magaalada New York |
+| Country | Mareykanka |
+| Website | vsmag.com |

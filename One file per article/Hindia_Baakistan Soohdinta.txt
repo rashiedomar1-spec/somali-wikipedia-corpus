@@ -1,0 +1,9 @@
+title:
+Hindia/Baakistan Soohdinta
+
+url:
+https://so.wikipedia.org/wiki?curid=33490
+
+text:
+Hindia/Baakistan Soohdinta
+&lt;a href="Asia"&gt;Asia&lt;/a&gt;

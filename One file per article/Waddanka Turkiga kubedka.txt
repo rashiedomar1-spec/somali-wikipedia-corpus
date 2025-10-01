@@ -1,0 +1,76 @@
+title:
+Waddanka Turkiga kubedka
+
+url:
+https://so.wikipedia.org/wiki?curid=41985
+
+text:
+Waddanka Turkiga kubedka
+
+dharka kubedka
+
+United States nike
+
+FIFA
+
+UEFA
+
+1	GK	Altay Bayındır	14 April 1998 (age 27)	10	0	England Manchester United
+
+12	GK	Berke Özer	25 May 2000 (age 25)	2	0	Turkey Eyüpspor
+
+23	GK	Muhammed Şengezer	5 January 1997 (age 28)	0	0	Turkey İstanbul Başakşehir
+
+GK	Uğurcan Çakır	5 April 1996 (age 29)	31	0	Turkey Trabzonspor
+
+2	DF	Zeki Çelik	17 February 1997 (age 28)	54	2	Italy Roma
+
+3	DF	Merih Demiral	5 March 1998 (age 27)	55	4	Saudi Arabia Al-Ahli
+
+4	DF	Çağlar Söyüncü	23 May 1996 (age 29)	58	2	Turkey Fenerbahçe
+
+13	DF	Eren Elmalı	7 July 2000 (age 25)	17	0	Turkey Galatasaray
+
+14	DF	Samet Akaydin	13 May 1994 (age 31)	14	1	Turkey Çaykur Rizespor
+
+15	DF	Yusuf Akçiçek	25 January 2006 (age 19)	2	0	Turkey Fenerbahçe
+
+18	DF	Mert Müldür	3 April 1999 (age 26)	36	2	Turkey Fenerbahçe
+
+24	DF	Mustafa Eskihellaç	5 May 1997 (age 28)	2	0	Turkey Trabzonspor
+
+26	DF	Yasin Özcan	20 April 2006 (age 19)	1	0	Turkey Kasımpaşa
+
+5	MF	Okay Yokuşlu	9 March 1994 (age 31)	47	1	Turkey Trabzonspor
+
+6	MF	Orkun Kökçü	29 December 2000 (age 24)	41	3	Turkey Beşiktaş
+
+16	MF	İsmail Yüksek	26 January 1999 (age 26)	25	1	Turkey Fenerbahçe
+
+22	MF	Kaan Ayhan (vice-captain)	10 November 1994 (age 30)	71	5	Turkey Galatasaray
+
+25	MF	Demir Ege Tıknaz	17 August 2004 (age 20)	1	0	Portugal Rio Ave
+
+MF	Hakan Çalhanoğlu (captain)	8 February 1994 (age 31)	97	21	Italy Inter Milan
+
+MF	Salih Özcan	11 January 1998 (age 27)	23	0	Germany Borussia Dortmund
+
+7	FW	Kerem Aktürkoğlu	21 October 1998 (age 26)	44	12	Portugal Benfica
+
+8	FW	Ahmed Kutucu	1 March 2000 (age 25)	4	0	Turkey Galatasaray
+
+9	FW	Barış Alper Yılmaz	23 May 2000 (age 25)	28	2	Turkey Galatasaray
+
+10	FW	Arda Güler	25 February 2005 (age 20)	21	5	Spain Real Madrid
+
+11	FW	Kenan Yıldız	4 May 2005 (age 20)	21	2	Italy Juventus
+
+17	FW	İrfan Can Kahveci	15 July 1995 (age 30)	41	5	Turkey Fenerbahçe
+
+19	FW	Deniz Gül	2 July 2004 (age 21)	3	0	Portugal Porto
+
+20	FW	Oğuz Aydın	27 October 2000 (age 24)	4	0	Turkey Fenerbahçe
+
+21	FW	Can Uzun	11 November 2005 (age 19)	3	0	Germany Eintracht Frankfurt
+
+FW	Mustafa Hekimoğlu	22 April 2007 (age 18)	0	0	Turkey Beşiktaş

@@ -1,0 +1,9 @@
+title:
+Qabow
+
+url:
+https://so.wikipedia.org/wiki?curid=12318
+
+text:
+= Qabow =
+Qabow (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: Cold) waa xaalada la dareemo marka &lt;a href="heerkul"&gt;heerkul&lt;/a&gt;ku hoos u dhaco.

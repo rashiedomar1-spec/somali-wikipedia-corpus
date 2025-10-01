@@ -1,0 +1,39 @@
+title:
+Comac
+
+url:
+https://so.wikipedia.org/wiki?curid=24279
+
+text:
+Shirkadda Diyaaradaha Ganacsiga ee China, Ltd. (Comac) waa shirkad shiineys ah oo dawlad-goboleedka Shiinaha ah oo la aasaasay 11-kii Maajo 2008 magaalada Shanghai, China. [1] Xaruntu waxay ku taalaa Pudong, Shanghai. [2] Shirkaddu waxay leedahay magaalo diiwaan gashan oo ah 19 bilyan oo doollar (US $ 2.7 bilyan bishii Maajo 2008). Shirkadda ay dowladdu leedahay waa naqshadeeye iyo dhisme diyaaradeed oo waaweyn oo rakaab ah oo awood u leh in ka badan 150 rakaab ah, iyada oo loo marayo dadaal loogu talagalay hoos u dhigidda ku tiirsanaanta shiinaha ee Boeing iyo Airbus.
+Duulimaadkii ugu horreeyay ee lagu iibiyo waa ARJ21 oo ay diyaarisay shirkadda Shirkadda China Aviation Corp I, oo ay raaci doonto C919, taas oo ka dhigtay duulimadeeda gabdhaha ah 2017 [4] waxayna soo jiidatay xiisaha shirkadaha Shiinaha. C919, oo rakibaya 168 rakaab ah, ayaa loola jeedaa in lagu tartamo suuqa diyaarka ah ee garbaha laga riixo Airbus Industries 'A320 iyo Boeing Inc. 737.
+
+
+# Infobox
+
+- **Nooca**: State-owned
+- **Shirkada**: Aerospace
+- **La aasaasay**: 11 May 2008 ; 17 sanadood ka hor ( 11 May 2008 )
+- **Xarunta**: Shanghai , China
+- **Dadka muhiimka ah**: Jin Zhuanglong (Chairman of the Board) He Dongfeng (Chief Executive)
+- **Alaabta**: Commercial airliners
+- **Website**: www.comac.cc
+
+
+# Tables
+
+## Commercial Aircraft Corporation of China, Ltd.
+| File:Commercial Aircraft Corporation of China logo.svg |
+| --- |
+| Nooca | State-owned |
+| Shirkada | Aerospace |
+| La aasaasay | 11 May 2008 ; 17 sanadood ka hor ( 11 May 2008 ) |
+| Xarunta | Shanghai , China |
+| Dadka muhiimka ah | Jin Zhuanglong (Chairman of the Board) He Dongfeng (Chief Executive) |
+| Alaabta | Commercial airliners |
+| Website | www.comac.cc |
+
+## Table 2
+| Commercial Aircraft Corporation of China, Ltd. |
+| --- |
+| Script error: No such module "Infobox multi-lingual name". |

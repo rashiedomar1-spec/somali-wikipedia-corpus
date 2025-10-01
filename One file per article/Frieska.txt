@@ -1,0 +1,8 @@
+title:
+Frieska
+
+url:
+https://so.wikipedia.org/wiki?curid=8843
+
+text:
+Frieska wa luqada oo lagagahadlo gobolka &lt;a href="Friesland"&gt;Friesland&lt;/a&gt; oo kuyaalo wadanka &lt;a href="Holland"&gt;Holland&lt;/a&gt;

@@ -1,0 +1,10 @@
+title:
+Khamiis
+
+url:
+https://so.wikipedia.org/wiki?curid=2066
+
+text:
+Khamiis waa maalin usbuuceed, waxeyna u dhaxaysaa &lt;a href="arbaco"&gt;Arbacada&lt;/a&gt; iyo &lt;a href="jimco"&gt;Jimcaha&lt;/a&gt;.
+Khamista waa maalinta lixaad ee usbuuca, dhicana istandharka ISO 8601 waxay ka tahay maalinta afaraad ee usbuuca.
+luqada Ingiriiska waxaa laguyiraahdaa Thursday, mida Finnisgggggghakana torstai

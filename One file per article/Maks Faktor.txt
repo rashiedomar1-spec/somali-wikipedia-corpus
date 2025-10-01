@@ -1,0 +1,37 @@
+title:
+Maks Faktor
+
+url:
+https://so.wikipedia.org/wiki?curid=33441
+
+text:
+Maks Faktor waa xariiq la isku qurxiyo oo ka socota Koty, Inc . Waxaa la aasaasay 1909 sida Max Factor & Company . [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Nooca**: Gaarka ah
+- **Shirkada**: Weji qurxis
+- **La aasaasay**: 1909 ; 116 sano ka hor ( 1909 )
+- **Aasaasaha**: Maksymilian Faktorowicz
+- **Xarunta**: Los Angeles , Gobolada Isku Tegay ee Ameerika
+- **Alaabta**: Weji qurxis
+- **Lahaashaha**: Koty, Inc.
+- **Website**: maxfactor.com
+
+
+# Tables
+
+## Maks Faktor ( Max Factor )
+|   |
+| --- |
+| Nooca | Gaarka ah |
+| Shirkada | Weji qurxis |
+| La aasaasay | 1909 ; 116 sano ka hor ( 1909 ) |
+| Aasaasaha | Maksymilian Faktorowicz |
+| Xarunta | Los Angeles , Gobolada Isku Tegay ee Ameerika |
+| Alaabta | Weji qurxis |
+| Lahaashaha | Koty, Inc. |
+| Website | maxfactor.com |

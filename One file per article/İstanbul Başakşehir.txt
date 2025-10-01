@@ -1,0 +1,38 @@
+title:
+İstanbul Başakşehir
+
+url:
+https://so.wikipedia.org/wiki?curid=31041
+
+text:
+İstanbul Başakşehir F.K. , Waa koox-banooni oo ka dhisan caasimadda Istanbul ee dalka Turkiga . Kooxdani waxaa la aasaasay sanadku markuu ahaa 1990kii, waxayna ka mid tahay shanta kooxood ee ugu waaweyn guud ahaan dalkaasi, İstanbul Başakşehir waa horyaalka kubadda cagta dalka Turkiga ee xili ciyaareedka 2019-20.
+
+Tixraac
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: İstanbul Başakşehir Futbol Kulübü
+- **La aasaasay**: 1990 ; 35 sano ka hor ( 1990 ) as İstanbul Büyükşehir Belediyespor 5 Juun 2014 ; 11 sanadood ka hor ( 2014-06-05 ) as İstanbul Başakşehir Futbol Kulübü
+- **Garoon**: Fatih Terim Stadium
+- **Garoonka Awoodda**: 17,156 [ 1 ] [ 2 ]
+- **Horyaalka**: Super Liga
+- **2024/25**: 5th
+- **Website**: Club home page
+
+
+# Tables
+
+## İstanbul Başakşehir
+| Magaca oo dhameestiran | İstanbul Başakşehir Futbol Kulübü |
+| --- | --- |
+| La aasaasay | 1990 ; 35 sano ka hor ( 1990 ) as İstanbul Büyükşehir Belediyespor 5 Juun 2014 ; 11 sanadood ka hor ( 2014-06-05 ) as İstanbul Başakşehir Futbol Kulübü |
+| Garoon | Fatih Terim Stadium |
+| Garoonka Awoodda | 17,156 [ 1 ] [ 2 ] |
+| Horyaalka | Super Liga |
+| 2024/25 | 5th |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab Saddexaad middab | Guriga midab | Marti midab | Saddexaad middab |
+| Guriga midab | Marti midab | Saddexaad middab |
+|  |

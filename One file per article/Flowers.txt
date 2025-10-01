@@ -1,0 +1,29 @@
+title:
+Flowers
+
+url:
+https://so.wikipedia.org/wiki?curid=32692
+
+text:
+Flowers (フ ラ ワ ー ズ) ( Af Soomaali : Ubaxyo ) waa joornaal bille ah oo kasoo baxa dalka Jabaan oo ay daabacdo Shogakukan waxaana la soo saaraa 28-ka bil kasta. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Publisher**: Shogakukan
+- **Founded**: Abriil 27, 2002 ( 2002-04-27 )
+- **Circulation**: 33,000
+- **Website**: flowers.shogakukan.co.jp
+
+
+# Tables
+
+## Flowers
+|   |
+| --- |
+| Publisher | Shogakukan |
+| Founded | Abriil 27, 2002 ( 2002-04-27 ) |
+| Circulation | 33,000 |
+| Website | flowers.shogakukan.co.jp |

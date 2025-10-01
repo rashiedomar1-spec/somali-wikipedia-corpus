@@ -1,0 +1,13 @@
+title:
+Boggeyga wada hadalka
+
+url:
+https://so.wikipedia.org/wiki?curid=14083
+
+text:
+kusoo dhowoow boggeyga wada hadalka
+&lt;abr&gt;
+dhalashada 
+&lt;a href="soomaali"&gt;soomaali&lt;/a&gt;
+waxka bedele 
+waxaan ahay wiil &lt;a href="soomaali"&gt;soomaali&lt;/a&gt;yed dagan &lt;a href="gobol"&gt;gobol&lt;/a&gt;ka &lt;a href="benaadir"&gt;benaadir&lt;/a&gt; kana tirsan bahda waxka bedel yaasha bogga &lt;a href="wikipedia"&gt;wikipedia&lt;/a&gt;ha &lt;a href="af%20soomaali"&gt;af soomaali&lt;/a&gt;ga

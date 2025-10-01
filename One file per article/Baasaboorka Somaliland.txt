@@ -1,0 +1,23 @@
+title:
+Baasaboorka Somaliland
+
+url:
+https://so.wikipedia.org/wiki?curid=31864
+
+text:
+Baasaboorka Somaliland waa baasaboorka la siiyo muwaadiniinta dalka aan la aqoonsan ee Somaliland ee safarada caalamiga ah. Somaliland
+
+
+# Tables
+
+## Table 1
+| Baasaboor Somaliland |
+| --- |
+| Daboolka hore ee baasaboorka Somaliland |
+| Bogga xogta ee baasaboor jiilaalka jiilka labaad ah. |
+| Soo baxay | 14 September 2014 (biometric version) |
+| La adeegsado | Laanta Socdaalka Somaliland |
+| Nuuca Aqoonsiga | Baasaboor |
+| Danaha | Aqoonsiga |
+| Dadka leh | Xeerka Jinsiyadaha Somaliland |
+| Dhicitaanka | 5 years |

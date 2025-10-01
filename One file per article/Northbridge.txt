@@ -1,0 +1,8 @@
+title:
+Northbridge
+
+url:
+https://so.wikipedia.org/wiki?curid=40484
+
+text:
+Northbridge: waa qayb ka mid ah Chipset-ka  waxay gacanta ku haysaa xidhiidhka xawligaa sare leh ee u dhaxeeyan CPU,RAM  AND GPU.

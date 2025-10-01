@@ -1,0 +1,38 @@
+title:
+Garaadtooyada reer darawiish
+
+url:
+https://so.wikipedia.org/wiki?curid=27832
+
+text:
+Garaadada (af-ingiriis: Si'iid Harti garaadship) waa boqortooyo oo reer darawiish ah uu dhexeysey sanadaha 1530 ilaa 1895 oo caasimada ahayd Buuhoodle oo ka tirsan abtirsiga Reer-Darawiish. Garaadada Si'iid Harti waxaa dawladda kuxigeenka ahayd dawladda Darwiish . Boqortooyada Si'iid Harti ugu horeyd oo ku magac-dheera Suldaan wuxuu ahaa Diiriye Guure oo reer caraale ahaa, Diiriye Guure wuxuu waliba ahaa boqorka Dhulbahante ugu horeyd oo lagu caleemosaaray doorasho. Diiriye Guure wuxuu ahaa garaadka guudka Si'iid Harti ee kaliya oo safkooda loo weydaarsaday shaqsi kale, gaar ahaan emiirka Diiriye Guure. Diiriye Guure wuxuu ahaa garaadka guud ee Si'iid Harti ee ugu horeeyay oo Dooxada Nugaal ku aasaasay nuqdo muwaadinimo ah.
+
+Garaadada guud ee reer darawiish
+
+
+# Tables
+
+## Table 1
+| # | Garaad | Reign | Notes |
+| --- | --- | --- | --- |
+| 1 | Shirshoore | 1530-1550 | Established the Si'iid-Harti garaadship |
+| 2 | Garaad Farah | 1550-1590 |  |
+| 3 | Garaad Abdalla II | 1590-1600 |  |
+| 4 | Garaad Yasin | 1600-1620 |  |
+| 5 | Baharsame | 1620-1650 | Real name was Garad Mohamed I |
+| 6 | Jabane | 1650-1685 | Real name was Garad Mohamud |
+| 7 | Garaad Ali I | 1685-1708 |  |
+| 8 | Garaad Mohamud II | 1708-1734 |  |
+| 9 | Garaad Mohamed II | 1734-1760 |  |
+| 10 | Garaad Mohamud III | 1760-1780 |  |
+| 11 | Garaad Ali II | 1780-1802 |  |
+| 12 | Garaad Mohamed III | 1802-1825 |  |
+| 13 | Garaad Ali III | 1825-1840 |  |
+| 14 | Korebas | 1840-1863 | Also called the warrior garaad. His real name was Garaad Mohamud IV |
+| 15 | Garad Ali IV | 1863-1896 | Garad Ali IV waxaa ku xigay garaadka guud ee Si'iid Harti Diiriye Guure |
+| 16 | Diiriye Guure | 1897-1918 | Diiriye Guure wuxuu ahaa Suldaanka Si'iid Harti |
+| 17 | Aar Dheel | 1921-1923 |  |
+| 18 | Garaad Jama I | 1923-1966 |  |
+| 19 | Garad Ali V | 1966-1985 |  |
+| 20 | Garaad Abdiqani | 1985-2006 |  |
+| 21 | Jama Garad Ali | 2006-present | Current garaad |

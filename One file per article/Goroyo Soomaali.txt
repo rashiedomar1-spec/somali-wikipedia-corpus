@@ -1,0 +1,39 @@
+title:
+Goroyo Soomaali
+
+url:
+https://so.wikipedia.org/wiki?curid=18811
+
+text:
+Struthio camelus molybdophanes (Anton Reichenow, 1883 )
+
+Goronyo Soomaali ( Af Ingiriis : Somali ostrich ) (magaca Sayniska Struthio molybdophanes ) waa shimbir u eg goronyada taasi oo ku dhaqan deegaano badan oo ka mid ah Geeska Afrika , gaar ahaan cariga ku dhaqan yihiin dadka Soomaalidu . Wakhtiyadii hore waxaa lagu tirin jiray goronyada hase yeeshee sanadkii 2014 ayaa la ogaaday inuu soocanyahay goronyada oo uu yahay nooc gaar u madax banaan.
+
+Sido kale fiiri
+
+Tixraac
+
+
+# Tables
+
+## Table 1
+| Goroyo soomaali |
+| --- |
+| [[file: |2|alt=]] |
+| Lab |
+|  |
+| Dhedig |
+| Xaalad xanaaneed |
+| Vulnerable ( MCID 3.1 ) [ 1 ] |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Xayawaan |
+| Gacalka: | Shimbir dhul |
+| Suberdirka: | Paleognathae |
+| Dirka: | Struthioniformes |
+| Bahka: | Struthionidae |
+| Duulka: | Struthio |
+| Noocyada: | S. molybdophanes |
+| Magaca laba-geesoodka ah |
+| Struthio molybdophanes Reichenow, 1883 |
+| Eray la mid ah |
+| Struthio camelus molybdophanes (Anton Reichenow, 1883 ) |

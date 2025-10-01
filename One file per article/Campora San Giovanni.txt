@@ -1,0 +1,36 @@
+title:
+Campora San Giovanni
+
+url:
+https://so.wikipedia.org/wiki?curid=11095
+
+text:
+Campora San Giovanni waa degmo ka tirsan gobolka Calabria ee dalka Talyaaniga .
+
+
+# Infobox
+
+- **Dalka**: Italy
+- **Gobol**: Calabria
+- **Joogga**: 3 m (10 ft)
+- **• Dhammaan**: 7,850
+- **Aag saacadeed**: UTC+2
+- **Furaha**: 0982
+
+
+# Tables
+
+## Table 1
+| Campora San Giovanni Campora Kamboora Saan Joofaanni |
+| --- |
+| Degmo |
+|  |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Italia" does not exist. |
+| Dalka | Italy |
+| Gobol | Calabria |
+| Joogga | 3 m (10 ft) |
+| Tirada dadka |
+| • Dhammaan | 7,850 |
+| Aag saacadeed | UTC+2 |
+| Furaha | 0982 |

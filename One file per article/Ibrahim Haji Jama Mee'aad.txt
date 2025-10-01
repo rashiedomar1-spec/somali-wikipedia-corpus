@@ -1,0 +1,27 @@
+title:
+Ibrahim Haji Jama Mee'aad
+
+url:
+https://so.wikipedia.org/wiki?curid=40391
+
+text:
+Ibrahim al-Afghani (c. 1960 - 20 June 2013), sidoo kale loo yaqaan Ibraahim Xaaji Jaamac Meecaad , wuxuu ahaa xubin caan ah oo ka tirsana ururkii islaamiga ahaa ee itixaad ee Soomaaliya, oo ahaa koox mujahidin ah oo dagaal kula jurtay gaalada mareykanka itoobiya iyo dabdhilifyadii somalida ahaa ee u shaqeyn jiray uu ugu horeeyo abdillahi yusuf Wuxuu ka soo jeedaa Habr Awal oo ka mid ah beelaha Isaaqa .
+
+Al-Shabaab
+
+
+# Infobox
+
+- **Waxbarasho jaamacadeed**: University of the District of Columbia
+- **Ka tirsan**: Islamic Courts Union Al-Qaeda Al-Shabaab
+
+
+# Tables
+
+## Table 1
+| Ibrahim al-Afghani ابراهيم الافغاني |
+| --- |
+| Macluumaad gaar ah |  |
+| Waxbarasho jaamacadeed | University of the District of Columbia |
+| Shaqo ciidan |  |
+| Ka tirsan | Islamic Courts Union Al-Qaeda Al-Shabaab |

@@ -1,0 +1,9 @@
+title:
+Android
+
+url:
+https://so.wikipedia.org/wiki?curid=8266
+
+text:
+Android waa operating system laga sameeyey (&lt;a href="http%3A//www.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt;) kernel oo la shaqeeya &lt;a href="Smartphone"&gt;smartphoneska&lt;/a&gt; iyo (&lt;a href="http%3A//www.wikipedia.org/wiki/tablet"&gt;computers tablet computers&lt;/a&gt;)ka. Android waxay keli ah la shaqeeya smartphoneska ay shirkadaha contract la saxeexay Google oo ka mid ah shirkadaha Samsung, Sony, Motorola, LG, iyo dhawr kale. Waxaa soo alifay (&lt;a href="http%3A//www.wikipedia.org/wiki/Open"&gt;Handset Alliance Open Handset Alliance&lt;/a&gt;) shirkad la shaqeeso Google, iyo shirkado kale.
+Marka uu sanadku ahaa 2005, shirkadda Google waxay iibsatay shirkadda marka hore soo wadday samaynta Android OSka oo la yiraahda Android Inc., iibsashadaasi ay dunida aad uga fajcisay. Sannadka marka ay gaadhay 2007, waxaa la asaasay majmuuc ka kooban 86 shirkado hardwareka, softwareka iyo telecommunicationska, intaasi oo shirkado ay aad u jecel in la sameeya

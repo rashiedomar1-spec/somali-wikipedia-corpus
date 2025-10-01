@@ -1,0 +1,64 @@
+title:
+The Classic
+
+url:
+https://so.wikipedia.org/wiki?curid=33325
+
+text:
+The Classic (Kuuriyan: 클래식; RR: Keullaeshik ) waa 2003 filim Koonfur Kuuriya oo uu waday Kwak Jae-yong.
+
+Jilaa
+
+Son Ye-jin
+
+Cho Seung-woo
+
+Jo In-sung
+
+Lee Ki-woo
+
+Lee Soo-in
+
+Seo Young-hee
+
+Im Ye-jin
+
+
+# Infobox
+
+- **Directed by**: Kwak Jae-yong
+- **Written by**: Kwak Jae-yong
+- **Produced by**: Ji Yeong-jun
+- **Starring**: Son Ye-jin Cho Seung-woo Jo In-sung
+- **Cinematography**: Lee Jun-gyu
+- **Edited by**: Kim Sang-bum Kim Jae-bum
+- **Music by**: Jo Yeong-wook Choi Seung-hyun
+- **Production company**: Egg Films
+- **Distributed by**: Cinema Service
+- **Release date**: 30 Janaayo 2003 ( 2003-01-30 )
+- **Running time**: 127 daqiiqo
+- **Country**: Koonfur Kuuriya
+- **Language**: Kuuriyan
+- **Box office**: 6.9 milyan
+
+
+# Tables
+
+## Table 1
+| The Classic |
+| --- |
+| Template:Film name |
+| Directed by | Kwak Jae-yong |
+| Written by | Kwak Jae-yong |
+| Produced by | Ji Yeong-jun |
+| Starring | Son Ye-jin Cho Seung-woo Jo In-sung |
+| Cinematography | Lee Jun-gyu |
+| Edited by | Kim Sang-bum Kim Jae-bum |
+| Music by | Jo Yeong-wook Choi Seung-hyun |
+| Production company | Egg Films |
+| Distributed by | Cinema Service |
+| Release date | 30 Janaayo 2003 ( 2003-01-30 ) |
+| Running time | 127 daqiiqo |
+| Country | Koonfur Kuuriya |
+| Language | Kuuriyan |
+| Box office | 6.9 milyan |

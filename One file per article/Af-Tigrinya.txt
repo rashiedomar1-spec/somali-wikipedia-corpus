@@ -1,0 +1,8 @@
+title:
+Af-Tigrinya
+
+url:
+https://so.wikipedia.org/wiki?curid=5611
+
+text:
+Af-Tigrinya waa &lt;a href="luqad"&gt;luqad&lt;/a&gt; ee ku hadlaan &lt;a href="Dadka%20Tigriga"&gt;Dadka Tigriga&lt;/a&gt; oo dego dhaxbartanka dalka &lt;a href="Ereteriya"&gt;Ereteriya&lt;/a&gt; iyo gobolka &lt;a href="Tigray"&gt;Tigray&lt;/a&gt; ee dalka &lt;a href="Itoobiya"&gt;Itoobiya&lt;/a&gt;. Luqad kale oo waxaa jirto ladhoho &lt;a href="Af-Tigre"&gt;Af-Tigre&lt;/a&gt; oo ah lahjo ka mid ah Af-Tigrinya, waxaana looga hadlaa meelaha oo luqada tigrinyiga looga hadlo ee dalka eriteriya iyo itoobiya.

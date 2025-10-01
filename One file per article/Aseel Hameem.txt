@@ -1,0 +1,27 @@
+title:
+Aseel Hameem
+
+url:
+https://so.wikipedia.org/wiki?curid=34847
+
+text:
+Aseel Hameem [ 1 ] (dhashay Oktoobar 6, 1984) waa heesaa Ciraaq ah oo ku dhashay Baqdaad .
+
+Tix
+
+
+# Infobox
+
+- **Dhashay**: ( 1984-10-06 ) Oktoobar 6, 1984 ( 40jir)
+- **Sanadaha Shaqada**: 2007–hada
+
+
+# Tables
+
+## Table 1
+| Aseel Hameem |
+| --- |
+|  |
+| Macluumaadka asalka |
+| Dhashay | ( 1984-10-06 ) Oktoobar 6, 1984 ( 40jir) |
+| Sanadaha Shaqada | 2007–hada |

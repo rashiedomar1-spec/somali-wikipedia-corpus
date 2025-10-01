@@ -1,0 +1,8 @@
+title:
+Barqo
+
+url:
+https://so.wikipedia.org/wiki?curid=18860
+
+text:
+Barqo sida &lt;a href="soomaali"&gt;soomaali&lt;/a&gt;du u taqaa waa mark ay &lt;a href="Qorax"&gt;qoraxdo&lt;/a&gt; sare u soo kacdo ilaa &lt;a href="Dharaar"&gt;duhurkii,&lt;/a&gt; barqada ayaa ka bilaabata 3da 9ka &lt;a href="Subax%20%28Xilli%29"&gt;subaxnimo&lt;/a&gt; ilaa laga gaaro &lt;a href="Dharaar"&gt;dharaarta&lt;/a&gt; ama duhurka.

@@ -1,0 +1,43 @@
+title:
+Huluul
+
+url:
+https://so.wikipedia.org/wiki?curid=28460
+
+text:
+' Huluul waa degmo ka tirsan gobolka sanaag waxana ay u dhowdahay magalada ceerigaabo waxa dega  beelaha Axmed faarax waana degmada 3aad ee ugu deegaanka badan marka laga yimaado degmada Ceel-afweyn iyo Degmada Gar-adag ee biciide oo katirsan habarjeclo
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Sanaag
+- **Degmo**: Huluul
+- **• Duqa-magaalada**: samane cabdi xasan
+- **Joogga**: 300 m (1,000 ft)
+- **• Dhammaan**: 100,000
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| Huluul Ulul هلول |
+| --- |
+| Magaalo |
+|  |
+| Nickname(s): Magaalada Beeyada |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Sanaag |
+| Degmo | Huluul |
+| Dowlada |
+| • Duqa-magaalada | samane cabdi xasan |
+| Joogga | 300 m (1,000 ft) |
+| Tirada dadka |
+| • Dhammaan | 100,000 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

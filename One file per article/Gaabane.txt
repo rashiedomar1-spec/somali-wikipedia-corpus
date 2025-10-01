@@ -1,0 +1,33 @@
+title:
+Gaabane
+
+url:
+https://so.wikipedia.org/wiki?curid=15569
+
+text:
+Saciid gaabane waxuu ahaa dadkii soo galay
+
+
+# Infobox
+
+- **Waxuu degan yahay wadanka Norway:**: gobolka hedmark, magaalada Hamar .
+- **Dhashay:**: 1972
+- **Ku dhashay:**: Degmada Marka , Soomaaliya
+- **Diintiisa:**: Islaam
+- **Dhalasho:**: Soomaali/Norwagian
+
+
+# Tables
+
+## Table 1
+|   |   |
+| --- | --- |
+| Saciid Gaabane Ali |
+| Gudiga ururka hedmark islamisk kultur senter |
+| abril , 2008 ilaa Juun , 2011 |
+| Waxuu degan yahay wadanka Norway: | gobolka hedmark, magaalada Hamar . |
+|  | [[]]. |
+| Dhashay: | 1972 |
+| Ku dhashay: | Degmada Marka , Soomaaliya |
+| Diintiisa: | Islaam |
+| Dhalasho: | Soomaali/Norwagian |

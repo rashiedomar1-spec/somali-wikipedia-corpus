@@ -1,0 +1,35 @@
+title:
+Vest-Agder
+
+url:
+https://so.wikipedia.org/wiki?curid=27324
+
+text:
+Vest-Agder [Codka ku dhaggan maqalka) (West Agder) waa gobolka Norway, xuduudaha Rogaland galbeedka iyo Aust-Agder oo u socda Bariga. Sannadkii 2016, waxaa jiray 182,701 qof, oo qiyaastii 3.5% dadweynaha dalka Norway. Aagagiisu waa qiyaastii 7,277 kilomitir oo isku wareeg ah (2,810 sq mi). Maamul goboleedka wuxuu ku yaalaa magaaladiisa ugu weyn, Kristiansand.
+
+Gaadiidka, ganacsiga, iyo madadaalada ayaa ah ganacsiga ugu muhiimsan halkan. Marka loo barbardhigo gobolada kale ee dalka Norway, Vest-Agder waxaa lagu xusay in uu haysto heerka ugu sarreeya ee dhoofinta dibadda. Qiyaas kale oo caalami ah oo ku xiran gobolka ayaa ah haajir ballaadhan oo ku yimaada Waqooyiga Ameerika oo dhacay 1850kii iyo wixii ka dambeeya, taas oo dhalisay in badan oo Maraykan ah oo ku soo noqda gobolka kadib markii Norway ay noqotey barwaaqo. Tilmaamahan wuxuu si gaar ah ugu badan yahay Kvinesdal iyo Farsund, kaas oo haya xiriiro dhaqameed xoog leh oo la leh Maraykanka.
+
+Template:Col-break
+
+
+# Tables
+
+## Table 1
+| Rank | Name | Inhabitants | Area km² |
+| --- | --- | --- | --- |
+| 7000100000000000000 1 | Kristiansand | 7004900000000000000 90,000 | 7002261000000000000 261 |
+| 7000200000000000000 2 | Mandal | 7004146960000000000 14,696 | 7002212000000000000 212 |
+| 7000300000000000000 3 | Vennesla | 7004131160000000000 13,116 | 7002363000000000000 363 |
+| 7000400000000000000 4 | Søgne | 7004125090000000000 12,509 | 7002144000000000000 144 |
+| 7000500000000000000 5 | Farsund | 7003931000000000000 9,310 | 7002252000000000000 252 |
+| 7000600000000000000 6 | Flekkefjord | 7003900300000000000 9,003 | 7002482000000000000 482 |
+| 7000700000000000000 7 | Lyngdal | 7003773900000000000 7,739 | 7002372000000000000 372 |
+| 7000800000000000000 8 | Songdalen | 7003594000000000000 5,940 | 7002207000000000000 207 |
+| 7000900000000000000 9 | Kvinesdal | 7003577600000000000 5,776 | 7002893000000000000 893 |
+| 7001100000000000000 10 | Lindesnes | 7003466100000000000 4,661 | 7002299000000000000 299 |
+| 7001110000000000000 11 | Marnardal | 7003223100000000000 2,231 | 7002379000000000000 379 |
+| 7001120000000000000 12 | Sirdal | 7003179000000000000 1,790 | 7003155500000000000 1,555 |
+| 7001130000000000000 13 | Audnedal | 7003167000000000000 1,670 | 7002251000000000000 251 |
+| 7001140000000000000 14 | Hægebostad | 7003162400000000000 1,624 | 7002426000000000000 426 |
+| 7001150000000000000 15 | Åseral | 7002917000000000000 917 | 7002801000000000000 801 |
+| Total | Vest-Agder | 7005182377000000000 182,377 | 7003728100000000000 7,281 |

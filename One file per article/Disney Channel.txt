@@ -1,0 +1,8 @@
+title:
+Disney Channel
+
+url:
+https://so.wikipedia.org/wiki?curid=30586
+
+text:
+Disney Channel (oo markii hore loo yaqaan "The Disney Channel" sannadihii 1983 ilaa 1997 oo badanaa loo soo gaabiyo Disney laga soo bilaabo 1997 illaa 2002) waa kanaal telefishan Mareykan ah oo u shaqeeya sida astaanta milkiilaha milkiilaha &lt;a href="Disney%20Channels%20Worldwide"&gt;Disney Channels Worldwide&lt;/a&gt; oo ka mid ah qeybta &lt;a href="Walt%20Disney%20Television"&gt;Walt Disney Television&lt;/a&gt; ee &lt;a href="The%20Walt%20Disney%20Company"&gt;The Walt Disney Company&lt;/a&gt;.

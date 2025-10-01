@@ -1,0 +1,27 @@
+title:
+Yumika Hayashi
+
+url:
+https://so.wikipedia.org/wiki?curid=33244
+
+text:
+Yumika Hayashi (Juun 27, 1970 – Juun 28, 2005)  waxay ahayd atariisho filimada galmo Jabaan ah iyo filimada basali ah. Waxay kasbatay magaca "Boqoraddii Fiidyowga Dadka Waaweyn ee Jabaan" intii lagu jiray 16 sano oo ay ku jilaysay ku dhawaad ​​200 oo filim galmo ah waxayna ka soo muuqatay in ka badan 180 filim, geerideeda waxaa loo tixgeliyey is-dilid iyo dil laakiin markii dambe waxaa la go'aamiyay inaysan jirin ula kac sababaha ayaa ku lug lahaa geerida atariishada. Halkii Hayashi geeridiisu waxay ka dhalatay habeen khamri cabis badan iyadoo u dabaaldageysa dhalashadeeda 35aad. Xafladda ka dib, Hayashi ayaa ku xiiqday sariirteeda ka dib markii uu matagay hurdada. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Magaca Saxda**: 林由美香
+- **Ku dhashay**: Yumika Oguri ( 1970-06-27 ) Juun 27, 1970 Tokyo , Jabaan
+- **Dhimasho**: Juun 28, 2005 ( 2005-06-28 ) (da'da 35jir)
+
+
+# Tables
+
+## Table 1
+| Yumika Hayashi |
+| --- |
+| Magaca Saxda | 林由美香 |
+| Ku dhashay | Yumika Oguri ( 1970-06-27 ) Juun 27, 1970 Tokyo , Jabaan |
+| Dhimasho | Juun 28, 2005 ( 2005-06-28 ) (da'da 35jir) |

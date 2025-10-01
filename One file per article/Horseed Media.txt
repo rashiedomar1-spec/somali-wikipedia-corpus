@@ -1,0 +1,30 @@
+title:
+Horseed Media
+
+url:
+https://so.wikipedia.org/wiki?curid=6953
+
+text:
+Horseed Media waxaa la asaasey sanadkii 2002, waa mid kamid warbaahinta Soomaaliyeed, waxay leedahay website ay ku xiran yihiin macaamiil kala duwan oo ku sugan dalka gudihiisa iyo dibadiisa.  Xarunteeda u weyn waxay ku taalaa Boosaaso .
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: Horseed Media
+- **Nooca site**: News Radio, Website
+- **Diyaar ku ah**: Soomaali , Ingiriis
+- **La bilaabay isticmaalka**: 2002
+- **Alexa garaado**: 284,246 (Sebteembar 2015 [update] ) [ 1 ]
+
+
+# Tables
+
+## Horseed Media
+| Cinwaanka | Horseed Media |
+| --- | --- |
+| Nooca site | News Radio, Website |
+| Diyaar ku ah | Soomaali , Ingiriis |
+| La bilaabay isticmaalka | 2002 |
+| Alexa garaado | 284,246 (Sebteembar 2015 [update] ) [ 1 ] |

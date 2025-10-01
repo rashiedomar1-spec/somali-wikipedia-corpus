@@ -1,0 +1,8 @@
+title:
+Calanka Jarmal
+
+url:
+https://so.wikipedia.org/wiki?curid=14894
+
+text:
+&lt;a href="Calan"&gt;Calanka&lt;/a&gt; &lt;a href="Jarmal"&gt;Jarmal&lt;/a&gt;

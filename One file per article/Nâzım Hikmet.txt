@@ -1,0 +1,32 @@
+title:
+Nâzım Hikmet
+
+url:
+https://so.wikipedia.org/wiki?curid=21343
+
+text:
+Nâzım Hikmet Ran (15 January 1902 – 3 June 1963), [ 2 ] [ 3 ] sida caadiga ah waxaa loo yaqaan Nâzım Hikmet ( Ku dhawaaqa Af-Turki : [naːˈzɯm hicˈmet] ( dhageeyso ) ) waa mid ka mid ah abwaanaddii ugu caansanaa uguna taariikhda dheeraa dalkaasi Turkiga.
+
+Tixraac
+
+
+# Infobox
+
+- **Dhashay**: Nâzım Hikmet ( 1902-01-15 ) 15 Janaayo 1902 ( 123jir) [ 1 ] Salonica, Dawlada Cosmaniya (Hadda waa magaalada Thessaloniki, ee Giriiga ka tirsan)
+- **Dhintay**: Maarso 1963 ( 1956–1957 jir) Moskow , Soviet Union
+- **Luuqad**: Af-Turki
+- **Aqoon**: Gabyaa , Abwaan , Qoraa , novelist , Hal abuur , director
+
+
+# Tables
+
+## Table 1
+| Nazım Hikmet Ran |
+| --- |
+|  |
+| Dhashay | Nâzım Hikmet ( 1902-01-15 ) 15 Janaayo 1902 ( 123jir) [ 1 ] Salonica, Dawlada Cosmaniya (Hadda waa magaalada Thessaloniki, ee Giriiga ka tirsan) |
+| Dhintay | Maarso 1963 ( 1956–1957 jir) Moskow , Soviet Union |
+| Luuqad | Af-Turki |
+| Aqoon | Gabyaa , Abwaan , Qoraa , novelist , Hal abuur , director |
+|  |
+| Saxeexa |  |

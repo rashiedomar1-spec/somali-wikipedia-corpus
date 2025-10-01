@@ -1,0 +1,9 @@
+title:
+Yahoo
+
+url:
+https://so.wikipedia.org/wiki?curid=4008
+
+text:
+Yahoo! waa shirkad ku shaqaysa kombuyuutarka, waxaa aas'aasay rag ka baxay jaamacada istanford sanadkii &lt;a href="1994"&gt;1994&lt;/a&gt; oo kalz ah &lt;a href="Jerry%20Yang"&gt;Jerry Yang&lt;/a&gt; iyo &lt;a href="David%20Filo"&gt;David Filo&lt;/a&gt; waxaana la+ aqoonsaday rasmi ahaan 2-3-1995. 
+saldhigeeda rasmiga ahina waxa uu ku yaalaa magaalada &lt;a href="sunnyvale"&gt;sunnyvale&lt;/a&gt; oo katirsan gobolka &lt;a href="Kalifornia"&gt;Kalifornia&lt;/a&gt; ee &lt;a href="Maraykanka"&gt;Maraykanka&lt;/a&gt;

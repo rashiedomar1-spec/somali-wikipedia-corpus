@@ -1,0 +1,8 @@
+title:
+Curyaan
+
+url:
+https://so.wikipedia.org/wiki?curid=17739
+
+text:
+Curyaan ama Coryaan waa qof oo &lt;a href="naafo"&gt;naafo&lt;/a&gt; qabo.

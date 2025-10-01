@@ -1,0 +1,15 @@
+title:
+Diego Velázquez
+
+url:
+https://so.wikipedia.org/wiki?curid=8150
+
+text:
+Diego Rodríguez de Silva y Velázquez , 1599-1660, farshaxan ( Isbania ).
+
+
+# Tables
+
+## Table 1
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Diego Velázquez |
+| --- | --- |

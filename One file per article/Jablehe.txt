@@ -1,0 +1,40 @@
+title:
+Jablehe
+
+url:
+https://so.wikipedia.org/wiki?curid=28513
+
+text:
+Waa magaalo kutaala bariga burco waxayna u jirtaa ilaa qiyasti 70km oo dhinaca waqoyi bari ah magalada waxay ka mid tahay degmoyinka gobolka togdheer 
+Ee dalka somaliland waxa dega reeryoonis allamagan
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: togdheer
+- **Degmo**: jablahe
+- **Joogga**: 0 m (0 ft)
+- **• Dhammaan**: 1.390
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| jablehe jablehe جبلهي |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | togdheer |
+| Degmo | jablahe |
+| Joogga | 0 m (0 ft) |
+| Tirada dadka |
+| • Dhammaan | 1.390 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

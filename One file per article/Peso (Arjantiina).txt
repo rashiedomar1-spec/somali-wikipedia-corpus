@@ -1,0 +1,36 @@
+title:
+Peso (Arjantiina)
+
+url:
+https://so.wikipedia.org/wiki?curid=15181
+
+text:
+1 Peso Argentino = 100 Centavos / Senti. Lacagta Arjantiina (1992 - ).
+
+Linkiga Caddaynta
+
+Heiko Otto (ed.). http://www.bis-ans-ende-der-welt.net/Argentinien-B-En.htm . Soo qaatay 2016-06-01 . Maqan ama ebar |title= ( caawin ) (Ingiriisi)
+
+
+# Tables
+
+## Table 1
+| Lacagta | Sano |
+| --- | --- |
+| 1 centavo | 1992 |
+| 5 centavos | 1992 |
+| 10 centavos | 1992 |
+| 25 centavos | 1992 |
+| 50 centavos | 1992 |
+| 1 peso | 1994 |
+| 2 pesos | 2010 |
+
+## Table 2
+| Lacagta | Sano | Axad |
+| --- | --- | --- |
+| 2 pesos | 1997 | Bartolomé Mitre |
+| 5 pesos | 1997 | José de San Martín |
+| 10 pesos | 1997 | Manuel Belgrano |
+| 20 pesos | 1997 | Juan Manuel de Rosas |
+| 50 pesos | 1997 | Domingo Faustino Sarmiento |
+| 100 pesos | 1997 | Julio Argentino Roca/ Eva Duarte de Perón |

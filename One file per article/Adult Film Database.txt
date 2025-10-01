@@ -1,0 +1,33 @@
+title:
+Adult Film Database
+
+url:
+https://so.wikipedia.org/wiki?curid=15140
+
+text:
+Adult Film Database waa website kaa oo isku dayaysa in ay diiwaan geliyaan oo dhan movies websedyada iyo xiddigaha filimka dadka waaweyn. Tan waxaa ka mid filmographies, taariikh nololeed qayb ahaan, reviews, Stills filim qof weyn calaamadaysan oo dabaqada, iyo sidoo kale blog ah si joogto ah warshadaha ee dadka waaweyn, kuwaas oo qoreysa wararkii ugu dambeeyay ee ku saabsan ciyaaryahan dadka waaweyn, movies, agaasimayaal, iyo qalab cusub, updates web site iyo wararka dadka waaweyn cir ka soo wareegsan dunida.
+
+Tixraacyada
+
+
+# Infobox
+
+- **Cinwaanka**: adultfilmdatabase.com
+- **Gabaygu**: Waxaa adeegani filimka dadka waaweyn ee ilaa iyo 1999.
+- **Nooca site**: Adult Website
+- **Diyaar ku ah**: Ingiriis
+- **Alexa garaado**: 40,311 (Abriil 2014 [update] ) [ 1 ]
+- **Hada**: Firfircoon
+
+
+# Tables
+
+## Adult Film Database
+|   |
+| --- |
+| Cinwaanka | adultfilmdatabase.com |
+| Gabaygu | Waxaa adeegani filimka dadka waaweyn ee ilaa iyo 1999. |
+| Nooca site | Adult Website |
+| Diyaar ku ah | Ingiriis |
+| Alexa garaado | 40,311 (Abriil 2014 [update] ) [ 1 ] |
+| Hada | Firfircoon |

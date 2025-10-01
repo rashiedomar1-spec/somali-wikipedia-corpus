@@ -1,0 +1,9 @@
+title:
+1969
+
+url:
+https://so.wikipedia.org/wiki?curid=2332
+
+text:
+&lt;a href="1968"&gt;1968&lt;/a&gt; - 1969 - &lt;a href="1970"&gt;1970&lt;/a&gt;
+&lt;a href="Maxamed%20Siyaad%20Barre"&gt;Maxamed Siyaad Barre&lt;/a&gt; (1969-&lt;a href="1991"&gt;1991&lt;/a&gt;)

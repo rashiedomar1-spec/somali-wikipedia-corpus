@@ -1,0 +1,36 @@
+title:
+Wienerschnitzel
+
+url:
+https://so.wikipedia.org/wiki?curid=30659
+
+text:
+Wienerschnitzel waa maqaayad mareykan oo la aasaasay 1961di, waxay soo saartaa cuntooyinka loo yaqaano hot dogs .
+Maqaayada Wienerschnitzel waxay xarumaheeda ku badantahay gobolada California iyo Texas , sidoo kale waxay goobo ku leedahay gobolada kale ee maraykanka.
+
+
+# Infobox
+
+- **Nooca**: shirkad hoos timadda
+- **La aasaasay**: Wilmington, California , U.S. (1961 ; 64 sano ka hor ( 1961 ) )
+- **Aasaasaha**: John Galardi
+- **Xarunta**: Irvine, California
+- **Tirada xarumaha**: 358
+- **Meelaha loo adeegsaday**: Maraykanka
+- **Iska leh**: kooxda Galardi
+- **Website**: wienerschnitzel.com
+
+
+# Tables
+
+## Wienerschnitzel
+| Wienerschnitzel logo designed by Saul Bass in 1978 |
+| --- |
+| Nooca | shirkad hoos timadda |
+| La aasaasay | Wilmington, California , U.S. (1961 ; 64 sano ka hor ( 1961 ) ) |
+| Aasaasaha | John Galardi |
+| Xarunta | Irvine, California |
+| Tirada xarumaha | 358 |
+| Meelaha loo adeegsaday | Maraykanka |
+| Iska leh | kooxda Galardi |
+| Website | wienerschnitzel.com |

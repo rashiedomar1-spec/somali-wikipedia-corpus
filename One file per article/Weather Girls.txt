@@ -1,0 +1,69 @@
+title:
+Weather Girls
+
+url:
+https://so.wikipedia.org/wiki?curid=33147
+
+text:
+Weather Girls (Gabdhaha Cimiladu) waa koox gabdho ah oo ka tirsan xubnaha Jabaan ee Taywan.  Asal ahaan, kooxda waxaa la aasaasay 2010 waxayna u dhaqmeen sidii saadaasha hawada ee telefishanka iyo internetka Taywan iyo Mareykanka.  Ka dib markii ay soo jiidatay dareenka Jabaan, toddobo xubnood, mid ka mid ah maalin kasta oo toddobaadka ah, ayaa loo doortay inay koox ahaan ugu soo baxaan Jabaan sannadkii 2012. Waa kooxdii ugu horreysay ee gabdhaha Taywan ah ee timaad Jabaan. [ 1 ]
+
+Tixraac
+
+J-pop
+
+C-pop
+
+Weathercasters: 2010–12
+
+Jabaan: 2012–2014
+
+Taywan :2014–2017
+
+Pony Canyon
+
+FEMC
+
+Dara
+
+Hi Jon
+
+Ria
+
+Yumi
+
+Esse
+
+Sindy
+
+Mia
+
+Mini
+
+NueNue
+
+
+# Infobox
+
+- **Asal**: Taywan
+- **Nooca fanka**: J-pop C-pop
+- **Sanadaha Shaqada**: Weathercasters: 2010–12 Jabaan: 2012–2014 Taywan :2014–2017
+- **Calaamadaha**: Pony Canyon FEMC
+- **Xubnaha**: Dara Hi Jon Ria Yumi
+- **Past members**: Esse Sindy Mia Mini NueNue
+
+
+# Tables
+
+## Table 1
+| Weather Girls |
+| --- |
+| Ee 2014 |
+| Macluumaadka asalka |
+| Asal | Taywan |
+| Nooca fanka | J-pop C-pop |
+| Sanadaha Shaqada | Weathercasters: 2010–12 Jabaan: 2012–2014 Taywan :2014–2017 |
+| Calaamadaha | Pony Canyon FEMC |
+|  |
+| Xubnaha | Dara Hi Jon Ria Yumi |
+|  |
+| Past members | Esse Sindy Mia Mini NueNue |

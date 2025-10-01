@@ -1,0 +1,8 @@
+title:
+Aadaan
+
+url:
+https://so.wikipedia.org/wiki?curid=4358
+
+text:
+Aadaan waxaa la adimaa markii ee &lt;a href="Salaad"&gt;salaada&lt;/a&gt; soo gasho, waxaana badanaa laga adimaa &lt;a href="Masaajid"&gt;misaajidada&lt;/a&gt;. Aadaanka waxoo ka koobanyahay ashahaadanka.

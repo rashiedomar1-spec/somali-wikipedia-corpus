@@ -1,0 +1,37 @@
+title:
+Allure
+
+url:
+https://so.wikipedia.org/wiki?curid=32932
+
+text:
+Allure waa joornaal haween Mareykan ah oo diiradda saaraya quruxda, oo ay daabacdo bil kasta Condé Nast oo ku taal Magaalada New York. Waxaa aasaasay Linda Wells sanadkii 1991. Michelle Lee waxay bedeshay Wells sanadkii 2015. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Publisher**: Condé Nast
+- **Editor**: Michelle Lee
+- **Launched**: 1991
+- **Language**: Ingiriis
+- **City**: Magaalada New York
+- **Country**: Mareykanka
+- **ISSN**: 1054-7711
+- **Website**: www.allure.com
+
+
+# Tables
+
+## Allure
+|   |
+| --- |
+| Publisher | Condé Nast |
+| Editor | Michelle Lee |
+| Launched | 1991 |
+| Language | Ingiriis |
+| City | Magaalada New York |
+| Country | Mareykanka |
+| ISSN | 1054-7711 |
+| Website | www.allure.com |

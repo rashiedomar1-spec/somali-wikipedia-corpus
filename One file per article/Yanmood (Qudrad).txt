@@ -1,0 +1,8 @@
+title:
+Yanmood (Qudrad)
+
+url:
+https://so.wikipedia.org/wiki?curid=40111
+
+text:
+Persimmon fig &lt;a href="%26lt%3Bspan%20lang%3D%26quot%3BAr%26quot%3B%20dir%3D%26quot%3Bltr%26quot%3B%26gt%3BCarabi%26lt%3B/span%26gt%3B"&gt;Carabi&lt;/a&gt;: الكاكي qaqa, kharma persimmon "midhihii ilaahyada."

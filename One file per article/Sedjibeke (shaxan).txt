@@ -1,0 +1,28 @@
+title:
+Sedjibeke (shaxan)
+
+url:
+https://so.wikipedia.org/wiki?curid=8527
+
+text:
+Sedjibeke ama Saddexjibaarane (af-ingiriis: cube) Waxa uu leeyahay 6 dhinac oo isku beegan, 12 gees, 8 xagal dhamaantoodna dhinac kasta waa qaab labajibaaren ah, Xaglahiisuna waa kuwa quman, Balacyada oo dhanna waa isla egyihiin.
+
+Mugga saddexjibbaarane waxaa lagu helaa adigoo isku dhufta : d 3 = d ⋅ d ⋅ d {\displaystyle d^{3}=d\cdot d\cdot d}
+
+Qaacidada
+
+Seddex jibaarnaha waxaa loo eegaa geesaha inta ay isku jiraan d ,
+
+
+# Tables
+
+## Table 1
+| Bedka | 6 d 2 {\displaystyle 6d^{2}\,} |
+| --- | --- |
+| Mugga | d 3 {\displaystyle d^{3}\,} |
+| Isku beegnaanta xarriiqda | 2 d {\displaystyle {\sqrt {2}}d} |
+| Firaaqada isgoosyada | 3 d {\displaystyle {\sqrt {3}}d} |
+| Dhexroorka kagac Goobo | 3 2 d {\displaystyle {\frac {\sqrt {3}}{2}}d} |
+| Goobo gacan keeda taabanaya dhinacyada oo dhan | d 2 {\displaystyle {\frac {d}{\sqrt {2}}}} |
+| Kubad taabaneeysa dhamaan dhiancyada | d 2 {\displaystyle {\frac {d}{2}}} |
+| Xaglo isku dhafan | π 2 {\displaystyle {\frac {\pi }{2}}} |

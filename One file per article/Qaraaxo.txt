@@ -1,0 +1,20 @@
+title:
+Qaraaxo
+
+url:
+https://so.wikipedia.org/wiki?curid=34785
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2021-12-16T02:01:09Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Lia15Lo&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog cusub: Qaraaxo waa barnaamij Soomaali madadaalo ah oo ka baxa TV-ga oo ka baxa &lt;a href="Astaan%20TV"&gt;Astaan ​​TV&lt;/a&gt;. Barnaamijka waxa marti ku ah dad caan ah oo meelo kala duwan ka soo jeeda, badan heeso, waraysi been abuur ah oo loo diyaariyay in ay ku dabin kaftan oo lagu tijaabinayo dulqaadkooda. Waxaa lagu soo saaray laguna duubay m...&lt;/comment&gt;
+ &lt;origin&gt;226526&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Qaraaxo waa barnaamij Soomaali madadaalo ah oo ka baxa TV-ga oo ka baxa &lt;a href="Astaan%20TV"&gt;Astaan ​​TV&lt;/a&gt;. Barnaamijka waxa marti ku ah dad caan ah oo meelo kala duwan ka soo jeeda, badan heeso, waraysi been abuur ah oo loo diyaariyay in ay ku dabin kaftan oo lagu tijaabinayo dulqaadkooda. Waxaa lagu soo saaray laguna duubay magaalada Muqdisho, Soomaaliya waxaana la daawaday bishii Ramadaan.
+Fikrad.
+Fikradda barnaamijku waa in la martigeliyo dadka caanka ah ee reer Muqdisho oo la keeno Istuudiyaha Astaan ​​​​TV si ay wareysi been abuur ah uga qaataan talefishin. Soo-bandhige waxa ay bilawday in ay waraysi la yeelato dadka caanka ah balse waxa gooyay kamaraduhu dhawr jeer si uu ugu sheego in aanay shaqadeeda si fiican u qabsan. Waxa kale oo uu fanaaniinta u sheegaa waxa la sameeyo, tusaale ahaan, isaga oo u sheegaya in ay si gaar ah u hadlaan iyo wixii la mid ah. Ka dib, oo la kulmay talooyin yaab leh, nin aan la garanayn ayaa ka soo muuqday istuudiyaha si uu u joojiyo daadihiyaha iyo heesaha. Ninkan ayaa sheegtay in uu yahay heesaa waxaana lala soo xiriiray wareysi uu siiyay TV-ga, waxa uu sidoo kale la murmay fanaaniinta oo uu ka dalbaday in ay ka baxaan istuudiyaha si ay booskooda u qaataan oo ay u qabtoo wareysiga. Dhammaan tani waa ciyaar maaweelo ah oo loogu talagalay in lagu tijaabiyo dulqaadka fannaaniinta oo ay ka cadhoodaan.

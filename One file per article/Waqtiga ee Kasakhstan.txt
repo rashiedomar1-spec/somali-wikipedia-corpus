@@ -1,0 +1,8 @@
+title:
+Waqtiga ee Kasakhstan
+
+url:
+https://so.wikipedia.org/wiki?curid=36793
+
+text:
+Waqtiga caadiga ah ee &lt;a href="Kasakhstan"&gt;Kasakhstan&lt;/a&gt; maaha UTC+05:00 ama UTC+06:00. Waqtiyadaas waxaa loo yaqaan &lt;a href="Waqtiga%20Aqtobe"&gt;Waqtiga Aqtobe&lt;/a&gt; (AQTT) ama Waqtiga Alma-Ata (ALMT). Kasakhstan ma ilaaliso wakhtiga badbaadinta iftiinka maalinta.

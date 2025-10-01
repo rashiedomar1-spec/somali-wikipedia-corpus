@@ -1,0 +1,11 @@
+title:
+Dhismaha websiteka
+
+url:
+https://so.wikipedia.org/wiki?curid=7841
+
+text:
+Dhismaha websiteka waxaa loo adeegsan karaa barnaamijyo badan oo ay kamid yihiin HTML iyo CSS oo ah asaaska naqshadaynta &lt;a href="website"&gt;website&lt;/a&gt;. Waxa kale oo loo adeegsan karaa barnaamijyo ay ka mid yihiin WordPress, Joomla, Drupal iyo kuwo kale.
+WordPress oo kamid ah barnaamijyada kor ku xusan ee loo adeegsado dhismaha website-ka ee loogu adeegsiga badan yahay.
+Qaababka loo dhiso website-ka waxaa kuoo kordhay in la adeegsan karo &lt;a href="Artificial%20Intelligence%20%28AI%29%3F"&gt;Artificial Intelligence&lt;/a&gt; (AI), gaar ahaan in si fudud loogu dhisi karo WordPress iyo AI.
+Tixraac:

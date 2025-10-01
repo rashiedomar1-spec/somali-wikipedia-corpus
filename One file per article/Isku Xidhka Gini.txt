@@ -1,0 +1,49 @@
+title:
+Isku Xidhka Gini
+
+url:
+https://so.wikipedia.org/wiki?curid=37100
+
+text:
+Xagga dhaqaalaha , isku xidhka Gini ( / n i / JEE -nee ), oo sidoo kale loo yaqaan index Gini ama saamiga Gini , waa cabbir kala firdhisanaan xisaabeed oo loogu talagalay in lagu matalo sinnaan la'aanta dakhliga ama sinnaan la'aanta hantida qaranka ama waddan kooxda bulshada. Isku-xidhka Gini waxa sameeyay xisaabiyaha iyo cilmiga bulshada Corrado Gini.
+
+Tirakoobka
+
+Jadwalka hoose waxa uu ku saabsan yahay adduunka Gini isku xidhka (maaha dalal keli ah).
+
+Jadwalka hoose waxa uu tusinayaa dakhliga Isku xidhka Gini ee Mareykanka laga bilaabo 1947 ilaa 2009.
+
+Qoraalka hoose
+
+
+# Tables
+
+## Income Gini coefficient World, 1820-2005
+| Year | World Gini index [ 1 ] [ 2 ] [ 3 ] |
+| --- | --- |
+| 1820 | 0.43 |
+| 1850 | 0.53 |
+| 1870 | 0.56 |
+| 1913 | 0.61 |
+| 1929 | 0.62 |
+| 1950 | 0.64 |
+| 1960 | 0.64 |
+| 1980 | 0.66 |
+| 2002 | 0.71 |
+| 2005 | 0.68 |
+
+## Income Gini coefficient United States, 1947-2009
+| Year | pre-tax Gini |
+| --- | --- |
+| 1947 | 0.413 |
+| 1967 | 0.397 |
+| 1968 | 0.386 |
+| 1970 | 0.394 |
+| 1980 | 0.403 |
+| 1990 | 0.428 |
+| 2000 | 0.462 |
+| 2005 | 0.469 |
+| 2006 | 0.470 |
+| 2007 | 0.463 |
+| 2008 | 0.467 |
+| 2009 | 0.468 |

@@ -1,0 +1,17 @@
+title:
+Session Initiation Protocol
+
+url:
+https://so.wikipedia.org/wiki?curid=4515
+
+text:
+Session Initiation Protocole waa Baratokool IP ama cinwaanka &lt;a href="Internet"&gt;Internet&lt;/a&gt;ka Isgaarsiin kusaleysan, waxaana loo isticmaalaa isku wicid codeed ama muuqaaleed, sidoo kalene waxaa loo isticmaalaa Fariinta degdega ah (Instant Messaging) ayadoo la isticmaalayo Signalyo, SIP waa aalad Casri ah ayadoo iminka noqotay mid aad loo isticmaalo Leyn guriyeed gaar ahaan xaga is gaarsiinta casrigaan, ayadoo hada loo isticmaalo teleefan jogoraafiyeed (Geographical DIDs) kaasoo tusaale ahaan adigoo meel qaarada &lt;a href="Afrika"&gt;Afrika&lt;/a&gt; ka tirsan kunool heesan karo nambar &lt;a href="Mareykanka"&gt;Mareykanka&lt;/a&gt; ah.
+Qaabka oo u dhisanyahay ama qaacida SIPka: sip:qofka/nambar@shirkada.com... 
+tusaale ahaan sip:burtugey@sipphone.com
+Halkan uguma tala gelin inaan ka sheekeeyo taariiqda SIP ka laakiin waxaa rabay inaan usoo bandhigo Sida loo Isticmaalo SIP ka, Shirkada ugu caansan ee bixiya waxaa ka mid Gizmo5.com oo ay hada &lt;a href="Google"&gt;Google&lt;/a&gt; la wareegtay.
+SIPka waxa uu isticmaa Teleefan Jilicsan (Softphone) oo ay ugu caansantahay X-Lite
+Iyo shirkada Snom oo ayadane aan ka yareysan soona saarto teleefanka SIP ka adag ama kan guriga la geshto iyo teleefanka jilicsan.
+Maantadan waxaa jirta shirkado badan oo si bilaash u bixiyo xisaab SIP ah tusaale ahaan sip2sip.info waxey bixisaa SIP bilaash ah.
+fonosip.com oo ayadane bixiso mid lacag ah iyo mid bilaash ah, gizmo5.com si kumeel gaar ah ayey u joojisay abuurida cinwaanada cusub.
+Sidoo kale waxaa jira shirkado ayane si bilaash u bixiyo teleefanka dhulka ama leenka guriga sida ipkall.com oo bixisa nambar &lt;a href="Mareykanka"&gt;Mareykanka&lt;/a&gt; ah oo bilaash ah adigoo kaliya u baahan in aad sameysato cinwaan SIP ah oo teleefankaas laguugu soo xawilo, sidoo kale waxaa jiro shirkado badan oo keena adeegan loo yaqaan &lt;a href="DID"&gt;DID&lt;/a&gt; sida num2sip.com oo bixisa nambar leen ah oo &lt;a href="Faransa"&gt;Faransa&lt;/a&gt;, messagenet.it oo bixiso number &lt;a href="Talyaani"&gt;Talyaani&lt;/a&gt; ah, sipgate.co.uk oo bixiso nambar Shakhsiyadeedka oo &lt;a href="Ingriiska"&gt;Ingriiska&lt;/a&gt; ah iyo shirkado badan oo bixiya adeegyadaas oo lacag ah aadna heli karto intabadan wadamadan horumaray leemankooda.
+adeegan sidoo kale waxaad ku shuban kartaa lacag oo aad wax ku wacan karto asagoo u shaqeeyo sida &lt;a href="VOIP"&gt;VOIP&lt;/a&gt;ka oo kale.

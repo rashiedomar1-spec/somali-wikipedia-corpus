@@ -1,0 +1,8 @@
+title:
+Tipitaka
+
+url:
+https://so.wikipedia.org/wiki?curid=41465
+
+text:
+Tipitaka waa buugga xurmada leh ee &lt;a href="Buddhism"&gt;Budhiismka&lt;/a&gt; ee luqadda &lt;a href="Pali"&gt;Pali&lt;/a&gt;. Magaca wuxuu u tarjumayaa saddex dambiil. Qaybta hore waxay ka kooban tahay edbinta monastik. Qaybta labaad waxay ka kooban tahay khudbadaha &lt;a href="Gootama%20buuda"&gt;Buddha&lt;/a&gt;. Qaybta saddexaad waxay ka kooban tahay qoraallo ku saabsan metaphysics-ka.

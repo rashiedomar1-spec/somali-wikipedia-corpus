@@ -1,0 +1,53 @@
+title:
+Jaamacadda Roma Tre
+
+url:
+https://so.wikipedia.org/wiki?curid=11991
+
+text:
+Coordinates : 41°51′43″N 12°28′47″E ﻿ / ﻿ 41.86194°N 12.47972°E ﻿ / 41.86194; 12.47972
+
+Jaamacadda Roma Tre (Università degli Studi Roma Tre) waa jaamacadda saddexaad ee ugu weyn dalyaka Talyaaniga kuna taal magaaada Roma waana jaamacadda labaad ee xagga tirada ardada dhigata ugu badan.
+
+
+# Infobox
+
+- **La aas aasay**: 1992
+- **Nuuca**: Dowlad
+- **Iskaleh**: € 263.8 malyan
+- **Hormuudka jaamacadda**: Prof. Mario Panizza
+- **Maamulka Hay'adda wax barashada**: 1,370
+- **Ardayda**: 35,338
+- **Waxay ku taal**: Rome , Talyaaniga
+- **Dhismaha jaamacadda**: Porta San Paolo
+- **Meelo lagu ciyaaro**: R3 Sport
+- **Nasiibka**: Levriero Italiano
+- **Xobin ka ah**: Cineca EUA H2CU ICoN UNICA UNIMED UNISCAPE
+- **Website**: uniroma3.it
+
+
+# Tables
+
+## Table 1
+| Jaamacadda Roma Tre Roma Tre University |
+| --- |
+| Università degli Studi Roma Tre |
+| [[File: |frameless|alt=]] |
+| La aas aasay | 1992 |
+| Nuuca | Dowlad |
+| Iskaleh | € 263.8 malyan |
+| Hormuudka jaamacadda | Prof. Mario Panizza |
+| Maamulka Hay'adda wax barashada | 1,370 |
+| Ardayda | 35,338 |
+| Waxay ku taal | Rome , Talyaaniga |
+| Dhismaha jaamacadda | Porta San Paolo |
+| Midabka |  |
+| Meelo lagu ciyaaro | R3 Sport |
+| Nasiibka | Levriero Italiano |
+| Xobin ka ah | Cineca EUA H2CU ICoN UNICA UNIMED UNISCAPE |
+| Website | uniroma3.it |
+
+
+
+# Coordinates
+41.86194; 12.47972

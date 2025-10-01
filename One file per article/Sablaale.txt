@@ -1,0 +1,38 @@
+title:
+Sablaale
+
+url:
+https://so.wikipedia.org/wiki?curid=3646
+
+text:
+Sablaale waa degmo ka mid ah Gobolka Shabeellaba Hoose . Sablaae waxay ka koobneyd ka hor dagaaladii sokeeye 15 xaafadood, waxay leedahay dhul beereed aad u baaxad weyn oo waraab iyo beero cirka ahba leh, maxay kaloo hodan ku tahay xoolaha nool sida Lo,da iyo ariga, geelu badanaa kuma noola sida caadiga ah sablaale maadaama ay dhooboy tahay gosha iyo gendiguna ku badan tahay, laakiin bilaha janaayo ilaa maarso ayuu geela ugu faraha badani yimaadaa nawaaxiga sablaale sannad kasta oo daaq iyo biyaba usoo doontaa.
+
+Degmada Sablaale waxaa deris la ah tuulooyin badan waxaana ka mid ah,Haawaay, deemaay, laabkaban,arbow heerow, Eerile, Mariinyigubaay iyo waabaayo cadybara lafoli.
+
+Template:Shabeellaha Hoose
+
+Tixraac
+
+Sablale
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Region**: Lower Shabelle
+- **District**: Sablale District
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Sablale |
+| --- |
+| {{{type}}} |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somalia |
+| Region | Lower Shabelle |
+| District | Sablale District |
+| Aag saacadeed | UTC+3 ( EAT ) |

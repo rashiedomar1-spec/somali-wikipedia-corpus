@@ -1,0 +1,11 @@
+title:
+Xaafada cuqubo ee magaalada burco
+
+url:
+https://so.wikipedia.org/wiki?curid=40428
+
+text:
+Waa mid kamida xaafadaha magalada burco waxayna dhacda dhanka waqooyi ee magadalada burco
+dadka degan.
+Waxa degab habarjeclo guud ahaan
+Si gaara waxa degan &lt;a href="reeryoonis"&gt;reeryoonis&lt;/a&gt;

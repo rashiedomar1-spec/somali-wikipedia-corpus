@@ -1,0 +1,39 @@
+title:
+Degmada badweyn
+
+url:
+https://so.wikipedia.org/wiki?curid=28534
+
+text:
+Waa degmo ku taala gobolka sool galbedkisa waxa degan beelaha habarjeclo muuse abokor gaar ahaaan biciide.gaar ahaan cali faarax waxa koonfur ka xiga Oog galbedna caynaba Oogna u jirta 8km qiyaas ahaan
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Sool
+- **Degmo**: badweyn
+- **Joogga**: 411 m (1,348 ft)
+- **• Dhammaan**: 2,390
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| Badweyn badwein بضوين |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Sool |
+| Degmo | badweyn |
+| Joogga | 411 m (1,348 ft) |
+| Tirada dadka |
+| • Dhammaan | 2,390 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

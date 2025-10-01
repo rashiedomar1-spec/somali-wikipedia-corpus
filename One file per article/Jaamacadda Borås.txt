@@ -1,0 +1,41 @@
+title:
+Jaamacadda Borås
+
+url:
+https://so.wikipedia.org/wiki?curid=32818
+
+text:
+The Jaamacadda Borås, or Högskolan i Borås , waa jaamacad ku taal magaalada Borås . Waxa la aasaasay 1977. Sanadka 2021 waxa JB dhigta qiyaastii 17,000 arday, shaqaaluhuna waa 760.
+
+
+# Infobox
+
+- **La aas aasay**: 1977 [ xigasho u-baahan ]
+- **Nuuca**: public
+- **Ku xigeenka la taliyaha**: Mats Tinnsten [ 1 ]
+- **Xonaha hay'adda waxbarashada**: 45 (professors, 2020)
+- **Maamulka Hay'adda wax barashada**: Appr. 760 (2020), [ 2 ] 441 lecturers (56 % PhD)
+- **Ardayda**: 17,400 [ 2 ]
+- **Dottora**: 68 (2020) Template:Clarify
+- **Waxay ku taal**: Borås , Sweden
+- **Xobin ka ah**: EUA
+- **Website**: www.hb.se/en/
+
+
+# Tables
+
+## Table 1
+| University of Borås |
+| --- |
+| Högskolan i Borås |
+| Högskolan i Borås Logo.svg |
+| La aas aasay | 1977 [ xigasho u-baahan ] |
+| Nuuca | public |
+| Ku xigeenka la taliyaha | Mats Tinnsten [ 1 ] |
+| Xonaha hay'adda waxbarashada | 45 (professors, 2020) |
+| Maamulka Hay'adda wax barashada | Appr. 760 (2020), [ 2 ] 441 lecturers (56 % PhD) |
+| Ardayda | 17,400 [ 2 ] |
+| Dottora | 68 (2020) Template:Clarify |
+| Waxay ku taal | Borås , Sweden |
+| Xobin ka ah | EUA |
+| Website | www.hb.se/en/ |

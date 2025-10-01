@@ -1,0 +1,30 @@
+title:
+Bariis iskukaris
+
+url:
+https://so.wikipedia.org/wiki?curid=39612
+
+text:
+Bariis Iskukaris , oo sidoo kale loo yaqaan Isku-dheh karis (Carabi البيلاف الصومالي), ama si fudud loogu tixraaco Bariis waa cunto dhaqameed bariis ah oo laga helo cunnada Soomaalida .   Magaca Isku-dheh karis macno ahaan macnihiisu waa "la kariyey oo la isku qasay", sidaas darteed waxaa mararka qaarkood loo adeegsadaa in si ballaaran loo tixraaco dalagyada kale ee ka soo baxa hadhuudhka ee u baahan cunto karinta la mid ah. Sidaa darteed ereyga ka sii goonida ah ee saxan waa bariis isku-dheh karis oo macneheedu yahay "bariis.la kariyey oo la isku daray". [ 1 ] [ 2 ]
+
+TIXRAAC
+
+
+# Infobox
+
+- **Ka tirsan**: Qado iyo casho
+- **Asal ahaan**: Somalia
+- **Wadanka**: Africa
+- **Ka kooban**: Bariis and hilib
+
+
+# Tables
+
+## Bariis iskukaris
+| Bariis  hilib geel |
+| --- |
+| Ka tirsan | Qado iyo casho |
+| Asal ahaan | Somalia |
+| Wadanka | Africa |
+| Ka kooban | Bariis and hilib |
+| Sidoo kale fiiri: Cunto Soomaali • Cunto • Raashin ( Qureec , Qado , Casho ) |

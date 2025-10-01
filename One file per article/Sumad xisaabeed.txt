@@ -1,0 +1,65 @@
+title:
+Sumad xisaabeed
+
+url:
+https://so.wikipedia.org/wiki?curid=8298
+
+text:
+Sumadaha kuwa sarsare
+
+Astaamaha Joomatiriga
+
+Tani waa qayb kamid ah Astaamaha ama (Sumad) Joomatiriga.
+
+aba dhinac ama laba xariir oo isberber socda || B C // DA
+
+
+# Tables
+
+## Table 1
+| Sumada calaamad | Macnaheeda | Sida loo adeegsado | Tusaale |
+| --- | --- | --- | --- |
+| = | la mid ah | Waxaa loo isticmaalaa is ber ber dhigga | 8 + 2 == 10, 10 == 10 |
+| ≠ | lama eka | Waxaa loo isticmaalaa diidmo in aaneey la ekayn | 2 + 9 ≠ 12 |
+| + | Isku dar ama isu gayn Togan | waxaa loo isticmaalaa wadarta laba tiro iyo wixii kabadan | 6 + 5 = 11 |
+| - | kala goyn ama kala jarid Taban | waxaa loo isticmaalaa Farqiga laba tiro | 9 - 3 = 6 |
+| < | Ka yer | Waxa ay kutusaysaa in uu qaybta midig ka wayntahay tan bidix | 7 + 2 < 12 |
+| > | Ka way | Waxa ay kutusaysaa in uu qaybta Bidix ka wayntahay tan Midig | 15 + 30 > 37 |
+| × | Ku dhifasho | Waxa ay sumad utahay isku dhifashada | 5 × 6 = 30 |
+| ÷ | Uqaybin | Calaamada uqaybinta | 8 ÷ 2 = 4 |
+| : | Ka ama kiiba | waxaa loo isticmaalaa Saami | 5 : 9 |
+| / | Kiiba | Waxaa loo isticmaalaa laba walxood cabirkood | 10 liter / h saacadiiba |
+| ± , ∓ | Kuder kajer | Waxa ay ka dhigantahay midba midka kale in uu ka jeranyahay | 10 liter ± 1/2 liter |
+| ≤ | Ka yer ama la eg | Marka la is ber ber dhigo waxaa wayn qaybta midig | {2 , 5 , 6 , 7} ≤ {2 , 8 , 10} |
+| ≥ | ka wayn ama la eg | tirada labada dhinac ku jirta oo isku mid ah | {8 , 3 , 10} ≥ {4 , 5 , 6 , 3} |
+| ∅ | Xiriir lama leh | waxa ay ka dhigantahay mid aan intaba ku jirin | {n ∈ ℕ : 1 < n2 < 4} = ∅ |
+| ∉ | kama tirsana | Qabtaan kama tirsana qaybta kale | 12 ∉ {1 , 2} |
+| ⊂ | Katirsan | Qayb yer oo qaybta wayn ku dhex jirta | {1 , 8 , [1] 1 , 5 , 78 , 10 , 1} |
+| ⊄ | kama tirsana | Ka tirsanaashada caksigeeda | {1 , 5 , 10} ⊄ {6 , 30 , 8 , 70 , 9} |
+| % | Boqolkiiba | waxaa lagu xisaaba tiro inta ay kala egtahay 100 kiiba | 2% , 12 % |
+| ‰ | Kunkiiba | Waa qiyaas kunkkba ah | 2‰ 12‰ |
+| ≈ | Ku dhowaad la eg | Waxaa loo isticmaalaa tirada boqoleeyda ama jajabka | 7.5 ≈ 8 |
+| π | pi | Waxaa loo soo gaabiyaa wareega Goobo dhexroor keeda | 22 7 {\displaystyle {\tfrac {22}{7}}} = 3.14 ku dhowaad |
+
+## Table 2
+| Sumadda | Macnaheeda | Sidala loo adeegsado | Tusaale |
+| --- | --- | --- | --- |
+| ≪ | Aaad bey uga badantahay | Waxaa loo isticmaalaa laba tiro is barbar dhigidood oo is dhinac yaal Dhanka midig ayaa aad uga wayn dhanka bidix | 2 ≪ 10000000 |
+| ≫ | Aad bay uga yartaha | waxaa loo isticmaalaa isber dhigid Dhanka bidix ayaa aad uga wayn dhanka midig | 1000000 ≫ 2 |
+| ∞ | Dhamaad maleh | Waxaa loo isticmaalaa shaqo aan dhamaan | {0 , 1 , 2 , 3 , 4 , ∞} |
+| ∩ | iskgoys | Waxaa la dhax dhigaa laba qaybood oo meel iska jara | {8 , 7 , 9 , 1} ∩ {5 , 9 , 4 , 7} = {7 , 9} |
+| √ | Xidid gelin | Waxaa gadaal laga dhigaa xisaabaha xidika lageliyo | 4 - 2 = 2 ama 4√ |
+| | | | Qiyaas / Qiima lagu siiye | Oo la dhax geliyey laba dhidib | | -8  | = 8 |
+| ∪ | Kulan | Waxaa la dhex geliyaa laba qaybood ee la donayo ina la isku daro unugyo kaimd ah | {5 , 3 , 2} ∪{8 , 2 , 9} = {5 , 3 , 2 , 8 , 9  } |
+
+## Table 3
+| Sumadda | Macnaheeda | Adeegsiga | Meelaha |
+| --- | --- | --- | --- |
+| // | Berberro | Waxaa la geliyaa l aba dhinac ama laba xariir oo isberber socda || B C // DA |
+| ⊥ | Ku qotoma | Waxaa la geliyaa laba dhinac oo isku qotama ee samaynaya Xalka quma ama toosan ama 4 isku beegan | x y ⊥ nc |
+| ≡ | Isku beegma | Waxaa lagu muujiyaa laba sawir ama laba dhinac ay isla egyihiin dhianacyeda ama xalaha | AB ≡ XY |
+| π | Pi | Pi ama madoorsoome lagu xisaabo wareega goobo waxaana lugu qiyaasaa 3.14 ( π {\displaystyle {\pi }} ) 22 7 {\displaystyle {\tfrac {22}{7}}} | ــــــــــــ |
+| ° | Darajo | Waxaa lagu cabiraa kuleelka ama xaglaha | Qiyaasta xagasha waa m = 50° |
+| ∆ | Saddax-xagal | waxaa loo soo gaabiyaa erayka Saddax-xagal | ∆ abc ≡ def |
+| ○ | Goobo | soo gaabinta erayga Goobo | ○ B dhexroorkeedu waa 2cm |
+| □ | Labajibaarane | soo gaabinta erayga Labajibaarane | □ abcd  ≡ d h c x |

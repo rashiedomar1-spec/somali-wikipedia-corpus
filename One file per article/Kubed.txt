@@ -1,0 +1,39 @@
+title:
+Kubed
+
+url:
+https://so.wikipedia.org/wiki?curid=27863
+
+text:
+Kubed
+
+
+# Tables
+
+## Table 1
+| Kubed |   |
+| --- | --- |
+| Nike Merlin | United Kingdom Premier League |
+| Adidas Torfabrik | Germany Bundesliga |
+| Nike Merlin | Spain La Liga |
+| Uhlsport Elysia | Faransiiska Ligue 1 |
+| Adidas Argentum | Brazil Argentine Primera División |
+| Nike Incyte | Turkey Turkiga Süper Lig |
+| Adidas Telstar 18 | Greece Superleague Greece |
+| Nike Maxim | Template:Country data Rom Liga I |
+| Adidas Telstar 18 | Japan J1 League |
+| Adidas Telstar 18 | South Korea K League Classic |
+| Puma | Bulgaria Parva Liga |
+| Adidas Telstar 18 Adidas Nativo | United States / Canada Major League Soccer |
+| Nike Ordem 5 | China Chinese Super League |
+| Nike Merlin | Australia A-League |
+| Nike Ordem 5 | India I-League |
+| Molten VG-5000A | Template:Country data Philipines United Football League |
+| Adidas Brazuca | Norway Eliteserien |
+| Adidas Finale | UEFA Champions League |
+| Select Brilliant Super | Belgium Belgian First Division A |
+| Select Brilliant Super | Denmark Danish Superliga |
+| Select Brilliant Super | Finland Veikkausliiga |
+| Select Brilliant Super | Sweden Allsvenskan |
+| Nike Ordem 3 NWSL 2016 | United States National Women's Soccer League |
+| Dong Luc Group Galaxy UHV 2.07 | Vietnam V.League 1 |

@@ -1,0 +1,29 @@
+title:
+FIVB Naga Dunida Tiroka Kubedka Volley
+
+url:
+https://so.wikipedia.org/wiki?curid=35522
+
+text:
+FIVB Naga Dunida Tiroka Kubedka Volley
+
+FIVB
+
+}}
+
+
+# Tables
+
+## Table 1
+| Rank | waddanka | Dunida | imasa | Δ | Previous finish |
+| --- | --- | --- | --- | --- | --- |
+| 1 | United States | NORCECA | 416 |  | 3rd |
+| 2 | China | AVC | 376 |  | 5th |
+| 3 | Brazil | CSV | 371 |  | 7th |
+| 4 | Italy | CEV | 300 |  | 2nd |
+| 5 | Turkey | CEV | 285 |  | 10th |
+| 6 | Serbia | CEV | 280 |  | 1st |
+| 7 | Japan | AVC | 277 |  | 6th |
+| 8 | Russia | CEV | 275 |  | 8th |
+| 9 | Template:Country data Dominican Republic | NORCECA | 272 |  | 9th |
+| 10 | South Korea | AVC | 261 |  | 17th }} |

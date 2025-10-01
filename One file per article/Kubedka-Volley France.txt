@@ -1,0 +1,64 @@
+title:
+Kubedka-Volley France
+
+url:
+https://so.wikipedia.org/wiki?curid=35633
+
+text:
+Kubedka-Volley France
+
+Faransiiska
+
+FIVB
+
+CEV
+
+1	Jonas Aguenier	28 April 1992	2.02 m (6 ft 8 in)	92 kg (203 lb)	340 cm (130 in)	310 cm (120 in)	Italy NBV Verona
+
+2	Jenia Grebennikov	13 August 1990	1.88 m (6 ft 2 in)	85 kg (187 lb)	345 cm (136 in)	330 cm (130 in)	Italy Modena Volley
+
+3	Luka Bašič	29 January 1995	2.01 m (6 ft 7 in)	77 kg (170 lb)	330 cm (130 in)	302 cm (119 in)	Italy Allianz Milano
+
+4	Jean Patry	27 December 1996	2.07 m (6 ft 9 in)	94 kg (207 lb)	357 cm (141 in)	334 cm (131 in)	Italy Allianz Milano
+
+5	Raphaël Corre	21 November 1989	1.96 m (6 ft 5 in)	85 kg (187 lb)	335 cm (132 in)	315 cm (124 in)
+
+6	Benjamin Toniutti	30 October 1989	1.83 m (6 ft 0 in)	72 kg (159 lb)	320 cm (130 in)	300 cm (120 in)	Poland ZAKSA Kędzierzyn-Koźle
+
+7	Kévin Tillie	2 November 1990	2.00 m (6 ft 7 in)	85 kg (187 lb)	345 cm (136 in)	325 cm (128 in)	Italy Top Volley Cisterna
+
+8	Julien Lyneel	15 April 1990	1.92 m (6 ft 4 in)	88 kg (194 lb)	345 cm (136 in)	325 cm (128 in)
+
+9	Earvin N'Gapeth	12 February 1991	1.94 m (6 ft 4 in)	96 kg (212 lb)	358 cm (141 in)	327 cm (129 in)	Russia Zenit Kazan
+
+10	Kévin Le Roux	11 May 1989	2.09 m (6 ft 10 in)	95 kg (209 lb)	365 cm (144 in)	345 cm (136 in)
+
+11	Antoine Brizard(C)	22 May 1994	1.96 m (6 ft 5 in)	96 kg (212 lb)	340 cm (130 in)	310 cm (120 in)	Russia Zenit Saint Petersburg
+
+12	Stéphen Boyer	10 April 1996	1.96 m (6 ft 5 in)	77 kg (170 lb)	355 cm (140 in)	334 cm (131 in)	Italy NBV Verona
+
+13	Gildas Prevert	15 June 1996	2.04 m (6 ft 8 in)	90 kg (200 lb)	350 cm (140 in)	330 cm (130 in)	France RENNES EC
+
+14	Nicolas Le Goff	15 February 1992	2.06 m (6 ft 9 in)	114 kg (251 lb)	365 cm (144 in)	345 cm (136 in)	Germany SCC BERLIN
+
+15	Jérémie Mouiel	4 May 1995	1.76 m (5 ft 9 in)	52 kg (115 lb)	290 cm (110 in)	260 cm (100 in)	France Chaumont
+
+16	Daryl Bultor	17 November 1995	1.97 m (6 ft 6 in)	94 kg (207 lb)	352 cm (139 in)	327 cm (129 in)	France Arago de Sète
+
+17	Trévor Clévenot	28 June 1994	1.99 m (6 ft 6 in)	89 kg (196 lb)	345 cm (136 in)	326 cm (128 in)	Italy Revivre Axipower Milano
+
+18	Thibault Rossard	28 August 1993	1.94 m (6 ft 4 in)	85 kg (187 lb)	350 cm (140 in)	320 cm (130 in)	Poland Rzeszów
+
+19	Yacine Louati	4 March 1992	1.98 m (6 ft 6 in)	92 kg (203 lb)	345 cm (136 in)	320 cm (130 in)	Italy Kioene Padova
+
+20	Nicolas Rossard	23 May 1990	1.83 m (6 ft 0 in)	64 kg (141 lb)	315 cm (124 in)	305 cm (120 in)	Germany SCC BERLIN
+
+21	Barthélémy Chinenyeze	28 February 1998	2.01 m (6 ft 7 in)	81 kg (179 lb)	357 cm (141 in)	332 cm (131 in)	France Tours Volley-Ball
+
+22	Meliuahel Takaniko	29 May 1985	1.94 m (6 ft 4 in)	92 kg (203 lb)	340 cm (130 in)	330 cm (130 in)	France TOAC TUC
+
+23	Timothée Carle	30 November 1995	1.95 m (6 ft 5 in)	83 kg (183 lb)	336 cm (132 in)	314 cm (124 in)	France GFCA VOLLEY BALL
+
+25	Kévin Kaba	8 June 1994	2.03 m (6 ft 8 in)	98 kg (216 lb)	335 cm (132 in)	315 cm (124 in)	France Montpellier VUC
+
+25	Benjamin Diez	4 April 1998	1.83 m (6 ft 0 in)	80 kg (180 lb)	320 cm (130 in)	305 cm (120 in)	France Montpellier VUC

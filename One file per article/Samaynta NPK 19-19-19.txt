@@ -1,0 +1,25 @@
+title:
+Samaynta NPK 19-19-19
+
+url:
+https://so.wikipedia.org/wiki?curid=35712
+
+text:
+Kaalay ila baro sida loo sameeyo NPK adoo isticmaalaaya Boqolay sax ah.
+Waxaa fiican inaad adigu samaysatid nooca NPK da aad u baahan tahay maadaama ay badatay xaalada qishka iyo ka beensheega kushiimooyinka.
+Waxaan tusaale u soo qaadanaynaa diyaarinta NPK 19:19:19 Waxaan ka bilaabaynaa.
+• Nitrogen (N2) ( waa curiyaha nolosha) waxaan ka heli karnaa yuuriyada oo boqolayda nitrogenta ku jirtaa ay tahay 46% markaa 100 kii kg oo yuriya ah waxaa ku jirta 46kg oo Nitrogen ah.
+waxaa la rabaa in la xisaabiyo 19kg oo nitrogen ah.
+yuriyada waxaan oga baahan nahay (100x19)/46 = 41.3kg
+• Botasiyam (K) waxaan ka heli karnaa Potassium sulphate (K2SO4) boqolayda botaasiyamta ku jirtaana waa 50% botaasiyam oxide (K2O).
+Potassium sulphate (K2SO4) waxaan oga baahan nahay = (100x19)/50 = 38 kg.
+• Phosphorka (P) waxaan ka heli karnaa kushiimada layiyaa triple superphosphate Ca2(H2PO4)2.H2O
+boqolayda phosphate ka ku jiraana waa 48% oo ah phosphor shan oxide P2O5.
+Waxaan oga baahan nahay triple super phosphate Ca2(H2PO4)2.H2O = (19x100)/48 = 39.6 kg. 
+Sidoo kale phosphoorka waxaa ka heli karnaa phosphoric acid ribnaantiisuna waa 60% naanaystiisuna waa H3PO4  culays molekiyuulkiisuna waa = 3 + 31 + 64 = 98
+Waxaan uga baahan nahay 19 kg = (98x19) / 31 = 60kg hadaba si aan u helno 60kg 
+oo ah phosphor, waxaan qaadanaynaa 100kg oo phosphoric acid waxayna na siinayaa 60 kg oo phosphoric acid nadiif ah ah.
+Intaa kadib waxaan isku qasaynaa yuriyadii 41.3kg
+, botasiyam salfaytkii 38 kg iyo triple superphosphate 39.6 kg  ama phosphoric acid 100kg ah ribnaantiisuna tahay 60% =   
+yuriya 41.3kg + K2SO438 kg + Ca2(H2PO4)2.H2O 39.6 kg ama H3PO4 100kg
+Sidaana waxaan ku haysanaa NPK 19:19:19 ah

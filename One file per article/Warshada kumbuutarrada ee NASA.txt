@@ -1,0 +1,18 @@
+title:
+Warshada kumbuutarrada ee NASA
+
+url:
+https://so.wikipedia.org/wiki?curid=18131
+
+text:
+Warshada Nasa ee kumbuyuutarrada heerka sare ( Af Ingiriis : NASA Advanced Supercomputing facility ; Af Carabi : لاسعانود ‎) waa warshad samaysaa kumbuyuurrada ay ku shaqeeyaan mashaariicda hay'ada cilmifalaga ee NASA , waxayna ku taal gobolka Kalifornia ee Maraykanka .
+
+
+# Tables
+
+## Table 1
+| Nidaamka Kombuyutarada Awooda badan |
+| --- |
+| Pleiades' | SGI Altix ICE supercluster |
+| Endeavour | SGI UV shared-memory system |
+| Merope [ 1 ] | SGI Altix supercluster |

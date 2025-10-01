@@ -1,0 +1,38 @@
+title:
+The Joy Girl
+
+url:
+https://so.wikipedia.org/wiki?curid=32768
+
+text:
+The Joy Girl waa filim aamusnaan ah oo Mareykan ah oo 1927 oo uu agaasime ka ahaa Allan Dwan, oo ay soo saartay Fox Film Corporation, oo ay jilayeen Olive Borden , Neil Hamilton, iyo Marie Dressler, waxayna ku saleysan tahay sheekada gaaban ee isla magaca oo May Edginton. [ 1 ]
+
+Tixraacyo
+
+
+# Infobox
+
+- **Directed by**: Allan Dwan
+- **Written by**: Frances Agnew Malcolm Stuart Boylan Adele Comandini
+- **Based on**: The Joy Girl oo May Edginton
+- **Produced by**: William Fox
+- **Starring**: Olive Borden Neil Hamilton Marie Dressler Mary Alden
+- **Cinematography**: William J. Miller George Webber
+- **Distributed by**: Fox Film Corporation
+- **Release date**: Sebteembar 3, 1927 ( 1927-09-03 )
+
+
+# Tables
+
+## Table 1
+| The Joy Girl |
+| --- |
+|  |
+| Directed by | Allan Dwan |
+| Written by | Frances Agnew Malcolm Stuart Boylan Adele Comandini |
+| Based on | The Joy Girl oo May Edginton |
+| Produced by | William Fox |
+| Starring | Olive Borden Neil Hamilton Marie Dressler Mary Alden |
+| Cinematography | William J. Miller George Webber |
+| Distributed by | Fox Film Corporation |
+| Release date | Sebteembar 3, 1927 ( 1927-09-03 ) |

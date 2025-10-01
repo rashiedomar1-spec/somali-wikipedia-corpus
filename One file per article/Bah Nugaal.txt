@@ -1,0 +1,8 @@
+title:
+Bah Nugaal
+
+url:
+https://so.wikipedia.org/wiki?curid=33384
+
+text:
+Bah Nugaal waa jilib ka mid ah &lt;a href="reer%20darawiish"&gt;reer darawiish&lt;/a&gt;.

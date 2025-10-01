@@ -1,0 +1,30 @@
+title:
+Nargis Fakhri
+
+url:
+https://so.wikipedia.org/wiki?curid=34092
+
+text:
+Nargis Fakhri (dhashay Oktoobar 20, 1982) waa atariisho iyo moodel Maraykan ah oo ugu horraysa ka shaqeysa warshadaha filimada Hindiya , waxay asal ahaan ka soo jeedaa Bakistaan iyo Czech. [ 2 ]
+
+Tix
+
+Atariisho
+
+moodel
+
+
+# Infobox
+
+- **Ku dhashay**: Nargis Fakhri ( 1982-10-20 ) 20 Oktoobar 1982 ( 42jir) [ 1 ]
+- **Shaqada**: Atariisho moodel
+
+
+# Tables
+
+## Table 1
+| Nargis Fakhri |
+| --- |
+| Fakhri ee 2017 |
+| Ku dhashay | Nargis Fakhri ( 1982-10-20 ) 20 Oktoobar 1982 ( 42jir) [ 1 ] |
+| Shaqada | Atariisho moodel |

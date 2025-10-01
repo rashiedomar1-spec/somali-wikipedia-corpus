@@ -1,0 +1,37 @@
+title:
+Alexandre Pato
+
+url:
+https://so.wikipedia.org/wiki?curid=9101
+
+text:
+Alexandre Rodrigues da Silva, ama Alexandre Pato , waa laacib Baraasiiliyaan ah oo u ciyaara kooxda Orlando City ee naadiga Major League Soccer .
+
+
+# Infobox
+
+- **Saddex Magac**: Alexandre Rodrigues da Silva
+- **Dhashay**: 2. Seteembar 1989
+- **Ku dhashay**: Baato Baranko, Baraasiil
+- **Joogga**: 1.8m
+- **Booska cayaarta**: Weerar
+- **Kooxda Hadda**: Orlando City
+- **Nambarka**: 7
+
+
+# Tables
+
+## Table 1
+| Macluumaad Xirfadeed |
+| --- |
+| Saddex Magac | Alexandre Rodrigues da Silva |
+| Dhashay | 2. Seteembar 1989 |
+| Ku dhashay | Baato Baranko, Baraasiil |
+| Joogga | 1.8m |
+| Booska cayaarta | Weerar |
+| Macluumaadka Naadiga |
+| Kooxda Hadda | Orlando City |
+| Nambarka | 7 |
+| Xulka Qaranka |
+|  | Baraasiil |  |  |
+| † Appearances (Goals). |

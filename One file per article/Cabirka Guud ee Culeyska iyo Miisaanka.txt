@@ -1,0 +1,48 @@
+title:
+Cabirka Guud ee Culeyska iyo Miisaanka
+
+url:
+https://so.wikipedia.org/wiki?curid=12539
+
+text:
+Cabirka Guud ee Culayska
+
+Halbeegyada la isla gartey in lala isticmaalo Nidaamka Caalamiga ee Halbeega dunida waxaa ka mid ah kuwan hoos ku xusan.
+
+
+# Tables
+
+## Table 1
+| Magaca | Astaanta | Xadiga | Halbeega SI ee La Midka ah |
+| --- | --- | --- | --- |
+| Halbeegyada si guul loo isticmaalo |
+| daqiiqad | min | Wakhti (SI unit multiple) | 1 min = 60 s |
+| Saacad | h | wakhti (SI unit multiple) | 1 h = 60 min = 3600 s |
+| Maalin | d | wakhti (SI unit multiple) | 1 d = 24 h = 1440 min = 86400 s |
+| degree | ° | plane angle (Halbeega geesaha) | 1° = (π / 180) rad |
+| astaanta daqiiqada | ′ | plane angle (Halbeega geesaha) | 1′ = (1 / 60)° = (π / 10800) rad |
+| astaanta ilbiriqsiga | ″ | plane angle (Halbeega geesaha) | 1″ = (1 / 60)′ = (1 / 3600)° = (π / 648000) rad |
+| hektar | ha | dherer (decimal unit multiple) | 1 ha = 100 a = 10000 m 2 = 1 hm 2 |
+| litir | l or L | mug (decimal unit multiple) | 1 L = 1 dm 3 = 0.001 m 3 = 1000 cc = 1000 cm 3 |
+| ton | t | mug (decimal unit multiple) | 1 t = 10 3 kg = 1 Mg |
+| Halbeega Logarithmic |
+| neper | Np | dimensionless ratio of field quantities | L F = ln( F / F 0 ) Np |
+|  |  | dimensionless ratio of power quantities | L P = 1 ⁄ 2 ln( P / P 0 ) Np |
+| bel , decibel | B , dB | dimensionless ratio of field quantities | L F = 2 log 10 ( F / F 0 ) B |
+|  |  | dimensionless ratio of power quantities | L P = log 10 ( P / P 0 ) B |
+| Halbeegyada loo Isticmaalo Tijaabada |
+| electronvolt | eV | awood (energy) | 1 eV = 6981160217652999999♠ 1.602 176 53 (14) × 10 −19 J |
+| unified atomic mass unit dalton | u Da | mass | 1 u = 1 Da = 6973166053886000000♠ 1.660 538 86 (28) × 10 −27 kg |
+| astronomical unit | ua [ 1 ] [ 2 ] [ 3 ] | length | 1 ua = 7011149597870691000♠ 1.495 978 706 91 (6) × 10 11 m |
+| Natural units (n.u.) |
+| n.u. of speed ( xawaaraha iftiinka meel madhan) | c 0 | xawaare | 7008299792458000000♠ 299 792 458 m / s (exact) [ 4 ] |
+| n.u. of action ( reduced Planck constant ) | ħ | Ficil | 6966105457168000000♠ 1.054 571 68 (18) × 10 −34 J·s |
+| n.u. of mass ( electron mass ) | m e | mug | 6969910938260000000♠ 9.109 3826 (16) × 10 −31 kg |
+| n.u. of time | ħ / m e c 0 2 | wakhti | 6979128808866770000♠ 1.288 088 6677 (86) × 10 −21 s |
+| Halbeega Atomiga (a.u.) |
+| a.u. of charge ( elementary charge ) | e | electric charge | 6981160217652999999♠ 1.602 176 53 (14) × 10 −19 C |
+| a.u. of mass ( electron mass ) | m e | mug | 6969910938260000000♠ 9.109 3826 (16) × 10 −31 kg |
+| a.u. of action ( reduced Planck constant ) | ħ | Ficil | 6966105457168000000♠ 1.054 571 68 (18) × 10 −34 J·s |
+| a.u. of length, bohr ([Bohr radius]) | a 0 | length | 6989529177210800000♠ 0.529 177 2108 (18) × 10 −10 m |
+| a.u. of energy, hartree (awooda Hartree) | E h | awood | 6982435974417000000♠ 4.359 744 17 (75) × 10 −18 J |
+| a.u. Wakhtiga | ħ / E h | wakhti | 6983241888432650500♠ 2.418 884 326 505 (16) × 10 −17 s |

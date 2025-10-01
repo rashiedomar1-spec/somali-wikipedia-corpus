@@ -1,0 +1,38 @@
+title:
+Habariheshay
+
+url:
+https://so.wikipedia.org/wiki?curid=28481
+
+text:
+Habari Heshay waa degmo ka tirsan gobolka Saraar waxayna Caynaba u jirtaa 20km oo ay kaga beegan tahay koonfurta magalada. Waxay ku taalaa dhul daaqsimeed qurux badan. Waxaa dega Beesha reeryoonis oo aasaasay degmada qarnigii 18aad.
+
+Template:Somaliland-geo-stub
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Region**: Sool
+- **District**: Aynabo District
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Habariheshay |
+| --- |
+| Town |
+|  |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Sool" does not exist. |
+| Coordinates: 8°50′21″N 46°24′6″E ﻿ / ﻿ 8.83917°N 46.40167°E ﻿ / 8.83917; 46.40167 Coordinates : 8°50′21″N 46°24′6″E ﻿ / ﻿ 8.83917°N 46.40167°E ﻿ / 8.83917; 46.40167 |
+| Country | Somaliland |
+| Region | Sool |
+| District | Aynabo District |
+| Aag saacadeed | UTC+3 ( EAT ) |
+
+
+
+# Coordinates
+8.83917; 46.40167

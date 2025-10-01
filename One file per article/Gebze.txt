@@ -1,0 +1,21 @@
+title:
+Gebze
+
+url:
+https://so.wikipedia.org/wiki?curid=19825
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;192134&lt;/parentid&gt;
+ &lt;timestamp&gt;2020-10-29T20:38:26Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;CommonsDelinker&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Removing , it has been deleted from Commons by because: per .&lt;/comment&gt;
+ &lt;origin&gt;206722&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Gebze (; , Magacyadii hore loogu aqoon jiray "Dakibyza" iyo Libyssa) waa magaalo ku taalo gobolka Kocaeli ee dalka &lt;a href="Turkiga"&gt;Turkiga&lt;/a&gt;. Gebze waxay masaafo dhan 48km u jirtaa caasimadda &lt;a href="Istanbuul"&gt;Istanbuul&lt;/a&gt; waxaana ku nool dad ku dhow nus malyuun. Gebze waxay saarantahay gacanka İzmit ee &lt;a href="Badda%20Marmara"&gt;Badda Marmara&lt;/a&gt;, waana magaalo aad ugu hormarsan dhanka Warshadaha iyo Tiknoolojiyadda.
+Magaalooyinka la mataanka ah.
+Bishii Nofeember 2014kii, waxaa wada hadal lagu mataanaynayo magaalada &lt;a href="Garoowe"&gt;Garoowe&lt;/a&gt; ee &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt; iyo &lt;a href="Gebze"&gt;Gebze&lt;/a&gt; oo &lt;a href="Turkiga"&gt;Turkiga&lt;/a&gt; ku taalo yeeshay dawladaha hoose ee labada magaalo.

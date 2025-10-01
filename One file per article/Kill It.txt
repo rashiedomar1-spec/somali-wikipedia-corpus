@@ -1,0 +1,43 @@
+title:
+Kill It
+
+url:
+https://so.wikipedia.org/wiki?curid=33573
+
+text:
+Kill It ( Hangul : 킬잇 ; RR : Kirit ) waa taxanaha telefishanka Koonfur Kuuriya ee 2019 oo ay jilayaan Jang Ki-yong iyo Nana . Waxaa laga sii daayay OCN laga bilaabo Maarso 23 illaa Abriil 28, 2019. [ 1 ] [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Hangul**: 킬잇
+- **No. of episodes**: 12
+- **Camera setup**: Sameynta kaamirada keliya
+- **Production company**: Crave Works
+- **Distributor**: lOCN
+- **Original network**: OCN
+- **Picture format**: 1080i ( QSTF )
+- **Audio format**: Dolby Digital
+
+
+# Tables
+
+## Table 1
+| Kill It |
+| --- |
+|  |
+| Hangul | 킬잇 |
+|  |
+| No. of episodes | 12 |
+| Production |
+| Camera setup | Sameynta kaamirada keliya |
+| Production company | Crave Works |
+| Distributor | lOCN |
+| Release |
+| Original network | OCN |
+| Picture format | 1080i ( QSTF ) |
+| Audio format | Dolby Digital |
+| External links |
+| Website |

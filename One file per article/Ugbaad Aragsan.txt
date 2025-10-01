@@ -1,0 +1,31 @@
+title:
+Ugbaad Aragsan
+
+url:
+https://so.wikipedia.org/wiki?curid=34185
+
+text:
+Ugbaad Aragsan waa fannaanad Soomaaliyeed , waxay caan ku tahay heesaha " Dhexdeena Jacaylka Yaal " [ 1 ] iyo " Qoyskaaga Maamulo ". [ 2 ] Waxay ka mid tahay codadka cusub ee sida weyn u soo ifbaxay, iyada oo ku caan baxday isku darka muusiga dhaqanka Soomaaliyeed iyo qaabka casriga ah. heesta aad caan unoqotay waxay ahayd Boqolow. [ 3 ]
+
+Tixraac
+
+
+# Infobox
+
+- **Dhashay**: ( Burco )
+- **Asal**: Soomaaliya
+- **Occupations**: Fannaanad
+- **Qalabka**: Cod
+
+
+# Tables
+
+## Table 1
+| Ugbaad Aragsan |
+| --- |
+| Ugbaad Aragsan 2020 |
+| Macluumaadka asalka |
+| Dhashay | ( Burco ) |
+| Asal | Soomaaliya |
+| Occupations | Fannaanad |
+| Qalabka | Cod |

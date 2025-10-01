@@ -1,0 +1,17 @@
+title:
+Dayaxa uraano
+
+url:
+https://so.wikipedia.org/wiki?curid=13240
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2014-01-14T16:47:31Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Ismail4all&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Redirected page to &lt;a href="Dayaxa%20Uraano"&gt;Dayaxa Uraano&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;124061&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

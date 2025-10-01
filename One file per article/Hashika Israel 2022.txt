@@ -1,0 +1,22 @@
+title:
+Hashika Israel 2022
+
+url:
+https://so.wikipedia.org/wiki?curid=35991
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;233342&lt;/parentid&gt;
+ &lt;timestamp&gt;2023-09-15T09:09:53Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;199.7.157.49&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;/* Waddnamha Hashika Israel */&lt;/comment&gt;
+ &lt;origin&gt;257944&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Hashika Israel 2022
+Wada-hadallada dalalka Jaamacadda Carabta iyo Israa’iil ee 2022-ka, waa tallaabo muhiim ah oo dhexmarta waddamada Carabta iyo Israa’iil
+Waddnamha Hashika Israel.
+_*

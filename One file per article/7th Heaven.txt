@@ -1,0 +1,50 @@
+title:
+7th Heaven
+
+url:
+https://so.wikipedia.org/wiki?curid=32771
+
+text:
+7th Heaven ( 7-aad Jannada ) (sidoo kale loo yaqaanno Seventh Heaven ) waa filim 1927 Mareykan aamusnaan ah oo uu agaasime ka ahaa Frank Borzage, waxaana jilaya Janet Gaynor iyo Charles Farrell.
+
+Harry H. Caldwell
+
+Katharine Hilliker
+
+Bernard Vorhaus
+
+Janet Gaynor
+
+Charles Farrell
+
+Ben Bard
+
+
+# Infobox
+
+- **Directed by**: Frank Borzage
+- **Written by**: Harry H. Caldwell Katharine Hilliker Bernard Vorhaus
+- **Screenplay by**: Benjamin Glazer
+- **Based on**: Seventh Heaven oo Austin Strong
+- **Produced by**: William Fox
+- **Starring**: Janet Gaynor Charles Farrell Ben Bard
+- **Edited by**: Barney Wolf
+- **Distributed by**: Fox Film Corporation
+- **Release date**: Maajo 6, 1927 ( 1927-05-06 )
+
+
+# Tables
+
+## Table 1
+| 7th Heaven |
+| --- |
+|  |
+| Directed by | Frank Borzage |
+| Written by | Harry H. Caldwell Katharine Hilliker Bernard Vorhaus |
+| Screenplay by | Benjamin Glazer |
+| Based on | Seventh Heaven oo Austin Strong |
+| Produced by | William Fox |
+| Starring | Janet Gaynor Charles Farrell Ben Bard |
+| Edited by | Barney Wolf |
+| Distributed by | Fox Film Corporation |
+| Release date | Maajo 6, 1927 ( 1927-05-06 ) |

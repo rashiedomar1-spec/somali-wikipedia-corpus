@@ -1,0 +1,40 @@
+title:
+Ceel Howd
+
+url:
+https://so.wikipedia.org/wiki?curid=32586
+
+text:
+El Howd waa magaalo ka tirsan gobalka Mudug Puntland waxay u jirtaa magalada gaalkacyo 62.4Km
+
+Tixraac
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+https://youtube.com/channel/UCEjwcbyP_H03wx6Oo0QTdbA
+
+
+# Infobox
+
+- **Country**: Somalia
+- **Region**: Mudug
+- **District**: El Howd
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| CeelHowd |
+| --- |
+| Town |
+| Miyiga El Howd |
+|  |
+| CeelHowd Location in Somalia. |
+| Country | Somalia |
+| Region | Mudug |
+| District | El Howd |
+| Dowlada |
+| Aag saacadeed | UTC+3 ( EAT ) |

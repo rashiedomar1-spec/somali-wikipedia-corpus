@@ -1,0 +1,38 @@
+title:
+Nana
+
+url:
+https://so.wikipedia.org/wiki?curid=33513
+
+text:
+Im Jin-ah (dhasay Septeembar 14, 1991), [ 1 ] oo loo yaqaan xirfad ahaan Nana, waa fanaanad u dhalatay Kuuriyada Koonfureed, jilaa iyo moodel, lagu yaqaanay shaqadeeda xubin kooxeed ee kooxda gabdhaha Kuuriyada Koonfureed After School iyo koox -hoosaadyadeeda, Orange Karamel iyo Dugsiga Cas ka dib. Atariishada ahaan, Nana waxay ku jileysay dramaada kala duwan oo telefishan sida Love Weaves Through a Millennium (2015), The Good Wife (2016), Kill It (2019) iyo Justice (2019).
+
+Tixraac
+
+
+# Infobox
+
+- **Ku dhashay**: Im Jin-ah ( 1991-09-14 ) Sebteembar 14, 1991 ( 33jir) Cheongju , Koonfur Kuuriya
+- **Wakiil**: Hybe
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2009–hada
+- **Calaamadaha**: Pledis
+- **Falalka la xiriira**: After School After School Red Orange Karamel
+
+
+# Tables
+
+## Table 1
+| Nana |
+| --- |
+| Nana ee 2019 |
+| Ku dhashay | Im Jin-ah ( 1991-09-14 ) Sebteembar 14, 1991 ( 33jir) Cheongju , Koonfur Kuuriya |
+| Wakiil | Hybe |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2009–hada |
+| Calaamadaha | Pledis |
+| Falalka la xiriira | After School After School Red Orange Karamel |
+|  |

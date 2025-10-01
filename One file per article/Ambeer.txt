@@ -1,0 +1,18 @@
+title:
+Ambeer
+
+url:
+https://so.wikipedia.org/wiki?curid=8369
+
+text:
+Ambeer ama Ampere (calaamad: &lt;a href="Ampere"&gt;A&lt;/a&gt;), oo inta badan lagu soo gaabiyo amp, waa unugga hadda korantada ee &lt;a href="Nidaamka%20Caalamiga%20ah%20ee%20Unugyada"&gt;Nidaamka Caalamiga ah ee Unugyada&lt;/a&gt; (SI). Hal ampere waxa ay la mid tahay 6.241509074×1018 elegteroon qiimihiisu waxa uu dhaafayaa dhibic ilbiriqsi gudaheed.
+Waxaa loo magacaabay ka dib markii xisaabyahan Faransiis ah iyo fisiigis &lt;a href="Andr%C3%A9-Marie%20Amp%C3%A8re"&gt;André-Marie Ampère&lt;/a&gt; (1775-1836), loo arkaa aabbihiis elegteromagneetism oo uu weheliyo physicist Danish Hans Christian Ørsted.
+=Xisaab=
+1 Maayad (ampere) = 1 kulaam\1amin (ilbirisi) 
+formula_1
+Qaanuunka (ohm) sida uu qabo 1 maayad = 1 volt\ ohm
+Tamar-kayd = Maayad X Caabi
+Milli ampere =1000/1 ee maayad.
+Mikro ampere =1000,000/1 ee maayada.
+formula_2
+=Tixraac=

@@ -1,0 +1,39 @@
+title:
+ZTE
+
+url:
+https://so.wikipedia.org/wiki?curid=32169
+
+text:
+Shirkadda ZTE waa shirkad tiknoolajiyad Shiineeys ah oo qeyb ahaan leedahay dowladda kuna takhasustay isgaarsiinta . Waxaa la aasaasay 1985, xarunteeda waxee ku taala Shenzhen Shiinaha [ 1 ]
+
+Tixraac
+
+
+# Infobox
+
+- **ISIN**: CNE1000004Y2
+- **La aasaasay**: 1985
+- **Xarunta**: , Shiinaha
+- **Dakhliga**: 81,471,000,000 (2014)
+- **Dakhliga shaqeeya**: 3,538,000,000 (2014)
+- **Dakhliga saafiga**: 2,634,000,000 (2014)
+- **Dhamaan hantida**: 106,214,000,000 (2014)
+- **Tirada inta ka shaqeeso**: 69,093 (2014)
+- **Website**: [[[:Template:Wdib]] ]
+
+
+# Tables
+
+## ZTE
+|   |
+| --- |
+| ISIN | CNE1000004Y2 |
+| La aasaasay | 1985 |
+| Xarunta | , Shiinaha |
+| Dakhliga | 81,471,000,000 (2014) |
+| Dakhliga shaqeeya | 3,538,000,000 (2014) |
+| Dakhliga saafiga | 2,634,000,000 (2014) |
+| Dhamaan hantida | 106,214,000,000 (2014) |
+| Tirada inta ka shaqeeso | 69,093 (2014) |
+| Website | [[[:Template:Wdib]] ] |

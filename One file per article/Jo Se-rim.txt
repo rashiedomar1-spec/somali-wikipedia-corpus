@@ -1,0 +1,37 @@
+title:
+Jo Se-rim
+
+url:
+https://so.wikipedia.org/wiki?curid=35271
+
+text:
+Jo Se-rim ( Hangul : 조세림; Maajo 18, 2000) oo loo yaqaan Onda (온다), waa heesaa Koonfur Kuuriya ah xubinna ka ah kooxda gabdhaha Everglow . Waxa kale oo ay caan ku tahay inay hore ugu tartantay Idol School. [ 1 ]
+
+Tix
+
+
+# Infobox
+
+- **Magaca dhalashada**: Jo Se-rim 조세림 조세림
+- **Dhashay**: ( 2000-05-18 ) Maajo 18, 2000 ( 25jir)
+- **Nooca fanka**: K-pop
+- **Occupations**: Idol
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2019–hada
+- **Falalka la xiriira**: Everglow
+
+
+# Tables
+
+## Table 1
+| Onda |
+| --- |
+| Jo ee 2024 |
+| Macluumaadka asalka |
+| Magaca dhalashada | Jo Se-rim 조세림 조세림 |
+| Dhashay | ( 2000-05-18 ) Maajo 18, 2000 ( 25jir) |
+| Nooca fanka | K-pop |
+| Occupations | Idol |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2019–hada |
+| Falalka la xiriira | Everglow |

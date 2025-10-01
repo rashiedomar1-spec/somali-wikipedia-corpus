@@ -1,0 +1,32 @@
+title:
+Hong Eun-hee
+
+url:
+https://so.wikipedia.org/wiki?curid=33305
+
+text:
+Hong Eun-hee (dhashay Febraayo 17, 1980) waa atariisho Koonfur Kuuriya. [ 2 ] [ 3 ] [ 4 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1980-02-17 ) Febraayo 17, 1980 ( 45jir)
+- **Sanadaha Shaqada**: 1998–hada
+- **Wakiil**: Namoo Actors
+- **Xaasaska**: Yoo Jun-sang (m. 2003) [ 1 ]
+- **Ilmaha**: 2
+
+
+# Tables
+
+## Table 1
+| Hong Eun-hee |
+| --- |
+|  |
+| Ku dhashay | ( 1980-02-17 ) Febraayo 17, 1980 ( 45jir) |
+| Sanadaha Shaqada | 1998–hada |
+| Wakiil | Namoo Actors |
+| Xaasaska | Yoo Jun-sang (m. 2003) [ 1 ] |
+| Ilmaha | 2 |

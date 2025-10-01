@@ -1,0 +1,22 @@
+title:
+Askandariya
+
+url:
+https://so.wikipedia.org/wiki?curid=36617
+
+text:
+Askandariya (Afka Carabiga ; الإسْكَنْدَرِيَّة ) waa magaalo ku taala Masar , waana caasimada labaad ee dalkaasi, waxeyna magaalo madax u tahay Gobolka Askan
+
+Alexandria
+
+|native_name =
+
+|settlement_type = Metropolis
+
+|image_skyline =
+
+Standard Arabic : Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Egyptian Arabic : Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value).
+
+ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ : Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). ⲣⲁⲕⲟϯ : Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value).
+
+Αλεξάνδρεια : Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Ρακώτις : Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value).

@@ -1,0 +1,20 @@
+title:
+Babyraids Japan
+
+url:
+https://so.wikipedia.org/wiki?curid=33148
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;215072&lt;/parentid&gt;
+ &lt;timestamp&gt;2021-08-11T00:54:55Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;EmausBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;Bot: Migrating 4 interwiki links, now provided by on &lt;/comment&gt;
+ &lt;origin&gt;215114&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Babyraids Japan (ベイビーレイズ JAPAN) wuxuu ahaa koox gabdhaha Jabaan ah.

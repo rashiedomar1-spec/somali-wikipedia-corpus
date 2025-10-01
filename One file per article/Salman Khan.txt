@@ -1,0 +1,36 @@
+title:
+Salman Khan
+
+url:
+https://so.wikipedia.org/wiki?curid=19464
+
+text:
+Cabdul Rashid Salim Salman Khan (dhashay 27 December 1965), [ 3 ] loo yaqaano Salman Khan (loogu dhawaaqo: səlˈmaːn ˈxaːn ), waa atoore , filim soo saare iyo nin caan ku ah jilitaanka filimaanta Hindiga ee Bollywood .
+
+Filim
+
+Bollywood
+
+Hollywood
+
+
+# Infobox
+
+- **Ku dhashay**: Abdul Rashid Salim Salman Khan ( 1965-12-27 ) 27 Diseembar 1965 ( 59jir) Indore, Madhya Pradesh, Hindiya
+- **Degenaansho**: Bandra, Mumbai , Maharashtra, Hindiya [ 1 ]
+- **Shaqada**: Atoore, jilaa, filim soo saare
+- **Sanadaha Shaqada**: 1988–hada
+- **Partner(s)**: Iulia Vântur (2012–hada) [ 2 ]
+
+
+# Tables
+
+## Table 1
+| Salman Khan |
+| --- |
+| Mudane Khan oo jooga goob lagu xayaysiinayo filim 2015 |
+| Ku dhashay | Abdul Rashid Salim Salman Khan ( 1965-12-27 ) 27 Diseembar 1965 ( 59jir) Indore, Madhya Pradesh, Hindiya |
+| Degenaansho | Bandra, Mumbai , Maharashtra, Hindiya [ 1 ] |
+| Shaqada | Atoore, jilaa, filim soo saare |
+| Sanadaha Shaqada | 1988–hada |
+| Partner(s) | Iulia Vântur (2012–hada) [ 2 ] |

@@ -1,0 +1,9 @@
+title:
+Central Africa Time
+
+url:
+https://so.wikipedia.org/wiki?curid=23853
+
+text:
+Waqtiga Afrika Waqtiga, ama CAT, waa aag waqti oo lagu isticmaalo bartamaha iyo koonfurta &lt;a href="Afrika"&gt;Afrika&lt;/a&gt;. Bartamaha Afrika Waqti waa laba saacadood ka hor Iskudhafka Universal Time (UTC + 02: 00), oo la mid ah Koonfur Afrika Waqtiga caadiga ah iyo Waqtiga Bariga Yurub (in kasta oo aagga dambe uu isticmaalo Waqtiga Xagaaga ee Bariga Yurub (UTC + 3) ee sanadka)
+Maadaama aaggani uu ku yaal gobollada iyo kuwa kuleyliya, waxaa jira isbeddel yar oo dhererka maalinlaha ah ee sanadka oo dhan, isla markaasna wakhtiga badbaadinta wakhtiga dayactirka looma arko.

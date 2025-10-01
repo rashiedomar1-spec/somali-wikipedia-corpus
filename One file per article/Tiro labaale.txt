@@ -1,0 +1,8 @@
+title:
+Tiro labaale
+
+url:
+https://so.wikipedia.org/wiki?curid=16998
+
+text:
+Tiro labaale (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: binary numeral system) waa habdhiska tiro labaale lagu isticmaalo &lt;a href="xisaab"&gt;xisaab&lt;/a&gt;ta iyo &lt;a href="saynis"&gt;koombuyuter sayniska&lt;/a&gt; kuwaas oo inta badan la adeegsado qiimaha labo lambar; sida &lt;a href="1"&gt;1&lt;/a&gt; iyo &lt;a href="0"&gt;0&lt;/a&gt;.

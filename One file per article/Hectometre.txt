@@ -1,0 +1,8 @@
+title:
+Hectometre
+
+url:
+https://so.wikipedia.org/wiki?curid=8348
+
+text:
+Hektoomitir waa halbeeg cabireed ay aduunka isticmaalaan wayna yertahay in la adeegsadaa waxaana loo suntaa (hm) waxa ayna udhigantaa 100 &lt;a href="Mitir"&gt;Mitir&lt;/a&gt;

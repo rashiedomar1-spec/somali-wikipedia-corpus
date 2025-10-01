@@ -1,0 +1,33 @@
+title:
+Muhuri webiga
+
+url:
+https://so.wikipedia.org/wiki?curid=23980
+
+text:
+Muhuri webiga
+
+Muhuri waa webi ka baxsan India iyo Bangladesh. Kacsanaanta Tripura, waxay u egtahay Bangladesh halkaasoo ay la mid tahay Feni oo u dhow afkii Bengal. Muhuri waxaa kale oo loo yaqaan 'Little Feni' [1]
+
+sido kale fiiri
+
+
+# Infobox
+
+- **Countries**: India , Bangladesh
+- **State**: Tripura
+- **Source**: Lushai Hills
+
+
+# Tables
+
+## Table 1
+| Muhuri River |
+| --- |
+| Countries | India , Bangladesh |
+| State | Tripura |
+|  |
+|  |
+| Source | Lushai Hills |
+| - location | Tripura |
+|  |

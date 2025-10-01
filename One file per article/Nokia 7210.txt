@@ -1,0 +1,8 @@
+title:
+Nokia 7210
+
+url:
+https://so.wikipedia.org/wiki?curid=36676
+
+text:
+Nokia 7210 waa &lt;a href="taleefoon"&gt;taleefoon&lt;/a&gt; ay leedahay &lt;a href="Nokia"&gt;Nokia&lt;/a&gt;, oo lagu dhisay barnaamijka taxanaha 40aad ee daabacaadda 1aad waxaana karti u leh J2ME (Java). Qalabka waxa ku jira fariimaha qoraalka iyo sawirka, WAP browser, FM radio Stereo, Polifoonik ringtoon, laba ciyaarood oo hore loo rakibay iyo 1.5", 128x128 pikseel, 4,096 midab leh, waana talefankii ugu horreeyay ee Nokia ee suuqa suuqa oo leh muraayad midab leh iyo cod badan. ringtoon (waxay hore ugu jireen Nokia 7650).

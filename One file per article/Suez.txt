@@ -1,0 +1,11 @@
+title:
+Suez
+
+url:
+https://so.wikipedia.org/wiki?curid=33096
+
+text:
+Suez
+magaalada weyn ee Masar electrate -ka Afrika, marin biyoodka kanaalka ee maraakiibta bariga Masar.
+Sido Kale fiiri.
+&lt;a href="Egypt"&gt;Egypt&lt;/a&gt;

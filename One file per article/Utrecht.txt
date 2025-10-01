@@ -1,0 +1,8 @@
+title:
+Utrecht
+
+url:
+https://so.wikipedia.org/wiki?curid=8848
+
+text:
+Utrecht waa magaalad oo kuyaal gobolka &lt;a href="Utrecht%20%28gobol%29"&gt;Utrecht (gobol)&lt;/a&gt; ee dalka &lt;a href="Holland"&gt;Holland&lt;/a&gt;.

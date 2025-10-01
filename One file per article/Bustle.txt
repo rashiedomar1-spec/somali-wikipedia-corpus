@@ -1,0 +1,29 @@
+title:
+Bustle
+
+url:
+https://so.wikipedia.org/wiki?curid=32933
+
+text:
+Bustle waa joornaal haween Mareykan Mareykan ah oo laga aasaasay Ogosto 2013 Bryan Goldberg.  Waxay meel dhigtaa wararka iyo siyaasadda oo ay weheliso qodobbo ku saabsan quruxda, dadka caanka ah. [ 1 ] Markay ahayd Sebtember 2016, degelku wuxuu lahaa 50 milyan oo akhristayaal bille ah. [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Editor-in-chief**: Emma Rosenblum
+- **Language**: Ingiriis
+- **Country**: Mareykanka
+- **Website**: bustle.com
+
+
+# Tables
+
+## Bustle
+|   |
+| --- |
+| Editor-in-chief | Emma Rosenblum |
+| Language | Ingiriis |
+| Country | Mareykanka |
+| Website | bustle.com |

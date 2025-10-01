@@ -1,0 +1,53 @@
+title:
+Yemeni rial
+
+url:
+https://so.wikipedia.org/wiki?curid=24002
+
+text:
+Riyal ama riyaal waa lacagta Yaman. Waxaa farsamo ahaan loo kala qaybiyay 100 fuud, inkastoo lacagta lagu shubo fiilooyinka aan la soo saarin tan iyo markii ay midoobeen Yemen.
+
+Sido kale fiiri
+
+
+# Infobox
+
+- **ISO 4217 fure**: YER
+- **Bankiga dhexe**: Central Bank of Yemen
+- **Adeegsade**: Yemen
+- **Sicir barar**: 12.2%
+- **Sumad**: ﷼
+
+
+# Tables
+
+## Table 1
+| Yemeni rial |
+| --- |
+| ريال يمني ( Af-Carabi ) |
+| ISO 4217 fure | YER |
+| Bankiga dhexe | Central Bank of Yemen |
+| Website | [http:// www.centralbank.gov.ye www.centralbank.gov.ye ] |
+| Adeegsade | Yemen |
+| Sicir barar | 12.2% |
+| Ilaha warbixinta | 2010 est [ 1 ] |
+| Superunit |  |
+| 10 | dinar |
+| Qaybaha |  |
+| 1/100 | fils |
+| Sumad | ﷼ |
+|  | 1, 5, 10, 20 rials |
+|  | 50, 100, 200, 250, 500, 1000 rials |
+
+## Table 2
+| Currently circulating banknotes (1994-2009) |
+| --- |
+| Image | Value | Main Colour | Description | Date of |
+| Obverse | Reverse | Obverse | Reverse | Printing | Issue |
+|  |  | 50 rials | Olive-green | Bronze statue of Ma'adkarib | Shibam city, Hadramaut | 1994 |  |
+|  |  | 100 rials | Purple | Ancient culverts, Aden | Sana'a | 1993 |  |
+|  |  | 200 rials | Green | Alabaster sculpture | Mukalla | 1996 |  |
+|  |  | 250 rials | Orange & blue | Al-Saleh mosque , Sana'a | Mukalla | 2009 | November 14, 2009 |
+|  |  | 500 rials | Blue | Dar al-Hajr (Palace of the Rock) | Al-Muhtar mosque, Tarim | 2007 |  |
+|  |  | 500 rials | Blue | Al-Muhar mosque, Tarim | Dar al-Hajar (Palace of the Rock) | 2017 |  |
+|  |  | 1,000 rials | Green & yellow | Seiyun Palace , Hadhramaut | Bab al-Yaman gate, San'a | 2009 2012 2017 | August 2010 |

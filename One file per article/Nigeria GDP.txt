@@ -1,0 +1,21 @@
+title:
+Nigeria GDP
+
+url:
+https://so.wikipedia.org/wiki?curid=35044
+
+text:
+1960.
+ 4 Billion dollar
+1970.
+12.5 Billion
+1980.
+164 Billion dollars
+1990.
+49 Billion dollars
+2000.
+69 Billion dollars
+2010.
+361 Billion dollar
+2020.
+448 Billion Dollar

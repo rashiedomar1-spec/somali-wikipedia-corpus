@@ -1,0 +1,10 @@
+title:
+Wiki
+
+url:
+https://so.wikipedia.org/wiki?curid=1994
+
+text:
+Somalia waa nin kali ah waana aniga
+
+'

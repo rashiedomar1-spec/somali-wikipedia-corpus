@@ -1,0 +1,9 @@
+title:
+Manchester
+
+url:
+https://so.wikipedia.org/wiki?curid=3453
+
+text:
+Manchester &lt;a href="Yurub"&gt;Yurub&lt;/a&gt;
+Manchester waa magaaladda oo kuyaalo dalka &lt;a href="Ingriiska"&gt;Ingriiska&lt;/a&gt;.

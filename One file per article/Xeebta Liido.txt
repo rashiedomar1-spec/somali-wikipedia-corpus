@@ -1,0 +1,24 @@
+title:
+Xeebta Liido
+
+url:
+https://so.wikipedia.org/wiki?curid=35547
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;235896&lt;/parentid&gt;
+ &lt;timestamp&gt;2024-08-07T09:12:50Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;195.143.129.232&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;266109&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Xeebta Liido
+Ama: Mogadishu magallada
+Ama: bari africa
+Xeebta Liido ama "Lido" waa xeeb ku taal caasimadda Soomaaliya ee &lt;a href="Muqdisho"&gt;Muqdisho&lt;/a&gt;, taasoo indha-indhaysa &lt;a href="Xeebta%20Soomaaliya"&gt;badda Soomaaliya&lt;/a&gt;. Magaca "Liido" wuxuu ka yimid erayga Talyaaniga ee "xeeb".
+Maanta, boqolaal qoys ayaa si nasasho ah ugu yimaada xeebaha Muqdisho usbuuc kasta.  Dadku waxa ay ku sugan yihiin xeebta Liido oo ka soo gudubtay maqribkii si ay u daawadaan hawada sare ee habeenka iyo badweynta buluuga ah.
+Soomaaliya waxay leedahay xeebta ugu dheer Afrika ee ku teedsan badweynta Hindiya, taasoo hoy u ah xeebo soo jiidasho leh oo qiimo u leh dalxiiska.  Si Soomaaliya looga dhigo mid ka mid ah meelaha ugu madadaalada iyo dalxiiska badan ee Afrika, Xeebta Liido waxay leedahay maqaayado, hoteello, iyo jardiinooyin. Hudheelka ugu caansan waa &lt;a href="Elite%20Hotel"&gt;Elite&lt;/a&gt;.
+Xeebta ayaa door muhiim ah ka ciyaarta dib u soo kabashada magaalada Muqdisho, dhismaha magaalada dhexdeeda ee raaxada iyo waxyaabo kale oo soo jiita dalxiisayaasha caalamiga ah. Waxaa jira meherado badan oo dhawaan la aasaasay.

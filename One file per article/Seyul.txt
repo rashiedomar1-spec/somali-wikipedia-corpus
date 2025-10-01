@@ -1,0 +1,29 @@
+title:
+Seyul
+
+url:
+https://so.wikipedia.org/wiki?curid=5953
+
+text:
+South Korea
+
+Asia
+
+caasimada korea ee Aasiya, magaalooyin waaweyn oo leh Tokyo iyo magaalooyin waawayn oo udhaw caasimada Beijing, caasimada koonfurta korea, bariga Asia,
+koonfurta korea magaalooyin waaweyn oo leh dad aad u tiro badan
+
+sido Kale fiiri
+
+South Korean won
+
+
+# Tables
+
+## Table 1
+| Seoul 서울시 |
+| --- |
+| Special City |
+| Seoul Special City 서울특별시 |
+|  |
+| Seal of Seoul |
+| Seoul Map of South Korea with Seoul highlighted |

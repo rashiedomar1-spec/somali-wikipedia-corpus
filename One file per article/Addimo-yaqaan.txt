@@ -1,0 +1,8 @@
+title:
+Addimo-yaqaan
+
+url:
+https://so.wikipedia.org/wiki?curid=5186
+
+text:
+Addimo-yaqaan waa dhaqtarka qaabilsan daaweynta cudurrada addimada sida &lt;a href="laf"&gt;laf&lt;/a&gt;aha, &lt;a href="Muruq"&gt;Muruq&lt;/a&gt;yada, iwm.

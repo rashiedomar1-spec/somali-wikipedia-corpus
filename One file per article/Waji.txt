@@ -1,0 +1,8 @@
+title:
+Waji
+
+url:
+https://so.wikipedia.org/wiki?curid=4836
+
+text:
+Waji waxaa ladhahaa wajiga hore ee &lt;a href="Madax"&gt;Madax&lt;/a&gt;a, waxoona ka koobanyahay &lt;a href="San"&gt;San&lt;/a&gt;ka, &lt;a href="Indho"&gt;Indhaha&lt;/a&gt;, &lt;a href="Af"&gt;Af&lt;/a&gt;ka, &lt;a href="Gar"&gt;Gar&lt;/a&gt;ka iyo &lt;a href="Fool"&gt;Fool&lt;/a&gt;ka.

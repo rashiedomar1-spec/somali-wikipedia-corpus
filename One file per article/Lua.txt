@@ -1,0 +1,10 @@
+title:
+Lua
+
+url:
+https://so.wikipedia.org/wiki?curid=36658
+
+text:
+"Akhriska sii wad: &lt;a href="w%3Asimple%3ALua"&gt;Lua&lt;/a&gt;"
+"Si aad u isticmaasho luqadda barnaamijka ee Wikipedia, eeg "
+&lt;a href="Lua"&gt;Lua&lt;/a&gt; waa luuqad &lt;a href="barnaamijeed%20il%20furan"&gt;barnaamijeed il furan&lt;/a&gt;. Waxaa la abuuray 1993 &lt;a href="Roberto%20Ierusalimschy"&gt;Roberto Ierusalimschy&lt;/a&gt;, Luiz Henrique de Figueiredo, iyo Waldemar Celes. Lua waxaa loo isticmaalaa waxyaabo badan oo kala duwan, gaar ahaan ciyaaraha fiidiyowga sida World of Warcraft, SimCity 4 iyo Transformice. Waxa kale oo lagu isticmaalaa shabakada caanka ah ee wadaaga adduunka ee Roblox oo hoos timaada lahjad lagu magacaabo Luau. Bishii Juun 2010, &lt;a href="Apple%20Inc"&gt;Apple Inc&lt;/a&gt;. waxay beddeshay shuruudaha isticmaalka qalabka horumarinta software ee nidaamka hawlgalka iOS si loogu oggolaado isticmaalka Lua. Tani waxay keentay in Lua loo isticmaalo samaynta codsiyada iPhone sida Angry Birds. Bishii &lt;a href="Juun"&gt;Juun&lt;/a&gt; 2011, Lua waxa ay gashay kaalinta tobnaad ee barnaamijka ugu caansan ee TiOBE Index.

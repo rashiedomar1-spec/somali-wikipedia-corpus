@@ -1,0 +1,8 @@
+title:
+Bareedo
+
+url:
+https://so.wikipedia.org/wiki?curid=7048
+
+text:
+Bareedo waa degmo ku taalo gobolka &lt;a href="Bari%20%28Gobol%29"&gt;Bari&lt;/a&gt;

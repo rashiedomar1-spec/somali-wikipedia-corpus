@@ -1,0 +1,18 @@
+title:
+Kuweyt
+
+url:
+https://so.wikipedia.org/wiki?curid=23692
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;174041&lt;/parentid&gt;
+ &lt;timestamp&gt;2018-09-22T13:31:32Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Trauenbaum&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog loo bedeley &lt;a href="Kuwayt"&gt;Kuwayt&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;180961&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

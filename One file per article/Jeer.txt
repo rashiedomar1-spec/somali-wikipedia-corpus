@@ -1,0 +1,31 @@
+title:
+Jeer
+
+url:
+https://so.wikipedia.org/wiki?curid=4850
+
+text:
+Jeer ( Hippopotamus amphibious ) waa xayawaan ku nool biyaha iyo berrigaba oo Naasley ah. Waxay u badan tahay webiyada. Waa xayawaan ku nool dhulka Saxaraha ka hooseeya ee Afrika. Waa xayawaanka saddexaad ee berri-ku-noosha ugu miisaanka culus isagoo weliba aad uga gaaban geriga. Jeertu waxay ku nooshahay webiyada iyo harooyinka.
+
+Maalintii inta badan waxay ku dhexjirtaa biyaha. Waxay ku rintaa (ku orgootaa) oo ku dhashaa biyaha dhexdooda. Waxay isu raacdaa kooxkoox.
+
+
+# Tables
+
+## Table 1
+| Jeer |
+| --- |
+|  |
+| Jeer laga sawiray Tansaaniya |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Animalia |
+| Qaybinta: | Chordata |
+| Gacalka: | Mammalia |
+| Dirka: | Artiodactyla |
+| Bahka: | Hippopotamidae |
+| Duulka: | Hippopotamus |
+| Noocyada: | H. amphibius |
+| Magaca laba-geesoodka ah |
+| Hippopotamus amphibius Liniyus (1758) |
+|  |
+| Meelaha laga heli karo Jeer |

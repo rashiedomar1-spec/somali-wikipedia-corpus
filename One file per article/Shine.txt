@@ -1,0 +1,38 @@
+title:
+Shine
+
+url:
+https://so.wikipedia.org/wiki?curid=33094
+
+text:
+Shine waa riwaayad 2020 ah oo ay qortay heesaaga reer Kuuriya-Ameerika Jessica Jung . Jung, oo hore xubin uga ahayd kooxaha gabdhaha Girls' Generation , ayaa lagu dhiirrigeliyay inay qorto buugga iyadoo ku saleyneysa waaya-aragnimadeeda sida heesaha K-pop , oo 13+ sano ka shaqeyneysay warshadaha. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Qoraa**: Jessica Jung
+- **Dalka**: Mareykanka
+- **Luqada**: Ingiriis
+- **Daabacaha**: Simon & Schuster
+- **Taariikhda Daabacaadda**: Sebteembar 29, 2020 ( 2020-09-29 )
+- **Boggag**: 352
+- **ISBN**: Template:ISBNT
+- **Ku xigay**: Bright
+- **Qoraalka asalka**: Shine at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource
+
+
+# Tables
+
+## Shine
+| Qoraa | Jessica Jung |
+| --- | --- |
+| Dalka | Mareykanka |
+| Luqada | Ingiriis |
+| Daabacaha | Simon & Schuster |
+| Taariikhda Daabacaadda | Sebteembar 29, 2020 ( 2020-09-29 ) |
+| Boggag | 352 |
+| ISBN | Template:ISBNT |
+| Ku xigay | Bright |
+| Qoraalka asalka | Shine at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource |

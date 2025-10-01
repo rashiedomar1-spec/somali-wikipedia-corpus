@@ -1,0 +1,33 @@
+title:
+22 (Heesta Taylor Swift)
+
+url:
+https://so.wikipedia.org/wiki?curid=30336
+
+text:
+" 22 " waa hees ay duubtay heesaaga caanka ah ee Mareykan ah Taylor Swift oo loogu talagalay albumkeeda afaraad, Red (2012).
+
+disco
+
+Pop
+
+bubblegum pop
+
+Big Machine
+
+
+# Infobox
+
+- **Nooca fanka**: disco Pop bubblegum pop
+- **Calaamadaha**: Big Machine
+- **Website**: taylor-swift.com
+
+
+# Tables
+
+## Table 1
+| 22 |
+| --- |
+| Nooca fanka | disco Pop bubblegum pop |
+| Calaamadaha | Big Machine |
+| Website | taylor-swift.com |

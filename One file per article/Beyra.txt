@@ -1,0 +1,48 @@
+title:
+Beyra
+
+url:
+https://so.wikipedia.org/wiki?curid=20403
+
+text:
+Beyra waa magaalo yar oo ku taala waqooyiga gobolka Mudug ee wadanka Soomaaliya . Sida caadiga ah waxay magaaladani dhacdaa meel u dhaxaysa Galdogob iyo Gaalkacyo , waxayna hoos tegtaa maamulka Puntland .
+
+Sidoo kale fiiri
+
+Xigasho
+
+Tixraac
+
+Liiska magaalooyinka Soomaaliya dadka ku nool
+
+Liiska magaalooyinka Soomaaliya
+
+Beyra, Somalia
+
+Administrative map of Mudug
+
+Climate of Beyra
+
+Satellite images of Beyra
+
+Cagaaran
+
+
+# Infobox
+
+- **Wadanka**: Somalia Puntland
+- **Gobol**: Mudug
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Beyra |
+| --- |
+| Magaalo |
+|  |
+| Beyra Meesha ay ka dhacdo Soomaaliya. |
+| Wadanka | Somalia Puntland |
+| Gobol | Mudug |
+| Aag saacadeed | UTC+3 ( EAT ) |

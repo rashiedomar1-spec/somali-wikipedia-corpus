@@ -1,0 +1,28 @@
+title:
+Guruubka 1
+
+url:
+https://so.wikipedia.org/wiki?curid=12953
+
+text:
+Guruubka 1aad &gt; &lt;a href="Guruubka%202"&gt;G 2aad&lt;/a&gt;
+Guruubka 1aad waa &lt;a href="Birta%20Alkali"&gt;Birta Alkali&lt;/a&gt; oo ah guuto &lt;a href="curiye"&gt;curiye&lt;/a&gt;yaal &lt;a href="bir"&gt;bir&lt;/a&gt; ah kuwaas oo leh astaamo kimiko isku mid ah. 
+Guruubka Birta Alkali waa &lt;a href="curiye"&gt;lix curiye&lt;/a&gt; ee &lt;a href="guruubka%201"&gt;guruubka 1&lt;/a&gt;aad ee &lt;a href="Diwaanka%20Curiye"&gt;Diwaanka Curiye&lt;/a&gt; kuwaas oo kala ah: &lt;a href="Liithiyaam"&gt;Liithiyaam&lt;/a&gt; (&lt;a href="Li"&gt;Li&lt;/a&gt;), &lt;a href="Sodhiyaam"&gt;Sodhiyaam&lt;/a&gt; (&lt;a href="Na"&gt;Na&lt;/a&gt;), &lt;a href="Botashiyaam"&gt;Botashiyaam&lt;/a&gt; (&lt;a href="K"&gt;K&lt;/a&gt;), &lt;a href="Rubiidhiyaam"&gt;Rubiidhiyaam&lt;/a&gt; (&lt;a href="Rb"&gt;Rb&lt;/a&gt;), &lt;a href="Kaasiyaam"&gt;Kaasiyaam&lt;/a&gt; (&lt;a href="Cs"&gt;Cs&lt;/a&gt;) iyo &lt;a href="Faransiyaam"&gt;Faransiyaam&lt;/a&gt; (&lt;a href="Fr"&gt;Fr&lt;/a&gt;). 
+Curiyayaasha safkan &lt;a href="guruubka%201"&gt;guruubka 1&lt;/a&gt;aad waxaa loo yaqaanaa &lt;a href="s-block"&gt;s-block&lt;/a&gt; sababtoo ah dhamaantood waxay leeyihiin elektaroono qolof-sare u wareega "s" (s-orbital). 
+Sidoo kale, curiyeyaasha Birta Alkali waxay leeyihiin dhaqan isku dhow: dhamaantood waa bir iftiimaysa, jilicsan, isla markaana aad u firfircoon oo leh &lt;a href="falgal"&gt;falgal&lt;/a&gt; degdeg ah. Dhamaantood waxa lagu kala jari karaa [[midi]da jileec darteed, si dhakhso badan ayayna u [[daxal]]eeystaan sababtoo ah waxay la falgalaan [[Ogsajiin]]. 
+Firfircoonida falgalkooda darteed, ayaa waxa lagu dhex keeydiyaa [[saliid]]a si looga ilaaliyo [[hawo|hawada]], waxaana sida dabiiciga ah la helaa ayagoo [[isku dhis]]yo kala duwan ah sida [[cusbo|cusbada]]. 
+Sidoo kale, curiyeyaasha birta alkali waa [[milme]] si fudud ugu dhex milma [[biyo|biyaha]]. 
+[[Category:Bir Ma Ahe]]
+[[Category:Halogen]]
+[[Category:Noble Gas]]
+[[Category:Bir la mood]]
+[[Category:Bir Ma Ahe]]
+[[Category:Isku dhis]]
+[[Category:Baayooloji]]
+[[Category:Falgal]]
+[[Category:Birta Alkali]]
+[[Category:Bir]]
+[[Category:Bir la mood]]
+[[Category:Curiye]]
+[[Category:Diwaanka Curiye]]
+[[Category:Guruubyada Diwaanka Curiye]]

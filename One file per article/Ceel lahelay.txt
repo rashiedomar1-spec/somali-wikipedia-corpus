@@ -1,0 +1,8 @@
+title:
+Ceel lahelay
+
+url:
+https://so.wikipedia.org/wiki?curid=30405
+
+text:
+Ceel lahelay waa deegaan ka tirsan degmada &lt;a href="xudur"&gt;xudur&lt;/a&gt; ee gobolka &lt;a href="Bakool"&gt;Bakool&lt;/a&gt;

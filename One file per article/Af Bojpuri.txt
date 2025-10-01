@@ -1,0 +1,84 @@
+title:
+Af Bojpuri
+
+url:
+https://so.wikipedia.org/wiki?curid=40984
+
+text:
+Far-Hindi
+|Kaithi
+
+Bojpuri waa luqad Hindi-Aryaan ah oo laga hadlo Hindiya iyo Nebal . Qaar oo qurbajoogga Hindiya way ku hadlaan Bojpuri . Waa lagu qoraa far-Hindi.
+
+Maalmaha
+
+Tixraac
+
+Hindi-Iraanian ah Hindi-Aryaan Luqadaha Hindi-Aryaan Barigga Bihari Bojpuri
+
+Hindi-Aryaan Luqadaha Hindi-Aryaan Barigga Bihari Bojpuri
+
+Luqadaha Hindi-Aryaan Barigga Bihari Bojpuri
+
+Bihari Bojpuri
+
+Bojpuri
+
+Magadhan Apabhraṃśa Abahattha Bojpuri
+
+Abahattha Bojpuri
+
+Bojpuri
+
+
+# Infobox
+
+- **Dhalad u ah**: Hindiya and Nebal
+- **Gobolka**: Bhojpur-Purvanchal
+- **Qoomiyada**: Bhojpuriya
+- **Qoyska luqada**: Hindi-Iraanian ah Hindi-Aryaan Luqadaha Hindi-Aryaan Barigga Bihari Bojpuri
+- **Early forms:**: Magadhi Prakrit Magadhan Apabhraṃśa Abahattha Bojpuri
+- **Dialects**: Northern Standard Bhojpuri Western Standard Bhojpuri Southern Standard Bhojpuri Domra Musahari Caribbean Hindustani · Trinidadian Hindustani · Guyanese Hindustani · Sarnami Hindoestani Nagpuriya Bhojpuri Fiji Hindi Mauritian Bhojpuri [ 3 ] South African Bhojpuri (Naitali) [ 4 ] Bojpuri Holandees
+- **Hab qoraalka**: {{unbulleted list Far-Hindi
+|Kaithi }}
+- **Ka ah Luqad rasmi**: Fiji Nebal
+- **ka ah luuqadaha la aqoonsaday ee laga tirada badan yahay**: Jharkhand ee Hindiya [ 5 ] Mauritius
+- **ISO 639-2**: bho
+- **ISO 639-3**: bho
+- **Luqadda la adeegsado**: 59-AAF-sa
+
+
+# Tables
+
+## Table 1
+| Bojpuri |
+| --- |
+| भोजपुरी · 𑂦𑂷𑂔𑂣𑂳𑂩𑂲 · Bhojpuri |
+| Ereyga Bojpuri oo lagu qoray Far-Hindi |
+| Dhalad u ah | Hindiya and Nebal |
+| Gobolka | Bhojpur-Purvanchal |
+| Qoomiyada | Bhojpuriya |
+| Qoyska luqada | Hindi-Iraanian ah Hindi-Aryaan Luqadaha Hindi-Aryaan Barigga Bihari Bojpuri |
+| Early forms: | Magadhi Prakrit Magadhan Apabhraṃśa Abahattha Bojpuri |
+| Dialects | Northern Standard Bhojpuri Western Standard Bhojpuri Southern Standard Bhojpuri Domra Musahari Caribbean Hindustani · Trinidadian Hindustani · Guyanese Hindustani · Sarnami Hindoestani Nagpuriya Bhojpuri Fiji Hindi Mauritian Bhojpuri [ 3 ] South African Bhojpuri (Naitali) [ 4 ] Bojpuri Holandees |
+| Hab qoraalka | {{unbulleted list Far-Hindi
+|Kaithi }} |
+| Xaalada Rasmiga |
+| Ka ah Luqad rasmi | Fiji Nebal |
+| ka ah luuqadaha la aqoonsaday ee laga tirada badan yahay | Jharkhand ee Hindiya [ 5 ] Mauritius |
+| Koodka luqada |
+| ISO 639-2 | bho |
+| ISO 639-3 | bho |
+| Luqadda la adeegsado | 59-AAF-sa |
+| Meelaha Bojpuri laga hadlo |
+
+## Table 2
+| Somali | English | Bhojpuri (Latin script) | भोजपुरी (देवनागरी लिखाई) |
+| --- | --- | --- | --- |
+| Axad | Sunday | Eitwaar | एतवार |
+| Isniin | Monday | Somaar | सोमार |
+| Talaado | Tuesday | Mangar | मंगर |
+| Arbaco | Wednesday | Budhh | बुध |
+| Khamiis | Thursday | Biphey | बियफे |
+| Jimco | Friday | Shuk | शुक |
+| Sabti | Saturday | Sanichar | सनिचर |

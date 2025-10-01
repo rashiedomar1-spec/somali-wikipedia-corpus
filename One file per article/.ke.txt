@@ -1,0 +1,8 @@
+title:
+.ke
+
+url:
+https://so.wikipedia.org/wiki?curid=12078
+
+text:
+.ke waa furaha &lt;a href="Internet"&gt;Internet&lt;/a&gt;ka ee dalka ee &lt;a href="Kiinya"&gt;Kiinya&lt;/a&gt;.

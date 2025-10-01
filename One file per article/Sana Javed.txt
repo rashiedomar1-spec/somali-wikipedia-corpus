@@ -1,0 +1,33 @@
+title:
+Sana Javed
+
+url:
+https://so.wikipedia.org/wiki?curid=30326
+
+text:
+Sana Javed waa jila u dhalatay Pakistan. Sana wuxuu jilay doorkii hogaaminta Sanam Ali Khan isaga iyo Feroze Khan filimkii taxanaha ahaa ee Khaani . Waxay sidoo kale sameysay filimkeedii ugu horreeyay filimka 'social-comedy Mehrunisa V Lub ' sanadkii 2017.
+
+Filmography
+
+
+# Infobox
+
+- **Ku dhashay**: 23 Maarso 1993 (27 jir) Jeddah
+- **Dhalsho**: Pakistani
+- **Heerka Aqoonta**: University of Karachi
+- **Shaqada**: Jila
+- **Sanadaha Shaqada**: 2012–present
+- **Television**: Khaani (2017-2018) Romeo Weds Heer (2018) Pyarey Afzal (2014) Ruswai (2019-2020)
+
+
+# Tables
+
+## Table 1
+| Sana Javed |
+| --- |
+| Ku dhashay | 23 Maarso 1993 (27 jir) Jeddah |
+| Dhalsho | Pakistani |
+| Heerka Aqoonta | University of Karachi |
+| Shaqada | Jila |
+| Sanadaha Shaqada | 2012–present |
+| Television | Khaani (2017-2018) Romeo Weds Heer (2018) Pyarey Afzal (2014) Ruswai (2019-2020) |

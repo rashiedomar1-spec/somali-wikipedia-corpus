@@ -1,0 +1,43 @@
+title:
+Syrian pound
+
+url:
+https://so.wikipedia.org/wiki?curid=24001
+
+text:
+Lacagta Suuriya - Syrian pound
+
+Lacagta Siiriya ama Siiriyaanka Suuriya (Carabiga: الليرة السورية al-līra as-sūriyya; Faransiiska: syrienne; sign: LS ama £ S; code: SYP) waa lacagta Syria iyo waxaa soo saaray Bangiga Dhexe ee Suuriya. Lacagtan waxaa loo kala qaybiyaa 100 qaddar (Carabi: Qashqashaad: xuduudaha, qurxinta, bastooladaha Ingiriis ama Faransiis), inkastoo lacagta qadaadiicda aan la sii bixinin.
+Ka hor 1947, erayga qirsh waxaa lagu qoray xarafka hore ee carabiga ah, ka dib markii ereyga uu bilaabmay. Ilaa 1958, warqado lacag ah ayaa la soo saaray Carabiga ku yaalla geesaha iyo Faransiiska ee dhinaca dambe. Ka dib 1958, Ingiriis ayaa loo isticmaalay dib u celinta, sidaa darteed saddexda magacyo kala duwan ee lacagtaas. Qadaadi waxay u adeegsadeen Carabi iyo Faransiis ilaa laga xoroobo, ka dibna kaliya Carabi.
+
+sido kale fiiri
+
+Suuriya
+
+
+# Infobox
+
+- **ISO 4217 fure**: SYP
+- **Bankiga dhexe**: Central Bank of Syria
+- **Adeegsade rasmi ah**: Syria
+- **Adeegsade aan rasmi ahayn)**: Template:Country data Rojava Template:Country data Syrian opposition Template:Country data Islamic State of Iraq and the Levant
+- **Sicir barar**: 47.7%
+
+
+# Tables
+
+## Table 1
+| Syrian pound |
+| --- |
+| الليرة السورية (Carabi) |
+| ISO 4217 fure | SYP |
+| Bankiga dhexe | Central Bank of Syria |
+| Website | [http:// Banque Centrale Syria Banque Centrale Syria ] |
+| Adeegsade rasmi ah | Syria |
+| Adeegsade aan rasmi ahayn) | Template:Country data Rojava Template:Country data Syrian opposition Template:Country data Islamic State of Iraq and the Levant |
+| Sicir barar | 47.7% |
+| Ilaha warbixinta | The World Factbook , 2016 est. |
+| Qaybaha |  |
+| 1 ⁄ 100 | piastre |
+|  | 1, 2, 5, 10, 25 pounds |
+|  | 50, 100, 200, 500, 1000, 2000 pounds |

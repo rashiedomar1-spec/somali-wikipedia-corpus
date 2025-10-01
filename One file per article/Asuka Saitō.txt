@@ -1,0 +1,34 @@
+title:
+Asuka Saitō
+
+url:
+https://so.wikipedia.org/wiki?curid=33132
+
+text:
+Asuka Saitō waa fanaanad reer Jabaan ah iyo atariisho ah qayb ahaan asal ahaan Burma .
+
+
+# Infobox
+
+- **Magaca Saxda**: 齋藤 飛鳥
+- **Ku dhashay**: ( 1998-08-10 ) Agoosto 10, 1998 ( 27jir) Tokyo , Jabaan
+- **Sanadaha Shaqada**: 2007–hada
+- **Nooca fanka**: J-pop
+- **Qalabka**: Cod Durbaan
+- **Falalka la xiriira**: Nogizaka46
+
+
+# Tables
+
+## Table 1
+| Asuka Saitō |
+| --- |
+| Saitō ee 2018 |
+| Magaca Saxda | 齋藤 飛鳥 |
+| Ku dhashay | ( 1998-08-10 ) Agoosto 10, 1998 ( 27jir) Tokyo , Jabaan |
+| Sanadaha Shaqada | 2007–hada |
+| Xirfad muusik |
+| Nooca fanka | J-pop |
+| Qalabka | Cod Durbaan |
+| Falalka la xiriira | Nogizaka46 |
+|  |

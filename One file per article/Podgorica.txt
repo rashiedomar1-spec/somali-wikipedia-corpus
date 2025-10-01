@@ -1,0 +1,71 @@
+title:
+Podgorica
+
+url:
+https://so.wikipedia.org/wiki?curid=29830
+
+text:
+Podgorica ama bodgorisa waa caasimada wadanka Montenegro
+
+
+# Infobox
+
+- **Country**: Montenegro
+- **Municipality**: Podgorica
+- **Founded**: Before 11th century
+- **• Mayor**: Ivan Vuković ( DPS )
+- **• Ruling coalition**: DPS- SD
+- **Area**: 108 km 2 (42 sq mi)
+- **• Metro**: 1,441 km 2 (556 sq mi)
+- **Joogga**: 40 m (130 ft)
+- **• Urban**: 150,917
+- **• Rural**: 35,020
+- **• Caasimada Metro**: 185,937
+- **Magac kale**: Podgoričanin (male) Podgoričanka (female)
+- **Aag saacadeed**: UTC+01:00 ( CET )
+- **Postal code**: 81 000 – 81 124
+- **Furaha**: +382 20
+- **License plate**: PG
+- **Website**: Podgorica Capital City
+
+
+# Tables
+
+## Table 1
+| Podgorica Подгорица |
+| --- |
+| City |
+| City of Podgorica Град Подгорица |
+| Template:Nobreak panoramic view, Republic Square, Dajbabska Gora Tower , Montenegrin National Theatre building, Telenor Centre, Moscow and Millenium bridges |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |
+|  |  |
+|  |  |
+|  |
+| Flag Coat of arms |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Montenegro" does not exist. |
+| Coordinates: 42°26′28.63″N 19°15′46.41″E ﻿ / ﻿ 42.4412861°N 19.2628917°E ﻿ / 42.4412861; 19.2628917 Coordinates : 42°26′28.63″N 19°15′46.41″E ﻿ / ﻿ 42.4412861°N 19.2628917°E ﻿ / 42.4412861; 19.2628917 |
+| Country | Montenegro |
+| Municipality | Podgorica |
+| Founded | Before 11th century |
+| Dowlada |
+| • Mayor | Ivan Vuković ( DPS ) |
+| • Ruling coalition | DPS- SD |
+| Area | 108 km 2 (42 sq mi) |
+| • Metro | 1,441 km 2 (556 sq mi) |
+| Joogga | 40 m (130 ft) |
+| Tirada dadka (2011) [ 1 ] |
+| • Urban | 150,917 |
+| • Rural | 35,020 |
+| • Caasimada Metro | 185,937 |
+| Magac kale | Podgoričanin (male) Podgoričanka (female) |
+| Aag saacadeed | UTC+01:00 ( CET ) |
+| Postal code | 81 000 – 81 124 |
+| Furaha | +382 20 |
+| License plate | PG |
+| Website | Podgorica Capital City |
+
+
+
+# Coordinates
+42.4412861; 19.2628917

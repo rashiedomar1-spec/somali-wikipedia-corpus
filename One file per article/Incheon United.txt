@@ -1,0 +1,45 @@
+title:
+Incheon United
+
+url:
+https://so.wikipedia.org/wiki?curid=35143
+
+text:
+Kubedka koonfur korea , waddanaka kubedka incheon united magcagka ,kubedka
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Incheon United Football Club 인천 유나이티드 프로축구단
+- **Naaneys**: Mariners
+- **Magac kooban**: IUFC
+- **La aasaasay**: 2003 ; 22 sano ka hor ( 2003 )
+- **Garoon**: Incheon Football Stadium (capacity: 20,891)
+- **Milkiilaha**: Incheon Government
+- **Gudoomiyaha**: Mayor of Incheon
+- **Maamulaha**: Kim Han-yoon
+- **Horyaalka**: K League 1
+- **2010**: K League 1, 8th of 12
+- **Website**: Club home page
+
+
+# Tables
+
+## Incheon United 인천 유나이티드
+| File:Emblem of Incheon United.svg |
+| --- |
+| Magaca oo dhameestiran | Incheon United Football Club 인천 유나이티드 프로축구단 |
+| Naaneys | Mariners |
+| Magac kooban | IUFC |
+| La aasaasay | 2003 ; 22 sano ka hor ( 2003 ) |
+| Garoon | Incheon Football Stadium (capacity: 20,891) |
+| Milkiilaha | Incheon Government |
+| Gudoomiyaha | Mayor of Incheon |
+| Maamulaha | Kim Han-yoon |
+| Horyaalka | K League 1 |
+| 2010 | K League 1, 8th of 12 |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab | Guriga midab | Marti midab |
+| Guriga midab | Marti midab |
+|  |

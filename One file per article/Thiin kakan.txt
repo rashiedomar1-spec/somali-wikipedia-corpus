@@ -1,0 +1,17 @@
+title:
+Thiin kakan
+
+url:
+https://so.wikipedia.org/wiki?curid=15990
+
+text:
+Thiin kakan ama Tiro kakan waa tiro loo qoro qaab isku beegnaan ah 1----1 ama a + b i {\displaystyle a+bi\,} halka a {\displaystyle a} iyo b {\displaystyle b} .
+ayaa ka dhaxeysa baraha xarriiq tiro iyo tirooyinka maangalka ah, taasoo inoo fududeyneysa shaqaynta Aljabraha. Tusaale ahaan ma jirto tiro maangal ah oo raalligelineysa isle'egta : x 2 + 1 = 0 {\displaystyle x^{2}+1=0} . Isle'egta iyo wixii la mid ah si aynu u furfurno waxaynnu adeegsaneynaa ururka tirooyinka kakan.
+
+Tirooyinka habdhiskaa ku jiraa waxey ka koobanyihiin, lammaanayaal hoorsan oo maangal ah (a, b). Sidaa daraadeed, way inoo suuragelaysaa inaynu iskubeegnaan 1------1 ka dhaxeysiino tirooyinka kakan iyo dhibcaha sallax ka koobanyahay. Guud ahaan Zi waxey u taagantahay lamaanayaal hoorsan oo tirooyinka maangalka ah K-na waxey u taagantahay ururka tirooyinkaa oo dhan.
+
+go'aanka halkaas inooga soo baxaya waa in:
+
+= ( a , 0 ) : = { ⋅ 1 c , 0 } . {\displaystyle =\{{\cdot }{\frac {1}{c}},0\}.}
+
+= [ ⋅ a c − 0 , a .0 + 0. 1 c {\displaystyle {\cdot }{\frac {a}{c}}-0,a.0+0.{\frac {1}{c}}} ]

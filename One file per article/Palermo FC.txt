@@ -1,0 +1,52 @@
+title:
+Palermo FC
+
+url:
+https://so.wikipedia.org/wiki?curid=31487
+
+text:
+Palermo Football Club ama Palermo waa koox-banooni oo kuyaalo magaalada Palermo ee dalka Talyaaniga .
+
+Naadiga ayaa ciyaaray afar jeer koobka UEFA Cup. Finalka koobkii Talyaaniga (1974, 1979 iyo 2011).
+
+Tixraac
+
+Eeg waliba
+
+palermofc.com
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Palermo Football Club
+- **Naaneys**: I Rosanero (The Pink and Blacks) Le Aquile (The Eagles)
+- **La aasaasay**: 1 Nofeembar 1900 ; 124 sanadood ka hor ( 1900-11-01 )
+- **Garoon**: Stadio Renzo Barbera
+- **Garoonka Awoodda**: 36,365
+- **Milkiilaha**: City Football Group (80%) Hera Hora S.r.l. (20%)
+- **Gudoomiyaha**: Dario Mirri
+- **Head coach**: Eugenio Corini
+- **Horyaalka**: Serie B
+- **2024/25**: 8.
+- **Website**: Club home page
+
+
+# Tables
+
+## Palermo
+| Magaca oo dhameestiran | Palermo Football Club |
+| --- | --- |
+| Naaneys | I Rosanero (The Pink and Blacks) Le Aquile (The Eagles) |
+| La aasaasay | 1 Nofeembar 1900 ; 124 sanadood ka hor ( 1900-11-01 ) |
+| Garoon | Stadio Renzo Barbera |
+| Garoonka Awoodda | 36,365 |
+| Milkiilaha | City Football Group (80%) Hera Hora S.r.l. (20%) |
+| Gudoomiyaha | Dario Mirri |
+| Head coach | Eugenio Corini |
+| Horyaalka | Serie B |
+| 2024/25 | 8. |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab Saddexaad middab | Guriga midab | Marti midab | Saddexaad middab |
+| Guriga midab | Marti midab | Saddexaad middab |
+|  |

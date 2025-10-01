@@ -1,0 +1,8 @@
+title:
+KwaZulu-Natal Province
+
+url:
+https://so.wikipedia.org/wiki?curid=3695
+
+text:
+KwaZulu-Natal waa gobol ku yaalo dalka &lt;a href="Koonfur%20Afrika"&gt;Koonfur Afrika&lt;/a&gt;.Gobolkaan waxaa la abaabulay &lt;a href="1994"&gt;1994&lt;/a&gt;ti. Caasimada gobolka waa &lt;a href="Pietermaritzburg"&gt;Pietermaritzburg&lt;/a&gt;. Gobolkaan waxaa looga hadlaa &lt;a href="Af-Zulu"&gt;Af-Zulu&lt;/a&gt;

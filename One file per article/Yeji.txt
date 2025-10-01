@@ -1,0 +1,37 @@
+title:
+Yeji
+
+url:
+https://so.wikipedia.org/wiki?curid=33407
+
+text:
+Hwang Ye-ji (dhashay Maajo 26, 2000) oo loo yaqaan Yeji , waa fanaanad Koonfur Kuuriya iyo  xubin kana tirsan Itzy .
+
+Xiriirinta dibedda
+
+
+# Infobox
+
+- **Magaca dhalashada**: Hwang Ye-ji
+- **Dhashay**: ( 2000-05-26 ) Maajo 26, 2000 ( 25jir) Jeonju, Koonfur Kuuriya
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2019–hada
+- **Falalka la xiriira**: Itzy
+
+
+# Tables
+
+## Table 1
+| Yeji |
+| --- |
+| Magaca dhalashada | Hwang Ye-ji |
+| Dhashay | ( 2000-05-26 ) Maajo 26, 2000 ( 25jir) Jeonju, Koonfur Kuuriya |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2019–hada |
+| Falalka la xiriira | Itzy |
+
+## Table 2
+|   | Wikimedia Commons waxee heysaa war la xiriiro: Yeji |
+| --- | --- |

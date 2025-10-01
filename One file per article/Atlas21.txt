@@ -1,0 +1,30 @@
+title:
+Atlas21
+
+url:
+https://so.wikipedia.org/wiki?curid=32731
+
+text:
+Atlas21 (ア ト ラ ス に じ ゅ う い ち, Atorasu Nijūichi ), oo waagii hore loo yaqaanay VIP, waa shirkad filimada galmada Jabbaan ah oo xarunteedu tahay Tokyo , Jabban. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Shirkada**: Filimada galmada
+- **Ka horeeyay**: VIP
+- **La aasaasay**: 1981
+- **Xarunta**: Tokyo, Jabban
+- **Website**: http://www.atlas21.co.jp http://www.vip-enterprise.com
+
+
+# Tables
+
+## Atlas21
+| Shirkada | Filimada galmada |
+| --- | --- |
+| Ka horeeyay | VIP |
+| La aasaasay | 1981 |
+| Xarunta | Tokyo, Jabban |
+| Website | http://www.atlas21.co.jp http://www.vip-enterprise.com |

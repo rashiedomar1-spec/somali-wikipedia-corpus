@@ -1,0 +1,11 @@
+title:
+George Washington
+
+url:
+https://so.wikipedia.org/wiki?curid=9492
+
+text:
+"Kani waa maqaal ku saabsan madaxweynihii ugu horeeyay wadanka Maraykanka."
+"Haku khaldin &lt;a href="caasimad"&gt;magaalo madaxda&lt;/a&gt; Maraykanka ee &lt;a href="Washington%20D.C"&gt;Washington D.C&lt;/a&gt; iyo gobolka galbeedka Maraykanka &lt;a href="Washington%20%28gobol%29"&gt;Washington (gobol)&lt;/a&gt;"
+George Washington (Westmoreland County (Virginia), 22 febraayo 1732 – Mount Vernon (Virginia), 14 diseembar 1799) waxa uu ahaa madaxweynihii ugu horeeyey ee wadanka Maraykanka (Gobolada Isku Tegay ee Ameerika) sanadka &lt;a href="1789"&gt;1789&lt;/a&gt; ilaa &lt;a href="1797"&gt;1797&lt;/a&gt;.
+Waxa uu dhashay 22 febraayo 1732kii waxaana uu ku dhashay Virginia USA.

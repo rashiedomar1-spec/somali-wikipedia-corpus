@@ -1,0 +1,8 @@
+title:
+Cali Geri
+
+url:
+https://so.wikipedia.org/wiki?curid=35236
+
+text:
+Cali geri waa jifo ka mid ah &lt;a href="Farah%20Garad"&gt;Farah Garad&lt;/a&gt;.

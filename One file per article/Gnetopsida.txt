@@ -1,0 +1,48 @@
+title:
+Gnetopsida
+
+url:
+https://so.wikipedia.org/wiki?curid=37188
+
+text:
+Habka dhirtu waa Gnetopsida .  Gnetopsida waxaa iska leh madaxa Tracheophyta, iyo boqortooyada dhirta. Amarka Gnetopsida wuxuu daboolayaa 117 nooc, marka loo eego Buugga Nolosha.
+
+Kaladogaram ayaa lagu sheegay Buugga Nolosha:
+
+Ephedrales
+
+Gnetales
+
+Welwitschiales
+
+Cycadopsida
+
+Ginkgoopsida
+
+Liliopsida
+
+Lycopodiopsida
+
+Magnoliopsida
+
+Pinopsida
+
+Polypodiopsida
+
+Tixraac
+
+Roskov Y., Kunze T., Orrell T., Abucay L., Paglinawan L., Culham A., Bailly N., Kirk P., Bourgoin T., Baillargeon G., Decock W., De Wever A., Didžiulis V. (ed). "Nuqul Archive" . Species 2000: Naturalis, Leiden, the Netherlands. ISSN 2405-884X. TaxonID: 54776941. Waxaa laga kaydiyay the original 2019-12-18 . Soo qaatay 2019-11-11 . Barameter aan la aqoon |ciwaan= ignored ( caawin ) CS1 maint: Magacyo badan: authors list ( link )
+
+
+# Tables
+
+## Table 1
+| Gnetopsida |
+| --- |
+|  |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| Qaybinta: | Tracheophyta |
+| Gacalka: | Gnetopsida |
+| Magaca laba-geesoodka ah |
+| Gnetopsida |

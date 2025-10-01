@@ -1,0 +1,8 @@
+title:
+Poxviruses
+
+url:
+https://so.wikipedia.org/wiki?curid=8235
+
+text:
+Poxviruses : &lt;a href="virus"&gt;virus&lt;/a&gt;

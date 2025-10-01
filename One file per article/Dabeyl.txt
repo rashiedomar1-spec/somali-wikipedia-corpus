@@ -1,0 +1,9 @@
+title:
+Dabeyl
+
+url:
+https://so.wikipedia.org/wiki?curid=12654
+
+text:
+"Kani waa maqaal ku saabsan "dabeysha"."
+Dabayl (&lt;a href="ingiriis"&gt;ingiriis&lt;/a&gt;: wind; &lt;a href="carabi"&gt;carabi&lt;/a&gt;: ريح) waa socodka &lt;a href="hawo"&gt;hawada&lt;/a&gt; ayadoo baaxad weyn leh.

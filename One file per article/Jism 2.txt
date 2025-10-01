@@ -1,0 +1,43 @@
+title:
+Jism 2
+
+url:
+https://so.wikipedia.org/wiki?curid=32637
+
+text:
+Jism 2 ( Jirka ) waa 2012 Filim Hindi ah, waxa soo saarty Pooja Bhatt waxaana qoray Mahesh Bhatt. Waa qeybtii labaad filimkii Jism ee 2003, waana markii ugu horreysay oo Sunny Leone laga daawado gudaha Bollywood.
+
+
+# Infobox
+
+- **Directed by**: Pooja Bhatt
+- **Written by**: Mahesh Bhatt
+Shagufta Rafiq
+- **Produced by**: Dino Morea
+- **Starring**: Sunny Leone Randeep Hooda Arunoday Singh
+- **Cinematography**: Nigam Bomzan
+- **Edited by**: Devendra Murdeshwar
+- **Music by**: Mithoon Arko Pravo Mukherjee Abdul Basit Sayeed Rushk
+- **Distributed by**: Fish Eye Network Pvt. Ltd. Vishesh Films
+- **Running time**: 130 daqiiqo
+- **Country**: Hindiya
+- **Language**: Hindi
+
+
+# Tables
+
+## Table 1
+| Jism 2 |
+| --- |
+| Directed by | Pooja Bhatt |
+| Written by | Mahesh Bhatt
+Shagufta Rafiq |
+| Produced by | Dino Morea |
+| Starring | Sunny Leone Randeep Hooda Arunoday Singh |
+| Cinematography | Nigam Bomzan |
+| Edited by | Devendra Murdeshwar |
+| Music by | Mithoon Arko Pravo Mukherjee Abdul Basit Sayeed Rushk |
+| Distributed by | Fish Eye Network Pvt. Ltd. Vishesh Films |
+| Running time | 130 daqiiqo |
+| Country | Hindiya |
+| Language | Hindi |

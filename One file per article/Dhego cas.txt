@@ -1,0 +1,8 @@
+title:
+Dhego cas
+
+url:
+https://so.wikipedia.org/wiki?curid=25554
+
+text:
+Dhego cas waa &lt;a href="caytin"&gt;caytin&lt;/a&gt; oo loo isticmaalo dadka carab ah.

@@ -1,0 +1,28 @@
+title:
+Liiska Gegooyinka Diyaaradaha Somaliland
+
+url:
+https://so.wikipedia.org/wiki?curid=32058
+
+text:
+Kani waa Liiska garoomada diyaaradaha ee Somaliland , oo loo kala soocay meel ahaan.
+
+Gegooyinka diyaaradaha Somaliland waxay si toos ah u hoostegaan Wasaaradda Gaadiidka Somaliland
+
+Liis lagu kala soocayo garoonka diyaaradaha, eeg Qeybta: Garoomada diyaaradaha ee Somaliland
+
+Liis ay ku kala qoran yihiin koodhka ICAO, ka eeg Liiska garoomada diyaaradaha oo ay soo saartay ICAO code: HC
+
+Tixraacyo
+
+
+# Tables
+
+## Table 1
+| Goobta | ICAO | IATA | Magaca garoonka |
+| --- | --- | --- | --- |
+| Madaarada Madaniga ah |
+| Berbera | HCMI | BBO | Madaarka Berbera |
+| Boorama | midna | BXX | Madaarka Boorama |
+| Burco | HCMV | BUO | Madaarka Burco |
+| Hargeysa | HCMH | HGA | Madaarka Caalamiga ah ee Cigaal |

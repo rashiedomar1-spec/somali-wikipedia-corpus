@@ -1,0 +1,37 @@
+title:
+Xasaan bin saabit
+
+url:
+https://so.wikipedia.org/wiki?curid=37015
+
+text:
+Xasaan bin saabit (afka carabiga ; حسان بن ثابت ) wuxuu ahaa saxaabi ka tirsan ansaarta , waana gabyaagii rasuulka scw, in badan wuxuu gabayadiisa ku radin jiray gaalada asagoo difaacaya rasuulka scw.
+
+
+# Infobox
+
+- **Dhashay:**: 563
+- **Ku dhashay:**: Madiina
+- **Diintiisa:**: Islaam
+- **xaaska**: siiriin binti shamcuun
+- **ilmahiisa**: Cabdi raxmaan bin xasaan
+- **Shaqo**: abwaan
+- **Dhintay:**: khilaafadii cali , (35H-40H)
+- **Ku dhintay:**: madiina
+
+
+# Tables
+
+## Table 1
+| xasaan bin saabit حسان بن ثابت |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| Dhashay: | 563 |
+| Ku dhashay: | Madiina |
+| Diintiisa: | Islaam |
+| xaaska | siiriin binti shamcuun |
+| ilmahiisa | Cabdi raxmaan bin xasaan |
+| Shaqo | abwaan |
+| Dhintay: | khilaafadii cali , (35H-40H) |
+| Ku dhintay: | madiina |

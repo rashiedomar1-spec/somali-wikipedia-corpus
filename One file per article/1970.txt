@@ -1,0 +1,8 @@
+title:
+1970
+
+url:
+https://so.wikipedia.org/wiki?curid=2852
+
+text:
+&lt;a href="1969"&gt;1969&lt;/a&gt; - 1970 - &lt;a href="1971"&gt;1971&lt;/a&gt;

@@ -1,0 +1,9 @@
+title:
+Laurasia
+
+url:
+https://so.wikipedia.org/wiki?curid=36457
+
+text:
+&lt;a href="Laurasia"&gt;Laurasia&lt;/a&gt; waxay ahayd qaarad sare oo ka go'day &lt;a href="Pangea"&gt;Pangea&lt;/a&gt; ka dibna u kala qaybsantay &lt;a href="Eurasia"&gt;Eurasia&lt;/a&gt; iyo Waqooyiga Ameerika.
+=Sido kale fiiri=

@@ -1,0 +1,45 @@
+title:
+Sabawanag
+
+url:
+https://so.wikipedia.org/wiki?curid=39827
+
+text:
+Sabawanaag is a town in the Maroodijeex region of Somaliland [ 1 ] / Somaliland . [ 2 ] ) The town is predominantly inhabited by people from the Somali ethnic group, with the habar awal sub-clan of the sacad muuse isaaq especially well represented.
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Somaliland**: Somaliland
+- **the governor of the province of Maroidi jeex**: July 20, 2022
+- **• district governor**: Sheikh Khadar Aw seid
+- **• Dhammaan**: 5,000
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Website**: https://mapcarta.com/N1404224304
+
+
+# Tables
+
+## Table 1
+| Sabawanag Bender Wanaag |
+| --- |
+| Town |
+| File:Flag of somaliland Flag |
+| Nickname(s): Magaalo Isaxaaq |
+| Lua error in Module:Location_map at line 502: Unable to find the specified location map definition: "Module:Location map/data/Marodi Jeh" does not exist. |
+| Coordinates: 9°33′47″N 44°4′3″E ﻿ / ﻿ 9.56306°N 44.06750°E ﻿ / 9.56306; 44.06750 Coordinates : 9°33′47″N 44°4′3″E ﻿ / ﻿ 9.56306°N 44.06750°E ﻿ / 9.56306; 44.06750 |
+| Country | Somaliland |
+| Somaliland | Somaliland |
+| the governor of the province of Maroidi jeex | July 20, 2022 |
+| Dowlada somaliland |
+| • district governor | Sheikh Khadar Aw seid |
+| Tirada dadka |
+| • Dhammaan | 5,000 |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Website | https://mapcarta.com/N1404224304 |
+
+
+
+# Coordinates
+9.56306; 44.06750

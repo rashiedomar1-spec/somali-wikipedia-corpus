@@ -1,0 +1,23 @@
+title:
+Everybody's Magazine
+
+url:
+https://so.wikipedia.org/wiki?curid=32703
+
+text:
+Everybody's Magazine wuxuu ahaa joornaal Mareykan ah oo la daabacay 1899 ilaa 1929. [ 1 ] Joornaalka waxaa xaruntiisu ahayd magaalada New York. [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Founded**: 1899—1929
+
+
+# Tables
+
+## Everybody's Magazine
+|   |
+| --- |
+| Founded | 1899—1929 |

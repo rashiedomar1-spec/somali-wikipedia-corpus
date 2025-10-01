@@ -1,0 +1,18 @@
+title:
+CPU
+
+url:
+https://so.wikipedia.org/wiki?curid=5058
+
+text:
+CPU The Central Processing Unit
+
+Waa Maxay cpu ama Processor?
+
+Processor-ku waa qaybta ah matoorka kala socodsiiya hawlaha kumbiyuutarka. Magacyada kale ee processorka loo yaqaano waxaa ka mid ah Microprocessor iyo CPU (Central Processing Unit).
+Processor-ku wuxuu ka mid yahay qaybaha ugu muhiimsan kumbiyuutarka waana halka laga cabbiro xawaaraha kumbiyuuutarka, wuxuuna inta badan tilmaan u noqdaa kumbiyuutarka oo dhan. Waxaa laga yaabaa inaad maqasho qof leh "Kumbiyuutarkaygu waa Pentuim II 450" iwm. Taas micneheedu waa in nooca processor-ka kumbiyuutarkaasi uu yahay Pentium II, xawaarihiisuna uu yahay 450 Mhz. Noocayada processor-ka dib ayaan uga hadli doonnaa hadduu rabbi idmo.
+
+Xawaaraha processor-ka waxaa lagu cabbiraa inta wareeg ee uu sameeyo halkii ilbiriqsi (seken) waxaana lagu sheegaa waxa loo yaqaan megahertz (Mhz) oo u taagan ilbiriqsigiiba hal milyan oo wareeg. Haddii lagu yiraahdo processor ayuu xawaarihiisu yahay 450 Mhz, waxaa looga jeegdaa in processor-kaasi uu halkii ilbiriqsi sameeyo 450 milyan oo wareeg. Hal wareeg waa cabbirka ugu yar ee wakhtiga processor-ka. Hawl kasta oo uu processor-ku qabtaa waxay ku qaadan kartaa ugu yaraan hal wareeg, laakiin caadi ahaan waxay hawl kastaa qaadataa wareegyo fara badan.
+
+Si uu processor-ku u fuliyo hawl gaar ah wuxuu raacaa oo uu mid mid u fuliyaa waxa loo yaqaan Instructions oo ah tilmaamo ku saabsan tillaabooyinka ay hawshaasi ka kooban tahay. Inta wareeg ee ay processor-ka ku qaadato inuu fuliyo hal instruction ayaa lagu cabbiraa xawaaraha dhabta ah ee processor-ka. Taasina waxay ku xiran tahay nooca processor-ka. Tusaale ahaan processor-radii ugu horreeyay (8086 iyo 8088) wuxuu halkii instruction ku qaadan jiray celcelis ahaan 12 (laba iyo toban) wareeg. Halka maanta processor-rada carsiga ah (Pentium II iyo wixii ka dambeeyay) ay hal wareeg ku fulin karaan saddex instructions iyo wax ka badan. Taasi waxay keenaysaa in laba processor oo uu xawaarahoodu yahay 200 Mhz laakiin uu noocoodu kala duwan yahay ay aad u kala dheereeyaan iyadoo ay ku xiran tahay inta instruction ee uu processor walbaa fulin karo halkii wareeg. Processor walbaa processor-kii uu ka dambeeyay wuu ka dheereeyaa maadaama ay had iyo jeer sii yaraanaysay tirada wareegyada ay processor-ka ku qaadanayso fulinta halkii instruction.
+Waxaa jira dhawr arrimood oo saamayn ku leh xawaaraha processor-ka. Arrimahaas kuwa ugu muhiimsan waxaa ka mid ah:

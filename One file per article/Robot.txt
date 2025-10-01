@@ -1,0 +1,8 @@
+title:
+Robot
+
+url:
+https://so.wikipedia.org/wiki?curid=4847
+
+text:
+Robot waa mashiin kombiyutar lagu brograameeyay, oo iskiis wax u qabsan karo. Robotka waxaa ku arki kartaa warshadaha waaweyn oo isticmaalo mashiinan robot ah. Waxaa kale oo jiro ayaga oo bombalo ah sida eeyaha iyo dadka. Robotyada badankood waxaa soo saaro dalka jabaan.

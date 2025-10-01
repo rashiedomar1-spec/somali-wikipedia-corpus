@@ -1,0 +1,20 @@
+title:
+Astaannta Qaranka ee Holland
+
+url:
+https://so.wikipedia.org/wiki?curid=34166
+
+text:
+astaanta dalka Holland
+
+
+# Tables
+
+## Table 1
+| Astaanta Qaranka ee Boqortooyada holland |
+| --- |
+| Habka Boqortooyada |
+| Versions |
+|  |
+|  |
+| Habka |

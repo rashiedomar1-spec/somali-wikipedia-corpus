@@ -1,0 +1,17 @@
+title:
+Ree Mahad
+
+url:
+https://so.wikipedia.org/wiki?curid=40957
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2024-12-10T15:25:43Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Sheekhmagan3&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Sheekhmagan3 moved page &lt;a href="Ree%20Mahad"&gt;Ree Mahad&lt;/a&gt; to &lt;a href="Ree%20mahad"&gt;Ree mahad&lt;/a&gt; over redirect&lt;/comment&gt;
+ &lt;origin&gt;269279&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

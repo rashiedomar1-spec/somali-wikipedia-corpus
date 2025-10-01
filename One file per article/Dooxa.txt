@@ -1,0 +1,43 @@
+title:
+Dooxa
+
+url:
+https://so.wikipedia.org/wiki?curid=18108
+
+text:
+Dooxa ( Af Carabi : لاسعانود ‎, ad-Dawḥa ama ad-Dōḥa , sidoo kale lagu naaneyso: "geed weyne" [ 2 ] ) waa caasimada iyo magaalada ugu dadka badan ee wadanka Qatar . Caasimada Dooxa waxaa ku dhaqan dad aad u badan oo lagu qiyaasay 956,460 kuwaasi oo ku dhaqan caasimada iyo nawaaxigeeda. [ 1 ]
+
+Magaaladu waxay hoy u tahay Jaamacadda Qatar iyo xarun ka mid ah dugsiga ganacsiga ee HEC Paris.
+
+Sido kale fiiri
+
+Qatar
+
+
+# Infobox
+
+- **Wadan**: Qatar
+- **Maamul degmo**: Ad Dawhah
+- **La aasasay**: 1825
+- **Area**: 132 km 2 (51 sq mi)
+- **• Caasimad**: 956,460
+- **• Cufnaanta dadka**: 7,200/km 2 (19,000/sq mi)
+- **Aag saacadeed**: UTC+3 (AST)
+
+
+# Tables
+
+## Table 1
+| Dooxa الدوحة ‎ ad-Dawḥa |
+| --- |
+| Caasimad |
+|  |
+| Dooxa Meesha ay kaga taalo wadanka Qatar . |
+| Wadan | Qatar |
+| Maamul degmo | Ad Dawhah |
+| La aasasay | 1825 |
+| Area | 132 km 2 (51 sq mi) |
+| Tirada dadka (2015) [ 1 ] |
+| • Caasimad | 956,460 |
+| • Cufnaanta dadka | 7,200/km 2 (19,000/sq mi) |
+| Aag saacadeed | UTC+3 (AST) |

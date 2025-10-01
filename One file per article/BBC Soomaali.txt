@@ -1,0 +1,9 @@
+title:
+BBC Soomaali
+
+url:
+https://so.wikipedia.org/wiki?curid=4135
+
+text:
+BBC Soomaali waa raadiyo idaacadeed waxeena ka midtahay raadiyaasha ugu duqsan oo laga dhageesto dalka &lt;a href="Soomaaliya"&gt;Soomaaliya&lt;/a&gt; iyo deegaanada soomaalida degto. raadiyahaan waxoo siidaayaa idaacad kaliya iyo warar. waxaana la dhageesan karaa nusaac ama hal saac oo affar jeer ah maalintii.raadiyahaan xaruntiisa waxee ku taalaa magaalada &lt;a href="London"&gt;London&lt;/a&gt; ee dalka &lt;a href="Ingriiska"&gt;Ingriiska&lt;/a&gt;.
+https://www.bbc.com/somali

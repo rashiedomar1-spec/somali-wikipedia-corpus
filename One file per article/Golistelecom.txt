@@ -1,0 +1,38 @@
+title:
+Golistelecom
+
+url:
+https://so.wikipedia.org/wiki?curid=23408
+
+text:
+golis waa shirkada ugu wayn deegaanada puntland ee bixisa adeegyada isgaarsiinta sida GSMka internetka 4G 3G 2G
+Sidoo kale waxay bixisaa adeegyada XOGMAAL, ILAWADAAG,HOODO,ISOO-WAC, IWM.
+
+Sido kale firri
+
+Liska Shirkad Somaliland/Somalia
+
+
+# Infobox
+
+- **Nooca**: Private
+- **Shirkada**: Telecommunications
+- **La aasaasay**: 2002
+- **Xarunta**: Bosaso , Puntland
+- **Dadka muhiimka ah**: Siciid Aadan
+- **Alaabta**: Mobile services Internet services Fixed line
+- **Website**: www.golistelecom.com
+
+
+# Tables
+
+## Telesom Somalia
+| File:GolisLogo.svg |
+| --- |
+| Nooca | Private |
+| Shirkada | Telecommunications |
+| La aasaasay | 2002 |
+| Xarunta | Bosaso , Puntland |
+| Dadka muhiimka ah | Siciid Aadan |
+| Alaabta | Mobile services Internet services Fixed line |
+| Website | www.golistelecom.com |

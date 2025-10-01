@@ -1,0 +1,37 @@
+title:
+Daydream
+
+url:
+https://so.wikipedia.org/wiki?curid=33272
+
+text:
+Daydream waa 1964 filim Jabaan . Waxa ahaya filimkii ugu horreeyay ee kacsi leh oo leh miisaaniyad weyn iyo sii-dayn guud oo laga helo Jabaan, waxaana lagu soo bandhigay Bandhigga Filimka Venice waxaana la siiyay laba siidayn gudaha Mareykanka. Agaasime Tetsuji Takechi ayaa dib u habeyn ku sameeyay filimka qaabab aad u adag sanadihii 1981 iyo 1987. Labadan dib-u-habeyn waxaa jilay aktarada Kyōko Aizome .
+
+
+# Infobox
+
+- **Directed by**: Tetsuji Takechi
+- **Produced by**: Toyojiro Nagashima
+- **Starring**: Kanako Michi Akira Ishihama Chojuro Hanakawa
+- **Cinematography**: Akira Takeda
+- **Edited by**: Hanjiro Kaneko
+- **Music by**: Sukehisa Shiba
+- **Distributed by**: Shochiku
+- **Release date**: Juun 21, 1964 ( 1964-06-21 )
+- **Country**: Jabaan
+
+
+# Tables
+
+## Table 1
+| Daydream |
+| --- |
+| Directed by | Tetsuji Takechi |
+| Produced by | Toyojiro Nagashima |
+| Starring | Kanako Michi Akira Ishihama Chojuro Hanakawa |
+| Cinematography | Akira Takeda |
+| Edited by | Hanjiro Kaneko |
+| Music by | Sukehisa Shiba |
+| Distributed by | Shochiku |
+| Release date | Juun 21, 1964 ( 1964-06-21 ) |
+| Country | Jabaan |

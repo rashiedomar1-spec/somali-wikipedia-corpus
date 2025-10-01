@@ -1,0 +1,71 @@
+title:
+Abaarso
+
+url:
+https://so.wikipedia.org/wiki?curid=19815
+
+text:
+Abaarso waa degmo yar oo ku taal Gobolka Woqooyi Galbeed ee Soomaliya . waxay dhacdaa meel  15 km Galbeed kaga beegan ee Hargeysa , waxaa ku yaala iskuulka sayniska iyo teknoolajiyada ee Abaarso .
+
+Xigasho
+
+Waa degmada u wayn maroodi jex marka gabilay laga imaado by fuaad jaakule ]]
+
+Somaliland
+
+Abaarso, Somalia
+
+Hargeysa
+
+Salaxleey
+
+Laasgeel
+
+Faraweyne
+
+Daarasalaam
+
+Cadaadley
+
+Sabawanaag
+
+Balli Mataan
+
+Dacarta
+
+Habariheshay
+
+Allaybaday
+
+Abaarso
+
+Arabsiyo
+
+Baligubadle
+
+Dhaboolaq
+
+[[Dacar Budhuq ama degmada laasgeel
+
+Wajaale
+
+
+# Infobox
+
+- **Country**: Somalia Somaliland
+- **Gobolka**: Woqooyi Galbeed
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Abaarso |
+| --- |
+| Degmo |
+| Abaarso |
+|  |
+| Abaarso dhacdaa soomaaliya. |
+| Country | Somalia Somaliland |
+| Gobolka | Woqooyi Galbeed |
+| Aag saacadeed | UTC+3 ( EAT ) |

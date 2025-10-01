@@ -1,0 +1,54 @@
+title:
+Kelfin
+
+url:
+https://so.wikipedia.org/wiki?curid=8370
+
+text:
+Kelfin ( Af Ingiriis : Kelvin ; Af Carabi : لاسعانود ‎) waa halbeeg lagu xisaabiyo heerkulka . 
+Ereyga Kelfin waxaa loogu magac daray Injineer reer England Baron Kelvin (1824–1904) kaas oo sameeyay Halbeeg cabir dhamaystiran [ 1 ] .
+
+Halbeegan waxaa loo soo gaabiyaa K (Kelfin).
+
+Qiyaasta halbeegan jabjab ahaan waa 1/273.16 [ 2 ] ). Cabirkan oo inta badan lagu qiyaaso kuleylka iyo qaboowga ayaa wuxuu lambar todoba ka yahay Halbeegyada Caalamiga ah ee dunida .
+
+Marka halbeega Kelfin loo bedelaayo Salsiyas waa +273.16.
+
+Tusaale ahaan haddii heerkulka maanta yahay 30 °C markaad Kelfin u bedelayso waa +273.16 taas oo u dhiganta 303.16 K.
+
+Kilven waxa uu ka midyahay halbeega cabir ee heerkulka waxaana loo suntaa (K), waxa uu lamid yahay cabirada kale ee lagu cabiro kuleelka.
+
+Derajada Kilven = sentigaret + 273,15, oo udhiganta K = °C + 273,15
+
+Darajada Kilven = (Fahrenhayt + 459.67)/1.8 K = (°F + 459,67) / 1,8
+
+0 o C = ( 0 + 273 , 15 ) K = 273 , 15 K {\displaystyle 0\mathrm {\ ^{o}C} =(0+273{,}15)\mathrm {\ K} =273{,}15\mathrm {\ K} }
+
+6000 K = ( 6000 − 273 , 15 ) o C ≃ 5727 o C {\displaystyle 6000\mathrm {\ K} =(6000-273{,}15)\mathrm {\ ^{o}C} \simeq 5727\mathrm {\ ^{o}C} }
+
+Halkaan waxaad ka arki kartaa sida la isugu bedbedeli karo
+
+[ 2 ] )
+
+Salsiyas
+
+Fahrenhayt
+
+Rankine
+
+Delisle
+
+Newton
+
+The Awesome Universe What the Big Bang Explains—What It Doesn’t
+
+
+# Tables
+
+## Heerkulka iyo isbedelkiisa kabiloow/ilaa kelvin
+| ka | Loo bedalay | Habka |
+| --- | --- | --- |
+| kelvin | Celsius | T(°C) = T(K) - 273,15 |
+| kalsius | kelvin | T(K) = T(°C) + 273,15 |
+| kelvin | Faaranhaayt | T(°F) = (T(K) × 1,8) - 459,67 |
+| Faaranhaayt | kelvin | T(K) = (T(°F) + 459,67) / 1,8 |

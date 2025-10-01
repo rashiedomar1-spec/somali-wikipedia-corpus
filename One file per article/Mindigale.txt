@@ -1,0 +1,70 @@
+title:
+Mindigale
+
+url:
+https://so.wikipedia.org/wiki?curid=8080
+
+text:
+Mindigale ama midigale waa degmo ama tuulo ku taala bariga gobolka Sanaag ee bariga Waqooyibari . Waxay xaga bari ka xigtaa magaalada Badhan . waa magaalo taariikhi ah oo leh dhismayaal qadiimi ah. Degmadu waxay leedahay beero iyo togag yar. Mindihale baaxad ahaan aad uma wayno, laakiin waxay leedahay adeegyada bulshada sida skoolada, dugsiyada quraanka iyo maadi goobo caafimad.Dhul baadiyaha hoos yimaada degmada waxa ka mid ah
+
+argeeg
+
+qoolo
+
+dawli
+
+duurgaal
+
+diriq
+
+baalwayne
+
+laasa iddaad
+
+damceeriyo
+
+garabka cad
+
+sankadabeerka ah
+
+dhagaxdhagax saaran
+
+afmadoobeeye,doollaxiryaal
+
+ceeldhadhaable
+
+dhoomo
+
+biyaxaraare
+
+jijirdhumale
+
+gardabariis
+
+
+# Infobox
+
+- **Country**: Somalia Waqooyibari
+- **Gobolka**: Sanaag
+- **Degmo**: Degmada Laas Qoray
+- **Aag saacadeed**: UTC+3 ( East Africa Time )
+
+
+# Tables
+
+## Table 1
+| Mindigale Degmada Mindigale |
+| --- |
+| Town |
+|  |
+| Mindigale Location in Waqooyibari |
+| Coordinates: 10°40′49″N 48°40′27″E ﻿ / ﻿ 10.68028°N 48.67417°E ﻿ / 10.68028; 48.67417 |
+| Country | Somalia Waqooyibari |
+| Gobolka | Sanaag |
+| Degmo | Degmada Laas Qoray |
+| Aag saacadeed | UTC+3 ( East Africa Time ) |
+
+
+
+# Coordinates
+10.68028; 48.67417

@@ -1,0 +1,42 @@
+title:
+Conqor
+
+url:
+https://so.wikipedia.org/wiki?curid=28502
+
+text:
+conqor waa degmo kutaala xeebta gobolka saaxil ee dalka jamhuriyada somaliland
+
+magaalada waxa dega qabiilka habarjeclo gaar ahaan Reer yoonis iyo reer dood
+
+
+# Infobox
+
+- **Country**: Somaliland
+- **Deegaanka**: Sanaag
+- **Degmo**: conqor
+- **• Duqa-magaalada**: Ahmed mohamed abyan
+- **Joogga**: 1,430 m (4,690 ft)
+- **Aag saacadeed**: UTC+3 ( EAT )
+- **Furaha**: +252 63
+- **Cimilo**: BWh
+
+
+# Tables
+
+## Table 1
+| conqor onkhor لآصعيدلي |
+| --- |
+| Magaalo |
+|  |
+| Lua error in Module:Location_map at line 414: No value was provided for longitude. |
+| Country | Somaliland |
+| Deegaanka | Sanaag |
+| Degmo | conqor |
+| Dowlada |
+| • Duqa-magaalada | Ahmed mohamed abyan |
+| Joogga | 1,430 m (4,690 ft) |
+|  | 1022 [ 1 ] [ 2 ] |
+| Aag saacadeed | UTC+3 ( EAT ) |
+| Furaha | +252 63 |
+| Cimilo | BWh |

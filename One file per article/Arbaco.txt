@@ -1,0 +1,9 @@
+title:
+Arbaco
+
+url:
+https://so.wikipedia.org/wiki?curid=2064
+
+text:
+Arbaco (, ) waa &lt;a href="maalin"&gt;maalin&lt;/a&gt; ka mid ah maalmaha &lt;a href="Todobaad"&gt;Todobaad&lt;/a&gt;ka , waxeyna u dhaxaysaa &lt;a href="Talaado"&gt;Talaado&lt;/a&gt;da iyo &lt;a href="Khamiis"&gt;Khamiis&lt;/a&gt;ta.
+Arbacada waa maalinta shanaad ee todobaadka dhicana istandharka ISO 8601 waxay ka tahay maalinta sadaxaad ee usbuuca.

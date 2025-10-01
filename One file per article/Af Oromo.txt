@@ -1,0 +1,58 @@
+title:
+Af Oromo
+
+url:
+https://so.wikipedia.org/wiki?curid=4228
+
+text:
+Af Oromo waa luqad kamid ah baahda Afro-Aasiyatik . 38 millyan oo qof ayaa ku hadla, Af-oromadu, waa luqada ugu wayn Qooska Kushiitiga . Wadamada lagaga hadlo waxaa ka mid ah, Itoobiya , iyo Somaliland .
+
+Kushiitig Dhulka bariga hoose Oromoid Oromo
+
+Dhulka bariga hoose Oromoid Oromo
+
+Oromoid Oromo
+
+Oromo
+
+Afaan Oromoo
+
+
+# Infobox
+
+- **Dhalad u ah**: Itoobiya , Kenya
+- **Gobolka**: Oromia
+- **Qoomiyada**: Oromo
+- **U ah afka hooyo**: e18 500,000 ee Kenya (tirakoobka 2015), 42,000 ee Soomaaliya (tirakoobka 2015)
+- **Qoyska luqada**: Kushiitig Dhulka bariga hoose Oromoid Oromo
+- **Hab qoraalka**: Latiin
+- **Ka ah Luqad rasmi**: Template:Country data Oromia ( Itoobiya )
+- **ka ah luuqadaha la aqoonsaday ee laga tirada badan yahay**: Kenya
+- **ISO 639-1**: om
+- **ISO 639-2**: orm
+- **ISO 639-3**: orm – inclusive code Individual codes: gax – Borana–Arsi–Guji–Wallaggaa-Shawaa Oromo hae – Bariga oromo orc – Orma gaz – West Central Oromo ssn – Waata
+
+
+# Tables
+
+## Table 1
+| Oromo |
+| --- |
+| Afaan  Oromoo |
+| Oromoo script, Qubee Saaphaloo , |
+| Dhalad u ah | Itoobiya , Kenya |
+| Gobolka | Oromia |
+| Qoomiyada | Oromo |
+| U ah afka hooyo | e18 500,000 ee Kenya (tirakoobka 2015), 42,000 ee Soomaaliya (tirakoobka 2015) |
+| Qoyska luqada | Kushiitig Dhulka bariga hoose Oromoid Oromo |
+| Hab qoraalka | Latiin |
+| Xaalada Rasmiga |
+| Ka ah Luqad rasmi | Template:Country data Oromia ( Itoobiya ) |
+| ka ah luuqadaha la aqoonsaday ee laga tirada badan yahay | Kenya |
+| Koodka luqada |
+| ISO 639-1 | om |
+| ISO 639-2 | orm |
+| ISO 639-3 | orm – inclusive code Individual codes: gax – Borana–Arsi–Guji–Wallaggaa-Shawaa Oromo hae – Bariga oromo orc – Orma gaz – West Central Oromo ssn – Waata |
+| Aaga bariga afrika meesha oromo looga hadlo |
+| {{{1}}} |  |
+|  |

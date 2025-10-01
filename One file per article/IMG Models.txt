@@ -1,0 +1,8 @@
+title:
+IMG Models
+
+url:
+https://so.wikipedia.org/wiki?curid=33405
+
+text:
+IMG Models waa hay'ad moodel caalami xarunteedu tahay magaalada &lt;a href="New%20York"&gt;New York&lt;/a&gt; oo xafiisyo dheeraad ah ku leh &lt;a href="London"&gt;London&lt;/a&gt;, &lt;a href="Los%20Angeles"&gt;Los Angeles&lt;/a&gt;, &lt;a href="Milan"&gt;Milan&lt;/a&gt;, &lt;a href="Baariis"&gt;Baariis&lt;/a&gt;, iyo &lt;a href="Sydney"&gt;Sydney&lt;/a&gt;. Hay'addu waxay ka dhigan tahay in ka badan kala badh &lt;a href="Super-moodel"&gt;Super-moodel&lt;/a&gt;-ka ugu mushaharka badan.

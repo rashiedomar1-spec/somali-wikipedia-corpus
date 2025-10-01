@@ -1,0 +1,36 @@
+title:
+Ashley Graham
+
+url:
+https://so.wikipedia.org/wiki?curid=33397
+
+text:
+Ashley Graham (dhashay Oktoobar 30, 1987) [ 1 ] waa moodel Mareykan iyo soo-jeediyaha telefishanka. [ 2 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Ku dhashay**: ( 1987-10-30 ) Oktoobar 30, 1987 ( 37jir) Lincoln , Nebraska
+- **Waxbarashada**: Linkoln Southwest
+- **Sanadaha Shaqada**: 2000–hada
+- **Wakiil**: IMG Models
+- **Xaasaska**: Justin Ervin ( g. 2010)
+- **Ilmaha**: 1
+
+
+# Tables
+
+## Table 1
+| Ashley Graham |
+| --- |
+|  |
+| Ku dhashay | ( 1987-10-30 ) Oktoobar 30, 1987 ( 37jir) Lincoln , Nebraska |
+| Waxbarashada | Linkoln Southwest |
+| Sanadaha Shaqada | 2000–hada |
+| Wakiil | IMG Models |
+| Xaasaska | Justin Ervin ( g. 2010) |
+| Ilmaha | 1 |
+| Website |
+| ashleygraham.com |

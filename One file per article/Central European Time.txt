@@ -1,0 +1,14 @@
+title:
+Central European Time
+
+url:
+https://so.wikipedia.org/wiki?curid=23852
+
+text:
+Waqtiga Dhexe ee Bartamaha (CET)
+Waqtiga Dhexe ee Bartamaha (CET), oo loo isticmaalo qaybo badan oo Europe ah iyo qaar ka mid ah wadamada Waqooyiga Afrika, waa wakhti caadi ah kaas oo ah 1 saac ka hor Iskuduwida Universal Time (UTC). Waqtiga ka baxsan UTC waxaa loo qori karaa +0: 00. Waqti isku mid ah, UTC + 01: 00, ayaa sidoo kale loo yaqaanaa waqtiga Yurubta dhexe (MET, Jarmal: MEZ) iyo magacyo kale sida Berlin Time, Romance Standard Time (RST), Paris Time ama Rome Time.
+Qeybta 15-aad ee bari-galbeed waa bartamaha dhexe ee UTC + 01: 00 ee nidaamyada adduunka ee waqtiga aagagga.
+Laga soo bilaabo 2011, dhammaan wadamada xubnaha ka ah Midowga Yurub waxay fiiriyaan waqtiga xagaaga; kuwa isticmaala inta lagu jiro xilliga jiilaalka CET waxay isticmaashaa waqtiga dhexe ee xagaaga ee CEST (CEST) (ama: UTC + 02: 00, wakhtiga badbaadinta wakhtiga dayrta) xagaaga (laga bilaabo Axada hore ee Maarso ilaa Axadda hore ee Oktoobar).
+Dalal badan oo Afrikaan ah ayaa isticmaala UTC + 01: 00 oo dhan sanadka oo dhan, halkaasoo loogu yeero West Africa Time (WAT), inkastoo Algeria iyo Tunisia ay sidoo kale isticmaalaan ereyga Central European time.
+Sido Kale fiiri.
+&lt;a href="Yurub"&gt;Yurub&lt;/a&gt;

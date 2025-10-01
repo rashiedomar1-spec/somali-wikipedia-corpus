@@ -1,0 +1,38 @@
+title:
+Maxamed Warsame
+
+url:
+https://so.wikipedia.org/wiki?curid=3819
+
+text:
+Maxamed Ibraahim Warsame waxa uu dhashay markay taariikhdu ahayd 1943 waxaanu ku dhashay degmada bali dhiig ee gobolka togdheer waxaanu kusoo barbaaray isla degmadaas waxa uu waxbarashada bilaabay taariikhdu markay ahayd 2002 waxa uu waxbarashadii dugsigii hoose kusoo dhamaystay iskuulka badacas ee magaalada belled weyn  waxa uu waxbarashadiisii dugsiga dhexe kasoo baxay dugsiga hoose dhexe ee sheekh bashiir kuna yaala caasimada soomaaliland ee hargaysa sanadku markuu ahaa 2010 dugsiga sarre waxa uu kabilaabay isla caasimada soomaliland gaar ahaan dugsiga sarre ee nuura diin waxa uu dhamaystay 2014 hadanna waxa uu kusuganyahay magaalada bonesh ee wadanka yukrayn.
+
+
+# Infobox
+
+- **Dhashay**: Maxamed Ibraahim Warsame 1943 Burco , Soomaaliland
+- **Dhintay**: 18 August 2022
+- **Qalinka**: Hadrawi
+- **Shaqo**: gabayaa , qora
+- **Wadanka**: Soomaaliland
+- **U dhashay**: Soomaali
+- **Heerka Aqoon**: Jaamacada Lafoole
+- **Waxka qora**: dhiirigelin, jacayl , kalsooni, nolol
+- **Sameeyay**: Siinley , Tawaawac , Isa Sudhan , Sirta Nolosha , Hooya la'aanta
+
+
+# Tables
+
+## Table 1
+| Maxamed Ibrahim Warsame محمد ابراهيم وارسامي هدراوى |
+| --- |
+|  |
+| Dhashay | Maxamed Ibraahim Warsame 1943 Burco , Soomaaliland |
+| Dhintay | 18 August 2022 |
+| Qalinka | Hadrawi |
+| Shaqo | gabayaa , qora |
+| Wadanka | Soomaaliland |
+| U dhashay | Soomaali |
+| Heerka Aqoon | Jaamacada Lafoole |
+| Waxka qora | dhiirigelin, jacayl , kalsooni, nolol |
+| Sameeyay | Siinley , Tawaawac , Isa Sudhan , Sirta Nolosha , Hooya la'aanta |

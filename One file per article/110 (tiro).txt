@@ -1,0 +1,75 @@
+title:
+110 (tiro)
+
+url:
+https://so.wikipedia.org/wiki?curid=13587
+
+text:
+110 waa lambar tiro ka mid ah xisaabta taasi oo u qoranta boqol iyo toban .
+
+Aasaaska Tiro
+
+Aasaaska Xisaabta
+
+Lambar
+
+Tiro
+
+Jajab
+
+Iskugeyn
+
+Iskudhufasho
+
+Kalagoyn
+
+Iskuqeybin
+
+Dhaban
+
+Kinsi
+
+10ka Lambar ee u Horeeya Xisaabta
+
+Xisaab
+
+
+# Infobox
+
+- **Tiro qiime**: kow boqol toban
+- **Ordinal**: 110aad (kow boqol iyo tobanaad)
+- **Isirayn**: 2 × 5 × 11
+- **Tiro roman**: CX
+- **Labaale**: 1101110 2
+- **Saddexaale**: 11002 3
+- **Afaraale**: 1232 4
+- **Shanaale**: 420 5
+- **Senary**: 302 6
+- **Octal**: 156 8
+- **Laba iyo tobanaale**: 92 12
+- **Tobanaale**: 6E 16
+- **Vigesimal**: 5A 20
+- **Sal 36**: 32 36
+
+
+# Tables
+
+## Table 1
+| ← 109 110 111 → | ← 109 | 110 | 111 → |
+| --- | --- | --- | --- |
+| ← 109 | 110 | 111 → |
+| ← 110 111 112 113 114 115 116 117 118 119 → Liiska Lambarada — Abyoone ← 0 100 200 300 400 500 600 700 800 900 → |
+| Tiro qiime | kow boqol toban |
+| Ordinal | 110aad (kow boqol iyo tobanaad) |
+| Isirayn | 2 × 5 × 11 |
+| Tiro roman | CX |
+| Labaale | 1101110 2 |
+| Saddexaale | 11002 3 |
+| Afaraale | 1232 4 |
+| Shanaale | 420 5 |
+| Senary | 302 6 |
+| Octal | 156 8 |
+| Laba iyo tobanaale | 92 12 |
+| Tobanaale | 6E 16 |
+| Vigesimal | 5A 20 |
+| Sal 36 | 32 36 |

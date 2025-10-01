@@ -1,0 +1,37 @@
+title:
+Magaalooyinka La mataanoobay Djibouti
+
+url:
+https://so.wikipedia.org/wiki?curid=32744
+
+text:
+Magaalooyinka La mataanoobay Djibouti
+
+Sido Kale fiiri
+
+Djibouti
+
+Djibouti
+
+
+# Tables
+
+## Table 1
+| Dalka | Magaalada |
+| --- | --- |
+| Italy | Rimini |
+| Cyprus | Limassol |
+| United Arab Emirates | Al-fujayra |
+| Egypt | Hala'ib |
+| Maldives | Malé |
+| United States | Key West |
+| Template:Country data Malta | Victoria |
+| Egypt | Suez |
+| Saudi Arabia | Jizan |
+| Sudan | Port Sudan |
+| Yemen | Cadan |
+| Saudi Arabia | Yanbu |
+| United States | Kailua |
+| Mexico | La Paz |
+| Spain | Algeciras |
+| Sudan | Khartoum |

@@ -1,0 +1,61 @@
+title:
+Rare (Album)
+
+url:
+https://so.wikipedia.org/wiki?curid=30333
+
+text:
+Rare waa albumkii seddexaad ee ay qaado fannaanka Mareykanka Selena Gomez , oo la sii daayay Janaayo 10, 2020.
+
+Hesso
+
+Pop
+
+dance
+
+Interscope
+
+Rare
+
+Dance again
+
+Look at Her Now
+
+Lose You to Love Me
+
+Ring
+
+Vulnerable
+
+People You Know
+
+Let Me Get Me
+
+Crowded Room
+
+Kinda crazy
+
+Fun
+
+Cut you off
+
+A Sweeter Place
+
+
+# Infobox
+
+- **Nooca fanka**: Pop dance
+- **Calaamadaha**: Interscope
+- **Falalka la xiriira**: Selena Gomez
+- **Website**: selena-gomez
+
+
+# Tables
+
+## Table 1
+| Rare |
+| --- |
+| Nooca fanka | Pop dance |
+| Calaamadaha | Interscope |
+| Falalka la xiriira | Selena Gomez |
+| Website | selena-gomez |

@@ -1,0 +1,86 @@
+title:
+Bakool
+
+url:
+https://so.wikipedia.org/wiki?curid=1998
+
+text:
+Bakool waa gobol ka mid ah Gobolada Soomaaliya wuxuuna ku yaalaa koonfir-galbeed ee Soomaaliya.
+
+Degmooyinka gobolka Bakool
+
+Gobolkan waxaa magaala madaxdiisu waa xudur waana gobol Ilaahey ku maneysatey xoolaha nool iyo beeraha.
+Qabaa'ilada dago gobolkaan waa Digil iyo Mirifle oo si is la eg ugu degan gobolka.
+
+Gobolka wuxuu caan ku yahay dhaqashada xoolaha iyo tacabka beeraha, waa dhulka dadkiisa ay aad ugu hormareen tacliinta diinta barashada Qur'aanka.
+
+Sidoo kale fiiri
+
+Tixraac
+
+Xudur
+
+Ceelbarde
+
+Tiyeegloow
+
+Waajid
+
+Rabdhuure
+
+Buurdhuxunle
+
+Soomaaliya
+
+Gobolada Soomaaliya
+
+Deegaanada Soomaalida
+
+Bakool
+
+Banaadir
+
+Bari
+
+Baay
+
+Galguduud
+
+Gedo
+
+Hiiraan
+
+Jubbada Dhexe
+
+Jubbada Hoose
+
+Mudug
+
+Nugaal
+
+Shabeellaha Dhexe
+
+Shabeellaha Hoose
+
+
+# Infobox
+
+- **Wadanka**: Somalia
+- **Magaalo-madax**: Xudur
+- **• Badhasaabka**: Mohamed Abdi Tall [ 1 ]
+- **Aag saacadeed**: UTC+3 ( EAT )
+
+
+# Tables
+
+## Table 1
+| Bakool |
+| --- |
+| Gobol |
+|  |
+| Bakool Meesha ka dhacdo Soomaaliya. |
+| Wadanka | Somalia |
+| Magaalo-madax | Xudur |
+| Dowlada |
+| • Badhasaabka | Mohamed Abdi Tall [ 1 ] |
+| Aag saacadeed | UTC+3 ( EAT ) |

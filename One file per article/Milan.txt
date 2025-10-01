@@ -1,0 +1,8 @@
+title:
+Milan
+
+url:
+https://so.wikipedia.org/wiki?curid=8971
+
+text:
+Milan (&lt;a href="Af-Taliyaani"&gt;Af-Taliyaani&lt;/a&gt; : Milano) waa magaalad oo kuyaalo gobalka &lt;a href="Lombardia"&gt;Lombardia&lt;/a&gt; ee dalka &lt;a href="Talyaaniga"&gt;Talyaaniga&lt;/a&gt;

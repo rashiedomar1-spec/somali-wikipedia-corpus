@@ -1,0 +1,45 @@
+title:
+Jaamacadda Nugaal
+
+url:
+https://so.wikipedia.org/wiki?curid=20600
+
+text:
+Jaamacadda Nugaal ( Af Ingiriis : Nugaal University ) waa jaamacad dadweyne taasi oo ku taala magaalada Laascaanood ee wadanka Somaliland .
+Jaamacada Nugaal waxaa la aasaasay horaantii sanadkii 2004ta si ay u daboosho baahida waxbarasho heersare ah ee u baahnaayeen bulshada gobolada Sool . [ 1 ]
+
+Sidoo kale fiiri
+
+Tixraac
+
+Template:Jaamacaddaha Somaliland
+
+Liiska Jaamacaddaha Somaliland
+
+Waxbarashada Somaliland
+
+
+# Infobox
+
+- **Halku dhegga**: Waxaad raadiso waad heshaa
+- **La aas aasay**: 2004
+- **Nuuca**: Jaamacad Dadweyne
+- **Madaxwenaha Jaamacadda**: Abdirizak Lafole
+- **Madaxwene kuxigeenka Jaamacadda**: Abdinasir "abushayba"
+- **Waxay ku taal**: Laascaanood , Sool , Somalia
+- **Website**: Official website
+
+
+# Tables
+
+## Table 1
+| Jaamacada Nugaal Nugaal University |
+| --- |
+| جامعـــة نغـــال |
+| Halku dhegga | Waxaad raadiso waad heshaa |
+| La aas aasay | 2004 |
+| Nuuca | Jaamacad Dadweyne |
+| Madaxwenaha Jaamacadda | Abdirizak Lafole |
+| Madaxwene kuxigeenka Jaamacadda | Abdinasir "abushayba" |
+| Waxay ku taal | Laascaanood , Sool , Somalia |
+| Website | Official website |

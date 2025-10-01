@@ -1,0 +1,11 @@
+title:
+Kul
+
+url:
+https://so.wikipedia.org/wiki?curid=12378
+
+text:
+"Kani waa maqaal ku saabsan Kuleylka. Qoraalo kale fiiri "Kulul".
+"Boga &lt;a href="Kuleyl"&gt;Kuleyl&lt;/a&gt; halkan ayaa laga soo toosiyay."
+Kul ama &lt;a href="Kuleyl"&gt;Kuleyl&lt;/a&gt; (&lt;a href="Ingiriis"&gt;Ingiriis&lt;/a&gt;: heat; &lt;a href="carabi"&gt;carabi&lt;/a&gt;: حرارة) waa &lt;a href="heerkul"&gt;heerkul&lt;/a&gt;ka shay, &lt;a href="curiye"&gt;curiye&lt;/a&gt;, &lt;a href="walax"&gt;walax&lt;/a&gt; ama wax kasta leeyahay. Cilmiga &lt;a href="Fisikis"&gt;Fisikis&lt;/a&gt;ku wuxuu kulka ku sharaxay &lt;a href="awood"&gt;awood&lt;/a&gt; socota oo u kala gudbeeysa labo walxood oo &lt;a href="heerkul"&gt;heerkul&lt;/a&gt;koodu kala sareeyo.
+&lt;a href="Heerkul"&gt;Heerkul&lt;/a&gt;ka waxaa lagu qiyaasaa "&lt;a href="Salsiyas"&gt;Salsiyas&lt;/a&gt;" (celsius) ama "&lt;a href="Kelfin"&gt;Kelfin&lt;/a&gt;" (kelvin).

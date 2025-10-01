@@ -1,0 +1,8 @@
+title:
+Beerwayso
+
+url:
+https://so.wikipedia.org/wiki?curid=29900
+
+text:
+Beerwayso waa degmo ka tirsan &lt;a href="ceerigaabo"&gt;ceerigaabo&lt;/a&gt;, &lt;a href="sanaag"&gt;sanaag&lt;/a&gt; waxaana daga &lt;a href="beesha%20baho"&gt;beesha baho&lt;/a&gt; faarax &lt;a href="biciide"&gt;biciide&lt;/a&gt;

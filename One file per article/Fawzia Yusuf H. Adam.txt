@@ -1,0 +1,19 @@
+title:
+Fawzia Yusuf H. Adam
+
+url:
+https://so.wikipedia.org/wiki?curid=33713
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2021-10-01T18:08:59Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;82.132.240.118&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog cusub: Fawzia Yusuf H. Adam waa wasiirad soomaliya iyo reer waqooyi somalia waxay noqotay haweenaydii ugu horraysay ee u sharraxan jagada madaxtinimada Soomaaliya ==Sido Kale fiiri== *&lt;a href="Somalia"&gt;Somalia&lt;/a&gt;&lt;/comment&gt;
+ &lt;origin&gt;217964&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Fawzia Yusuf H. Adam
+waa wasiirad soomaliya iyo reer waqooyi somalia waxay noqotay haweenaydii ugu horraysay ee u sharraxan jagada madaxtinimada Soomaaliya

@@ -1,0 +1,33 @@
+title:
+Cycadales
+
+url:
+https://so.wikipedia.org/wiki?curid=37163
+
+text:
+Cycadales waa qoys ka mid ah dhirta . Cycadales waxay ka tirsan yihiin nidaamka Cycadopsida , madaxa Tracheophyta , iyo dhirta boqortooyada. Genus-ka Cycadales wuxuu daboolayaa 355 genera, marka loo eego Buugga Nolosha.
+
+Kaladogaraam sida ku cad Buugga Nolosha waa:
+
+Cycadaceae
+
+Zamiaceae
+
+Tixraac
+
+Roskov Y., Kunze T., Orrell T., Abucay L., Paglinawan L., Culham A., Bailly N., Kirk P., Bourgoin T., Baillargeon G., Decock W., De Wever A., Didžiulis V. (ed). "Nuqul Archive" . Species 2000: Naturalis, Leiden, the Netherlands. ISSN 2405-884X. TaxonID: 54768561. Waxaa laga kaydiyay the original 2019-12-18 . Soo qaatay 2019-11-11 . Barameter aan la aqoon |ciwaan= ignored ( caawin ) CS1 maint: Magacyo badan: authors list ( link )
+
+
+# Tables
+
+## Table 1
+| Cycadales |
+| --- |
+|  |
+| Kala soocida cilmiga ah |
+| Boqortooyo: | Plantae |
+| Qaybinta: | Tracheophyta |
+| Gacalka: | Cycadopsida |
+| Dirka: | Cycadales |
+| Magaca laba-geesoodka ah |
+| Cycadales |

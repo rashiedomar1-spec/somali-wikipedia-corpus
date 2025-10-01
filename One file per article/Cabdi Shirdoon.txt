@@ -1,0 +1,42 @@
+title:
+Cabdi Shirdoon
+
+url:
+https://so.wikipedia.org/wiki?curid=10025
+
+text:
+Cabdi Faarax Shirdoon ( Af Ingiriis : Abdi Farah Shirdon , Af Carabi : لاسعانود ‎) (dhashay 1958 ) waa Soomaali ganacsade ah, dhaqaale yahan iyo siyaasi ah. Waana Ra'iisul wasaaraha Soomaaliya .
+
+
+# Infobox
+
+- **Madaxweyne**: xasan Sheekh Maxamuud
+- **Xil kaga horeeyey**: Cabdiweli Maxamed Cali
+- **Xilka kaga dambeeyey**: Cabdiwali Sheekh Axmed
+- **Dhashay**: Oktoobar 1952 ( 72Jir) Dhuusamareeb , Soomaaliya
+- **Xisbiga**: Madaxbannaan
+- **Wax barasho**: Jaamacada Ummada Soomaaliyeed
+- **Diinta**: Islam
+
+
+# Tables
+
+## Table 1
+| Abdi Farah Shirdon عبدي فارح شردون Cabdi Faarax Shirdoon |
+| --- |
+|  |
+| Ra'iisul wasaaraha Soomaaliya |
+| xafiiska joogay 17 October 2012 – 12 Diseembar 2013 |
+| Madaxweyne | xasan Sheekh Maxamuud |
+| Xil kaga horeeyey | Cabdiweli Maxamed Cali |
+| Xilka kaga dambeeyey | Cabdiwali Sheekh Axmed |
+| Faahfaahin ku saabsan shqasiyadda |
+| Dhashay | Oktoobar 1952 ( 72Jir) Dhuusamareeb , Soomaaliya |
+| Xisbiga | Madaxbannaan |
+| Wax barasho | Jaamacada Ummada Soomaaliyeed |
+| Diinta | Islam |
+
+## Table 2
+| Hoggaanka Dalka |
+| --- |
+| xilka kaga horeeyey Cabdiweli Maxamed Cali 18Juun 2011 – 17 Okt 2012 | Ra'iisul wasaarayaashii Soomaaliya 2012–2013 | Xilka  kala wareegay Cabdiwali Sheekh Axmed |

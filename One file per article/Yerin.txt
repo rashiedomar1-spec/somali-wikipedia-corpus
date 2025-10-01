@@ -1,0 +1,38 @@
+title:
+Yerin
+
+url:
+https://so.wikipedia.org/wiki?curid=33229
+
+text:
+Jung Ye-rin (dhashay Agoosto 19, 1996), loo yaqaan Yerin , waa heesaa iyo atariisho reer Koonfur Kuuriya ah. Waa xubin hore oo ka tirsan kooxda gabdhaha GFriend .
+
+Xiriirinta dibedda
+
+
+# Infobox
+
+- **Ku dhashay**: Jung Ye-rin ( 1996-08-19 ) Agoosto 19, 1996 ( 29jir) Incheon , Koonfur Kuuriya
+- **Wakiil**: Sublime Artist Agency
+- **Nooca fanka**: K-pop
+- **Qalabka**: Cod
+- **Sanadaha Shaqada**: 2015–hada
+- **Calaamadaha**: Source Music
+- **Falalka la xiriira**: GFriend
+
+
+# Tables
+
+## Table 1
+| Yerin |
+| --- |
+| Yerin ee 2019 |
+| Ku dhashay | Jung Ye-rin ( 1996-08-19 ) Agoosto 19, 1996 ( 29jir) Incheon , Koonfur Kuuriya |
+| Wakiil | Sublime Artist Agency |
+| Xirfad muusik |
+| Nooca fanka | K-pop |
+| Qalabka | Cod |
+| Sanadaha Shaqada | 2015–hada |
+| Calaamadaha | Source Music |
+| Falalka la xiriira | GFriend |
+|  |

@@ -1,0 +1,53 @@
+title:
+Fanaaniinta Soomaaliya
+
+url:
+https://so.wikipedia.org/wiki?curid=17386
+
+text:
+Fanaaniinta Soomaaliyeed ee caanka ah aad bay u badan yihiin rag iyo dumarba ; haddaynnu dhawr ka xusno fannaaniintii hore ee waaweynaa waxa ka mid ah kuwa ku xusan jadwalka hoose.
+
+Fanaanka ugu heesaha badan
+
+Libaaxa Fanka
+
+Fanaanka labaad ee ugu heesa badan
+
+
+# Tables
+
+## Fanaaniinta Soomaaliyeed
+| Magaca | Kooxda | Wakhtiga Fanka | Sawirka | Faalo Kooban |
+| --- | --- | --- | --- | --- |
+| Cabdi Deeqsi Warfa ( Cabdi Sinimo ) |  |  |  |  |
+| Maxamed Saleebaan Tubeec | Hobolada Waaberi | 1967dii ilaa 2010kii | File:Tubeec.jpg | Boqorka Codka |
+| Xaliima Khaliif Magool | Hobolada Waaberi | 1969kii ilaa 1993dii | File:Magool.jpg | Boqorada Codka |
+| Hibo Maxamed Hudoon ( Hibo Nuura ) | Hobolada Waaberi | 1974tii ilaa maanta | File:Hibo Nuura.jpg | Hooyada Fanka |
+| Cabdi Tahliil Warsame ( Tahliil ) | Hobolada Waaberi | 1971dii ilaa maanta | File:Cabdi-Tahliil.jpg | Cod Wanaagsane |
+| Maxamed Nuur Giriig | Hobolada Waaberi | 1970kii ilaa |  |  |
+| Qamar Maxamed Xuseen | Hobolada Waaberi | 1980kii ilaa 1994tii |  | Gabadha Fanka |
+| Saalax Qaasim | Hobolada Waaberi |  |  | Aabaha Fanka |
+| Khadra Daahir Cige | Hobolada Waaberi | 1978kii ilaa hada |  | Boqorada Fanka |
+| Saado Cali Warsame | Hobolada Waaberi | 1979kii ilaa hada |  |  |
+| Cabdi Nuur Alaale | hobolada Jabuuti |  |  | Fanaanka ugu heesaha badan |
+| Maxamed Mooge | Hobolada Waaberi | 1971dii ilaa 1988dii |  | Madaalaha Fanka |
+| Xasan Aaden Samatar | Hobolada Waaberi |  | File:Xasan adan.jpeg | Libaaxa Fanka Fanaanka labaad ee ugu heesa badan |
+| Axmed Mooge Liibaan | Hobolada Waaberi | 1973dii ilaa 1991dii |  |
+| Maxamed Mooge Liibaan | Hobolada Waaberi | 1962dii ilaa 1980dii |  |
+| C.Qadir Macalin Jubba | kooxda Waaberi | 1979kii ilaa maanta | File:Jubba11.jpg | Yarka Sanadka |
+| Cumar Dhuule | kooxda Ileys | 1972kii ilaa 1998dii |  |  |
+| Sahra Axmed | kooxda Ileys/Hobolada Waaberi | 1978dii ilaa 2004tii |  | Quruxda Fanka |
+| Faadumo Cabdilahi Maandeeq |  |  |  |  |
+| Cabdule Yusuf Hanuuniye | Hobolada Waaberi |  |  | Ma daalaha Waaberi |
+| Cumar Shooli |  |  |  |  |
+| Axmed Naaji Sacad |  |  |  |  |
+| Axmed Nuur Jaangow |  |  |  |  |
+| Siciid Harawo |  |  |  |  |
+| Axmed Yaasiin Digfeer |  |  |  |  |
+| Shimaali Axmed Shimaali | kooxda Dalmar/Kooxda Ileys | 1982dii ilaa maanta |  | Jeceeyloowga Fanka |
+| Maxamed Xasan Lafoole |  |  |  |  |
+| Cumar Dhuule Cali |  |  |  |  |
+| Aamina Cabdilahi Xirsi |  |  |  |  |
+| Kinsi Xaaji Aadan |  |  |  |  |
+| Saalax Qaasim Naaji |  |  |  |
+| Cawaale Aadan |  | 2005tii ilaa maanta |  | Xidigga Fanka |

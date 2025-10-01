@@ -1,0 +1,39 @@
+title:
+My Wife Got Married
+
+url:
+https://so.wikipedia.org/wiki?curid=33327
+
+text:
+My Wife Got Married waa 2008 filim jaceyl oo Koonfur Kuuriya. Waxaa agaasime ka ah Jeong Yoon-soo oo ay jilayaan Kim Joo-hyuk iyo Son Ye-jin doorka hoggaamineed, filimkan waxaa laga soo min-guuriyay sheeko isku mid ah oo uu qoray Park Hyun-wook. [ 1 ]
+
+Tixraacyada
+
+
+# Infobox
+
+- **Directed by**: Jeong Yoon-soo
+- **Written by**: Song Hye-jin
+- **Produced by**: Ju Pil-ho Cho Chul-hyun Lee Sang-yong
+- **Starring**: Kim Joo-hyuk Son Ye-jin
+- **Edited by**: Steve M. Choe
+- **Music by**: Hong Sung-kyu
+- **Distributed by**: CJ Entertainment
+- **Release date**: Oktoobar 23, 2008 ( 2008-10-23 )
+- **Country**: Koonfur Kuuriya
+
+
+# Tables
+
+## Table 1
+| My Wife Got Married |
+| --- |
+| Directed by | Jeong Yoon-soo |
+| Written by | Song Hye-jin |
+| Produced by | Ju Pil-ho Cho Chul-hyun Lee Sang-yong |
+| Starring | Kim Joo-hyuk Son Ye-jin |
+| Edited by | Steve M. Choe |
+| Music by | Hong Sung-kyu |
+| Distributed by | CJ Entertainment |
+| Release date | Oktoobar 23, 2008 ( 2008-10-23 ) |
+| Country | Koonfur Kuuriya |

@@ -1,0 +1,26 @@
+title:
+Ceelwaaq
+
+url:
+https://so.wikipedia.org/wiki?curid=6834
+
+text:
+Ceelwaaq dagmo katirsan Gobolka Jubada Sare ama looyaqaan Gedo waxayna ku taala jihada koonfur galbeed ee gobolka gedo ee somalia
+
+
+# Infobox
+
+- **Wadan**: Somalia
+- **Gobolka**: Jubada Sare
+
+
+# Tables
+
+## Table 1
+| Ceelwaaq |
+| --- |
+| Magaalo                 = |
+|  |
+| Meesha ka dhacdo Soomaaliya |
+| Wadan | Somalia |
+| Gobolka | Jubada Sare |

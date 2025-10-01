@@ -1,0 +1,48 @@
+title:
+Jaamacada Dodoma
+
+url:
+https://so.wikipedia.org/wiki?curid=18816
+
+text:
+Jaamacada Dodoma waa jaamacad ku taalo magaalada Dodoma ee dalka Tansaaniya .
+
+Linkiga Caddaynta
+
+Official website
+
+
+# Infobox
+
+- **Halku dhegga**: Embracing Knowledge
+- **La aas aasay**: 2007 ( 2007 )
+- **Nuuca**: Dadweynaha
+- **Gudoomiye**: Juma Mwapachu
+- **Lataliyaha xagga aqoonta**: Benjamin William Mkapa
+- **Ku xigeenka la taliyaha**: Prof. Idris Kikula
+- **Waxay ku taal**: Dodoma , Tansaaniya Coordinates : 6°12′53″S 35°49′29″E ﻿ / ﻿ 6.21472°S 35.82472°E ﻿ / -6.21472; 35.82472
+- **Dhismaha jaamacadda**: Chimwaga (miyiga)
+- **Website**: udom.ac.tz
+
+
+# Tables
+
+## Table 1
+| Jaamacada Dodoma |
+| --- |
+| Chuo Kikuu cha Dodoma ( Af-Sawaaxili ) |
+|  |
+| Halku dhegga | Embracing Knowledge |
+| La aas aasay | 2007 ( 2007 ) |
+| Nuuca | Dadweynaha |
+| Gudoomiye | Juma Mwapachu |
+| Lataliyaha xagga aqoonta | Benjamin William Mkapa |
+| Ku xigeenka la taliyaha | Prof. Idris Kikula |
+| Waxay ku taal | Dodoma , Tansaaniya Coordinates : 6°12′53″S 35°49′29″E ﻿ / ﻿ 6.21472°S 35.82472°E ﻿ / -6.21472; 35.82472 |
+| Dhismaha jaamacadda | Chimwaga (miyiga) |
+| Website | udom.ac.tz |
+
+
+
+# Coordinates
+-6.21472; 35.82472

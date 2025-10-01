@@ -1,0 +1,8 @@
+title:
+Lombardia
+
+url:
+https://so.wikipedia.org/wiki?curid=8972
+
+text:
+Lombardia waa gobol oo kuyaalo dalka Talyaaniga. Caasimada Lombardia waa &lt;a href="Milan"&gt;Milan&lt;/a&gt;.

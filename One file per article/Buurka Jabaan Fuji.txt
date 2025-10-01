@@ -1,0 +1,20 @@
+title:
+Buurka Jabaan Fuji
+
+url:
+https://so.wikipedia.org/wiki?curid=32428
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;timestamp&gt;2021-04-22T08:36:36Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;82.132.247.208&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Bog cusub: Buur japan, buur weyn, sumcad caan ku ah asia iyo japan, mountianku wuxuu caan ku yahay barafka iyo dusha...&lt;/comment&gt;
+ &lt;origin&gt;211141&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Buur japan, buur weyn, sumcad caan ku ah asia iyo japan, mountianku wuxuu caan ku yahay barafka iyo dusha qabow iyo aragti ahaan maylal.
+Sido kale fiiri.
+&lt;a href="Jabaan"&gt;Jabaan&lt;/a&gt;

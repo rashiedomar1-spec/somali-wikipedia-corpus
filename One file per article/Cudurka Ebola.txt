@@ -1,0 +1,109 @@
+title:
+Cudurka Ebola
+
+url:
+https://so.wikipedia.org/wiki?curid=15217
+
+text:
+Cudurka Ebola waxa uu ka mid yahay cudurada la xiriira qandhooyinka dhiig-baxa ee keena feyral-ka (Viral Hemorrhagic Fevers) waxa waaye koox cuduro oo keena feyruus badan oo kala duwan. 
+Cuduradan waxay ku dhacaan qaababka xubnaha kala duwan ee jirka isla hal waqti. Waxay waxyeelo u geystaan mariinada dhiiga, iyo carqaladeynayaan awooda hab u socodka jirka.
+Qaar ka mid ah cudurka VHF waxa ay yihiin kuwo baaba’a, laakiin kuwo kale waxay noqon karaan kuwo raga. Badanaaba waxay dhaliyaan dhiig-bax, iyo waxyaabo kale oo lagu garto. Dhiig-baxa aad buu u yaryahay in uu sababo dhimasho, wadnamha Ecowas.
+
+Haddii la soo koobo cuduradaan qandho dhiig baxa ah waxaa ka mid ah:
+
+Sida caadada ah, dadka waxay cudurkan VHF ka qaadaan shillinta, kaneecada ama jiirka. Dadka waxa cudurkan qaadi karaan marka ay soo gaaraan kaadida, saxarada iyo waxyaabo kale ee ka yimaada jiirka cudurka qaba. Dadku waxay kale oo ay ka qaadi kara cudurka VHF qaniinyada kaneecada ama boodada, ama burburinta shillinta. Mararka qaarkooda, ma cada sida dadka ay cudurkan u qaadaan.
+
+Qaar ka mid ah feyruusyada cudurka VHF – oo ay ka jiraan Ebola, Marburg iyo Lassa – waxay ku faafin karaan cudurka qof ilaa ka qof. Ayaga waxay ku faafiyaan dadka la leh xiriirka dhow dadka qaba cudurka ama dheecaanka jirkooda. Dadka waxay kale oo ay ka qaadi karaan waxyaabaha soo gaara cudurka sida irbidaha ama siliingo.
+
+Cudurakaan markii ugu horeysay ka soo if baxay wadanka congo awalne la dhihi jira Zair, magacane uu ka qaatay webi halkaa ku yaala, wadamada uu ku faafo waxaa ka mid ah Congo, Gabon, Sudan, Ivory Coast, Uganda.
+
+Dhiig ka yimaada jirka gudihiisa ama banaankiisa
+
+Habka lagugu ogaado in cudurkaan la qaaday
+Waxaa jita dhawr baaritaano oo ay ka mid tahay ELISA, PCR
+
+Tallalada ayaa loo helaya qaar ka mid ah cudurada VHF, waxa ku jira cudurka indho caseeyaha. Baaritaanka tallaalka waxa lagu sameeyey feyruusyada kale ee VHF. Meelaha laga helay cudurkan ee dabiiciga ah, dadaalka lagula dagaalamo kaneecada iyo shillinta waxay caawin karan ka hor-taga qaar ka mid ah noocyada cudurka VHF.
+Laakiin maadaama cuduraka Ebola aan loo haynin wax tallaal ah waxaa lagula talinayaa dadka ku nool meeshuu ka dilaaco inay ka baxaan dadka qabana la karantiilo, inta la joogtane inay ka fogaadaan dheecaanada bukaanka iyo inay xertaan dhar ka hortag ah.
+
+Nasiib xumo ilaa iyo hada wax daawo ah lama hayo, inkastoo dadka qaba cudurkaan la siiyo daawooyin kaalmaati ah sida: fuuq celin, cadaadiska dhiiga oo la kontoroolo, Oksajiin in la siiyo qofka iyo in laga daaweeyo infekshanada kale ee la socda cudurka.
+
+warka
+
+Tixraaca
+
+Cudurka dhiig dureerka ee loo yaqaano Ebola
+
+Marburg
+
+Lassa
+
+New World arena viruses
+
+Machupo (Qandhada loo yaqaano Bolivian hemorrhagic fever)
+
+Junin (Qandhada loo yaqaano Argentine hemorrhagic fever)
+
+Guanarito (Qandhada loo yaqaano Venezuelan hemorrhagic fever)
+
+Sabia (Qandhada loo yaqaano Brazilian hemorrhagic fever)
+
+Rift Valley Fever
+
+Indho Caseeye (Yellow Fever)
+
+Kyasanur Forest disease virus
+
+Omsk hemorrhagic fever
+
+Qandho
+
+Madax xanuun
+
+Kalabaxyo xanuun
+
+Murqo xanuun
+
+Tabardarri
+
+Shuban
+
+Matag
+
+Calool xanuun
+
+Nabro Jirka ka soo yaaca
+
+Indhaha oo gaduuta
+
+Hingo (hiccup)
+
+liban_Guulwade
+
+Killer Virus Strikes Zaire
+
+Deadly Ebola Spreads in the Democratic Republic of the Congo
+
+https://www.japantimes.co.jp/news/2021/02/15/world/science-health-world/first-west-africa-ebola-five-years/ Archived Febraayo 15, 2021 // Wayback Machine
+
+https://www.bbc.co.uk/news/world-africa-56060728
+
+https://www.ecdc.europa.eu/en/news-events/outbreak-ebola-virus-disease-north-kivu-democratic-republic-congo-2021
+
+https://www.dailymail.co.uk/news/article-9265113/Ebola-outbreak-kills-five-Guinea-resurgence-disease-11-300-dead-West-Africa.html
+
+https://www.japantimes.co.jp/news/2021/02/15/world/science-health-world/first-west-africa-ebola-five-years/ Archived Febraayo 15, 2021 // Wayback Machine
+
+
+# Tables
+
+## **Table 1**
+| Ebola virus disease |
+| --- |
+| Classification and external resources |
+|  |
+| ICD - 10 | Template:ICD10 |
+| ICD - 9 | Template:ICD9 |
+| DiseasesDB | 18043 |
+| MedlinePlus | 001339 |
+| eMedicine | med/626 |
+| MeSH | Template:Mesh2 |

@@ -1,0 +1,9 @@
+title:
+Centimetre
+
+url:
+https://so.wikipedia.org/wiki?curid=8343
+
+text:
+Waa halbeeg cabir Centimeter ka ee aduunka oo dhami isticmaalaan waxaana loo soo gaabiyaa (cm) 
+waana cabirka ka wayn &lt;a href="Millimeter"&gt;Millimeter&lt;/a&gt; Ka

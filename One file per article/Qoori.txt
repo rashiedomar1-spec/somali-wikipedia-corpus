@@ -1,0 +1,8 @@
+title:
+Qoori
+
+url:
+https://so.wikipedia.org/wiki?curid=7281
+
+text:
+Qoori

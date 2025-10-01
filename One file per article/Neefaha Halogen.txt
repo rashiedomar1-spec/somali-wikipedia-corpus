@@ -1,0 +1,18 @@
+title:
+Neefaha Halogen
+
+url:
+https://so.wikipedia.org/wiki?curid=12404
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;121702&lt;/parentid&gt;
+ &lt;timestamp&gt;2013-12-22T00:32:22Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Dcljr&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;REDIRECT&lt;/comment&gt;
+ &lt;origin&gt;121706&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;

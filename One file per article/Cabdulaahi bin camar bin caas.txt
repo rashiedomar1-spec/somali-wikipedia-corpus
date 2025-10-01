@@ -1,0 +1,40 @@
+title:
+Cabdulaahi bin camar bin caas
+
+url:
+https://so.wikipedia.org/wiki?curid=37726
+
+text:
+Cabdulaahi bin Camar bin Caas Al-sahmi Al-qurashi ( Af -Carabi ; عبد الله بن عمرو بن العاص السهمي القرشي ) waa saxaabi ka mid ahaa saxaabada Nabi Muxamed scw, waxaana dhalay Camar bin Caas
+
+
+# Infobox
+
+- **aabihiisa:**: Camar bin caas
+- **hooyadii**: Riida binti munabbih
+- **Dhashay:**: 594
+- **Ku dhashay:**: Makka
+- **Diintiisa:**: Islaam
+- **ilmahiisa**: Muxamad
+- **walaalihiis**: Muxamad bin Camar
+- **Dhintay:**: 67H ama 69H ama 65H
+- **Ku dhintay:**: Masar ama Shaam
+
+
+# Tables
+
+## Table 1
+| Cabdulaahi bin Camar bin Caas عبدالله بن عمرو بن العاص |
+| --- |
+| saxaabi |
+| xog ku saabsan |
+| aabihiisa: | Camar bin caas |
+| hooyadii | Riida binti munabbih |
+| Dhashay: | 594 |
+| Ku dhashay: | Makka |
+| Diintiisa: | Islaam |
+| xaaska |  |
+| ilmahiisa | Muxamad |
+| walaalihiis | Muxamad bin Camar |
+| Dhintay: | 67H ama 69H ama 65H |
+| Ku dhintay: | Masar ama Shaam |

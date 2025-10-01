@@ -1,0 +1,52 @@
+title:
+Jufentus NK
+
+url:
+https://so.wikipedia.org/wiki?curid=9329
+
+text:
+Juventus Football Club ama Juventus waa koox-banooni oo kuyaalo magaalada Turin ee dalka Talyaaniga .
+
+Tixraac
+
+Eeg waliba
+
+juventus.com/it
+
+
+# Infobox
+
+- **Magaca oo dhameestiran**: Juventus Football Club S.p.A.
+- **Magac kooban**: Juve
+- **La aasaasay**: 1 Nofeembar 1897 ; 127 sanadood ka hor ( 1897-11-01 )
+- **Garoon**: Juventus Stadium
+- **Garoonka Awoodda**: 41,507
+- **Milkiilaha**: Agnelli family (through EXOR N.V. )
+- **President**: Gianluca Ferrero
+- **Head coach**: Massimiliano Allegri
+- **Horyaalka**: Serie A
+- **2023/24**: 3th
+- **Website**: Club home page
+
+
+# Tables
+
+## Juventus
+|   |
+| --- |
+| Magaca oo dhameestiran | Juventus Football Club S.p.A. |
+| Magac kooban | Juve |
+| La aasaasay | 1 Nofeembar 1897 ; 127 sanadood ka hor ( 1897-11-01 ) |
+| Garoon | Juventus Stadium |
+| Garoonka Awoodda | 41,507 |
+| Milkiilaha | Agnelli family (through EXOR N.V. ) |
+| President | Gianluca Ferrero |
+| Head coach | Massimiliano Allegri |
+| Horyaalka | Serie A |
+| 2023/24 | 3th |
+| Website | Club home page |
+|  |
+| Guriga midab Marti midab Saddexaad middab | Guriga midab | Marti midab | Saddexaad middab |
+| Guriga midab | Marti midab | Saddexaad middab |
+|  |
+| Waqtiga hadda |

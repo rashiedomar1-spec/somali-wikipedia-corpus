@@ -1,0 +1,29 @@
+title:
+Firiley
+
+url:
+https://so.wikipedia.org/wiki?curid=17510
+
+text:
+&lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;221386&lt;/parentid&gt;
+ &lt;timestamp&gt;2023-12-28T08:36:59Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;WikiBayer&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;origin&gt;260576&lt;/origin&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+"Kani waa maqaal ku saabsan guud ahaan midhaha firida.
+"Boga "&lt;a href="firi"&gt;firi&lt;/a&gt;" halkan ayaa laga soo toosiyay
+Firi (; ) waa &lt;a href="midho"&gt;midho&lt;/a&gt; yaryar, qalalan, adag, siidh ah, kuwaasi oo (qaarkood) qolof sare ama dahaar maqaar leh oo ka baxa &lt;a href="geed"&gt;geed&lt;/a&gt;o gaaban iyo kuwo u dhow &lt;a href="cows"&gt;geedka cows&lt;/a&gt;ka. Midhaha firileyda ah waxaa quuta oo &lt;a href="cunto"&gt;cunto&lt;/a&gt; u tahay &lt;a href="dad"&gt;dad&lt;/a&gt;ka iyo &lt;a href="xoolo"&gt;xoolaha&lt;/a&gt;. 
+Midhaha firida waxaa ka mid ah &lt;a href="bariis"&gt;bariis&lt;/a&gt;ka, &lt;a href="qamadi"&gt;qamadi&lt;/a&gt;ga, &lt;a href="garow"&gt;garow&lt;/a&gt;ga, &lt;a href="heed"&gt;heed&lt;/a&gt;a, &lt;a href="sareen"&gt;sareen&lt;/a&gt;ka, &lt;a href="digir"&gt;digir&lt;/a&gt;ta, &lt;a href="hadhuudh"&gt;hadhuudh&lt;/a&gt;ka iyo kuwo kale oo badan.
+Midhaha firileyda waxaa laga beeraa dhamaan &lt;a href="qaarad"&gt;qaarad&lt;/a&gt;aha caalamka, waana cuntada ugu badan ee dadka iyo xooluhu quutaan. Firileyda waxaa laga sameeyaa &lt;a href="daqiiq"&gt;daqiiq&lt;/a&gt;da, &lt;a href="canjeero"&gt;canjeerada&lt;/a&gt;, &lt;a href="sabaayad"&gt;sabaayad&lt;/a&gt;a, &lt;a href="malawax"&gt;malawax&lt;/a&gt;a, &lt;a href="buskud"&gt;buskud&lt;/a&gt;ka, keega iyo noocyo badan oo kala duwan oo laga cuno dhamaan caalamka.
+Firileydu waa xubin ka mid ah &lt;a href="dhir"&gt;dhir&lt;/a&gt;ta &lt;a href="cows"&gt;cows&lt;/a&gt;leyda ah ee dhasha &lt;a href="midho"&gt;midhaha&lt;/a&gt; &lt;a href="firi"&gt;firi&lt;/a&gt;da ah, taasi oo ka baxda meelo badan oo dunid ah. Midhaha geedahan waxaa loo isticmaalaa &lt;a href="cunto"&gt;cunto&lt;/a&gt; ahaan, in kastoo wadano badan oo caalamka ahi u isticmaalaan ineey ku quudiyaan &lt;a href="xoolo"&gt;xoolaha la dhaqdo&lt;/a&gt;.
+=Midhaha=
+Dhamaan midhaha firida waxay xubin ka yihiin qoyska cowska. Midhaha firidu waxay leedahay dahaar iyo qolof ku dhegan midhaha waxayna leeyihin kaarbonhaydarate badan iyo &lt;a href="awood"&gt;awood&lt;/a&gt;.
+Qaar ka mid ah midhaha firida laga beerto caalamka:
+=Muuqaalka=
+=Qoraalo La Xidhiidha=
+=Tixraac=

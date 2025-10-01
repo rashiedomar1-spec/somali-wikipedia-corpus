@@ -1,0 +1,35 @@
+title:
+Saxiixul Bukhaari
+
+url:
+https://so.wikipedia.org/wiki?curid=4087
+
+text:
+Saxiixul Bukhaar (Carabi:صحيح البخاري) waa mid ka mid ah Kutubta al-Sittah (axadiista waaweyn) ee islaamka.
+
+Islām​—The Way to God by Submission
+
+
+# Infobox
+
+- **Qoraa**: Muhammad al-Bukhari
+- **Luqada**: Arabic
+- **Taxanaha**: Kitaabka al-Sittah
+- **Mawduuca**: Xadiith
+- **Nooc**: Hadith collection
+- **Taariikhda Daabacaadda**: qarnigii 9aad
+- **Qoraalka asalka**: Saxiix al-Bukhaari at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource
+
+
+# Tables
+
+## Saxiix al-Bukhaari
+|   |
+| --- |
+| Qoraa | Muhammad al-Bukhari |
+| Luqada | Arabic |
+| Taxanaha | Kitaabka al-Sittah |
+| Mawduuca | Xadiith |
+| Nooc | Hadith collection |
+| Taariikhda Daabacaadda | qarnigii 9aad |
+| Qoraalka asalka | Saxiix al-Bukhaari at Lua error in Module:Lang at line 15: attempt to index field 'lang_name_table' (a nil value). Wikisource |
