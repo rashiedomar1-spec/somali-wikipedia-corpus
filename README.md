@@ -1,6 +1,10 @@
-# 📚 Somali Wikipedia Corpus
+# 📚 Somali Wikipedia Corpus  
 
-This repository contains a cleaned and merged text corpus of **Somali Wikipedia**, suitable for use in natural language processing (NLP), large language model (LLM) training, and linguistic research.
+![Dataset](https://img.shields.io/badge/type-dataset-blue)  
+![License: CC BY-SA 3.0](https://img.shields.io/badge/license-CC--BY--SA%203.0-green)
+
+This repository contains a **cleaned and merged dataset** of Somali Wikipedia articles,  
+suitable for **NLP, LLM training, and linguistic research**.
 
 ---
 
@@ -113,3 +117,5 @@ If you use this dataset in research/projects, please cite:
 
 **Somali Wikipedia Corpus (2025)** – merged dump + live scrape.  
 Created by *Abdirashid Omar*.
+
+
